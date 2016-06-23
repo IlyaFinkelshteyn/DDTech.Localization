@@ -15,6 +15,7 @@
     <tags>localization strings resources</tags>
   </metadata>
   <files>
-	<file src="..\..\bin\Release\*" target="lib\net461" />
+	  <file src="..\..\bin\Release\DDTech.Localization.*" target="lib\net461" />
+	  <file src="..\..\bin\Release\**\DDTech.Localization.*" target="lib\net461" />
   </files>
 </package>
