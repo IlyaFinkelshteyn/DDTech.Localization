@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="120Days" xml:space="preserve">
+    <value>120 gün</value>
+  </data>
+  <data name="13Weeks" xml:space="preserve">
+    <value>13 hafta</value>
+  </data>
+  <data name="150Days" xml:space="preserve">
+    <value>150 gün</value>
+  </data>
+  <data name="15Days" xml:space="preserve">
+    <value>15 gün</value>
+  </data>
+  <data name="17Weeks" xml:space="preserve">
+    <value>17 hafta</value>
+  </data>
+  <data name="180Days" xml:space="preserve">
+    <value>180 gün</value>
+  </data>
+  <data name="22Weeks" xml:space="preserve">
+    <value>22 hafta</value>
+  </data>
+  <data name="26Weeks" xml:space="preserve">
+    <value>26 hafta</value>
+  </data>
+  <data name="30Days" xml:space="preserve">
+    <value>30 gün</value>
+  </data>
+  <data name="60Days" xml:space="preserve">
+    <value>60 gün</value>
+  </data>
+  <data name="90Days" xml:space="preserve">
+    <value>90 gün</value>
+  </data>
+  <data name="9Weeks" xml:space="preserve">
+    <value>9 hafta</value>
+  </data>
+  <data name="AcceptSelectedOrders" xml:space="preserve">
+    <value>Seçili siparişleri kabul</value>
+  </data>
+  <data name="AllActivity" xml:space="preserve">
+    <value>Tüm etkinlik</value>
+  </data>
+  <data name="Apply" xml:space="preserve">
+    <value>Uygula</value>
+  </data>
+  <data name="AssignedLocation" xml:space="preserve">
+    <value>Atanan yeri:</value>
+  </data>
+  <data name="BillOfMaterials" xml:space="preserve">
+    <value>Ürün reçetesi</value>
+  </data>
+  <data name="Buffered" xml:space="preserve">
+    <value>Arabelleğe alınmış</value>
+  </data>
+  <data name="BufferSize" xml:space="preserve">
+    <value>Arabellek boyutu</value>
+  </data>
+  <data name="BufferSizing" xml:space="preserve">
+    <value>Arabellek boyutlandırma</value>
+  </data>
+  <data name="BufferTrend" xml:space="preserve">
+    <value>Arabellek Trend</value>
+  </data>
+  <data name="BufferValuesIncompatibleWithChart" xml:space="preserve">
+    <value>Arabellek, değerleri işleme grafik ile uyumsuz.</value>
+  </data>
+  <data name="Button_CreateCustomOrder" xml:space="preserve">
+    <value>Özel sipariş oluştur</value>
+  </data>
+  <data name="ClearSelection" xml:space="preserve">
+    <value>Seçimi Temizle</value>
+  </data>
+  <data name="CollapseAll" xml:space="preserve">
+    <value>Tümünü Daralt</value>
+  </data>
+  <data name="Column" xml:space="preserve">
+    <value>Sütun</value>
+  </data>
+  <data name="ColumnDisplaySettings" xml:space="preserve">
+    <value>Sütun görüntü ayarları</value>
+  </data>
+  <data name="Committed" xml:space="preserve">
+    <value>Kabul edilen</value>
+  </data>
+  <data name="CreateOrder" xml:space="preserve">
+    <value>Sipariş oluştur</value>
+  </data>
+  <data name="CurrentPAFIs" xml:space="preserve">
+    <value>Geçerli PAF's:</value>
+  </data>
+  <data name="CurrentView" xml:space="preserve">
+    <value>Geçerli Görünüm</value>
+  </data>
+  <data name="Customer" xml:space="preserve">
+    <value>Müşteri</value>
+  </data>
+  <data name="CustomerID" xml:space="preserve">
+    <value>Müşteri No</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Tarihi</value>
+  </data>
+  <data name="DaysConsumption" xml:space="preserve">
+    <value>Gün tüketimi</value>
+  </data>
+  <data name="DaysCovered" xml:space="preserve">
+    <value>Gün kaplı</value>
+  </data>
+  <data name="DaysEarly" xml:space="preserve">
+    <value> gün erken</value>
+  </data>
+  <data name="DaysLate" xml:space="preserve">
+    <value> gün geç</value>
+  </data>
+  <data name="DemandAllocations" xml:space="preserve">
+    <value>İsteğe bağlı Tahsisatları</value>
+  </data>
+  <data name="DescriptionLabel" xml:space="preserve">
+    <value>Açıklama</value>
+  </data>
+  <data name="Display" xml:space="preserve">
+    <value>Görüntü</value>
+  </data>
+  <data name="DisplaySettings" xml:space="preserve">
+    <value>Görüntü ayarları</value>
+  </data>
+  <data name="DueDate" xml:space="preserve">
+    <value>Son Tarih</value>
+  </data>
+  <data name="ExpandAll" xml:space="preserve">
+    <value>Tümünü Genişlet</value>
+  </data>
+  <data name="ExpectedAvgInventory" xml:space="preserve">
+    <value>Beklenen Avg stok</value>
+  </data>
+  <data name="Exported" xml:space="preserve">
+    <value>İhraç</value>
+  </data>
+  <data name="ExportPage" xml:space="preserve">
+    <value>Sayfasında</value>
+  </data>
+  <data name="Filter" xml:space="preserve">
+    <value>Filtre</value>
+  </data>
+  <data name="Filters" xml:space="preserve">
+    <value>Filtreler:</value>
+  </data>
+  <data name="FixedLeadTime" xml:space="preserve">
+    <value>Sabit tedarik süresi</value>
+  </data>
+  <data name="GoToPage" xml:space="preserve">
+    <value>Sayfaya git:</value>
+  </data>
+  <data name="Green" xml:space="preserve">
+    <value>Yeşil</value>
+  </data>
+  <data name="GreenZone" xml:space="preserve">
+    <value>Yeşil bölge</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>KİMLİĞİ</value>
+  </data>
+  <data name="Inventory" xml:space="preserve">
+    <value>Stok</value>
+  </data>
+  <data name="InventoryManagement" xml:space="preserve">
+    <value>Stok Yönetimi</value>
+  </data>
+  <data name="LastNDays" xml:space="preserve">
+    <value>Son __days__ gün</value>
+  </data>
+  <data name="LastNWeeks" xml:space="preserve">
+    <value>Son __weeks__ hafta</value>
+  </data>
+  <data name="Late" xml:space="preserve">
+    <value>Geç</value>
+  </data>
+  <data name="LeadTime" xml:space="preserve">
+    <value>Sağlama süresi</value>
+  </data>
+  <data name="LeadTimeCompression" xml:space="preserve">
+    <value>{0} gün kurşun zaman sıkıştırması nedeniyle zamanlama ayarlama.</value>
+  </data>
+  <data name="Legend" xml:space="preserve">
+    <value>Gösterge:</value>
+  </data>
+  <data name="LocationFilter" xml:space="preserve">
+    <value>Konum Filtresi</value>
+  </data>
+  <data name="LongestLeg" xml:space="preserve">
+    <value>En uzun bacak</value>
+  </data>
+  <data name="Material" xml:space="preserve">
+    <value>Malzeme</value>
+  </data>
+  <data name="MaterialFilter" xml:space="preserve">
+    <value>Malzeme filtresi</value>
+  </data>
+  <data name="Max" xml:space="preserve">
+    <value>Max</value>
+  </data>
+  <data name="Min" xml:space="preserve">
+    <value>Min</value>
+  </data>
+  <data name="Min/Max" xml:space="preserve">
+    <value>Min./maks.</value>
+  </data>
+  <data name="NBAndLTMPartsNoSizingValues" xml:space="preserve">
+    <value>Sigara arabelleğe alınmış ve kurşun zaman yönetilen bölümleri hiçbir boyutlandırma değerlere sahip.</value>
+  </data>
+  <data name="NonBuffered" xml:space="preserve">
+    <value>Sigara arabelleğe alınmış</value>
+  </data>
+  <data name="NotEnoughHistoryForChart" xml:space="preserve">
+    <value>Bu bölümü bir analitik grafik oluşturmak için yeterli geçmiş veri yok</value>
+  </data>
+  <data name="Notes" xml:space="preserve">
+    <value>Notlar</value>
+  </data>
+  <data name="of" xml:space="preserve">
+    <value> in </value>
+  </data>
+  <data name="OnHandInventory" xml:space="preserve">
+    <value>El stokta</value>
+  </data>
+  <data name="OpenPO" xml:space="preserve">
+    <value>Açık PO</value>
+  </data>
+  <data name="OpenWO" xml:space="preserve">
+    <value>Açık WO</value>
+  </data>
+  <data name="OrderCycleOverride" xml:space="preserve">
+    <value>Sipariş döngüsü geçersiz kılma</value>
+  </data>
+  <data name="OrderDueDate" xml:space="preserve">
+    <value>Sipariş vade tarihi</value>
+  </data>
+  <data name="OrderNotes" xml:space="preserve">
+    <value>Sipariş notlar:</value>
+  </data>
+  <data name="OrderNumber" xml:space="preserve">
+    <value>Sipariş numarası</value>
+  </data>
+  <data name="OrderPolicy" xml:space="preserve">
+    <value>Sipariş İlkesi</value>
+  </data>
+  <data name="OrderQuantity" xml:space="preserve">
+    <value>Sipariş miktarı</value>
+  </data>
+  <data name="OutSourcedCost" xml:space="preserve">
+    <value>Kaynaklı maliyet</value>
+  </data>
+  <data name="Part" xml:space="preserve">
+    <value>Bölümü</value>
+  </data>
+  <data name="PartActivity" xml:space="preserve">
+    <value>Bölümü faaliyet</value>
+  </data>
+  <data name="PartAnalytics" xml:space="preserve">
+    <value>Bölüm Analytics</value>
+  </data>
+  <data name="PartDetail" xml:space="preserve">
+    <value>Bölümü özellikleri</value>
+  </data>
+  <data name="PartTypeFilter" xml:space="preserve">
+    <value>Bölüm türü filtresi</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>Bekleyen</value>
+  </data>
+  <data name="Pinned" xml:space="preserve">
+    <value>Sabitlenmiş</value>
+  </data>
+  <data name="PlannerFilter" xml:space="preserve">
+    <value>Planlayıcısı filtre</value>
+  </data>
+  <data name="PlannerLabel" xml:space="preserve">
+    <value>Planlayıcısı:</value>
+  </data>
+  <data name="PlannersWorkBench" xml:space="preserve">
+    <value>Planlamacıları tezgah</value>
+  </data>
+  <data name="Priority:" xml:space="preserve">
+    <value>Öncelik:</value>
+  </data>
+  <data name="PriorityFilter" xml:space="preserve">
+    <value>Öncelik filtresi</value>
+  </data>
+  <data name="PromiseDate" xml:space="preserve">
+    <value>Söz tarihi</value>
+  </data>
+  <data name="Quantity" xml:space="preserve">
+    <value>Miktar</value>
+  </data>
+  <data name="RawMaterialCost" xml:space="preserve">
+    <value>Hammadde maliyeti</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Kırmızı</value>
+  </data>
+  <data name="RedZone" xml:space="preserve">
+    <value>Kırmızı bölge</value>
+  </data>
+  <data name="ReorderQty" xml:space="preserve">
+    <value>Miktar yeniden sipariş</value>
+  </data>
+  <data name="RequestDate" xml:space="preserve">
+    <value>İstek tarihi</value>
+  </data>
+  <data name="RPlusLeadTime" xml:space="preserve">
+    <value>R+ sağlama süresi</value>
+  </data>
+  <data name="RunningBalance" xml:space="preserve">
+    <value>Geçerli bakiyeyi</value>
+  </data>
+  <data name="SelectPriorityCode" xml:space="preserve">
+    <value>Öncelik kodu seçin</value>
+  </data>
+  <data name="ShowRows" xml:space="preserve">
+    <value>Satırları gösterir:</value>
+  </data>
+  <data name="SODemand" xml:space="preserve">
+    <value>ÇOK talep</value>
+  </data>
+  <data name="Source" xml:space="preserve">
+    <value>Kaynak</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>Başlangıç tarihi</value>
+  </data>
+  <data name="StartOver" xml:space="preserve">
+    <value>yeniden başlamak</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Durumu</value>
+  </data>
+  <data name="SubmitOrder" xml:space="preserve">
+    <value>Siparişi gönder</value>
+  </data>
+  <data name="SupplyOrders" xml:space="preserve">
+    <value>Tedarik emirleri</value>
+  </data>
+  <data name="TopOfZone" xml:space="preserve">
+    <value>Üst bölge</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Türü</value>
+  </data>
+  <data name="UnfilteredExport" xml:space="preserve">
+    <value>Filtre uygulanmamış verme</value>
+  </data>
+  <data name="Units" xml:space="preserve">
+    <value>Birimleri</value>
+  </data>
+  <data name="Vendor" xml:space="preserve">
+    <value>Satıcı</value>
+  </data>
+  <data name="WODemand" xml:space="preserve">
+    <value>WO talep</value>
+  </data>
+  <data name="Workbench_ApproveOrder_Button_Approve" xml:space="preserve">
+    <value>Sipariş onaylamak</value>
+  </data>
+  <data name="Workbench_ApproveOrder_Title" xml:space="preserve">
+    <value>Önerilen sipariş onaylamak</value>
+  </data>
+  <data name="Workbench_ApproveOrders" xml:space="preserve">
+    <value>Sipariş onaylamak</value>
+  </data>
+  <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
+    <value>Devam etmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
+    <value>"Sipariş miktarı giriniz"</value>
+  </data>
+  <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
+    <value>Quanity önerilen değerden büyüktür</value>
+  </data>
+  <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
+    <value>Verileri verme</value>
+  </data>
+  <data name="Workbench_Menu_Group_Help" xml:space="preserve">
+    <value>Yardım</value>
+  </data>
+  <data name="Workbench_Menu_ViewInLegacyWorkbench" xml:space="preserve">
+    <value>Eski tezgah görünümünde</value>
+  </data>
+  <data name="Workbench_NoBillOfMaterial" xml:space="preserve">
+    <value>Hiçbir ürün reçetesi parçası vardır</value>
+  </data>
+  <data name="Workbench_NoMatchingPartsFound" xml:space="preserve">
+    <value>Hiçbir eşleşen parçalar bulundu</value>
+  </data>
+  <data name="Workbench_NoNotes" xml:space="preserve">
+    <value>Hiçbir notlar bölümü var</value>
+  </data>
+  <data name="Workbench_NoPartDetails" xml:space="preserve">
+    <value>Bölüm detaylara sahip</value>
+  </data>
+  <data name="Workbench_PartAnalytics_AvailableRanges" xml:space="preserve">
+    <value>Kullanılabilir aralığını</value>
+  </data>
+  <data name="Workbench_PartAnalytics_CurrentRange" xml:space="preserve">
+    <value>Geçerli Aralık</value>
+  </data>
+  <data name="Workbench_PartAnalytics_NonBufferedPartsUnsupported" xml:space="preserve">
+    <value>Sigara tamponlanmış parçaları desteklenmez</value>
+  </data>
+  <data name="Workbench_PartAnalytics_NotEnoughHistory" xml:space="preserve">
+    <value>Grafik görüntülemek için yeterli geçmiş</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_Analytics" xml:space="preserve">
+    <value>Analytics</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_BillOfMaterial" xml:space="preserve">
+    <value>Ürün reçetesi</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_BufferSizing" xml:space="preserve">
+    <value>Arabellek boyutlandırma</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_Notes" xml:space="preserve">
+    <value>Notlar</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_Properties" xml:space="preserve">
+    <value>Özellikleri</value>
+  </data>
+  <data name="Workbench_PartProperties_InventoryMgmtTitle" xml:space="preserve">
+    <value>Stok Yönetimi</value>
+  </data>
+  <data name="Workbench_PartProperties_Title" xml:space="preserve">
+    <value>Bölümü özellikleri</value>
+  </data>
+  <data name="Workbench_PartProperties_UDFTitle" xml:space="preserve">
+    <value>Kullanıcı tanımlı alanlar</value>
+  </data>
+  <data name="Workbench_PleaseSelectPart" xml:space="preserve">
+    <value>Bir bölümü seçiniz</value>
+  </data>
+  <data name="Workbench_RecommendationsMarkedForApproval" xml:space="preserve">
+    <value>Recommendation(s) onay için işaretlenmiş</value>
+  </data>
+  <data name="Workbench_ResetFilters_Title" xml:space="preserve">
+    <value>Sıfırlama {0} etkin filtreleri ve sıralar?</value>
+  </data>
+  <data name="Yellow" xml:space="preserve">
+    <value>Sarı</value>
+  </data>
+  <data name="YellowZone" xml:space="preserve">
+    <value>Sarı bölge</value>
+  </data>
+  <data name="YouCanAlso" xml:space="preserve">
+    <value>sen-ebilmek da</value>
+  </data>
+  <data name="ZoneSize" xml:space="preserve">
+    <value>Bölge boyutu</value>
+  </data>
+</root>

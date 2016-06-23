@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Admin_UserManagement_AddButton" xml:space="preserve">
+    <value>Ekle</value>
+  </data>
+  <data name="Admin_UserManagement_AddUserLabel" xml:space="preserve">
+    <value>Kullanıcı Ekle</value>
+  </data>
+  <data name="Admin_UserManagement_CancelButton" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="Admin_UserManagement_EmailLabel" xml:space="preserve">
+    <value>E-posta adresi</value>
+  </data>
+  <data name="Admin_UserManagement_UserNameLabel" xml:space="preserve">
+    <value>Kullanıcı adı</value>
+  </data>
+  <data name="Settings_AllowLeadTimeCompression" xml:space="preserve">
+    <value>Kurşun zaman sıkışmasına izin verir</value>
+  </data>
+  <data name="Settings_BaselineFormattingRegion" xml:space="preserve">
+    <value>Temel biçimlendirme bölge</value>
+  </data>
+  <data name="Settings_Close_Btn" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Settings_DateFormat" xml:space="preserve">
+    <value>Tarih biçimi</value>
+  </data>
+  <data name="Settings_DefaultInventoryAlertLevel" xml:space="preserve">
+    <value>Varsayılan stok uyarı düzeyi</value>
+  </data>
+  <data name="Settings_DefaultOrderSpikeAlertLevel" xml:space="preserve">
+    <value>Varsayılan sipariş Spike uyarı düzeyi</value>
+  </data>
+  <data name="Settings_DefaultOrderSpikeHorizonLevel" xml:space="preserve">
+    <value>Varsayılan sipariş Spike ufuk düzeyi</value>
+  </data>
+  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
+    <value>Pencere işleme dışında NB talebi yoksay</value>
+  </data>
+  <data name="Settings_Delimiter" xml:space="preserve">
+    <value>Sınırlayıcı</value>
+  </data>
+  <data name="Settings_DemandOrderWindow" xml:space="preserve">
+    <value>Talep siparişleri penceresi (gün)</value>
+  </data>
+  <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
+    <value>Beklenen sayısal biçim</value>
+  </data>
+  <data name="Settings_ExternalApiAccess" xml:space="preserve">
+    <value>Harici API erişim</value>
+  </data>
+  <data name="Settings_ForecastedDemandLookAhead" xml:space="preserve">
+    <value>Hafta talep tahmini</value>
+  </data>
+  <data name="Settings_Global_BuffersAndOrderProcessing" xml:space="preserve">
+    <value>Arabellekleri ve sipariş işleme</value>
+  </data>
+  <data name="Settings_Global_DateTimeSettings" xml:space="preserve">
+    <value>Tarih ve saat ayarları</value>
+  </data>
+  <data name="Settings_Global_DisplayName" xml:space="preserve">
+    <value>Görünen ad</value>
+  </data>
+  <data name="Settings_Global_Field" xml:space="preserve">
+    <value>Alan</value>
+  </data>
+  <data name="Settings_Global_ForecastedDemand" xml:space="preserve">
+    <value>Talep tahmini ve günlük kullanım (FDU) tahmini</value>
+  </data>
+  <data name="Settings_Global_ImportExportDataExchange" xml:space="preserve">
+    <value>Sistem veri değişimi (ithalat ve ihracat)</value>
+  </data>
+  <data name="Settings_Global_RecommendationsAndAlerts" xml:space="preserve">
+    <value>Öneriler ve uyarılar</value>
+  </data>
+  <data name="Settings_Global_UDF" xml:space="preserve">
+    <value>Kullanıcı tanımlı alanlar</value>
+  </data>
+  <data name="Settings_Grids_Column_Label" xml:space="preserve">
+    <value>Sütun</value>
+  </data>
+  <data name="Settings_Grids_DecimalPrecision_Label" xml:space="preserve">
+    <value>Ondalık duyarlığı</value>
+  </data>
+  <data name="Settings_Grids_DefaultPrecisionFormat" xml:space="preserve">
+    <value>Varsayılan ({0})</value>
+  </data>
+  <data name="Settings_Grids_NoPrecisionLabel" xml:space="preserve">
+    <value>Hiçbiri</value>
+  </data>
+  <data name="Settings_HistoryCapture" xml:space="preserve">
+    <value>Geçmiş yakalama</value>
+  </data>
+  <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
+    <value>Geçmişini korumak için günlük</value>
+  </data>
+  <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
+    <value>Sivri mevcut stok dahil</value>
+  </data>
+  <data name="Settings_LocalTimeZone" xml:space="preserve">
+    <value>Yerel Saat dilimi</value>
+  </data>
+  <data name="Settings_Mrp_Disabled" xml:space="preserve">
+    <value>MRP hesaplamaları devre dışı bırakılır</value>
+  </data>
+  <data name="Settings_Mrp_DoMaterialRequirementsNettingAfterImport" xml:space="preserve">
+    <value>MRP kumaşı aldıktan sonra yerine? (Tam MRP)</value>
+  </data>
+  <data name="Settings_Mrp_DoMaterialRequirementsNettingWhenCreatingOrders" xml:space="preserve">
+    <value>MRP kumaşı yeni siparişleri oluştururken performans? (Net değişim MRP)</value>
+  </data>
+  <data name="Settings_Mrp_EnableAutoCreateMinMaxSupplyOrders" xml:space="preserve">
+    <value>Otomatik olarak en az/en fazla parçalar için tedarik emri oluştur?</value>
+  </data>
+  <data name="Settings_Mrp_EnableAutoCreateNonBufferedSupplyOrders" xml:space="preserve">
+    <value>Otomatik olarak sigara arabelleğe alınan parçalar için tedarik emri oluştur?</value>
+  </data>
+  <data name="Settings_Mrp_EnableMaterialRequirementsPlanning" xml:space="preserve">
+    <value>Malzeme gereksinimleri planlaması etkinleştirmek</value>
+  </data>
+  <data name="Settings_Mrp_mrpFeatures1" xml:space="preserve">
+    <value>Bu seçenekler R+ otomatik olarak açık talebi karşılamak için MRP kumaşı sırasında tedarik emirleri oluşturmak izin verir ve yalnızca bir ürün reçetesi bölümlerinde etkiler.</value>
+  </data>
+  <data name="Settings_Mrp_mrpFeatures2" xml:space="preserve">
+    <value>MRP kumaşı sırasında bu ayarları ne kadar ileri R+ emri oluşturmaya çalışacağız sınırlar. Bu değerler için bölümün R+ zaman yol eklenir. Örneğin ayarlamak '5' ve bir bölümü bir R+ zaman kurşun varsa geçerli tarihi 10 gün içerisinde talebin olana 5 gün, R+ bir emri oluşturur değil son tarih.</value>
+  </data>
+  <data name="Settings_Mrp_mrpNettingFull" xml:space="preserve">
+    <value>R+ otomatik olarak MRP kumaşı tüm ithal talep siparişler (satış siparişleri ve iş siparişleri) için yapacak. İçe aktarılan isteğe bağlı kayıtlar herhangi bir çocuk talep içermemesi gerekir.</value>
+  </data>
+  <data name="Settings_Mrp_mrpNettingNetChange" xml:space="preserve">
+    <value>Siparişlerini el ile oluşturma veya onaylama emir tavsiye edilir R+ yalnızca MRP kumaşı gerçekleştirir. R+ tüm ithal talep siparişleri almak için MRP sistemi rahip tarafından zaten kazandı olduğunu kabul eder.</value>
+  </data>
+  <data name="Settings_Mrp_mrpNettingSuggestion1" xml:space="preserve">
+    <value>'Örgü alma sonra MRP' ise Seçili, biz de 'Yeni siparişleri oluştururken MRP kumaşı' etkinleştirme öneririz. Bu tutarlı davranış sağlayacaktır.</value>
+  </data>
+  <data name="Settings_Mrp_SalesOrderDemandProcessingWindow" xml:space="preserve">
+    <value>Talep penceresinde satış siparişleri için işleme</value>
+  </data>
+  <data name="Settings_Mrp_WorkOrderDemandProcessingWindow" xml:space="preserve">
+    <value>İş siparişleri için pencere işleme isteğe bağlı</value>
+  </data>
+  <data name="Settings_Nav_ApiTokens" xml:space="preserve">
+    <value>API belirteçleri</value>
+  </data>
+  <data name="Settings_Nav_DateTime" xml:space="preserve">
+    <value>Tarih/Saat biçimi</value>
+  </data>
+  <data name="Settings_Nav_GlobalFilter" xml:space="preserve">
+    <value>Genel Bölüm Filtresi</value>
+  </data>
+  <data name="Settings_Nav_GlobalSettings" xml:space="preserve">
+    <value>Genel ayarlar</value>
+  </data>
+  <data name="Settings_Nav_Grids" xml:space="preserve">
+    <value>Izgaralar</value>
+  </data>
+  <data name="Settings_Nav_MaterialRequirements" xml:space="preserve">
+    <value>Malzeme gereksinimleri planlaması</value>
+  </data>
+  <data name="Settings_Nav_Sitewide" xml:space="preserve">
+    <value>Site çapında</value>
+  </data>
+  <data name="Settings_Nav_UserAccount" xml:space="preserve">
+    <value>Kullanıcı hesabı</value>
+  </data>
+  <data name="Settings_Nav_UserManagement" xml:space="preserve">
+    <value>Kullanıcı yönetimi</value>
+  </data>
+  <data name="Settings_PasswordComplexity" xml:space="preserve">
+    <value>Parola karmaşıklık gereksinimlerini</value>
+  </data>
+  <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
+    <value>Lütfen bir biçim seçin</value>
+  </data>
+  <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
+    <value>Kalan tahmini stok-Out kurşun süre</value>
+  </data>
+  <data name="Settings_PurchaseOrder" xml:space="preserve">
+    <value>Satınalma siparişi</value>
+  </data>
+  <data name="Settings_Reset_Btn" xml:space="preserve">
+    <value>Sıfırlama</value>
+  </data>
+  <data name="Settings_RoundBufferValuesToOne" xml:space="preserve">
+    <value>Yuvarlak tampon değerleri bir</value>
+  </data>
+  <data name="Settings_SalesOrder" xml:space="preserve">
+    <value>Satış siparişi</value>
+  </data>
+  <data name="Settings_SaveChanges_Btn" xml:space="preserve">
+    <value>Değişiklikleri kaydetmek</value>
+  </data>
+  <data name="Settings_SaveChangesConfirmation" xml:space="preserve">
+    <value>Yaptığınız değişiklikleri kaydetmek istiyor musunuz?</value>
+  </data>
+  <data name="Settings_SaveChangesDetail" xml:space="preserve">
+    <value>Kaydetmezseniz, yaptığınız değişiklikler kaybolacak.</value>
+  </data>
+  <data name="Settings_UnsavedChanges" xml:space="preserve">
+    <value>Kaydedilmemiş değişiklikler</value>
+  </data>
+  <data name="Settings_User_DateFormat" xml:space="preserve">
+    <value>Tarih biçimi</value>
+  </data>
+  <data name="Settings_User_DateFormat_NoneFound" xml:space="preserve">
+    <value>Buldum hiçbir tarih sütun</value>
+  </data>
+  <data name="Settings_User_DateFormat_Title" xml:space="preserve">
+    <value>Tarih/Saat biçimi seçin</value>
+  </data>
+  <data name="Settings_User_DecimalPrecision" xml:space="preserve">
+    <value>Ondalık duyarlığı</value>
+  </data>
+  <data name="Settings_User_DecimalPrecision_Title" xml:space="preserve">
+    <value>Hassas seçin</value>
+  </data>
+  <data name="Settings_User_MinimumLength" xml:space="preserve">
+    <value>Uzunluk alt sınırı?</value>
+  </data>
+  <data name="Settings_User_Password" xml:space="preserve">
+    <value>Parola Değiştir</value>
+  </data>
+  <data name="Settings_User_PasswordComplexity" xml:space="preserve">
+    <value>Parola karmaşıklık</value>
+  </data>
+  <data name="Settings_User_PasswordMaxAgeDays" xml:space="preserve">
+    <value>Şifre Max yaşı (gün olarak)</value>
+  </data>
+  <data name="Settings_User_RequireDigit" xml:space="preserve">
+    <value>En az 1 basamak gerektiriyor? (0-9)</value>
+  </data>
+  <data name="Settings_User_RequireLowerCase" xml:space="preserve">
+    <value>En az 1 küçük gerektiriyor? (a-z)</value>
+  </data>
+  <data name="Settings_User_RequireNonDigitLetter" xml:space="preserve">
+    <value>Bir sigara harf veya sayı gerektiriyor?</value>
+  </data>
+  <data name="Settings_User_RequireNonDigitLetter_Title" xml:space="preserve">
+    <value>0-9, aralığı içinde olmayan herhangi bir karakter a-z veya A-Z. Örnekler:!, %, *, $</value>
+  </data>
+  <data name="Settings_User_RequireUpperCase" xml:space="preserve">
+    <value>En az 1 büyük gerektiriyor? (A-Z)</value>
+  </data>
+  <data name="Settings_User_UnknownGrid" xml:space="preserve">
+    <value>Bilinmeyen kılavuz</value>
+  </data>
+  <data name="Settings_UserDefined1" xml:space="preserve">
+    <value>UserDefined1</value>
+  </data>
+  <data name="Settings_UserDefined2" xml:space="preserve">
+    <value>UserDefined2</value>
+  </data>
+  <data name="Settings_UserDefined3" xml:space="preserve">
+    <value>UserDefined3</value>
+  </data>
+  <data name="Settings_UserDefined4" xml:space="preserve">
+    <value>UserDefined4</value>
+  </data>
+  <data name="Settings_UserDefined5" xml:space="preserve">
+    <value>UserDefined5</value>
+  </data>
+  <data name="Settings_UserDefined6" xml:space="preserve">
+    <value>UserDefined6</value>
+  </data>
+  <data name="Settings_UserDefined7" xml:space="preserve">
+    <value>UserDefined7</value>
+  </data>
+  <data name="Settings_UserDefined8" xml:space="preserve">
+    <value>UserDefined8</value>
+  </data>
+  <data name="Settings_WorkOrder" xml:space="preserve">
+    <value>İş emri</value>
+  </data>
+</root>

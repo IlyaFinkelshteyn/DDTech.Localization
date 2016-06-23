@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddANote" xml:space="preserve">
+    <value>메모 추가</value>
+  </data>
+  <data name="AddAReminder" xml:space="preserve">
+    <value>REMINDER 추가</value>
+  </data>
+  <data name="AdjustmentFactor" xml:space="preserve">
+    <value>조정 FACTOR</value>
+  </data>
+  <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
+    <value>레거시 경고에서 보기</value>
+  </data>
+  <data name="AlertsStr" xml:space="preserve">
+    <value>경고(Alerts)</value>
+  </data>
+  <data name="AllActivity" xml:space="preserve">
+    <value>활동내역</value>
+  </data>
+  <data name="AvailableStock" xml:space="preserve">
+    <value>가용재고</value>
+  </data>
+  <data name="AvgDailyUsage" xml:space="preserve">
+    <value>일평균사용량:</value>
+  </data>
+  <data name="Buy" xml:space="preserve">
+    <value>구매</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="ClickToViewReminders" xml:space="preserve">
+    <value>REMINDERS를 보려면 클릭</value>
+  </data>
+  <data name="Committed" xml:space="preserve">
+    <value>committed</value>
+  </data>
+  <data name="CurrentInventory" xml:space="preserve">
+    <value>현재고</value>
+  </data>
+  <data name="CurrentInventoryAll" xml:space="preserve">
+    <value>현재고-All</value>
+  </data>
+  <data name="CurrentInventoryCritical" xml:space="preserve">
+    <value>현재고-Critical </value>
+  </data>
+  <data name="CurrentInventoryHigh" xml:space="preserve">
+    <value>현재고-High</value>
+  </data>
+  <data name="CurrentInventoryMedium" xml:space="preserve">
+    <value>현재고-Medium</value>
+  </data>
+  <data name="Customer" xml:space="preserve">
+    <value>고객</value>
+  </data>
+  <data name="CustomerID" xml:space="preserve">
+    <value>고객ID</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>날짜</value>
+  </data>
+  <data name="DaysEarly" xml:space="preserve">
+    <value>일 선행</value>
+  </data>
+  <data name="DaysLate" xml:space="preserve">
+    <value>일 지연</value>
+  </data>
+  <data name="Demand" xml:space="preserve">
+    <value>수요</value>
+  </data>
+  <data name="DemandAllocations" xml:space="preserve">
+    <value>수요 할당</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>품명</value>
+  </data>
+  <data name="DueDate" xml:space="preserve">
+    <value>납기일자</value>
+  </data>
+  <data name="Exported" xml:space="preserve">
+    <value>EXPORTED</value>
+  </data>
+  <data name="FollowUp" xml:space="preserve">
+    <value>FOLLOW UP</value>
+  </data>
+  <data name="Green" xml:space="preserve">
+    <value>Green </value>
+  </data>
+  <data name="Inventory" xml:space="preserve">
+    <value>재고</value>
+  </data>
+  <data name="IssuedInventory" xml:space="preserve">
+    <value>불출재고</value>
+  </data>
+  <data name="Late" xml:space="preserve">
+    <value>Late</value>
+  </data>
+  <data name="Line" xml:space="preserve">
+    <value>라인</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>로딩 중...</value>
+  </data>
+  <data name="Loc" xml:space="preserve">
+    <value>Loc</value>
+  </data>
+  <data name="LTMSummary" xml:space="preserve">
+    <value>LTM요약</value>
+  </data>
+  <data name="LTMSummaryAll" xml:space="preserve">
+    <value>LTM요약-All</value>
+  </data>
+  <data name="LTMSummaryHigh" xml:space="preserve">
+    <value>LTM요약-High</value>
+  </data>
+  <data name="LTMSummaryLow" xml:space="preserve">
+    <value>LTM요약-Low</value>
+  </data>
+  <data name="LTMSummaryMedium" xml:space="preserve">
+    <value>LTM요약-Medium</value>
+  </data>
+  <data name="Make" xml:space="preserve">
+    <value>생산</value>
+  </data>
+  <data name="MaterialSynchronizationAlert" xml:space="preserve">
+    <value>자재동기화경고</value>
+  </data>
+  <data name="MaterialType" xml:space="preserve">
+    <value>자재TYPE</value>
+  </data>
+  <data name="MSAAll" xml:space="preserve">
+    <value>MSA-All</value>
+  </data>
+  <data name="MSACritical" xml:space="preserve">
+    <value>MSA-Critial</value>
+  </data>
+  <data name="MSAHigh" xml:space="preserve">
+    <value>MSA-High</value>
+  </data>
+  <data name="NoAlertSelected" xml:space="preserve">
+    <value>경고를 선택하세요</value>
+  </data>
+  <data name="NoExecutionAlerts" xml:space="preserve">
+    <value>없음 실행 경고</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>없음</value>
+  </data>
+  <data name="Note" xml:space="preserve">
+    <value>Note</value>
+  </data>
+  <data name="NotImplementedYet" xml:space="preserve">
+    <value>적용전</value>
+  </data>
+  <data name="OnHandInventory" xml:space="preserve">
+    <value>현재고</value>
+  </data>
+  <data name="OpenPO" xml:space="preserve">
+    <value>PO 잔량</value>
+  </data>
+  <data name="OpenSupply" xml:space="preserve">
+    <value>공급오더 잔량</value>
+  </data>
+  <data name="OpenWO" xml:space="preserve">
+    <value>WO 잔량</value>
+  </data>
+  <data name="OrderDate" xml:space="preserve">
+    <value>오더일자</value>
+  </data>
+  <data name="OrderNumber" xml:space="preserve">
+    <value>오더번호 </value>
+  </data>
+  <data name="orders" xml:space="preserve">
+    <value>오더</value>
+  </data>
+  <data name="OrderSpikePriority" xml:space="preserve">
+    <value>스파이크 오더 우선순위</value>
+  </data>
+  <data name="Part" xml:space="preserve">
+    <value>품목</value>
+  </data>
+  <data name="PartID" xml:space="preserve">
+    <value>품목ID</value>
+  </data>
+  <data name="PartType" xml:space="preserve">
+    <value>품목 TYPE</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>미확정(PENDING)</value>
+  </data>
+  <data name="PlannerCode" xml:space="preserve">
+    <value>계획담당</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>프로파일</value>
+  </data>
+  <data name="ProjectedStockOut" xml:space="preserve">
+    <value>예상품절</value>
+  </data>
+  <data name="ProjectedStockOutAll" xml:space="preserve">
+    <value>예상품절-All</value>
+  </data>
+  <data name="ProjectedStockOutCritical" xml:space="preserve">
+    <value>예상품절-Critical</value>
+  </data>
+  <data name="ProjectedStockOutHigh" xml:space="preserve">
+    <value>예상품절-High</value>
+  </data>
+  <data name="ProjectedStockOutMedium" xml:space="preserve">
+    <value>예상품절-Medium</value>
+  </data>
+  <data name="PromiseDate" xml:space="preserve">
+    <value>약속일자</value>
+  </data>
+  <data name="Properties" xml:space="preserve">
+    <value>품목속성</value>
+  </data>
+  <data name="Qty" xml:space="preserve">
+    <value>수량</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Red</value>
+  </data>
+  <data name="ReorderPoint" xml:space="preserve">
+    <value>재주문점</value>
+  </data>
+  <data name="RequestDate" xml:space="preserve">
+    <value>요청일자</value>
+  </data>
+  <data name="Rev" xml:space="preserve">
+    <value>REV</value>
+  </data>
+  <data name="RPlusAlert" xml:space="preserve">
+    <value>R+ Alert:</value>
+  </data>
+  <data name="rule_AppliesTo" xml:space="preserve">
+    <value>에 적용 됩니다.</value>
+  </data>
+  <data name="rule_CurrentInventory_Critical1" xml:space="preserve">
+    <value>전류 또는 연체 수요, 하지만 현재 재고 없음</value>
+  </data>
+  <data name="rule_CurrentInventory_High1" xml:space="preserve">
+    <value>수요 초과 현재 재고</value>
+  </data>
+  <data name="rule_CurrentInventory_High2" xml:space="preserve">
+    <value>아니 현재 재고 수요 그리고</value>
+  </data>
+  <data name="rule_LTM_High1" xml:space="preserve">
+    <value>리드 타임의 3% 미만에 도착 예정 주문</value>
+  </data>
+  <data name="rule_LTM_Low1" xml:space="preserve">
+    <value>때문에 리드 타임의 7% 이상 하지만 리드 타임의 11%는 도착 주문</value>
+  </data>
+  <data name="rule_LTM_Medium1" xml:space="preserve">
+    <value>7%의 리드 타임의 3%는 하지만 더 많은 시간에 도착을 인해 주문</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
+    <value>리드 타임 내의 수요와 공급 오픈가</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
+    <value>QOH (현재 재고량에) &amp;gt; = 0이 고 실행 균형 인지 &amp;lt; = 0 리드 시간 수평선 동안 언제 든 지</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
+    <value>오픈 리드 타임 내의 수요/공급</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
+    <value>QOH (현재 재고량에) &amp;gt; = 0 실행 균형 이며 &amp;gt; 0와 &amp;lt; = % 토르 리드 시간 수평선 동안 언제 든 지</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
+    <value>과거에 부정적인 실행 균형을 했다</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_NB_Critical2" xml:space="preserve">
+    <value>리드 시간 지평선 동안 언제 든 지 부정적인 실행 잔액은</value>
+  </data>
+  <data name="rule_NotIncludedIn" xml:space="preserve">
+    <value>에 포함 되지 않습니다.</value>
+  </data>
+  <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
+    <value>현재 재고 수준 보다 작으면 위험 영역의 % 버퍼 프로필 (또는 경고 수준에 대 한 시스템 기본값) 재고 경고 수준에 의해 정의 된</value>
+  </data>
+  <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
+    <value>현재 재고 수준 레드 맨 (ToR) 보다 작거나</value>
+  </data>
+  <data name="RunningBalance" xml:space="preserve">
+    <value>Running Balance</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>저장</value>
+  </data>
+  <data name="SODemand" xml:space="preserve">
+    <value>SO 수요</value>
+  </data>
+  <data name="Source" xml:space="preserve">
+    <value>Source</value>
+  </data>
+  <data name="SPIKE" xml:space="preserve">
+    <value>#NAME?</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>시작일자</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>상태</value>
+  </data>
+  <data name="Status3" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Status4" xml:space="preserve">
+    <value />
+  </data>
+  <data name="StockOut" xml:space="preserve">
+    <value>품절</value>
+  </data>
+  <data name="StockOutWithDemand" xml:space="preserve">
+    <value>수요가 있는 결품</value>
+  </data>
+  <data name="SupplyOrderNote" xml:space="preserve">
+    <value>공급오더 Note</value>
+  </data>
+  <data name="SupplyOrders" xml:space="preserve">
+    <value>공급오더</value>
+  </data>
+  <data name="TopOfGreen" xml:space="preserve">
+    <value>Top of Green</value>
+  </data>
+  <data name="TopOfRed" xml:space="preserve">
+    <value>Top of Red</value>
+  </data>
+  <data name="TopOfYellow" xml:space="preserve">
+    <value>Top of Yellow</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>TYPE</value>
+  </data>
+  <data name="Vendor" xml:space="preserve">
+    <value>공급처</value>
+  </data>
+  <data name="VendorID" xml:space="preserve">
+    <value>공급처ID</value>
+  </data>
+  <data name="WODemand" xml:space="preserve">
+    <value>WO 수요</value>
+  </data>
+  <data name="Yellow" xml:space="preserve">
+    <value>노란색</value>
+  </data>
+</root>

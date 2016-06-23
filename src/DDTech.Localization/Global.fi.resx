@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllSelected" xml:space="preserve">
+    <value>Kaikki valitut</value>
+  </data>
+  <data name="BackgroundProcessing" xml:space="preserve">
+    <value>Taustalla on käynnissä.</value>
+  </data>
+  <data name="BackgroundProcessing_FeatureDisabled" xml:space="preserve">
+    <value>Tämä toiminto ei ole käytössä, kunnes suoritus on valmis.</value>
+  </data>
+  <data name="Column" xml:space="preserve">
+    <value>Sarake</value>
+  </data>
+  <data name="ConfiguredTimeZone" xml:space="preserve">
+    <value>Määritetty aikavyöhyke</value>
+  </data>
+  <data name="DisplayLang_de" xml:space="preserve">
+    <value>saksa</value>
+  </data>
+  <data name="DisplayLang_en" xml:space="preserve">
+    <value>englanti</value>
+  </data>
+  <data name="DisplayLang_es" xml:space="preserve">
+    <value>espanja</value>
+  </data>
+  <data name="DisplayLang_es_419" xml:space="preserve">
+    <value>Espanja (Latinalainen Amerikka)</value>
+  </data>
+  <data name="DisplayLang_fi" xml:space="preserve">
+    <value>suomi</value>
+  </data>
+  <data name="DisplayLang_fr" xml:space="preserve">
+    <value>ranska</value>
+  </data>
+  <data name="DisplayLang_hu" xml:space="preserve">
+    <value>unkari</value>
+  </data>
+  <data name="DisplayLang_ko" xml:space="preserve">
+    <value>korea</value>
+  </data>
+  <data name="DisplayLang_ru" xml:space="preserve">
+    <value>venäjä</value>
+  </data>
+  <data name="DisplayLang_tr" xml:space="preserve">
+    <value>turkki</value>
+  </data>
+  <data name="FilterDisabled" xml:space="preserve">
+    <value>Suodatin käytössä</value>
+  </data>
+  <data name="Home_About_ApplicationLabel" xml:space="preserve">
+    <value>Sovellus</value>
+  </data>
+  <data name="Home_About_VersionLabel" xml:space="preserve">
+    <value>Versio</value>
+  </data>
+  <data name="Home_Index_PageTitle" xml:space="preserve">
+    <value>Etusivu</value>
+  </data>
+  <data name="LanguageDropDown_AvailableLanguages" xml:space="preserve">
+    <value>Käytettävissä olevat kielet</value>
+  </data>
+  <data name="LanguageDropDown_CurrentLanguage" xml:space="preserve">
+    <value>Nykyinen kieli</value>
+  </data>
+  <data name="Nav_About_Title" xml:space="preserve">
+    <value>Tietoja</value>
+  </data>
+  <data name="Nav_Account_Manage_Title" xml:space="preserve">
+    <value>Käyttäjätili</value>
+  </data>
+  <data name="Nav_Admin_GlobalSettings_Title" xml:space="preserve">
+    <value>Yleiset asetukset</value>
+  </data>
+  <data name="Nav_Admin_MaterialRequirements_Title" xml:space="preserve">
+    <value>Aineelliset edellytykset</value>
+  </data>
+  <data name="Nav_Admin_Settings_Title" xml:space="preserve">
+    <value>Asetukset</value>
+  </data>
+  <data name="Nav_Admin_Title" xml:space="preserve">
+    <value>Hallinto</value>
+  </data>
+  <data name="Nav_Admin_UserMgmt_Title" xml:space="preserve">
+    <value>Käyttäjien hallinta</value>
+  </data>
+  <data name="Nav_Alerts_CurrentSupplyOrderNotes" xml:space="preserve">
+    <value>Nykyisen tarjonnan tilaa Notes</value>
+  </data>
+  <data name="Nav_Alerts_NoSupplyOrderNotes" xml:space="preserve">
+    <value>Ei ole tarjonnan tilaa Notes</value>
+  </data>
+  <data name="Nav_Alerts_OutstandingSupplyOrderNotes" xml:space="preserve">
+    <value>Erinomainen tarjonta tilaa Notes</value>
+  </data>
+  <data name="Nav_Alerts_OverdueSupplyOrderNotes" xml:space="preserve">
+    <value>Myöhässä toimituksen tilaa Notes</value>
+  </data>
+  <data name="Nav_Alerts_Title" xml:space="preserve">
+    <value>Hälytykset</value>
+  </data>
+  <data name="Nav_AlertsCurrentInventory_Title" xml:space="preserve">
+    <value>Nykyinen varasto</value>
+  </data>
+  <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
+    <value>Ennustettu varastosta</value>
+  </data>
+  <data name="Nav_BoM_Title" xml:space="preserve">
+    <value>Tuoterakenne</value>
+  </data>
+  <data name="Nav_DataMgmt_Export_Title" xml:space="preserve">
+    <value>Tietojen vieminen</value>
+  </data>
+  <data name="Nav_DataMgmt_Import_Title" xml:space="preserve">
+    <value>Tietojen tuonti</value>
+  </data>
+  <data name="Nav_DataMgmt_Title" xml:space="preserve">
+    <value>Tiedot</value>
+  </data>
+  <data name="Nav_EditBufferProfile_Title" xml:space="preserve">
+    <value>Puskurin profiili</value>
+  </data>
+  <data name="Nav_EditCalendar_Title" xml:space="preserve">
+    <value>Kalenteri</value>
+  </data>
+  <data name="Nav_EditLocations_Title" xml:space="preserve">
+    <value>Sijainnit</value>
+  </data>
+  <data name="Nav_Editors_Title" xml:space="preserve">
+    <value>Muokkaa</value>
+  </data>
+  <data name="Nav_EditPAF_Title" xml:space="preserve">
+    <value>Suunniteltu Muutoskerroin</value>
+  </data>
+  <data name="Nav_EditPart_Title" xml:space="preserve">
+    <value>Osa</value>
+  </data>
+  <data name="Nav_Group_Admin" xml:space="preserve">
+    <value>Hallinto</value>
+  </data>
+  <data name="Nav_Group_Data" xml:space="preserve">
+    <value>Tiedot</value>
+  </data>
+  <data name="Nav_Group_Editors" xml:space="preserve">
+    <value>Toimittajat</value>
+  </data>
+  <data name="Nav_Group_Info" xml:space="preserve">
+    <value>Tiedot</value>
+  </data>
+  <data name="Nav_Group_Settings" xml:space="preserve">
+    <value>Asetukset</value>
+  </data>
+  <data name="Nav_Group_Tools" xml:space="preserve">
+    <value>Työkalut</value>
+  </data>
+  <data name="Nav_Home_Title" xml:space="preserve">
+    <value>Etusivu</value>
+  </data>
+  <data name="Nav_Info_Title" xml:space="preserve">
+    <value>Tiedot</value>
+  </data>
+  <data name="Nav_Menu_NewBadge" xml:space="preserve">
+    <value>Uusi!</value>
+  </data>
+  <data name="Nav_Menu_UpdatedBadge" xml:space="preserve">
+    <value>Päivitetään!</value>
+  </data>
+  <data name="Nav_PendingOrders_Title" xml:space="preserve">
+    <value>Odottavat toimeksiannot</value>
+  </data>
+  <data name="Nav_Planner_Title" xml:space="preserve">
+    <value>Suunnittelutyökalut</value>
+  </data>
+  <data name="Nav_PlannersDashboard_Title" xml:space="preserve">
+    <value>R + Dashboard</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_All_Title" xml:space="preserve">
+    <value>Kaikki</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Critical_Title" xml:space="preserve">
+    <value>Kriittinen</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Custom_Title" xml:space="preserve">
+    <value>Custom</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Green_Title" xml:space="preserve">
+    <value>Matala</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_OToG_Title" xml:space="preserve">
+    <value>Top Green</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Red_Title" xml:space="preserve">
+    <value>Korkea</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_RedNonBuffered_Title" xml:space="preserve">
+    <value>Korkea (NB)</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Title" xml:space="preserve">
+    <value>Workbench</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Yellow_Title" xml:space="preserve">
+    <value>Normaali</value>
+  </data>
+  <data name="Nav_ReadBufferSummary_Title" xml:space="preserve">
+    <value>Puskurin Yhteenveto</value>
+  </data>
+  <data name="Nav_ReadBufferTrend_Title" xml:space="preserve">
+    <value>Puskurin suuntaus</value>
+  </data>
+  <data name="Nav_ReadCritHighPlanner_Title" xml:space="preserve">
+    <value>Kriittinen ja korkea ulottamalla Planner</value>
+  </data>
+  <data name="Nav_ReadOtogPlanner_Title" xml:space="preserve">
+    <value>OToG ulottamalla Planner</value>
+  </data>
+  <data name="Nav_ReadPartActivity_Title" xml:space="preserve">
+    <value>Osa toimintaa</value>
+  </data>
+  <data name="Nav_ReadPartDistribution_Title" xml:space="preserve">
+    <value>Osa jakelu</value>
+  </data>
+  <data name="Nav_ReadStockOutDemandTrend_Title" xml:space="preserve">
+    <value>Kannan ulos kysynnän</value>
+  </data>
+  <data name="Nav_ReadSumCritHigh_Title" xml:space="preserve">
+    <value>Kriittinen ja suuri summa</value>
+  </data>
+  <data name="Nav_ReadSumOfOtog_Title" xml:space="preserve">
+    <value>Summa OTOG</value>
+  </data>
+  <data name="Nav_Reports_Title" xml:space="preserve">
+    <value>Raportit</value>
+  </data>
+  <data name="Nav_Search_Title" xml:space="preserve">
+    <value>Etsi</value>
+  </data>
+  <data name="Nav_Settings_Title" xml:space="preserve">
+    <value>Asetukset</value>
+  </data>
+  <data name="Nav_Status_Title" xml:space="preserve">
+    <value>Tila</value>
+  </data>
+  <data name="Nav_StockDeployment_Title" xml:space="preserve">
+    <value>Kaluston käyttöönotto</value>
+  </data>
+  <data name="Nav_User_Settings_Title" xml:space="preserve">
+    <value>Käyttäjäasetukset</value>
+  </data>
+  <data name="Never" xml:space="preserve">
+    <value>koskaan</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>ei mitään</value>
+  </data>
+  <data name="NoneSelected" xml:space="preserve">
+    <value>Ei valintaa</value>
+  </data>
+  <data name="PartActivity_NoActivity" xml:space="preserve">
+    <value>Osa ei ole toimintaa</value>
+  </data>
+  <data name="PartActivity_NoDemandAllocations" xml:space="preserve">
+    <value>Osa on ei kysynnän kohdistukset</value>
+  </data>
+  <data name="PartActivity_NoSupplyOrders" xml:space="preserve">
+    <value>Osa on ei ole toimitustilauksia</value>
+  </data>
+  <data name="PartActivity_Tab_AllActivity" xml:space="preserve">
+    <value>Kaikki toiminta</value>
+  </data>
+  <data name="PartActivity_Tab_DemandAllocations" xml:space="preserve">
+    <value>Kysynnän kohdistukset</value>
+  </data>
+  <data name="PartActivity_Tab_SupplyOrders" xml:space="preserve">
+    <value>Toimitustilaukset</value>
+  </data>
+  <data name="QuickActions" xml:space="preserve">
+    <value>Nopeisiin toimiin</value>
+  </data>
+  <data name="SelectOne" xml:space="preserve">
+    <value>Valitse yksi</value>
+  </data>
+  <data name="ShowLess" xml:space="preserve">
+    <value>Näytä vähemmän</value>
+  </data>
+  <data name="ShowMore" xml:space="preserve">
+    <value>Näytä lisää</value>
+  </data>
+  <data name="TimeZone_Server_Desc1" xml:space="preserve">
+    <value>Näytetyn kertaa käyttävät määritettyyn saittiin global aika-asetukset</value>
+  </data>
+  <data name="TimeZone_Server_Desc2" xml:space="preserve">
+    <value>Aika-asetukset määritetään Yleisasetukset-sivulla</value>
+  </data>
+  <data name="TimeZoneType_Browser" xml:space="preserve">
+    <value>Käyttäjän aikavyöhykkeen (selain)</value>
+  </data>
+  <data name="TimeZoneType_Site" xml:space="preserve">
+    <value>Määritetty alueellisten aikavyöhyke (sivusto)</value>
+  </data>
+  <data name="TimeZoneType_UTC" xml:space="preserve">
+    <value>Palvelimen aikavyöhykettä (UTC)</value>
+  </data>
+</root>

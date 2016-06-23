@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="120Days" xml:space="preserve">
+    <value>120 Jours</value>
+  </data>
+  <data name="13Weeks" xml:space="preserve">
+    <value>13 Semaines</value>
+  </data>
+  <data name="150Days" xml:space="preserve">
+    <value>150 Jours</value>
+  </data>
+  <data name="15Days" xml:space="preserve">
+    <value>15 Jours</value>
+  </data>
+  <data name="17Weeks" xml:space="preserve">
+    <value>17 Semaines</value>
+  </data>
+  <data name="180Days" xml:space="preserve">
+    <value>180 Jours</value>
+  </data>
+  <data name="22Weeks" xml:space="preserve">
+    <value>22 Semaines</value>
+  </data>
+  <data name="26Weeks" xml:space="preserve">
+    <value>26 Semaines</value>
+  </data>
+  <data name="30Days" xml:space="preserve">
+    <value>30 Jours</value>
+  </data>
+  <data name="60Days" xml:space="preserve">
+    <value>60 Jours</value>
+  </data>
+  <data name="90Days" xml:space="preserve">
+    <value>90 Jours</value>
+  </data>
+  <data name="9Weeks" xml:space="preserve">
+    <value>9 Semaines</value>
+  </data>
+  <data name="AcceptSelectedOrders" xml:space="preserve">
+    <value>Accepter les Ordres Sélectionnés</value>
+  </data>
+  <data name="ADU" xml:space="preserve">
+    <value>CMJ</value>
+  </data>
+  <data name="AllActivity" xml:space="preserve">
+    <value>Toute Activité</value>
+  </data>
+  <data name="Apply" xml:space="preserve">
+    <value>Appliquer</value>
+  </data>
+  <data name="AssignedLocation" xml:space="preserve">
+    <value>Site Assigné :</value>
+  </data>
+  <data name="BillOfMaterials" xml:space="preserve">
+    <value>Nomenclature</value>
+  </data>
+  <data name="Buffered" xml:space="preserve">
+    <value>Avec Buffer</value>
+  </data>
+  <data name="BufferSize" xml:space="preserve">
+    <value>Taille du buffer</value>
+  </data>
+  <data name="BufferSizing" xml:space="preserve">
+    <value>Dimensionnement du buffer</value>
+  </data>
+  <data name="BufferTrend" xml:space="preserve">
+    <value>Historique du Buffer</value>
+  </data>
+  <data name="BufferValuesIncompatibleWithChart" xml:space="preserve">
+    <value>Valeurs de buffer incompatibles avec la représentation graphique</value>
+  </data>
+  <data name="Button_CreateCustomOrder" xml:space="preserve">
+    <value>Créer une commande personnalisée</value>
+  </data>
+  <data name="ClearSelection" xml:space="preserve">
+    <value>Effacer la sélection</value>
+  </data>
+  <data name="CollapseAll" xml:space="preserve">
+    <value>réduire</value>
+  </data>
+  <data name="Column" xml:space="preserve">
+    <value>Colonne</value>
+  </data>
+  <data name="ColumnDisplaySettings" xml:space="preserve">
+    <value>Paramètres d'affichage des colonnes</value>
+  </data>
+  <data name="Committed" xml:space="preserve">
+    <value>Engagé</value>
+  </data>
+  <data name="CreateOrder" xml:space="preserve">
+    <value>Créer un Ordre</value>
+  </data>
+  <data name="CurrentPAFIs" xml:space="preserve">
+    <value>FAP actuel est :</value>
+  </data>
+  <data name="CurrentView" xml:space="preserve">
+    <value>Vue actuelle</value>
+  </data>
+  <data name="Customer" xml:space="preserve">
+    <value>Client</value>
+  </data>
+  <data name="CustomerID" xml:space="preserve">
+    <value>ID Client</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="DaysConsumption" xml:space="preserve">
+    <value>couverture (j)</value>
+  </data>
+  <data name="DaysCovered" xml:space="preserve">
+    <value>couverture (j)</value>
+  </data>
+  <data name="DaysEarly" xml:space="preserve">
+    <value>jour(s) en avance</value>
+  </data>
+  <data name="DaysLate" xml:space="preserve">
+    <value>jour(s) de retard</value>
+  </data>
+  <data name="DemandAllocations" xml:space="preserve">
+    <value>Demande qualifiée</value>
+  </data>
+  <data name="DescriptionLabel" xml:space="preserve">
+    <value>Désignation</value>
+  </data>
+  <data name="Display" xml:space="preserve">
+    <value>Afficher</value>
+  </data>
+  <data name="DisplaySettings" xml:space="preserve">
+    <value>Paramètres d'affichage</value>
+  </data>
+  <data name="DueDate" xml:space="preserve">
+    <value>Date de réappro.</value>
+  </data>
+  <data name="ExpandAll" xml:space="preserve">
+    <value>Tout afficher</value>
+  </data>
+  <data name="ExpectedAvgInventory" xml:space="preserve">
+    <value>Stock moyen attendu</value>
+  </data>
+  <data name="Exported" xml:space="preserve">
+    <value>Exporté</value>
+  </data>
+  <data name="ExportPage" xml:space="preserve">
+    <value>Exporter la page</value>
+  </data>
+  <data name="Filter" xml:space="preserve">
+    <value>Filtre</value>
+  </data>
+  <data name="Filters" xml:space="preserve">
+    <value>Filtres : </value>
+  </data>
+  <data name="FixedLeadTime" xml:space="preserve">
+    <value>Délai figé</value>
+  </data>
+  <data name="GoToPage" xml:space="preserve">
+    <value>Aller à la page :</value>
+  </data>
+  <data name="Green" xml:space="preserve">
+    <value>Vert</value>
+  </data>
+  <data name="GreenZone" xml:space="preserve">
+    <value>Zone Verte</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="Inventory" xml:space="preserve">
+    <value>Stock</value>
+  </data>
+  <data name="InventoryManagement" xml:space="preserve">
+    <value>Gestion de Stock</value>
+  </data>
+  <data name="LastNDays" xml:space="preserve">
+    <value>Derniers __days__ Jours</value>
+  </data>
+  <data name="LastNWeeks" xml:space="preserve">
+    <value>__weeks__ dernières semaines.</value>
+  </data>
+  <data name="Late" xml:space="preserve">
+    <value>Retard</value>
+  </data>
+  <data name="LeadTime" xml:space="preserve">
+    <value>Délai</value>
+  </data>
+  <data name="LeadTimeCompression" xml:space="preserve">
+    <value>Ajustement du planning de {0} jours en raison de la réduction de délai.</value>
+  </data>
+  <data name="Legend" xml:space="preserve">
+    <value>Légende : </value>
+  </data>
+  <data name="LocationFilter" xml:space="preserve">
+    <value>Filtre Site</value>
+  </data>
+  <data name="LongestLeg" xml:space="preserve">
+    <value>Branche la plus longue</value>
+  </data>
+  <data name="Material" xml:space="preserve">
+    <value>Matière</value>
+  </data>
+  <data name="MaterialFilter" xml:space="preserve">
+    <value>Filtre Matière</value>
+  </data>
+  <data name="Max" xml:space="preserve">
+    <value>Max</value>
+  </data>
+  <data name="Min" xml:space="preserve">
+    <value>Min</value>
+  </data>
+  <data name="Min/Max" xml:space="preserve">
+    <value>Min/Max</value>
+  </data>
+  <data name="NBAndLTMPartsNoSizingValues" xml:space="preserve">
+    <value>Les articles sans buffer ou gérés sur délai n'ont pas de valeurs de Zones</value>
+  </data>
+  <data name="NonBuffered" xml:space="preserve">
+    <value>Sans buffer</value>
+  </data>
+  <data name="NotEnoughHistoryForChart" xml:space="preserve">
+    <value>Cet article n'a pas assez d'historique pour générer un graphique d'analyse</value>
+  </data>
+  <data name="Notes" xml:space="preserve">
+    <value>Notes</value>
+  </data>
+  <data name="of" xml:space="preserve">
+    <value>à</value>
+  </data>
+  <data name="OnHandInventory" xml:space="preserve">
+    <value>Stock Physique</value>
+  </data>
+  <data name="OpenPO" xml:space="preserve">
+    <value>Commande en cours</value>
+  </data>
+  <data name="OpenWO" xml:space="preserve">
+    <value>OF en cours</value>
+  </data>
+  <data name="OrderCycleOverride" xml:space="preserve">
+    <value>Cycle de commande forcé</value>
+  </data>
+  <data name="OrderDueDate" xml:space="preserve">
+    <value>Échéance</value>
+  </data>
+  <data name="OrderNotes" xml:space="preserve">
+    <value>Notes de l'ordre : </value>
+  </data>
+  <data name="OrderNumber" xml:space="preserve">
+    <value>Numéro de commande</value>
+  </data>
+  <data name="OrderPolicy" xml:space="preserve">
+    <value>Politique de lotissement</value>
+  </data>
+  <data name="OrderQuantity" xml:space="preserve">
+    <value>Quantité d'ordre</value>
+  </data>
+  <data name="OutSourcedCost" xml:space="preserve">
+    <value>Coût de sous-traitance</value>
+  </data>
+  <data name="Part" xml:space="preserve">
+    <value>Article</value>
+  </data>
+  <data name="PartActivity" xml:space="preserve">
+    <value>Activité Article</value>
+  </data>
+  <data name="PartAnalytics" xml:space="preserve">
+    <value>Analyses Article</value>
+  </data>
+  <data name="PartDetail" xml:space="preserve">
+    <value>Propriétés Article</value>
+  </data>
+  <data name="PartTypeFilter" xml:space="preserve">
+    <value>Filtre par type d'article</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>En attente</value>
+  </data>
+  <data name="Pinned" xml:space="preserve">
+    <value>Figé</value>
+  </data>
+  <data name="PlannerFilter" xml:space="preserve">
+    <value>Filtre Planificateur</value>
+  </data>
+  <data name="PlannerLabel" xml:space="preserve">
+    <value>Planificateur : </value>
+  </data>
+  <data name="PlannersWorkBench" xml:space="preserve">
+    <value>Poste de travail Planificateur</value>
+  </data>
+  <data name="Priority:" xml:space="preserve">
+    <value>Priorité</value>
+  </data>
+  <data name="PriorityFilter" xml:space="preserve">
+    <value>Filtre Priorité</value>
+  </data>
+  <data name="PromiseDate" xml:space="preserve">
+    <value>Promis</value>
+  </data>
+  <data name="Quantity" xml:space="preserve">
+    <value>Quantité</value>
+  </data>
+  <data name="RawMaterialCost" xml:space="preserve">
+    <value>Coût matière</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Rouge</value>
+  </data>
+  <data name="RedZone" xml:space="preserve">
+    <value>Zone Rouge</value>
+  </data>
+  <data name="ReorderQty" xml:space="preserve">
+    <value>Qté à recommander</value>
+  </data>
+  <data name="RequestDate" xml:space="preserve">
+    <value>Date Demandée</value>
+  </data>
+  <data name="RPlusLeadTime" xml:space="preserve">
+    <value>Délai R+</value>
+  </data>
+  <data name="RunningBalance" xml:space="preserve">
+    <value>Stock projeté</value>
+  </data>
+  <data name="SelectPriorityCode" xml:space="preserve">
+    <value>Sélectionnez le Code de priorité</value>
+  </data>
+  <data name="ShortDateFormatNoYear" xml:space="preserve">
+    <value>__month__/__day__</value>
+  </data>
+  <data name="ShowRows" xml:space="preserve">
+    <value>Montrer les lignes :</value>
+  </data>
+  <data name="SODemand" xml:space="preserve">
+    <value>Besoin sur Vente</value>
+  </data>
+  <data name="Source" xml:space="preserve">
+    <value>Source</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>Date de Début</value>
+  </data>
+  <data name="StartOver" xml:space="preserve">
+    <value>recommencer</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Statut</value>
+  </data>
+  <data name="Status3" xml:space="preserve">
+    <value>Statut 3</value>
+  </data>
+  <data name="Status4" xml:space="preserve">
+    <value>Statut 4</value>
+  </data>
+  <data name="SubmitOrder" xml:space="preserve">
+    <value>Soumettre un ordre</value>
+  </data>
+  <data name="SupplyOrders" xml:space="preserve">
+    <value>Réappro</value>
+  </data>
+  <data name="TopOfZone" xml:space="preserve">
+    <value>Top de la Zone</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="UDF" xml:space="preserve">
+    <value>Champ défini par l'utilisateur</value>
+  </data>
+  <data name="UnfilteredExport" xml:space="preserve">
+    <value>Exporter sans filtre</value>
+  </data>
+  <data name="Units" xml:space="preserve">
+    <value>Unités</value>
+  </data>
+  <data name="Vendor" xml:space="preserve">
+    <value>Fournisseur</value>
+  </data>
+  <data name="WODemand" xml:space="preserve">
+    <value>Besoin sur OF</value>
+  </data>
+  <data name="Workbench_ApproveOrder_Button_Approve" xml:space="preserve">
+    <value>Approuver les ordres</value>
+  </data>
+  <data name="Workbench_ApproveOrder_Title" xml:space="preserve">
+    <value>Approuver les ordres recommandées</value>
+  </data>
+  <data name="Workbench_ApproveOrders" xml:space="preserve">
+    <value>Approuver les commandes</value>
+  </data>
+  <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
+    <value>Êtes-vous sûr de vouloir continuer ?</value>
+  </data>
+  <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
+    <value>« Veuillez entrer la quantité d'ordre »</value>
+  </data>
+  <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
+    <value>La quantité est supérieure à la valeur recommandée</value>
+  </data>
+  <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
+    <value>Exporter les données</value>
+  </data>
+  <data name="Workbench_Menu_Group_Help" xml:space="preserve">
+    <value>Aide</value>
+  </data>
+  <data name="Workbench_Menu_ViewInLegacyWorkbench" xml:space="preserve">
+    <value>Voir l'ancien écran de planification</value>
+  </data>
+  <data name="Workbench_NoBillOfMaterial" xml:space="preserve">
+    <value>Cet article n'a aucune nomenclature</value>
+  </data>
+  <data name="Workbench_NoMatchingPartsFound" xml:space="preserve">
+    <value>Aucun article correspondant</value>
+  </data>
+  <data name="Workbench_NoNotes" xml:space="preserve">
+    <value>Pas de note pour cet article</value>
+  </data>
+  <data name="Workbench_NoPartDetails" xml:space="preserve">
+    <value>Cet article n'a aucun détail</value>
+  </data>
+  <data name="Workbench_PartAnalytics_AvailableRanges" xml:space="preserve">
+    <value>Plages disponibles</value>
+  </data>
+  <data name="Workbench_PartAnalytics_CurrentRange" xml:space="preserve">
+    <value>Gamme actuelle</value>
+  </data>
+  <data name="Workbench_PartAnalytics_NonBufferedPartsUnsupported" xml:space="preserve">
+    <value>Non disponible pour un article non stocké</value>
+  </data>
+  <data name="Workbench_PartAnalytics_NotEnoughHistory" xml:space="preserve">
+    <value>Pas assez d'historique pour afficher le graphique</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_Analytics" xml:space="preserve">
+    <value>Analytique</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_BillOfMaterial" xml:space="preserve">
+    <value>Nomenclature</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_BufferSizing" xml:space="preserve">
+    <value>Dimensionnement du Buffer</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_Notes" xml:space="preserve">
+    <value>Notes</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_Properties" xml:space="preserve">
+    <value>Propriétés</value>
+  </data>
+  <data name="Workbench_PartProperties_InventoryMgmtTitle" xml:space="preserve">
+    <value>Gestion des stocks</value>
+  </data>
+  <data name="Workbench_PartProperties_Title" xml:space="preserve">
+    <value>Propriétés de l'article</value>
+  </data>
+  <data name="Workbench_PartProperties_UDFTitle" xml:space="preserve">
+    <value>Champs définis par l'utilisateur</value>
+  </data>
+  <data name="Workbench_PleaseSelectPart" xml:space="preserve">
+    <value>Veuillez sélectionner un article</value>
+  </data>
+  <data name="Workbench_RecommendationsMarkedForApproval" xml:space="preserve">
+    <value>Proposition(s) marquée(s) pour approbation</value>
+  </data>
+  <data name="Workbench_ResetFilters_Title" xml:space="preserve">
+    <value>Réinitialiser {0} filtres et tris actifs ?</value>
+  </data>
+  <data name="Yellow" xml:space="preserve">
+    <value>Jaune</value>
+  </data>
+  <data name="YellowZone" xml:space="preserve">
+    <value>Zone Jaune</value>
+  </data>
+  <data name="YouCanAlso" xml:space="preserve">
+    <value>vous pouvez également</value>
+  </data>
+  <data name="ZoneSize" xml:space="preserve">
+    <value>Taille de la Zone</value>
+  </data>
+</root>

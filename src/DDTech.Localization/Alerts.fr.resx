@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddANote" xml:space="preserve">
+    <value>Ajouter une note</value>
+  </data>
+  <data name="AddAReminder" xml:space="preserve">
+    <value>Ajouter un rappel</value>
+  </data>
+  <data name="AdjustmentFactor" xml:space="preserve">
+    <value>Facteur d'Ajustement</value>
+  </data>
+  <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
+    <value>Voir l'ancien écran d'alertes</value>
+  </data>
+  <data name="AlertsStr" xml:space="preserve">
+    <value>Alertes</value>
+  </data>
+  <data name="AllActivity" xml:space="preserve">
+    <value>Toute Activité</value>
+  </data>
+  <data name="AvailableStock" xml:space="preserve">
+    <value>Flux Disponible</value>
+  </data>
+  <data name="AvgDailyUsage" xml:space="preserve">
+    <value>CMJ</value>
+  </data>
+  <data name="Buy" xml:space="preserve">
+    <value>Acheté</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="ClickToViewReminders" xml:space="preserve">
+    <value>cliquer pour voir les rappels</value>
+  </data>
+  <data name="Committed" xml:space="preserve">
+    <value>Engagé</value>
+  </data>
+  <data name="CurrentInventory" xml:space="preserve">
+    <value>Stock Actuel</value>
+  </data>
+  <data name="CurrentInventoryAll" xml:space="preserve">
+    <value>Stock actuel - tous</value>
+  </data>
+  <data name="CurrentInventoryCritical" xml:space="preserve">
+    <value>Stock Actuel - Critique</value>
+  </data>
+  <data name="CurrentInventoryHigh" xml:space="preserve">
+    <value>Stock Actuel - Haut</value>
+  </data>
+  <data name="CurrentInventoryMedium" xml:space="preserve">
+    <value>Stock Actuel - Moyen</value>
+  </data>
+  <data name="Customer" xml:space="preserve">
+    <value>Client</value>
+  </data>
+  <data name="CustomerID" xml:space="preserve">
+    <value>ID Client</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="DaysEarly" xml:space="preserve">
+    <value> jour(s) en avance</value>
+  </data>
+  <data name="DaysLate" xml:space="preserve">
+    <value> jour(s) de retard</value>
+  </data>
+  <data name="Demand" xml:space="preserve">
+    <value>Demande</value>
+  </data>
+  <data name="DemandAllocations" xml:space="preserve">
+    <value>Demande qualifiée</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Désignation</value>
+  </data>
+  <data name="DueDate" xml:space="preserve">
+    <value>Échéance</value>
+  </data>
+  <data name="Exported" xml:space="preserve">
+    <value>Exporté</value>
+  </data>
+  <data name="FollowUp" xml:space="preserve">
+    <value>Suivi</value>
+  </data>
+  <data name="Green" xml:space="preserve">
+    <value>Vert</value>
+  </data>
+  <data name="Inventory" xml:space="preserve">
+    <value>Stock</value>
+  </data>
+  <data name="IssuedInventory" xml:space="preserve">
+    <value>Sorties de stock</value>
+  </data>
+  <data name="Late" xml:space="preserve">
+    <value>Retard</value>
+  </data>
+  <data name="Line" xml:space="preserve">
+    <value>Ligne</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>Chargement...</value>
+  </data>
+  <data name="Loc" xml:space="preserve">
+    <value>Site</value>
+  </data>
+  <data name="LTMSummary" xml:space="preserve">
+    <value>Résumé GD</value>
+  </data>
+  <data name="LTMSummaryAll" xml:space="preserve">
+    <value>Résumé GD - tous</value>
+  </data>
+  <data name="LTMSummaryHigh" xml:space="preserve">
+    <value>Résumé GD - Haut</value>
+  </data>
+  <data name="LTMSummaryLow" xml:space="preserve">
+    <value>Résumé GD - Bas</value>
+  </data>
+  <data name="LTMSummaryMedium" xml:space="preserve">
+    <value>Résumé GD - Moyen</value>
+  </data>
+  <data name="Make" xml:space="preserve">
+    <value>Fabriqué</value>
+  </data>
+  <data name="MaterialSynchronizationAlert" xml:space="preserve">
+    <value>Alerte de Synchronisation Matière</value>
+  </data>
+  <data name="MaterialType" xml:space="preserve">
+    <value>Type de Matière</value>
+  </data>
+  <data name="MSAAll" xml:space="preserve">
+    <value>Alerte de synchronisation article - tous</value>
+  </data>
+  <data name="MSACritical" xml:space="preserve">
+    <value>Alerte de synchronisation article - critique</value>
+  </data>
+  <data name="MSAHigh" xml:space="preserve">
+    <value>Alerte de synchronisation article - haute</value>
+  </data>
+  <data name="NoAlertSelected" xml:space="preserve">
+    <value>Veuillez sélectionner une alerte</value>
+  </data>
+  <data name="NoExecutionAlerts" xml:space="preserve">
+    <value>Aucune alerte de l’exécution</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Aucun</value>
+  </data>
+  <data name="Note" xml:space="preserve">
+    <value>Remarque</value>
+  </data>
+  <data name="NotImplementedYet" xml:space="preserve">
+    <value>Pas encore disponible</value>
+  </data>
+  <data name="OnHandInventory" xml:space="preserve">
+    <value>Stock Physique</value>
+  </data>
+  <data name="OpenPO" xml:space="preserve">
+    <value>Commande en cours</value>
+  </data>
+  <data name="OpenSupply" xml:space="preserve">
+    <value>Appro. En Cours</value>
+  </data>
+  <data name="OpenWO" xml:space="preserve">
+    <value>OF en cours</value>
+  </data>
+  <data name="OrderDate" xml:space="preserve">
+    <value>Date de l'ordre</value>
+  </data>
+  <data name="OrderNumber" xml:space="preserve">
+    <value>Numéro de Commande</value>
+  </data>
+  <data name="orders" xml:space="preserve">
+    <value>commande(s)</value>
+  </data>
+  <data name="OrderSpikePriority" xml:space="preserve">
+    <value>Priorité Pic de Commande</value>
+  </data>
+  <data name="Part" xml:space="preserve">
+    <value>Article</value>
+  </data>
+  <data name="PartID" xml:space="preserve">
+    <value>ID Article</value>
+  </data>
+  <data name="PartType" xml:space="preserve">
+    <value>Type d'Article</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>En attente</value>
+  </data>
+  <data name="PlannerCode" xml:space="preserve">
+    <value>Code Gestionnaire</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Profil</value>
+  </data>
+  <data name="ProjectedStockOut" xml:space="preserve">
+    <value>Stock Projeté</value>
+  </data>
+  <data name="ProjectedStockOutAll" xml:space="preserve">
+    <value>Stock Projeté - tous</value>
+  </data>
+  <data name="ProjectedStockOutCritical" xml:space="preserve">
+    <value>Stock Projeté - Critique</value>
+  </data>
+  <data name="ProjectedStockOutHigh" xml:space="preserve">
+    <value>Stock Projeté - Haut</value>
+  </data>
+  <data name="ProjectedStockOutMedium" xml:space="preserve">
+    <value>Stock Projeté - Moyen</value>
+  </data>
+  <data name="PromiseDate" xml:space="preserve">
+    <value>Promis</value>
+  </data>
+  <data name="Properties" xml:space="preserve">
+    <value>Propriétés</value>
+  </data>
+  <data name="Qty" xml:space="preserve">
+    <value>Qté</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Rouge</value>
+  </data>
+  <data name="ReorderPoint" xml:space="preserve">
+    <value>Point de Commande</value>
+  </data>
+  <data name="RequestDate" xml:space="preserve">
+    <value>Date Demandée</value>
+  </data>
+  <data name="Rev" xml:space="preserve">
+    <value>Rév</value>
+  </data>
+  <data name="RPlusAlert" xml:space="preserve">
+    <value>Alerte R+</value>
+  </data>
+  <data name="rule_AppliesTo" xml:space="preserve">
+    <value>S’applique à</value>
+  </data>
+  <data name="rule_CurrentInventory_Critical1" xml:space="preserve">
+    <value>Il y a des besoins en cours ou en retard, mais pas de stock</value>
+  </data>
+  <data name="rule_CurrentInventory_High1" xml:space="preserve">
+    <value>Les besoins dépassent le stock actuel</value>
+  </data>
+  <data name="rule_CurrentInventory_High2" xml:space="preserve">
+    <value>Le stock est à zéro, et il n’y a pas de demande</value>
+  </data>
+  <data name="rule_LTM_High1" xml:space="preserve">
+    <value>Échéance de l'ordre à moins de 3% du délai</value>
+  </data>
+  <data name="rule_LTM_Low1" xml:space="preserve">
+    <value>Échéance de l'ordre supérieure à 7% et inférieure à 11% du délai</value>
+  </data>
+  <data name="rule_LTM_Medium1" xml:space="preserve">
+    <value>Échéance de l'ordre supérieure à 3% et inférieure à 7% du délai</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
+    <value>Il y a des approvisionnements en cours et des besoins dans le délai découplé</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
+    <value>Le stock est &amp;gt; = 0 et le stock projeté est &amp;lt; = 0 dans l'horizon de délai découplé</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
+    <value>Il y a des approvisionnements/besoins dans le délai découplé</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
+    <value>Le stock est &amp;gt; = 0 et le stock projeté est &amp;gt; 0 et &amp;lt; = % ToR dans l'horizon de délai découplé</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
+    <value>Le stock est négatif dans le passé</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_NB_Critical2" xml:space="preserve">
+    <value>Le stock projeté est négatif dans le délai découplé</value>
+  </data>
+  <data name="rule_NotIncludedIn" xml:space="preserve">
+    <value>Non inclus dans</value>
+  </data>
+  <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
+    <value>Le stock actuel est inférieur à % de zone rouge, tel que défini par le niveau d’alerte de stock dans le profil de buffer (ou le niveau par défaut système)</value>
+  </data>
+  <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
+    <value>Le stock actuel est inférieur ou égal au top du rouge (ToR)</value>
+  </data>
+  <data name="RunningBalance" xml:space="preserve">
+    <value>Stock projeté</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Enregistrer</value>
+  </data>
+  <data name="SODemand" xml:space="preserve">
+    <value>Besoin sur Vente</value>
+  </data>
+  <data name="Source" xml:space="preserve">
+    <value>Source</value>
+  </data>
+  <data name="SPIKE" xml:space="preserve">
+    <value>#NAME?</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>Date de Début</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Statut</value>
+  </data>
+  <data name="Status3" xml:space="preserve">
+    <value>Statut 3</value>
+  </data>
+  <data name="Status4" xml:space="preserve">
+    <value>Statut 4 </value>
+  </data>
+  <data name="StockOut" xml:space="preserve">
+    <value>RUPTURE</value>
+  </data>
+  <data name="StockOutWithDemand" xml:space="preserve">
+    <value>RUTURE AVEC BESOIN</value>
+  </data>
+  <data name="SupplyOrderNote" xml:space="preserve">
+    <value>Note sur l'ordre d'appro</value>
+  </data>
+  <data name="SupplyOrders" xml:space="preserve">
+    <value>Ordre d'Appro</value>
+  </data>
+  <data name="TopOfGreen" xml:space="preserve">
+    <value>Top du Vert</value>
+  </data>
+  <data name="TopOfRed" xml:space="preserve">
+    <value>Top du Rouge</value>
+  </data>
+  <data name="TopOfYellow" xml:space="preserve">
+    <value>Top du Jaune</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="Vendor" xml:space="preserve">
+    <value>Fournisseur</value>
+  </data>
+  <data name="VendorID" xml:space="preserve">
+    <value>ID Fournisseur</value>
+  </data>
+  <data name="WODemand" xml:space="preserve">
+    <value>Besoin sur OF</value>
+  </data>
+  <data name="Yellow" xml:space="preserve">
+    <value>Jaune</value>
+  </data>
+</root>

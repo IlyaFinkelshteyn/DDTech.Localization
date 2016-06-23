@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AfterDeployment" xml:space="preserve">
+    <value>Après le déploiement</value>
+  </data>
+  <data name="AfterDeploymentAvailabeStock" xml:space="preserve">
+    <value>Après (flux dispo)</value>
+  </data>
+  <data name="AfterDeploymentPercentOfTopOfGreen" xml:space="preserve">
+    <value>Après % ToV</value>
+  </data>
+  <data name="AvailableToDeploy" xml:space="preserve">
+    <value>Disponible à déployer</value>
+  </data>
+  <data name="BeforeDeployment" xml:space="preserve">
+    <value>Avant le déploiement</value>
+  </data>
+  <data name="BeforeDeploymentAvailableStock" xml:space="preserve">
+    <value>Avant</value>
+  </data>
+  <data name="BeforeDeploymentPercentOfTopOfGreen" xml:space="preserve">
+    <value>Avant % vert</value>
+  </data>
+  <data name="CurrentWorkOrders" xml:space="preserve">
+    <value>OF actuels</value>
+  </data>
+  <data name="DefaultExportType" xml:space="preserve">
+    <value>Type d'exportation par défaut</value>
+  </data>
+  <data name="DemandWindowDays" xml:space="preserve">
+    <value>Fenêtre de demande (jours)</value>
+  </data>
+  <data name="DeployedTo" xml:space="preserve">
+    <value>Déployé au</value>
+  </data>
+  <data name="DeploymentMode" xml:space="preserve">
+    <value>Mode de déploiement</value>
+  </data>
+  <data name="DeploymentMode_Direct" xml:space="preserve">
+    <value>Direct</value>
+  </data>
+  <data name="DeploymentMode_Hub" xml:space="preserve">
+    <value>Hub</value>
+  </data>
+  <data name="DeploymentRequirement" xml:space="preserve">
+    <value>Besoin à déployer</value>
+  </data>
+  <data name="Destination" xml:space="preserve">
+    <value>Destination</value>
+  </data>
+  <data name="DestinationDetails" xml:space="preserve">
+    <value>Détail par destination</value>
+  </data>
+  <data name="Destinations" xml:space="preserve">
+    <value>Destinations</value>
+  </data>
+  <data name="Detail" xml:space="preserve">
+    <value>Détail</value>
+  </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>Le module de déploiement stock est actuellement désactivé.</value>
+  </data>
+  <data name="ExportType" xml:space="preserve">
+    <value>Type d'exportation</value>
+  </data>
+  <data name="ExportType_CSV" xml:space="preserve">
+    <value>CSV</value>
+  </data>
+  <data name="ExportType_DLXP" xml:space="preserve">
+    <value>DLXP</value>
+  </data>
+  <data name="GridDestinationDetails" xml:space="preserve">
+    <value>SDM : Détail par destination</value>
+  </data>
+  <data name="GridDestinationSummary" xml:space="preserve">
+    <value>SDM : Résumé par destination</value>
+  </data>
+  <data name="GridSources" xml:space="preserve">
+    <value>SDM : Origine</value>
+  </data>
+  <data name="Holdback" xml:space="preserve">
+    <value>Qté à conserver</value>
+  </data>
+  <data name="IncludeIssued" xml:space="preserve">
+    <value>Inclure les sorties de stock dans la Qté à conserver</value>
+  </data>
+  <data name="IssuedInventory" xml:space="preserve">
+    <value>Sortie de stock</value>
+  </data>
+  <data name="LookAheadDays" xml:space="preserve">
+    <value>Horizon de prise en compte des ordres</value>
+  </data>
+  <data name="MinimumHoldbackPercentOfRed" xml:space="preserve">
+    <value>% de Qté minimale à conserver</value>
+  </data>
+  <data name="NoSourceSelected" xml:space="preserve">
+    <value>Pas de site d'origine sélectionné</value>
+  </data>
+  <data name="OrderMultipleAdjustment" xml:space="preserve">
+    <value>Ajustement au multiple</value>
+  </data>
+  <data name="Override" xml:space="preserve">
+    <value>Substituez</value>
+  </data>
+  <data name="QualifiedDemand" xml:space="preserve">
+    <value>Demande qualifiée</value>
+  </data>
+  <data name="ResetOverride" xml:space="preserve">
+    <value>Annulation du rétablissement</value>
+  </data>
+  <data name="Settings_DecimalPlacesForCalculations" xml:space="preserve">
+    <value>Décimales à utiliser pour les calculs</value>
+  </data>
+  <data name="Settings_Disabled" xml:space="preserve">
+    <value>Le module de déploiement stock est désactivé</value>
+  </data>
+  <data name="Settings_ExportFileNameBase" xml:space="preserve">
+    <value>Nom de fichier d'exportation</value>
+  </data>
+  <data name="Settings_MinimumHoldbackPercentOfRed_Desc" xml:space="preserve">
+    <value>(Déploiement hub uniquement)</value>
+  </data>
+  <data name="Settings_SourceOverride" xml:space="preserve">
+    <value>remplacement de l'origine</value>
+  </data>
+  <data name="Settings_SourceUnitFieldNum" xml:space="preserve">
+    <value>Champ personnalisé pour le site d'origine</value>
+  </data>
+  <data name="Settings_UsingShared" xml:space="preserve">
+    <value>Utilise les paramètres par défaut</value>
+  </data>
+  <data name="SharedSettings" xml:space="preserve">
+    <value>Paramètres par défaut</value>
+  </data>
+  <data name="Shortfall" xml:space="preserve">
+    <value>Quantité manquante</value>
+  </data>
+  <data name="Source" xml:space="preserve">
+    <value>Origine</value>
+  </data>
+  <data name="SourceDetails" xml:space="preserve">
+    <value>Détails du site d'origine</value>
+  </data>
+  <data name="SourceDetails_SelectOne" xml:space="preserve">
+    <value>Veuillez sélectionner un site d'origine</value>
+  </data>
+  <data name="SourceLocation" xml:space="preserve">
+    <value>Site d'origine</value>
+  </data>
+  <data name="SourceProperties" xml:space="preserve">
+    <value>Propriétés</value>
+  </data>
+  <data name="Sources" xml:space="preserve">
+    <value>Origine</value>
+  </data>
+  <data name="SourceSettings" xml:space="preserve">
+    <value>Paramètres du site d'origine</value>
+  </data>
+  <data name="StockDeploymentStr" xml:space="preserve">
+    <value>Déploiement de stock</value>
+  </data>
+  <data name="Summary" xml:space="preserve">
+    <value>Résumé</value>
+  </data>
+  <data name="TotalDeployed" xml:space="preserve">
+    <value>Total déployé</value>
+  </data>
+  <data name="TotalDeployedToBuffers" xml:space="preserve">
+    <value>Total déployé sur buffer</value>
+  </data>
+</root>

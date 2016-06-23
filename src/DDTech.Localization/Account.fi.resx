@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ChangeUserPwd_Body" xml:space="preserve">
+    <value>&lt;p&gt;&lt;%UserName%&gt;,&lt;/p&gt;
+&lt;p&gt;Salasanaa on äskettäin muutettu. Jos et aloittaa salasanan muuttaminen, ota välittömästi yhteyttä järjestelmänvalvojaan.&lt;/p&gt;
+&lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;"&gt;&lt;%SiteURL%&gt;&lt;/a&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="ChangeUserPwd_Subject" xml:space="preserve">
+    <value>RPlus salasanan vaihto</value>
+  </data>
+  <data name="EmailAddress" xml:space="preserve">
+    <value>Sähköpostiosoite</value>
+  </data>
+  <data name="Error_CannotResetPassword" xml:space="preserve">
+    <value>Virhe salasanan palauttamisessa.</value>
+  </data>
+  <data name="Error_FailedEmail" xml:space="preserve">
+    <value>Virhe lähetettäessä sähköpostia.</value>
+  </data>
+  <data name="Error_FailedLogin" xml:space="preserve">
+    <value>Kirjautuminen ei onnistunut. Yritä uudelleen.</value>
+  </data>
+  <data name="Error_PasswordRequired" xml:space="preserve">
+    <value>Salasana on pakollinen.</value>
+  </data>
+  <data name="Error_UnknownUser" xml:space="preserve">
+    <value>Tuntematon käyttäjä</value>
+  </data>
+  <data name="Error_UserDisabled" xml:space="preserve">
+    <value>Tilisi on poistettu käytöstä</value>
+  </data>
+  <data name="Error_UserNameRequired" xml:space="preserve">
+    <value>Käyttäjänimi vaaditaan.</value>
+  </data>
+  <data name="ForgotPassword" xml:space="preserve">
+    <value>Unohditko käyttäjänimesi tai salasanasi?</value>
+  </data>
+  <data name="ForgotPassword_Confirm" xml:space="preserve">
+    <value>Tarkista sähköpostiisi ohjeet salasanan.</value>
+  </data>
+  <data name="ForgotPassword_Email" xml:space="preserve">
+    <value>Mikä on sähköpostiosoitteesi?</value>
+  </data>
+  <data name="ForgotPassword_Username" xml:space="preserve">
+    <value>Mikä on käyttäjätunnus?</value>
+  </data>
+  <data name="LabelKeepLoggedIn" xml:space="preserve">
+    <value>Pidä minut sisäänkirjautuneena</value>
+  </data>
+  <data name="LabelPassword" xml:space="preserve">
+    <value>Salasana:</value>
+  </data>
+  <data name="LabelUserName" xml:space="preserve">
+    <value>Käyttäjätunnus:</value>
+  </data>
+  <data name="LoggedIn" xml:space="preserve">
+    <value>Kirjautunut</value>
+  </data>
+  <data name="LoggedOut" xml:space="preserve">
+    <value>Sinut on kirjattu.</value>
+  </data>
+  <data name="LogIn" xml:space="preserve">
+    <value>Kirjaudu sisään</value>
+  </data>
+  <data name="LogOut" xml:space="preserve">
+    <value>Kirjaudu ulos</value>
+  </data>
+  <data name="Manage_Account_SignedInAs" xml:space="preserve">
+    <value>Tällä hetkellä on kirjautuneena, kuin &lt;b&gt;{0}&lt;/b&gt;.</value>
+  </data>
+  <data name="Manage_ChangePassword" xml:space="preserve">
+    <value>Vaihda salasana</value>
+  </data>
+  <data name="Manage_CreatePassword" xml:space="preserve">
+    <value>Luo salasana</value>
+  </data>
+  <data name="Manage_CreatePassword_Message" xml:space="preserve">
+    <value>Sinulla ei ole paikallisen käyttäjänimen ja salasanan tämän sivuston. Lisää paikallinen tili, jotta voit kirjautua sisään ilman ulkoinen johdonmukaisuus.</value>
+  </data>
+  <data name="Manage_Message_ChangePasswordSuccess" xml:space="preserve">
+    <value>Salasana vaihdettu.</value>
+  </data>
+  <data name="Manage_Message_Error" xml:space="preserve">
+    <value>Ilmeni virhe tehdä muutoksia tiliisi.</value>
+  </data>
+  <data name="Manage_Message_RemoveLoginSuccess" xml:space="preserve">
+    <value>Olet poistanut ulkoinen johdonmukaisuus.</value>
+  </data>
+  <data name="Manage_Message_SetPasswordSuccess" xml:space="preserve">
+    <value>Olet määrittänyt onnistuneesti salasanan tilillesi.</value>
+  </data>
+  <data name="Manage_SetPassword" xml:space="preserve">
+    <value>Aseta salasana</value>
+  </data>
+  <data name="Manage_YourAccount" xml:space="preserve">
+    <value>Tilisi</value>
+  </data>
+  <data name="NewUserPwd_Body" xml:space="preserve">
+    <value>&lt;p&gt;Voit kirjautua sivustoon, seuraava URL-osoite ja käyttäjätunnus:&lt;/p&gt;
+&lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;"&gt;&lt;%SiteURL%&gt;&lt;/a&gt;&lt;br&gt;Käyttäjä: &lt;%UserName%&gt;&lt;/p&gt;
+&lt;p&gt;Ennen tiliäsi, voit määrittää salasanan määrittäminen:&lt;/p&gt;
+&lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;"&gt;&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;&lt;/a&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="NewUserPwd_Subject" xml:space="preserve">
+    <value>Huomautus uuden RPlus-käyttäjälle</value>
+  </data>
+  <data name="Password_Confirm" xml:space="preserve">
+    <value>Vahvista salasana</value>
+  </data>
+  <data name="Password_Current" xml:space="preserve">
+    <value>Nykyinen salasana</value>
+  </data>
+  <data name="Password_Expired" xml:space="preserve">
+    <value>Salasanasi on vanhentunut. Ennen kuin voit käyttää tätä järjestelmää, Palauta salasana. Tarkista sähköpostiisi ohjeet salasanan.</value>
+  </data>
+  <data name="Password_New" xml:space="preserve">
+    <value>Uusi salasana</value>
+  </data>
+  <data name="PasswordPolicy" xml:space="preserve">
+    <value>Tunnussana pitäisi:</value>
+  </data>
+  <data name="PasswordPolicy_MinimumLength" xml:space="preserve">
+    <value>oltava vähintään {0} merkkiä</value>
+  </data>
+  <data name="PasswordPolicy_RequireDigit" xml:space="preserve">
+    <value>sisältää vähintään 1 numero (0-9)</value>
+  </data>
+  <data name="PasswordPolicy_RequireLowerCase" xml:space="preserve">
+    <value>sisältää vähintään 1 kirjain (-z)</value>
+  </data>
+  <data name="PasswordPolicy_RequireNonDigitOrLetter" xml:space="preserve">
+    <value>sisältää vähintään 1-symbolin (ei numero tai kirjain a – ö)</value>
+  </data>
+  <data name="PasswordPolicy_RequireUpperCase" xml:space="preserve">
+    <value>sisältää vähintään 1 suuraakkoset (A-Z)</value>
+  </data>
+  <data name="PleaseEnterPassword" xml:space="preserve">
+    <value>Kirjoita käyttäjänimesi ja salasanasi.</value>
+  </data>
+  <data name="RememberMe" xml:space="preserve">
+    <value>Muista minut seuraavalla kerralla.</value>
+  </data>
+  <data name="RequestPasswordReset" xml:space="preserve">
+    <value>Pyytää salasanan</value>
+  </data>
+  <data name="ResetPassword" xml:space="preserve">
+    <value>Salasanan vaihtaminen</value>
+  </data>
+  <data name="ResetPassword_Confirm" xml:space="preserve">
+    <value>Salasanasi on muutettu.</value>
+  </data>
+  <data name="ResetPassword_GetToken" xml:space="preserve">
+    <value>Napsauttamalla yritä yritä uudelleen.</value>
+  </data>
+  <data name="ResetPassword_InvalidToken" xml:space="preserve">
+    <value>Suojauksen tunnussanoma on virheellinen tai ei voi käyttää salasanan vaihtaminen.</value>
+  </data>
+  <data name="ResetPassword_SetPassword" xml:space="preserve">
+    <value>Aseta uusi salasana</value>
+  </data>
+  <data name="ResetUserPwd_Body" xml:space="preserve">
+    <value>&lt;p&gt;&lt;%UserName%&gt;,&lt;/p&gt;
+&lt;p&gt;Tilisi salasana on pyydetty nollattava. Jos et aloittaa nyt kuluva palauttaa, ota välittömästi yhteyttä järjestelmänvalvojaan. Asettaa uuden salasanan tilillesi käyttämällä alla olevaa linkkiä:&lt;/p&gt;
+&lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;"&gt;&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;&lt;/a&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="ResetUserPwd_Subject" xml:space="preserve">
+    <value>RPlus salasanan</value>
+  </data>
+  <data name="SignInToContinue" xml:space="preserve">
+    <value>Kirjaudu sisään jatkaaksesi</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Käyttäjätunnus</value>
+  </data>
+</root>

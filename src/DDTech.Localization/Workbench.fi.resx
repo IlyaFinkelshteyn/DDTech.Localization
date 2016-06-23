@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="120Days" xml:space="preserve">
+    <value>120 päivää</value>
+  </data>
+  <data name="13Weeks" xml:space="preserve">
+    <value>13 viikkoa</value>
+  </data>
+  <data name="150Days" xml:space="preserve">
+    <value>150 päivää</value>
+  </data>
+  <data name="15Days" xml:space="preserve">
+    <value>15 päivää</value>
+  </data>
+  <data name="17Weeks" xml:space="preserve">
+    <value>17 viikkoa</value>
+  </data>
+  <data name="180Days" xml:space="preserve">
+    <value>180 päivää</value>
+  </data>
+  <data name="22Weeks" xml:space="preserve">
+    <value>22 viikkoa</value>
+  </data>
+  <data name="26Weeks" xml:space="preserve">
+    <value>26 viikkoa</value>
+  </data>
+  <data name="30Days" xml:space="preserve">
+    <value>30 päivää</value>
+  </data>
+  <data name="60Days" xml:space="preserve">
+    <value>60 päivää</value>
+  </data>
+  <data name="90Days" xml:space="preserve">
+    <value>90 päivää</value>
+  </data>
+  <data name="9Weeks" xml:space="preserve">
+    <value>9 viikkoa</value>
+  </data>
+  <data name="AcceptSelectedOrders" xml:space="preserve">
+    <value>Hyväksy valitut tilaukset</value>
+  </data>
+  <data name="AllActivity" xml:space="preserve">
+    <value>Kaikki toiminta</value>
+  </data>
+  <data name="Apply" xml:space="preserve">
+    <value>Sovelletaan</value>
+  </data>
+  <data name="AssignedLocation" xml:space="preserve">
+    <value>Määritetty sijainti:</value>
+  </data>
+  <data name="BillOfMaterials" xml:space="preserve">
+    <value>Tuoterakenne</value>
+  </data>
+  <data name="Buffered" xml:space="preserve">
+    <value>Puskuroitu</value>
+  </data>
+  <data name="BufferSize" xml:space="preserve">
+    <value>Puskurikoko</value>
+  </data>
+  <data name="BufferSizing" xml:space="preserve">
+    <value>Puskurin koon</value>
+  </data>
+  <data name="BufferTrend" xml:space="preserve">
+    <value>Puskurin suuntaus</value>
+  </data>
+  <data name="BufferValuesIncompatibleWithChart" xml:space="preserve">
+    <value>Puskuri arvot ristiriidassa tekee kaavion.</value>
+  </data>
+  <data name="Button_CreateCustomOrder" xml:space="preserve">
+    <value>Luo mukautettu järjestys</value>
+  </data>
+  <data name="ClearSelection" xml:space="preserve">
+    <value>Poista valinta</value>
+  </data>
+  <data name="CollapseAll" xml:space="preserve">
+    <value>Kutista kaikki</value>
+  </data>
+  <data name="Column" xml:space="preserve">
+    <value>Sarake</value>
+  </data>
+  <data name="ColumnDisplaySettings" xml:space="preserve">
+    <value>Sarakkeen näyttöasetukset</value>
+  </data>
+  <data name="Committed" xml:space="preserve">
+    <value>Sitoutunut</value>
+  </data>
+  <data name="CreateOrder" xml:space="preserve">
+    <value>Luo tilaus</value>
+  </data>
+  <data name="CurrentPAFIs" xml:space="preserve">
+    <value>Nykyinen PAF on:</value>
+  </data>
+  <data name="CurrentView" xml:space="preserve">
+    <value>Nykyinen näkymä</value>
+  </data>
+  <data name="Customer" xml:space="preserve">
+    <value>Asiakkaan</value>
+  </data>
+  <data name="CustomerID" xml:space="preserve">
+    <value>Asiakkaan tunnus</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Päivämäärä</value>
+  </data>
+  <data name="DaysConsumption" xml:space="preserve">
+    <value>Päivän kulutus</value>
+  </data>
+  <data name="DaysCovered" xml:space="preserve">
+    <value>Päivää kattaa</value>
+  </data>
+  <data name="DaysEarly" xml:space="preserve">
+    <value> päivät jo</value>
+  </data>
+  <data name="DaysLate" xml:space="preserve">
+    <value> päivää myöhässä</value>
+  </data>
+  <data name="DemandAllocations" xml:space="preserve">
+    <value>Kysynnän kohdistukset</value>
+  </data>
+  <data name="DescriptionLabel" xml:space="preserve">
+    <value>Kuvaus</value>
+  </data>
+  <data name="Display" xml:space="preserve">
+    <value>Näyttö</value>
+  </data>
+  <data name="DisplaySettings" xml:space="preserve">
+    <value>Näyttöasetukset</value>
+  </data>
+  <data name="DueDate" xml:space="preserve">
+    <value>Eräpäivä</value>
+  </data>
+  <data name="ExpandAll" xml:space="preserve">
+    <value>Laajenna kaikki</value>
+  </data>
+  <data name="ExpectedAvgInventory" xml:space="preserve">
+    <value>Oletettu Avg varasto</value>
+  </data>
+  <data name="Exported" xml:space="preserve">
+    <value>Viedä</value>
+  </data>
+  <data name="ExportPage" xml:space="preserve">
+    <value>Viedä sivun</value>
+  </data>
+  <data name="Filter" xml:space="preserve">
+    <value>Suodatin</value>
+  </data>
+  <data name="Filters" xml:space="preserve">
+    <value>Suodattimet:</value>
+  </data>
+  <data name="FixedLeadTime" xml:space="preserve">
+    <value>Kiinteä Toimitusaika</value>
+  </data>
+  <data name="GoToPage" xml:space="preserve">
+    <value>Siirry sivulle:</value>
+  </data>
+  <data name="Green" xml:space="preserve">
+    <value>Vihreä</value>
+  </data>
+  <data name="GreenZone" xml:space="preserve">
+    <value>Green Zone</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>TUNNUS</value>
+  </data>
+  <data name="Inventory" xml:space="preserve">
+    <value>Varaston</value>
+  </data>
+  <data name="InventoryManagement" xml:space="preserve">
+    <value>Varastonhallinta</value>
+  </data>
+  <data name="LastNDays" xml:space="preserve">
+    <value>Viimeisinä __days__</value>
+  </data>
+  <data name="LastNWeeks" xml:space="preserve">
+    <value>__Weeks__ viikkoa</value>
+  </data>
+  <data name="Late" xml:space="preserve">
+    <value>Myöhään</value>
+  </data>
+  <data name="LeadTime" xml:space="preserve">
+    <value>Toimitusaika</value>
+  </data>
+  <data name="LeadTimeCompression" xml:space="preserve">
+    <value>Aikataulu säätö {0} päivän takia johtaa työajan lyhentämisestä.</value>
+  </data>
+  <data name="Legend" xml:space="preserve">
+    <value>Kuvateksti:</value>
+  </data>
+  <data name="LocationFilter" xml:space="preserve">
+    <value>Sijaintisuodatus</value>
+  </data>
+  <data name="LongestLeg" xml:space="preserve">
+    <value>Pisin jalka</value>
+  </data>
+  <data name="Material" xml:space="preserve">
+    <value>Materiaali</value>
+  </data>
+  <data name="MaterialFilter" xml:space="preserve">
+    <value>Materiaalin suodatin</value>
+  </data>
+  <data name="Max" xml:space="preserve">
+    <value>Max</value>
+  </data>
+  <data name="Min" xml:space="preserve">
+    <value>Min</value>
+  </data>
+  <data name="Min/Max" xml:space="preserve">
+    <value>Min/Max</value>
+  </data>
+  <data name="NBAndLTMPartsNoSizingValues" xml:space="preserve">
+    <value>Puskuroimaton ja johtaa aikaa ylläpito on mitoitus arvoja.</value>
+  </data>
+  <data name="NonBuffered" xml:space="preserve">
+    <value>Ei puskuroida</value>
+  </data>
+  <data name="NotEnoughHistoryForChart" xml:space="preserve">
+    <value>Tämä osa ei ole tarpeeksi tietoja tuottaa analytics-kaavio</value>
+  </data>
+  <data name="Notes" xml:space="preserve">
+    <value>Muistiinpanot</value>
+  </data>
+  <data name="of" xml:space="preserve">
+    <value> ja </value>
+  </data>
+  <data name="OnHandInventory" xml:space="preserve">
+    <value>Varasto</value>
+  </data>
+  <data name="OpenPO" xml:space="preserve">
+    <value>Avoimet OT: T</value>
+  </data>
+  <data name="OpenWO" xml:space="preserve">
+    <value>Avaa WO</value>
+  </data>
+  <data name="OrderCycleOverride" xml:space="preserve">
+    <value>Tilauksen aikana ohitus</value>
+  </data>
+  <data name="OrderDueDate" xml:space="preserve">
+    <value>Tilaa asianmukaisesti päivämäärä</value>
+  </data>
+  <data name="OrderNotes" xml:space="preserve">
+    <value>Tilaa Notes:</value>
+  </data>
+  <data name="OrderNumber" xml:space="preserve">
+    <value>Tilausnumero</value>
+  </data>
+  <data name="OrderPolicy" xml:space="preserve">
+    <value>Tilauksen tapa</value>
+  </data>
+  <data name="OrderQuantity" xml:space="preserve">
+    <value>Tilausmäärä</value>
+  </data>
+  <data name="OutSourcedCost" xml:space="preserve">
+    <value>Raaka kustannukset</value>
+  </data>
+  <data name="Part" xml:space="preserve">
+    <value>Osa</value>
+  </data>
+  <data name="PartActivity" xml:space="preserve">
+    <value>Osa toimintaa</value>
+  </data>
+  <data name="PartAnalytics" xml:space="preserve">
+    <value>Osa Analytics</value>
+  </data>
+  <data name="PartDetail" xml:space="preserve">
+    <value>Osan ominaisuudet</value>
+  </data>
+  <data name="PartTypeFilter" xml:space="preserve">
+    <value>Osa suodatus</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>Vireillä</value>
+  </data>
+  <data name="Pinned" xml:space="preserve">
+    <value>Puristuksiin</value>
+  </data>
+  <data name="PlannerFilter" xml:space="preserve">
+    <value>Suunnittelija suodatin</value>
+  </data>
+  <data name="PlannerLabel" xml:space="preserve">
+    <value>Suunnittelija:</value>
+  </data>
+  <data name="PlannersWorkBench" xml:space="preserve">
+    <value>Suunnittelijat työtasolla</value>
+  </data>
+  <data name="Priority:" xml:space="preserve">
+    <value>Painopiste:</value>
+  </data>
+  <data name="PriorityFilter" xml:space="preserve">
+    <value>Ensisijainen suodatin</value>
+  </data>
+  <data name="PromiseDate" xml:space="preserve">
+    <value>Lupaus päivämäärä</value>
+  </data>
+  <data name="Quantity" xml:space="preserve">
+    <value>Määrä</value>
+  </data>
+  <data name="RawMaterialCost" xml:space="preserve">
+    <value>Raaka-ainekustannukset</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Punainen</value>
+  </data>
+  <data name="RedZone" xml:space="preserve">
+    <value>Punainen vyöhyke</value>
+  </data>
+  <data name="ReorderQty" xml:space="preserve">
+    <value>Järjestä kpl</value>
+  </data>
+  <data name="RequestDate" xml:space="preserve">
+    <value>Pyynnön päivämäärä</value>
+  </data>
+  <data name="RPlusLeadTime" xml:space="preserve">
+    <value>R+ läpimenoaika</value>
+  </data>
+  <data name="RunningBalance" xml:space="preserve">
+    <value>Juokseva saldo</value>
+  </data>
+  <data name="SelectPriorityCode" xml:space="preserve">
+    <value>Valitse Priority-koodi</value>
+  </data>
+  <data name="ShowRows" xml:space="preserve">
+    <value>Näytä rivit:</value>
+  </data>
+  <data name="SODemand" xml:space="preserve">
+    <value>Tallennusratkaisujen</value>
+  </data>
+  <data name="Source" xml:space="preserve">
+    <value>Lähde</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>Alkamispäivä</value>
+  </data>
+  <data name="StartOver" xml:space="preserve">
+    <value>alusta</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Tila</value>
+  </data>
+  <data name="SubmitOrder" xml:space="preserve">
+    <value>Lähetä tilaus</value>
+  </data>
+  <data name="SupplyOrders" xml:space="preserve">
+    <value>Toimitustilaukset</value>
+  </data>
+  <data name="TopOfZone" xml:space="preserve">
+    <value>Alkuun Zone</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Tyyppi</value>
+  </data>
+  <data name="UnfilteredExport" xml:space="preserve">
+    <value>Suodattamaton vienti</value>
+  </data>
+  <data name="Units" xml:space="preserve">
+    <value>Yksiköt</value>
+  </data>
+  <data name="Vendor" xml:space="preserve">
+    <value>Toimittajan</value>
+  </data>
+  <data name="WODemand" xml:space="preserve">
+    <value>WO kysynnän</value>
+  </data>
+  <data name="Workbench_ApproveOrder_Button_Approve" xml:space="preserve">
+    <value>Hyväksy tilaukset</value>
+  </data>
+  <data name="Workbench_ApproveOrder_Title" xml:space="preserve">
+    <value>Hyväksy Suositellut tilaukset</value>
+  </data>
+  <data name="Workbench_ApproveOrders" xml:space="preserve">
+    <value>Hyväksyä toimenpideviestin</value>
+  </data>
+  <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
+    <value>Haluatko varmasti jatkaa?</value>
+  </data>
+  <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
+    <value>"Anna tilausmäärä"</value>
+  </data>
+  <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
+    <value>Määrä on suurempi kuin suositeltu arvo</value>
+  </data>
+  <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
+    <value>Tietojen vieminen</value>
+  </data>
+  <data name="Workbench_Menu_Group_Help" xml:space="preserve">
+    <value>Apua</value>
+  </data>
+  <data name="Workbench_Menu_ViewInLegacyWorkbench" xml:space="preserve">
+    <value>Näytä Legacy Workbench</value>
+  </data>
+  <data name="Workbench_NoBillOfMaterial" xml:space="preserve">
+    <value>Osa on ei ole tuoterakenne</value>
+  </data>
+  <data name="Workbench_NoMatchingPartsFound" xml:space="preserve">
+    <value>Ei vastaavia osia löytyy</value>
+  </data>
+  <data name="Workbench_NoNotes" xml:space="preserve">
+    <value>Osa on ei muistiinpanoja</value>
+  </data>
+  <data name="Workbench_NoPartDetails" xml:space="preserve">
+    <value>Osa on tehdä tiedot</value>
+  </data>
+  <data name="Workbench_PartAnalytics_AvailableRanges" xml:space="preserve">
+    <value>Vapaita alueita</value>
+  </data>
+  <data name="Workbench_PartAnalytics_CurrentRange" xml:space="preserve">
+    <value>Nykyisen alueen</value>
+  </data>
+  <data name="Workbench_PartAnalytics_NonBufferedPartsUnsupported" xml:space="preserve">
+    <value>Puskuroimaton osia ei tueta</value>
+  </data>
+  <data name="Workbench_PartAnalytics_NotEnoughHistory" xml:space="preserve">
+    <value>Ei riitä historian näyttää kaavion</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_Analytics" xml:space="preserve">
+    <value>Analytics</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_BillOfMaterial" xml:space="preserve">
+    <value>Tuoterakenne</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_BufferSizing" xml:space="preserve">
+    <value>Puskurin koon</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_Notes" xml:space="preserve">
+    <value>Muistiinpanot</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_Properties" xml:space="preserve">
+    <value>Ominaisuudet</value>
+  </data>
+  <data name="Workbench_PartProperties_InventoryMgmtTitle" xml:space="preserve">
+    <value>Varastonhallinta</value>
+  </data>
+  <data name="Workbench_PartProperties_Title" xml:space="preserve">
+    <value>Osan ominaisuudet</value>
+  </data>
+  <data name="Workbench_PartProperties_UDFTitle" xml:space="preserve">
+    <value>Käyttäjän määrittämien kenttien</value>
+  </data>
+  <data name="Workbench_PleaseSelectPart" xml:space="preserve">
+    <value>Valitse osa</value>
+  </data>
+  <data name="Workbench_RecommendationsMarkedForApproval" xml:space="preserve">
+    <value>Recommendation(s) merkitty hyväksyttäväksi</value>
+  </data>
+  <data name="Workbench_ResetFilters_Title" xml:space="preserve">
+    <value>Nollaa {0} aktiivinen suodattaa ja lajittelee?</value>
+  </data>
+  <data name="Yellow" xml:space="preserve">
+    <value>Keltainen</value>
+  </data>
+  <data name="YellowZone" xml:space="preserve">
+    <value>Keltaisella vyöhykkeellä</value>
+  </data>
+  <data name="YouCanAlso" xml:space="preserve">
+    <value>Voit myös</value>
+  </data>
+  <data name="ZoneSize" xml:space="preserve">
+    <value>Alueen kokoa</value>
+  </data>
+</root>

@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllSelected" xml:space="preserve">
+    <value>Tous sélectionnés</value>
+  </data>
+  <data name="BackgroundProcessing" xml:space="preserve">
+    <value>Un processus d'arrière-plan s'exécute.</value>
+  </data>
+  <data name="BackgroundProcessing_FeatureDisabled" xml:space="preserve">
+    <value>Cette fonctionnalité est désactivée jusqu'à la fin de l'exécution.</value>
+  </data>
+  <data name="Column" xml:space="preserve">
+    <value>Colonne</value>
+  </data>
+  <data name="ConfiguredTimeZone" xml:space="preserve">
+    <value>Fuseau horaire configuré</value>
+  </data>
+  <data name="DisplayLang_de" xml:space="preserve">
+    <value>Allemand</value>
+  </data>
+  <data name="DisplayLang_en" xml:space="preserve">
+    <value>Anglais</value>
+  </data>
+  <data name="DisplayLang_es" xml:space="preserve">
+    <value>Espagnol</value>
+  </data>
+  <data name="DisplayLang_es_419" xml:space="preserve">
+    <value>Espagnol (Amérique latine)</value>
+  </data>
+  <data name="DisplayLang_fi" xml:space="preserve">
+    <value>Finnois</value>
+  </data>
+  <data name="DisplayLang_fr" xml:space="preserve">
+    <value>Français</value>
+  </data>
+  <data name="DisplayLang_hu" xml:space="preserve">
+    <value>Hongrois</value>
+  </data>
+  <data name="DisplayLang_ko" xml:space="preserve">
+    <value>Coréen</value>
+  </data>
+  <data name="DisplayLang_ru" xml:space="preserve">
+    <value>Russe</value>
+  </data>
+  <data name="DisplayLang_tr" xml:space="preserve">
+    <value>Turc</value>
+  </data>
+  <data name="FilterDisabled" xml:space="preserve">
+    <value>Sélectionner</value>
+  </data>
+  <data name="Home_About_ApplicationLabel" xml:space="preserve">
+    <value>Application</value>
+  </data>
+  <data name="Home_About_VersionLabel" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="Home_Index_PageTitle" xml:space="preserve">
+    <value>Accueil</value>
+  </data>
+  <data name="LanguageDropDown_AvailableLanguages" xml:space="preserve">
+    <value>Langues disponibles</value>
+  </data>
+  <data name="LanguageDropDown_CurrentLanguage" xml:space="preserve">
+    <value>Langue actuelle</value>
+  </data>
+  <data name="Nav_About_Title" xml:space="preserve">
+    <value>A propos</value>
+  </data>
+  <data name="Nav_Account_Manage_Title" xml:space="preserve">
+    <value>Compte utilisateur</value>
+  </data>
+  <data name="Nav_Admin_GlobalSettings_Title" xml:space="preserve">
+    <value>Paramètres globaux</value>
+  </data>
+  <data name="Nav_Admin_MaterialRequirements_Title" xml:space="preserve">
+    <value>Calcul de besoins</value>
+  </data>
+  <data name="Nav_Admin_ProfileSettings_Title" xml:space="preserve">
+    <value>Paramètres du profil</value>
+  </data>
+  <data name="Nav_Admin_Settings_Title" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="Nav_Admin_Title" xml:space="preserve">
+    <value>Admin</value>
+  </data>
+  <data name="Nav_Admin_UserMgmt_Title" xml:space="preserve">
+    <value>Gestion des utilisateurs</value>
+  </data>
+  <data name="Nav_Alerts_CurrentSupplyOrderNotes" xml:space="preserve">
+    <value>Notes en cours</value>
+  </data>
+  <data name="Nav_Alerts_NoSupplyOrderNotes" xml:space="preserve">
+    <value>Aucune note</value>
+  </data>
+  <data name="Nav_Alerts_OutstandingSupplyOrderNotes" xml:space="preserve">
+    <value>Notes en cours</value>
+  </data>
+  <data name="Nav_Alerts_OverdueSupplyOrderNotes" xml:space="preserve">
+    <value>Notes en retard</value>
+  </data>
+  <data name="Nav_Alerts_Title" xml:space="preserve">
+    <value>Alertes</value>
+  </data>
+  <data name="Nav_AlertsCurrentInventory_Title" xml:space="preserve">
+    <value>Stock actuel</value>
+  </data>
+  <data name="Nav_AlertsLTMSummary_Title" xml:space="preserve">
+    <value>GD</value>
+  </data>
+  <data name="Nav_AlertsMSA_Title" xml:space="preserve">
+    <value>Alerte de synchronisation article</value>
+  </data>
+  <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
+    <value>Stock projeté</value>
+  </data>
+  <data name="Nav_BoM_Title" xml:space="preserve">
+    <value>Nomenclatures</value>
+  </data>
+  <data name="Nav_DataMgmt_Export_Title" xml:space="preserve">
+    <value>Exportation de données</value>
+  </data>
+  <data name="Nav_DataMgmt_Import_Title" xml:space="preserve">
+    <value>Importation de données</value>
+  </data>
+  <data name="Nav_DataMgmt_Title" xml:space="preserve">
+    <value>Données</value>
+  </data>
+  <data name="Nav_EditBufferProfile_Title" xml:space="preserve">
+    <value>Profils de buffer</value>
+  </data>
+  <data name="Nav_EditCalendar_Title" xml:space="preserve">
+    <value>Calendrier</value>
+  </data>
+  <data name="Nav_EditLocations_Title" xml:space="preserve">
+    <value>Site</value>
+  </data>
+  <data name="Nav_Editors_Title" xml:space="preserve">
+    <value>Editer</value>
+  </data>
+  <data name="Nav_EditPAF_Title" xml:space="preserve">
+    <value>Facteur d'ajustement planifié</value>
+  </data>
+  <data name="Nav_EditPart_Title" xml:space="preserve">
+    <value>Article</value>
+  </data>
+  <data name="Nav_Group_Admin" xml:space="preserve">
+    <value>Admin</value>
+  </data>
+  <data name="Nav_Group_Data" xml:space="preserve">
+    <value>Données</value>
+  </data>
+  <data name="Nav_Group_Editors" xml:space="preserve">
+    <value>Editer</value>
+  </data>
+  <data name="Nav_Group_Info" xml:space="preserve">
+    <value>Informations</value>
+  </data>
+  <data name="Nav_Group_Settings" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="Nav_Group_Tools" xml:space="preserve">
+    <value>Outils</value>
+  </data>
+  <data name="Nav_Home_Title" xml:space="preserve">
+    <value>Accueil</value>
+  </data>
+  <data name="Nav_Info_Title" xml:space="preserve">
+    <value>Informations</value>
+  </data>
+  <data name="Nav_Menu_NewBadge" xml:space="preserve">
+    <value>Nouveau!</value>
+  </data>
+  <data name="Nav_Menu_UpdatedBadge" xml:space="preserve">
+    <value>Mise à jour !</value>
+  </data>
+  <data name="Nav_PendingOrders_Title" xml:space="preserve">
+    <value>Commandes en attente</value>
+  </data>
+  <data name="Nav_Planner_Title" xml:space="preserve">
+    <value>Outils du gestionnaire</value>
+  </data>
+  <data name="Nav_PlannersDashboard_Title" xml:space="preserve">
+    <value>Tableau de bord R+</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_All_Title" xml:space="preserve">
+    <value>Tous</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Critical_Title" xml:space="preserve">
+    <value>Critique</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Custom_Title" xml:space="preserve">
+    <value>Personnalisé</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Green_Title" xml:space="preserve">
+    <value>Bas</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_OToG_Title" xml:space="preserve">
+    <value>ToV</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Red_Title" xml:space="preserve">
+    <value>Haut</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_RedNonBuffered_Title" xml:space="preserve">
+    <value>Haut (NB)</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Title" xml:space="preserve">
+    <value>Planification</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Yellow_Title" xml:space="preserve">
+    <value>Moyen</value>
+  </data>
+  <data name="Nav_ReadBufferSummary_Title" xml:space="preserve">
+    <value>Synthèse du buffer</value>
+  </data>
+  <data name="Nav_ReadBufferTrend_Title" xml:space="preserve">
+    <value>Historique du buffer</value>
+  </data>
+  <data name="Nav_ReadCritHighPlanner_Title" xml:space="preserve">
+    <value>Historique pour les articles "Critique et Haut" par planificateur</value>
+  </data>
+  <data name="Nav_ReadOtogPlanner_Title" xml:space="preserve">
+    <value>Historique "EToV" par planificateur</value>
+  </data>
+  <data name="Nav_ReadPartActivity_Title" xml:space="preserve">
+    <value>Activité de l'article</value>
+  </data>
+  <data name="Nav_ReadPartDistribution_Title" xml:space="preserve">
+    <value>Distribution des articles</value>
+  </data>
+  <data name="Nav_ReadStockOutDemandTrend_Title" xml:space="preserve">
+    <value>Rupture avec besoin</value>
+  </data>
+  <data name="Nav_ReadSumCritHigh_Title" xml:space="preserve">
+    <value>Somme des "Critique et Haut"</value>
+  </data>
+  <data name="Nav_ReadSumOfOtog_Title" xml:space="preserve">
+    <value>Somme d'EToV</value>
+  </data>
+  <data name="Nav_Reports_Title" xml:space="preserve">
+    <value>Rapports</value>
+  </data>
+  <data name="Nav_Search_Title" xml:space="preserve">
+    <value>Rechercher</value>
+  </data>
+  <data name="Nav_Settings_Title" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="Nav_Status_Title" xml:space="preserve">
+    <value>Statut</value>
+  </data>
+  <data name="Nav_StockDeployment_Title" xml:space="preserve">
+    <value>Déploiement de stock</value>
+  </data>
+  <data name="Nav_User_Settings_Title" xml:space="preserve">
+    <value>Paramètres utilisateur</value>
+  </data>
+  <data name="Never" xml:space="preserve">
+    <value>jamais</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>aucun</value>
+  </data>
+  <data name="NoneSelected" xml:space="preserve">
+    <value>Aucune sélection</value>
+  </data>
+  <data name="PartActivity_NoActivity" xml:space="preserve">
+    <value>Aucune activité pour cet article</value>
+  </data>
+  <data name="PartActivity_NoDemandAllocations" xml:space="preserve">
+    <value>Aucun besoin pour cet article</value>
+  </data>
+  <data name="PartActivity_NoSupplyOrders" xml:space="preserve">
+    <value>Aucun ordre pour cet article</value>
+  </data>
+  <data name="PartActivity_Tab_AllActivity" xml:space="preserve">
+    <value>Toutes les activités</value>
+  </data>
+  <data name="PartActivity_Tab_DemandAllocations" xml:space="preserve">
+    <value>Besoins</value>
+  </data>
+  <data name="PartActivity_Tab_SupplyOrders" xml:space="preserve">
+    <value>Ordres d'approvisionnement</value>
+  </data>
+  <data name="QuickActions" xml:space="preserve">
+    <value>Actions rapides</value>
+  </data>
+  <data name="SelectOne" xml:space="preserve">
+    <value>Sélectionnez</value>
+  </data>
+  <data name="ShowLess" xml:space="preserve">
+    <value>Réduire</value>
+  </data>
+  <data name="ShowMore" xml:space="preserve">
+    <value>afficher plus</value>
+  </data>
+  <data name="TimeZone_Server_Desc1" xml:space="preserve">
+    <value>Les heures affichées utilisent l'heure locale du site configuré</value>
+  </data>
+  <data name="TimeZone_Server_Desc2" xml:space="preserve">
+    <value>Les paramètres d’heure sont configurés dans la page Paramètres globaux</value>
+  </data>
+  <data name="TimeZoneType_Browser" xml:space="preserve">
+    <value>Fuseau horaire utilisateur (navigateur)</value>
+  </data>
+  <data name="TimeZoneType_Site" xml:space="preserve">
+    <value>Fuseau horaire régional configuré (Site)</value>
+  </data>
+  <data name="TimeZoneType_UTC" xml:space="preserve">
+    <value>Fuseau horaire du serveur (UTC)</value>
+  </data>
+</root>

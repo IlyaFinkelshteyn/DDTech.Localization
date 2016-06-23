@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllSelected" xml:space="preserve">
+    <value>모두 선택</value>
+  </data>
+  <data name="BackgroundProcessing" xml:space="preserve">
+    <value>백그라운드 프로세스가 실행되고 있습니다.</value>
+  </data>
+  <data name="BackgroundProcessing_FeatureDisabled" xml:space="preserve">
+    <value>이 기능은 실행 완료될 때까지 비활성화 됩니다.</value>
+  </data>
+  <data name="Column" xml:space="preserve">
+    <value>열</value>
+  </data>
+  <data name="ConfiguredTimeZone" xml:space="preserve">
+    <value>구성 된 표준 시간대</value>
+  </data>
+  <data name="DisplayLang_de" xml:space="preserve">
+    <value>독일어</value>
+  </data>
+  <data name="DisplayLang_en" xml:space="preserve">
+    <value>영어</value>
+  </data>
+  <data name="DisplayLang_es" xml:space="preserve">
+    <value>스페인어</value>
+  </data>
+  <data name="DisplayLang_es_419" xml:space="preserve">
+    <value>스페인어 (라틴 아메리카)</value>
+  </data>
+  <data name="DisplayLang_fi" xml:space="preserve">
+    <value>핀란드어</value>
+  </data>
+  <data name="DisplayLang_fr" xml:space="preserve">
+    <value>프랑스어</value>
+  </data>
+  <data name="DisplayLang_hu" xml:space="preserve">
+    <value>헝가리어</value>
+  </data>
+  <data name="DisplayLang_ko" xml:space="preserve">
+    <value>한국어</value>
+  </data>
+  <data name="DisplayLang_ru" xml:space="preserve">
+    <value>러시아어</value>
+  </data>
+  <data name="DisplayLang_tr" xml:space="preserve">
+    <value>터키어</value>
+  </data>
+  <data name="FilterDisabled" xml:space="preserve">
+    <value>필터 미사용</value>
+  </data>
+  <data name="Home_About_ApplicationLabel" xml:space="preserve">
+    <value>응용프로그램</value>
+  </data>
+  <data name="Home_About_VersionLabel" xml:space="preserve">
+    <value>버전</value>
+  </data>
+  <data name="Home_Index_PageTitle" xml:space="preserve">
+    <value>홈</value>
+  </data>
+  <data name="LanguageDropDown_AvailableLanguages" xml:space="preserve">
+    <value>사용가능한 언어</value>
+  </data>
+  <data name="LanguageDropDown_CurrentLanguage" xml:space="preserve">
+    <value>현재 언어</value>
+  </data>
+  <data name="Nav_About_Title" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="Nav_Account_Manage_Title" xml:space="preserve">
+    <value>사용자 사용자 ID</value>
+  </data>
+  <data name="Nav_Admin_GlobalSettings_Title" xml:space="preserve">
+    <value>글로벌 설정</value>
+  </data>
+  <data name="Nav_Admin_MaterialRequirements_Title" xml:space="preserve">
+    <value>자재 요구량</value>
+  </data>
+  <data name="Nav_Admin_ProfileSettings_Title" xml:space="preserve">
+    <value>프로 파일 설정</value>
+  </data>
+  <data name="Nav_Admin_Settings_Title" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="Nav_Admin_Title" xml:space="preserve">
+    <value>관리자</value>
+  </data>
+  <data name="Nav_Admin_UserMgmt_Title" xml:space="preserve">
+    <value>사용자 관리</value>
+  </data>
+  <data name="Nav_Alerts_CurrentSupplyOrderNotes" xml:space="preserve">
+    <value>현재 공급 순서 노트</value>
+  </data>
+  <data name="Nav_Alerts_NoSupplyOrderNotes" xml:space="preserve">
+    <value>아니 공급 순서 노트</value>
+  </data>
+  <data name="Nav_Alerts_OutstandingSupplyOrderNotes" xml:space="preserve">
+    <value>뛰어난 공급 순서 노트</value>
+  </data>
+  <data name="Nav_Alerts_OverdueSupplyOrderNotes" xml:space="preserve">
+    <value>기한 초과 공급 순서 노트</value>
+  </data>
+  <data name="Nav_Alerts_Title" xml:space="preserve">
+    <value>Alerts</value>
+  </data>
+  <data name="Nav_AlertsCurrentInventory_Title" xml:space="preserve">
+    <value>현재 재고</value>
+  </data>
+  <data name="Nav_AlertsLTMSummary_Title" xml:space="preserve">
+    <value>리드타임</value>
+  </data>
+  <data name="Nav_AlertsMSA_Title" xml:space="preserve">
+    <value>동기화</value>
+  </data>
+  <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
+    <value>예상품절</value>
+  </data>
+  <data name="Nav_BoM_Title" xml:space="preserve">
+    <value>BOM</value>
+  </data>
+  <data name="Nav_DataMgmt_Export_Title" xml:space="preserve">
+    <value>데이터 내보내기</value>
+  </data>
+  <data name="Nav_DataMgmt_Import_Title" xml:space="preserve">
+    <value>데이터 가져오기</value>
+  </data>
+  <data name="Nav_DataMgmt_Title" xml:space="preserve">
+    <value>데이터</value>
+  </data>
+  <data name="Nav_EditBufferProfile_Title" xml:space="preserve">
+    <value>버퍼프로파일</value>
+  </data>
+  <data name="Nav_EditCalendar_Title" xml:space="preserve">
+    <value>달력</value>
+  </data>
+  <data name="Nav_EditLocations_Title" xml:space="preserve">
+    <value>Location</value>
+  </data>
+  <data name="Nav_Editors_Title" xml:space="preserve">
+    <value>편집</value>
+  </data>
+  <data name="Nav_EditPAF_Title" xml:space="preserve">
+    <value>PAF</value>
+  </data>
+  <data name="Nav_EditPart_Title" xml:space="preserve">
+    <value>품목</value>
+  </data>
+  <data name="Nav_Group_Admin" xml:space="preserve">
+    <value>관리자</value>
+  </data>
+  <data name="Nav_Group_Data" xml:space="preserve">
+    <value>데이터</value>
+  </data>
+  <data name="Nav_Group_Editors" xml:space="preserve">
+    <value>Editors</value>
+  </data>
+  <data name="Nav_Group_Info" xml:space="preserve">
+    <value>정보</value>
+  </data>
+  <data name="Nav_Group_Settings" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="Nav_Group_Tools" xml:space="preserve">
+    <value>도구</value>
+  </data>
+  <data name="Nav_Home_Title" xml:space="preserve">
+    <value>홈</value>
+  </data>
+  <data name="Nav_Info_Title" xml:space="preserve">
+    <value>정보</value>
+  </data>
+  <data name="Nav_Menu_NewBadge" xml:space="preserve">
+    <value>New!</value>
+  </data>
+  <data name="Nav_Menu_UpdatedBadge" xml:space="preserve">
+    <value>Updated!</value>
+  </data>
+  <data name="Nav_PendingOrders_Title" xml:space="preserve">
+    <value>미확정오더</value>
+  </data>
+  <data name="Nav_Planner_Title" xml:space="preserve">
+    <value>계획 도구</value>
+  </data>
+  <data name="Nav_PlannersDashboard_Title" xml:space="preserve">
+    <value>R+ 대시보드</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_All_Title" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Critical_Title" xml:space="preserve">
+    <value>Critical</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Custom_Title" xml:space="preserve">
+    <value>Custom</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Green_Title" xml:space="preserve">
+    <value>Low</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_OToG_Title" xml:space="preserve">
+    <value>녹색의 상단</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Red_Title" xml:space="preserve">
+    <value>High</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_RedNonBuffered_Title" xml:space="preserve">
+    <value>긴급(NB)</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Title" xml:space="preserve">
+    <value>워크벤치</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Yellow_Title" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="Nav_ReadBufferSummary_Title" xml:space="preserve">
+    <value>버퍼 요약</value>
+  </data>
+  <data name="Nav_ReadBufferTrend_Title" xml:space="preserve">
+    <value>버퍼트렌드</value>
+  </data>
+  <data name="Nav_ReadCritHighPlanner_Title" xml:space="preserve">
+    <value>플래너별 Critical &amp; High</value>
+  </data>
+  <data name="Nav_ReadOtogPlanner_Title" xml:space="preserve">
+    <value>플래너별 OTOG 트렌드</value>
+  </data>
+  <data name="Nav_ReadPartActivity_Title" xml:space="preserve">
+    <value>품목 활동내역</value>
+  </data>
+  <data name="Nav_ReadPartDistribution_Title" xml:space="preserve">
+    <value>버퍼프로파일별 분포</value>
+  </data>
+  <data name="Nav_ReadStockOutDemandTrend_Title" xml:space="preserve">
+    <value>수요가 있는 품절 </value>
+  </data>
+  <data name="Nav_ReadSumCritHigh_Title" xml:space="preserve">
+    <value>Critical &amp; High 합계</value>
+  </data>
+  <data name="Nav_ReadSumOfOtog_Title" xml:space="preserve">
+    <value>OTOG 합계</value>
+  </data>
+  <data name="Nav_Reports_Title" xml:space="preserve">
+    <value>Reports</value>
+  </data>
+  <data name="Nav_Search_Title" xml:space="preserve">
+    <value>검색</value>
+  </data>
+  <data name="Nav_Settings_Title" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="Nav_Status_Title" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="Nav_StockDeployment_Title" xml:space="preserve">
+    <value>Stock Deployment</value>
+  </data>
+  <data name="Nav_User_Settings_Title" xml:space="preserve">
+    <value>사용자 설정</value>
+  </data>
+  <data name="Never" xml:space="preserve">
+    <value>never</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>none</value>
+  </data>
+  <data name="NoneSelected" xml:space="preserve">
+    <value>선택 없음</value>
+  </data>
+  <data name="PartActivity_NoActivity" xml:space="preserve">
+    <value>활동 내역 없음</value>
+  </data>
+  <data name="PartActivity_NoDemandAllocations" xml:space="preserve">
+    <value>해당 품목 수요할당 없음</value>
+  </data>
+  <data name="PartActivity_NoSupplyOrders" xml:space="preserve">
+    <value>해당 품목 공급오더 없음</value>
+  </data>
+  <data name="PartActivity_Tab_AllActivity" xml:space="preserve">
+    <value>모든 활동</value>
+  </data>
+  <data name="PartActivity_Tab_DemandAllocations" xml:space="preserve">
+    <value>수요 할당</value>
+  </data>
+  <data name="PartActivity_Tab_SupplyOrders" xml:space="preserve">
+    <value>공급 오더</value>
+  </data>
+  <data name="QuickActions" xml:space="preserve">
+    <value>Quick Actions</value>
+  </data>
+  <data name="SelectOne" xml:space="preserve">
+    <value>하나 선택</value>
+  </data>
+  <data name="ShowLess" xml:space="preserve">
+    <value>덜 보기</value>
+  </data>
+  <data name="ShowMore" xml:space="preserve">
+    <value>더 보기</value>
+  </data>
+  <data name="TimeZone_Server_Desc1" xml:space="preserve">
+    <value>표시 되는 시간 구성 된 사이트의 글로벌 시간 설정을 사용 하는</value>
+  </data>
+  <data name="TimeZone_Server_Desc2" xml:space="preserve">
+    <value>시간 설정은 전역 설정 페이지에서 구성 됩니다.</value>
+  </data>
+  <data name="TimeZoneType_Browser" xml:space="preserve">
+    <value>현재 사용자 시간대 (브라우저)</value>
+  </data>
+  <data name="TimeZoneType_Site" xml:space="preserve">
+    <value>구성 된 지역 시간대 (사이트)</value>
+  </data>
+  <data name="TimeZoneType_UTC" xml:space="preserve">
+    <value>서버 시간대 (UTC)</value>
+  </data>
+</root>

@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddANote" xml:space="preserve">
+    <value>Добавить примечание</value>
+  </data>
+  <data name="AddAReminder" xml:space="preserve">
+    <value>Добавить напоминание</value>
+  </data>
+  <data name="AdjustmentFactor" xml:space="preserve">
+    <value>Коэффициент сезонности (PAF)</value>
+  </data>
+  <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
+    <value>Просмотр в наследие оповещения</value>
+  </data>
+  <data name="AlertsStr" xml:space="preserve">
+    <value>Предупреждения</value>
+  </data>
+  <data name="AllActivity" xml:space="preserve">
+    <value>Все движения</value>
+  </data>
+  <data name="AvailableStock" xml:space="preserve">
+    <value>Доступный запас</value>
+  </data>
+  <data name="AvgDailyUsage" xml:space="preserve">
+    <value>Среднее дневное потребление:</value>
+  </data>
+  <data name="Buy" xml:space="preserve">
+    <value>Покупается</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="ClickToViewReminders" xml:space="preserve">
+    <value>Нажмите для просмотра напоминаний</value>
+  </data>
+  <data name="Committed" xml:space="preserve">
+    <value>Размещенный</value>
+  </data>
+  <data name="CurrentInventory" xml:space="preserve">
+    <value>Текущий запас</value>
+  </data>
+  <data name="CurrentInventoryAll" xml:space="preserve">
+    <value>Текущий уровень запаса - Все</value>
+  </data>
+  <data name="CurrentInventoryCritical" xml:space="preserve">
+    <value>Текущий уровень запаса - Критическая</value>
+  </data>
+  <data name="CurrentInventoryHigh" xml:space="preserve">
+    <value>Текущий уровень запаса - Высокая</value>
+  </data>
+  <data name="CurrentInventoryMedium" xml:space="preserve">
+    <value>Текущий уровень запаса - Средняя</value>
+  </data>
+  <data name="Customer" xml:space="preserve">
+    <value>Клиент</value>
+  </data>
+  <data name="CustomerID" xml:space="preserve">
+    <value>ID клиента</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Дата</value>
+  </data>
+  <data name="DaysEarly" xml:space="preserve">
+    <value> день (дней) раньше</value>
+  </data>
+  <data name="DaysLate" xml:space="preserve">
+    <value> день (дней) позже</value>
+  </data>
+  <data name="Demand" xml:space="preserve">
+    <value>Потребность</value>
+  </data>
+  <data name="DemandAllocations" xml:space="preserve">
+    <value>Заказы на отгурзку</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Описание</value>
+  </data>
+  <data name="DueDate" xml:space="preserve">
+    <value>Дата выполнения</value>
+  </data>
+  <data name="Exported" xml:space="preserve">
+    <value>Экспортированный</value>
+  </data>
+  <data name="FollowUp" xml:space="preserve">
+    <value>Дальнейшие действия</value>
+  </data>
+  <data name="Green" xml:space="preserve">
+    <value>Зеленая</value>
+  </data>
+  <data name="Inventory" xml:space="preserve">
+    <value>Запас</value>
+  </data>
+  <data name="IssuedInventory" xml:space="preserve">
+    <value>Инвентаризация выданных</value>
+  </data>
+  <data name="Late" xml:space="preserve">
+    <value>Запаздывание</value>
+  </data>
+  <data name="Line" xml:space="preserve">
+    <value>Строка</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>Загрузка...</value>
+  </data>
+  <data name="Loc" xml:space="preserve">
+    <value>Склад</value>
+  </data>
+  <data name="LTMSummary" xml:space="preserve">
+    <value>LTM резюме</value>
+  </data>
+  <data name="LTMSummaryAll" xml:space="preserve">
+    <value>Резюме LTM - Все</value>
+  </data>
+  <data name="LTMSummaryHigh" xml:space="preserve">
+    <value>LTM резюме - Высокая</value>
+  </data>
+  <data name="LTMSummaryLow" xml:space="preserve">
+    <value>LTM резюме - Низкая</value>
+  </data>
+  <data name="LTMSummaryMedium" xml:space="preserve">
+    <value>LTM резюме -Средняя</value>
+  </data>
+  <data name="Make" xml:space="preserve">
+    <value>Изготовляется</value>
+  </data>
+  <data name="MaterialSynchronizationAlert" xml:space="preserve">
+    <value>Предупреждение синхронизации материалов (MSA)</value>
+  </data>
+  <data name="MaterialType" xml:space="preserve">
+    <value>Тип материала</value>
+  </data>
+  <data name="MSAAll" xml:space="preserve">
+    <value>MSA - Все</value>
+  </data>
+  <data name="MSACritical" xml:space="preserve">
+    <value>MSA - Критическая</value>
+  </data>
+  <data name="MSAHigh" xml:space="preserve">
+    <value>MSA - Высокая</value>
+  </data>
+  <data name="NoAlertSelected" xml:space="preserve">
+    <value>Пожалуйста</value>
+  </data>
+  <data name="NoExecutionAlerts" xml:space="preserve">
+    <value>Оповещения не исполнения</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="Note" xml:space="preserve">
+    <value>Примечание</value>
+  </data>
+  <data name="NotImplementedYet" xml:space="preserve">
+    <value>Еще не реализовано</value>
+  </data>
+  <data name="OnHandInventory" xml:space="preserve">
+    <value>Наличный запас</value>
+  </data>
+  <data name="OpenPO" xml:space="preserve">
+    <value>Заказ поставщику</value>
+  </data>
+  <data name="OpenSupply" xml:space="preserve">
+    <value>Заказы на поставку</value>
+  </data>
+  <data name="OpenWO" xml:space="preserve">
+    <value>Заказ в производство</value>
+  </data>
+  <data name="OrderDate" xml:space="preserve">
+    <value>Дата заказа</value>
+  </data>
+  <data name="OrderNumber" xml:space="preserve">
+    <value>Номер заказа</value>
+  </data>
+  <data name="orders" xml:space="preserve">
+    <value>заказ (-ы)</value>
+  </data>
+  <data name="OrderSpikePriority" xml:space="preserve">
+    <value>Приоритетность пикового заказа</value>
+  </data>
+  <data name="Part" xml:space="preserve">
+    <value>Номенклатура</value>
+  </data>
+  <data name="PartID" xml:space="preserve">
+    <value>ID номенклатуры</value>
+  </data>
+  <data name="PartType" xml:space="preserve">
+    <value>Тип номенклатуры</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>В ожидании</value>
+  </data>
+  <data name="PlannerCode" xml:space="preserve">
+    <value>Код менеджера</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Профиль</value>
+  </data>
+  <data name="ProjectedStockOut" xml:space="preserve">
+    <value>Прогнозируемый аут-оф-сток (PSO)</value>
+  </data>
+  <data name="ProjectedStockOutAll" xml:space="preserve">
+    <value>Прогнозируемый аут-оф-сток (PSO) - Все</value>
+  </data>
+  <data name="ProjectedStockOutCritical" xml:space="preserve">
+    <value>Прогнозируемый аут-оф-сток (PSO) - Критическая</value>
+  </data>
+  <data name="ProjectedStockOutHigh" xml:space="preserve">
+    <value>Прогнозируемый аут-оф-сток (PSO) - Высокая</value>
+  </data>
+  <data name="ProjectedStockOutMedium" xml:space="preserve">
+    <value>Прогнозируемый аут-оф-сток (PSO) - Средняя</value>
+  </data>
+  <data name="PromiseDate" xml:space="preserve">
+    <value>Обещаннная дата</value>
+  </data>
+  <data name="Properties" xml:space="preserve">
+    <value>Свойства</value>
+  </data>
+  <data name="Qty" xml:space="preserve">
+    <value>Кол-во</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Красная</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Напоминания</value>
+  </data>
+  <data name="ReorderPoint" xml:space="preserve">
+    <value>Точка дозаказа</value>
+  </data>
+  <data name="RequestDate" xml:space="preserve">
+    <value>Требуемая дата</value>
+  </data>
+  <data name="Rev" xml:space="preserve">
+    <value>Английский Версия</value>
+  </data>
+  <data name="RPlusAlert" xml:space="preserve">
+    <value>Предупреждение от R + </value>
+  </data>
+  <data name="rule_AppliesTo" xml:space="preserve">
+    <value>Применяется к</value>
+  </data>
+  <data name="rule_CurrentInventory_Critical1" xml:space="preserve">
+    <value>Текущий или просроченные спросом, но не текущей инвентаризации</value>
+  </data>
+  <data name="rule_CurrentInventory_High1" xml:space="preserve">
+    <value>Спрос превышает текущие инвентаризации</value>
+  </data>
+  <data name="rule_CurrentInventory_High2" xml:space="preserve">
+    <value>Нет текущей инвентаризации, и нет спроса</value>
+  </data>
+  <data name="rule_LTM_High1" xml:space="preserve">
+    <value>Заказать за прибыть в менее чем 3% времени привести</value>
+  </data>
+  <data name="rule_LTM_Low1" xml:space="preserve">
+    <value>Заказать за прибыть в менее что 11% времени, но более чем 7% времени привести</value>
+  </data>
+  <data name="rule_LTM_Medium1" xml:space="preserve">
+    <value>Заказать за прибыть в менее 7% свинца время но более 3% времени привести</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
+    <value>Есть открытые предложения и спроса в течение времени</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
+    <value>QOH (ток на запасы) &amp;gt; = 0 и если запуск баланс &amp;lt; = 0 в любое время в период привести</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
+    <value>Имеет открытый спроса в течение времени</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
+    <value>QOH (ток на запасы) &amp;gt; = 0 и запуск баланс &amp;gt; 0 и &amp;lt; = % ToR в любое время в период привести</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
+    <value>Имеет отрицательный баланс работает в прошлом</value>
+  </data>
+  <data name="rule_MaterialSynchronizationAlert_NB_Critical2" xml:space="preserve">
+    <value>Имеет отрицательный баланс работает в любое время во время привести временной горизонт</value>
+  </data>
+  <data name="rule_NotIncludedIn" xml:space="preserve">
+    <value>Не включены в</value>
+  </data>
+  <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
+    <value>Текущий уровень запасов меньше % красной зоны как определяется уровень оповещения инвентаризации в буфер профиль (или системы по умолчанию для уровня оповещения)</value>
+  </data>
+  <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
+    <value>Текущий уровень запасов составляет меньше или равно Top красный (Тор)</value>
+  </data>
+  <data name="RunningBalance" xml:space="preserve">
+    <value>Текущий остаток</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="SODemand" xml:space="preserve">
+    <value>Заказ покупателя</value>
+  </data>
+  <data name="Source" xml:space="preserve">
+    <value>Источник</value>
+  </data>
+  <data name="SPIKE" xml:space="preserve">
+    <value>-ПИК</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>Дата начала</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Статус</value>
+  </data>
+  <data name="Status3" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Status4" xml:space="preserve">
+    <value />
+  </data>
+  <data name="StockOut" xml:space="preserve">
+    <value>АУТ-ОФ-СТОК</value>
+  </data>
+  <data name="StockOutWithDemand" xml:space="preserve">
+    <value>АУТ-ОФ-СТОК С ЗАКАЗАМИ</value>
+  </data>
+  <data name="SupplyOrderNote" xml:space="preserve">
+    <value>Примечание к заказу на поставку</value>
+  </data>
+  <data name="SupplyOrders" xml:space="preserve">
+    <value>Заказы на поставку</value>
+  </data>
+  <data name="TopOfGreen" xml:space="preserve">
+    <value>Верх зеленой зоны</value>
+  </data>
+  <data name="TopOfRed" xml:space="preserve">
+    <value>Верх красной зоны</value>
+  </data>
+  <data name="TopOfYellow" xml:space="preserve">
+    <value>Верх желтой зоны</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Тип</value>
+  </data>
+  <data name="Vendor" xml:space="preserve">
+    <value>Поставщик</value>
+  </data>
+  <data name="VendorID" xml:space="preserve">
+    <value>ID поставщика</value>
+  </data>
+  <data name="WODemand" xml:space="preserve">
+    <value>Заказ от производства</value>
+  </data>
+  <data name="Yellow" xml:space="preserve">
+    <value>Желтая</value>
+  </data>
+</root>

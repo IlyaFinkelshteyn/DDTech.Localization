@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllSelected" xml:space="preserve">
+    <value>Отмечены все</value>
+  </data>
+  <data name="BackgroundProcessing" xml:space="preserve">
+    <value>Выполняется фоновый процесс.</value>
+  </data>
+  <data name="BackgroundProcessing_FeatureDisabled" xml:space="preserve">
+    <value>Эта функция невозможна до завершения процесса.</value>
+  </data>
+  <data name="Column" xml:space="preserve">
+    <value>Столбец</value>
+  </data>
+  <data name="ConfiguredTimeZone" xml:space="preserve">
+    <value>Настроенные часовой пояс</value>
+  </data>
+  <data name="DisplayLang_de" xml:space="preserve">
+    <value>немецкий</value>
+  </data>
+  <data name="DisplayLang_en" xml:space="preserve">
+    <value>английский</value>
+  </data>
+  <data name="DisplayLang_es" xml:space="preserve">
+    <value>испанский</value>
+  </data>
+  <data name="DisplayLang_es_419" xml:space="preserve">
+    <value>Испанский (Латинская Америка)</value>
+  </data>
+  <data name="DisplayLang_fi" xml:space="preserve">
+    <value>финский</value>
+  </data>
+  <data name="DisplayLang_fr" xml:space="preserve">
+    <value>французский</value>
+  </data>
+  <data name="DisplayLang_hu" xml:space="preserve">
+    <value>венгерский</value>
+  </data>
+  <data name="DisplayLang_ko" xml:space="preserve">
+    <value>корейский</value>
+  </data>
+  <data name="DisplayLang_ru" xml:space="preserve">
+    <value>русский</value>
+  </data>
+  <data name="DisplayLang_tr" xml:space="preserve">
+    <value>турецкий</value>
+  </data>
+  <data name="FilterDisabled" xml:space="preserve">
+    <value>Фильтр отключен</value>
+  </data>
+  <data name="Home_About_ApplicationLabel" xml:space="preserve">
+    <value>Приложение</value>
+  </data>
+  <data name="Home_About_VersionLabel" xml:space="preserve">
+    <value>Версия</value>
+  </data>
+  <data name="Home_Index_PageTitle" xml:space="preserve">
+    <value>Главная</value>
+  </data>
+  <data name="LanguageDropDown_AvailableLanguages" xml:space="preserve">
+    <value>Доступные языки</value>
+  </data>
+  <data name="LanguageDropDown_CurrentLanguage" xml:space="preserve">
+    <value>Текущий язык</value>
+  </data>
+  <data name="Nav_About_Title" xml:space="preserve">
+    <value>О программе</value>
+  </data>
+  <data name="Nav_Account_Manage_Title" xml:space="preserve">
+    <value>Учетная запись пользователя</value>
+  </data>
+  <data name="Nav_Admin_GlobalSettings_Title" xml:space="preserve">
+    <value>Общие настройки</value>
+  </data>
+  <data name="Nav_Admin_MaterialRequirements_Title" xml:space="preserve">
+    <value>Потребность в материалах</value>
+  </data>
+  <data name="Nav_Admin_ProfileSettings_Title" xml:space="preserve">
+    <value>Настройки профиля</value>
+  </data>
+  <data name="Nav_Admin_Settings_Title" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="Nav_Admin_Title" xml:space="preserve">
+    <value>Администрация</value>
+  </data>
+  <data name="Nav_Admin_UserMgmt_Title" xml:space="preserve">
+    <value>Управление пользователями</value>
+  </data>
+  <data name="Nav_Alerts_CurrentSupplyOrderNotes" xml:space="preserve">
+    <value>Текущие предложения порядка заметки</value>
+  </data>
+  <data name="Nav_Alerts_NoSupplyOrderNotes" xml:space="preserve">
+    <value>Не отмечает порядок снабжения</value>
+  </data>
+  <data name="Nav_Alerts_OutstandingSupplyOrderNotes" xml:space="preserve">
+    <value>Выдающиеся питания порядка заметки</value>
+  </data>
+  <data name="Nav_Alerts_OverdueSupplyOrderNotes" xml:space="preserve">
+    <value>Просроченную поставку заказа Notes</value>
+  </data>
+  <data name="Nav_Alerts_Title" xml:space="preserve">
+    <value>Предупреждения</value>
+  </data>
+  <data name="Nav_AlertsCurrentInventory_Title" xml:space="preserve">
+    <value>Текущий запас</value>
+  </data>
+  <data name="Nav_AlertsLTMSummary_Title" xml:space="preserve">
+    <value>LTM</value>
+  </data>
+  <data name="Nav_AlertsMSA_Title" xml:space="preserve">
+    <value>MSA</value>
+  </data>
+  <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
+    <value>Прогнозируемый аут-оф-сток (PSO)</value>
+  </data>
+  <data name="Nav_BoM_Title" xml:space="preserve">
+    <value>Спецификация</value>
+  </data>
+  <data name="Nav_DataMgmt_Export_Title" xml:space="preserve">
+    <value>Экспорт данных</value>
+  </data>
+  <data name="Nav_DataMgmt_Import_Title" xml:space="preserve">
+    <value>Импорт данных</value>
+  </data>
+  <data name="Nav_DataMgmt_Title" xml:space="preserve">
+    <value>Данные</value>
+  </data>
+  <data name="Nav_EditBufferProfile_Title" xml:space="preserve">
+    <value>Профиль буфера</value>
+  </data>
+  <data name="Nav_EditCalendar_Title" xml:space="preserve">
+    <value>Календарь</value>
+  </data>
+  <data name="Nav_EditLocations_Title" xml:space="preserve">
+    <value>Склады</value>
+  </data>
+  <data name="Nav_Editors_Title" xml:space="preserve">
+    <value>Редактировать</value>
+  </data>
+  <data name="Nav_EditPAF_Title" xml:space="preserve">
+    <value>Коэффициент сезонности (PAF)</value>
+  </data>
+  <data name="Nav_EditPart_Title" xml:space="preserve">
+    <value>Номенклатура</value>
+  </data>
+  <data name="Nav_Group_Admin" xml:space="preserve">
+    <value>Администрация</value>
+  </data>
+  <data name="Nav_Group_Data" xml:space="preserve">
+    <value>Данные</value>
+  </data>
+  <data name="Nav_Group_Editors" xml:space="preserve">
+    <value>Редакторы</value>
+  </data>
+  <data name="Nav_Group_Info" xml:space="preserve">
+    <value>Информация</value>
+  </data>
+  <data name="Nav_Group_Settings" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="Nav_Group_Tools" xml:space="preserve">
+    <value>Инструменты</value>
+  </data>
+  <data name="Nav_Home_Title" xml:space="preserve">
+    <value>Главная</value>
+  </data>
+  <data name="Nav_Info_Title" xml:space="preserve">
+    <value>Информация</value>
+  </data>
+  <data name="Nav_Menu_NewBadge" xml:space="preserve">
+    <value>Новинка!</value>
+  </data>
+  <data name="Nav_Menu_UpdatedBadge" xml:space="preserve">
+    <value>Обновлено!</value>
+  </data>
+  <data name="Nav_PendingOrders_Title" xml:space="preserve">
+    <value>Заказы в ожидании</value>
+  </data>
+  <data name="Nav_Planner_Title" xml:space="preserve">
+    <value>Инструменты менеджера</value>
+  </data>
+  <data name="Nav_PlannersDashboard_Title" xml:space="preserve">
+    <value>Дашборд R + </value>
+  </data>
+  <data name="Nav_PlannersWorkbench_All_Title" xml:space="preserve">
+    <value>Все</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Critical_Title" xml:space="preserve">
+    <value>Критическая</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Custom_Title" xml:space="preserve">
+    <value>Пользовательский фильтр</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Green_Title" xml:space="preserve">
+    <value>Низкая</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_OToG_Title" xml:space="preserve">
+    <value>Верх зеленой зоны</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Red_Title" xml:space="preserve">
+    <value>Высокая</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_RedNonBuffered_Title" xml:space="preserve">
+    <value>Высокая (NB)</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Title" xml:space="preserve">
+    <value>Рабочий стол</value>
+  </data>
+  <data name="Nav_PlannersWorkbench_Yellow_Title" xml:space="preserve">
+    <value>Средняя</value>
+  </data>
+  <data name="Nav_ReadBufferSummary_Title" xml:space="preserve">
+    <value>Буфер резюме</value>
+  </data>
+  <data name="Nav_ReadBufferTrend_Title" xml:space="preserve">
+    <value>График буфера</value>
+  </data>
+  <data name="Nav_ReadCritHighPlanner_Title" xml:space="preserve">
+    <value>Риск аут-оф-стока по менеджерам</value>
+  </data>
+  <data name="Nav_ReadOtogPlanner_Title" xml:space="preserve">
+    <value>Излишки по менеджерам</value>
+  </data>
+  <data name="Nav_ReadPartActivity_Title" xml:space="preserve">
+    <value>Движение по номенклатуре</value>
+  </data>
+  <data name="Nav_ReadPartDistribution_Title" xml:space="preserve">
+    <value>Состояние буфера</value>
+  </data>
+  <data name="Nav_ReadStockOutDemandTrend_Title" xml:space="preserve">
+    <value>Аут-оф-сток с заказами</value>
+  </data>
+  <data name="Nav_ReadSumCritHigh_Title" xml:space="preserve">
+    <value>Риск аут-оф-стока</value>
+  </data>
+  <data name="Nav_ReadSumOfOtog_Title" xml:space="preserve">
+    <value>Излишки</value>
+  </data>
+  <data name="Nav_Reports_Title" xml:space="preserve">
+    <value>Отчеты</value>
+  </data>
+  <data name="Nav_Search_Title" xml:space="preserve">
+    <value>Поиск</value>
+  </data>
+  <data name="Nav_Settings_Title" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="Nav_Status_Title" xml:space="preserve">
+    <value>Статус</value>
+  </data>
+  <data name="Nav_StockDeployment_Title" xml:space="preserve">
+    <value>Складе развертывания</value>
+  </data>
+  <data name="Nav_User_Settings_Title" xml:space="preserve">
+    <value>Пользовательские настройки</value>
+  </data>
+  <data name="Never" xml:space="preserve">
+    <value>никогда</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>нет</value>
+  </data>
+  <data name="NoneSelected" xml:space="preserve">
+    <value>Ничего не выбрано</value>
+  </data>
+  <data name="PartActivity_NoActivity" xml:space="preserve">
+    <value>Нет движений по номенклатуре</value>
+  </data>
+  <data name="PartActivity_NoDemandAllocations" xml:space="preserve">
+    <value>У номенклатуры нет заказов на отгрузку</value>
+  </data>
+  <data name="PartActivity_NoSupplyOrders" xml:space="preserve">
+    <value>У номенклатуры нет заказов на поставку</value>
+  </data>
+  <data name="PartActivity_Tab_AllActivity" xml:space="preserve">
+    <value>Все движения</value>
+  </data>
+  <data name="PartActivity_Tab_DemandAllocations" xml:space="preserve">
+    <value>Заказы на отгрузку</value>
+  </data>
+  <data name="PartActivity_Tab_SupplyOrders" xml:space="preserve">
+    <value>Заказы на поставку</value>
+  </data>
+  <data name="QuickActions" xml:space="preserve">
+    <value>Быстрые действия</value>
+  </data>
+  <data name="SelectOne" xml:space="preserve">
+    <value>Выберите один</value>
+  </data>
+  <data name="ShowLess" xml:space="preserve">
+    <value>Показать меньше</value>
+  </data>
+  <data name="ShowMore" xml:space="preserve">
+    <value>Показать больше</value>
+  </data>
+  <data name="TimeZone_Server_Desc1" xml:space="preserve">
+    <value>Отображаемое раз используете настроенный сайт глобального времени настройки</value>
+  </data>
+  <data name="TimeZone_Server_Desc2" xml:space="preserve">
+    <value>Время настройки глобальных параметров страницы</value>
+  </data>
+  <data name="TimeZoneType_Browser" xml:space="preserve">
+    <value>Текущий часовой пояс пользователя (браузер)</value>
+  </data>
+  <data name="TimeZoneType_Site" xml:space="preserve">
+    <value>Настроенные региональных часовой пояс (сайт)</value>
+  </data>
+  <data name="TimeZoneType_UTC" xml:space="preserve">
+    <value>Часовой пояс сервера (UTC)</value>
+  </data>
+</root>

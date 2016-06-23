@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Admin_UserManagement_AddButton" xml:space="preserve">
+    <value>Ajouter</value>
+  </data>
+  <data name="Admin_UserManagement_AddUserLabel" xml:space="preserve">
+    <value>Ajouter un utilisateur</value>
+  </data>
+  <data name="Admin_UserManagement_CancelButton" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="Admin_UserManagement_EmailLabel" xml:space="preserve">
+    <value>Adresse email</value>
+  </data>
+  <data name="Admin_UserManagement_UserNameLabel" xml:space="preserve">
+    <value>Nom d'utilisateur</value>
+  </data>
+  <data name="Settings_AllowLeadTimeCompression" xml:space="preserve">
+    <value>Permettre la réduction de délai</value>
+  </data>
+  <data name="Settings_BaselineFormattingRegion" xml:space="preserve">
+    <value>Région de formatage de base</value>
+  </data>
+  <data name="Settings_Close_Btn" xml:space="preserve">
+    <value>Fermer</value>
+  </data>
+  <data name="Settings_DateFormat" xml:space="preserve">
+    <value>Format de date</value>
+  </data>
+  <data name="Settings_DefaultInventoryAlertLevel" xml:space="preserve">
+    <value>Niveau d'alerte de stock par défaut</value>
+  </data>
+  <data name="Settings_DefaultOrderSpikeAlertLevel" xml:space="preserve">
+    <value>Niveau d'alerte par défaut de pic de demande</value>
+  </data>
+  <data name="Settings_DefaultOrderSpikeHorizonLevel" xml:space="preserve">
+    <value>Horizon par défaut de détection de pic</value>
+  </data>
+  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
+    <value>Ignorer la demande des NB en dehors de l'horizon de traitement</value>
+  </data>
+  <data name="Settings_Delimiter" xml:space="preserve">
+    <value>Délimiteur</value>
+  </data>
+  <data name="Settings_DemandOrderWindow" xml:space="preserve">
+    <value>Horizon de demande (jours)</value>
+  </data>
+  <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
+    <value>Format numérique attendu</value>
+  </data>
+  <data name="Settings_ExternalApiAccess" xml:space="preserve">
+    <value>Accès à l'API externe</value>
+  </data>
+  <data name="Settings_ForecastedDemandLookAhead" xml:space="preserve">
+    <value>Semaines de prévision de la demande</value>
+  </data>
+  <data name="Settings_Global_BuffersAndOrderProcessing" xml:space="preserve">
+    <value>Buffer et traitement des commandes</value>
+  </data>
+  <data name="Settings_Global_DateTimeSettings" xml:space="preserve">
+    <value>Paramètres de date/heure</value>
+  </data>
+  <data name="Settings_Global_DisplayName" xml:space="preserve">
+    <value>Nom d'affichage</value>
+  </data>
+  <data name="Settings_Global_Field" xml:space="preserve">
+    <value>Champ</value>
+  </data>
+  <data name="Settings_Global_ForecastedDemand" xml:space="preserve">
+    <value>Horizon des prévisions pour l'utilisation des PMJ</value>
+  </data>
+  <data name="Settings_Global_ImportExportDataExchange" xml:space="preserve">
+    <value>Système d'échange de données (importation &amp; Export)</value>
+  </data>
+  <data name="Settings_Global_RecommendationsAndAlerts" xml:space="preserve">
+    <value>Alertes et recommandations</value>
+  </data>
+  <data name="Settings_Global_UDF" xml:space="preserve">
+    <value>Champs définis par l'utilisateur</value>
+  </data>
+  <data name="Settings_Grids_Column_Label" xml:space="preserve">
+    <value>Colonne</value>
+  </data>
+  <data name="Settings_Grids_DecimalPrecision_Label" xml:space="preserve">
+    <value>Nombre de décimales</value>
+  </data>
+  <data name="Settings_Grids_DefaultPrecisionFormat" xml:space="preserve">
+    <value>Par défaut ({0})</value>
+  </data>
+  <data name="Settings_Grids_NoPrecisionLabel" xml:space="preserve">
+    <value>Aucune  </value>
+  </data>
+  <data name="Settings_HistoryCapture" xml:space="preserve">
+    <value>Capture de l’historique</value>
+  </data>
+  <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
+    <value>Jours d'historique à conserver</value>
+  </data>
+  <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
+    <value>Inclure les pics dans le flux disponible</value>
+  </data>
+  <data name="Settings_LocalTimeZone" xml:space="preserve">
+    <value>Fuseau horaire local</value>
+  </data>
+  <data name="Settings_Mrp_Disabled" xml:space="preserve">
+    <value>Le calcul des besoins est désactivé</value>
+  </data>
+  <data name="Settings_Mrp_DoMaterialRequirementsNettingAfterImport" xml:space="preserve">
+    <value>Effectuer un calcul de besoin après importation (complet)</value>
+  </data>
+  <data name="Settings_Mrp_DoMaterialRequirementsNettingWhenCreatingOrders" xml:space="preserve">
+    <value>Effectuer un calcul de besoin lors de la création d'ordres (sélectif)</value>
+  </data>
+  <data name="Settings_Mrp_EnableAutoCreateMinMaxSupplyOrders" xml:space="preserve">
+    <value>Créer automatiquement les commandes d'approvisionnement pour les articles mini/maxi ?</value>
+  </data>
+  <data name="Settings_Mrp_EnableAutoCreateNonBufferedSupplyOrders" xml:space="preserve">
+    <value>Créer automatiquement les commandes d'approvisionnement pour les articles non stockées ?</value>
+  </data>
+  <data name="Settings_Mrp_EnableMaterialRequirementsPlanning" xml:space="preserve">
+    <value>Activer le calcul des besoins</value>
+  </data>
+  <data name="Settings_Mrp_mrpFeatures1" xml:space="preserve">
+    <value>Ces options permettront à R + de créer automatiquement les commandes d'approvisionnement au cours du calcul des besoins pour satisfaire la demande et affecteront uniquement les articles inclus dans des nomenclatures.</value>
+  </data>
+  <data name="Settings_Mrp_mrpFeatures2" xml:space="preserve">
+    <value>Au cours du calcul de besoins, ces paramètres déterminent sur quel horizon R+ essayera de créer des commandes. Ces valeurs sont ajoutées au délai R+ de l'article. Par exemple si le paramètre est '5' et le délai R+ de l'article est de 5 jours, R+ ne créera pas de commande tant que la date d'aujourd'hui est à moins de 10 jours ouvrables de l'échéance du besoin.</value>
+  </data>
+  <data name="Settings_Mrp_mrpNettingFull" xml:space="preserve">
+    <value>R + va automatiquement effectuer un calcul des besoins pour toute commande de demande importée (Commandes de vente et OF). Les données de demande importées ne doivent pas contenir les demandes des articles enfants (articles de niveau inférieur)</value>
+  </data>
+  <data name="Settings_Mrp_mrpNettingNetChange" xml:space="preserve">
+    <value>Le calcul des besoins ne sera effectué que lors de la création manuelle de commandes ou l'approbation des propositions. R+ suppose que tous les ordres importés ont déjà fait l'objet d'un calcul des besoins dans votre système MRP avant importation.</value>
+  </data>
+  <data name="Settings_Mrp_mrpNettingSuggestion1" xml:space="preserve">
+    <value>Si le calcul de besoin après importation est sélectionné, nous vous suggérons de permettre le calcul de besoin lors de la création de nouvelles commandes, pour garantir un comportement cohérent.</value>
+  </data>
+  <data name="Settings_Mrp_SalesOrderDemandProcessingWindow" xml:space="preserve">
+    <value>Horizon de traitement de la demande pour les commandes de vente</value>
+  </data>
+  <data name="Settings_Mrp_WorkOrderDemandProcessingWindow" xml:space="preserve">
+    <value>Horizon de traitement de la demande pour les ordres de fabrication</value>
+  </data>
+  <data name="Settings_Nav_ApiTokens" xml:space="preserve">
+    <value>Jetons de l'API</value>
+  </data>
+  <data name="Settings_Nav_DateTime" xml:space="preserve">
+    <value>Format date/heure</value>
+  </data>
+  <data name="Settings_Nav_GlobalFilter" xml:space="preserve">
+    <value>Filtre</value>
+  </data>
+  <data name="Settings_Nav_GlobalSettings" xml:space="preserve">
+    <value>Paramètres globaux</value>
+  </data>
+  <data name="Settings_Nav_Grids" xml:space="preserve">
+    <value>Grilles</value>
+  </data>
+  <data name="Settings_Nav_MaterialRequirements" xml:space="preserve">
+    <value>Calcul des besoins</value>
+  </data>
+  <data name="Settings_Nav_Sitewide" xml:space="preserve">
+    <value>Au niveau du site</value>
+  </data>
+  <data name="Settings_Nav_UserAccount" xml:space="preserve">
+    <value>Compte d'utilisateur</value>
+  </data>
+  <data name="Settings_Nav_UserManagement" xml:space="preserve">
+    <value>Gestion des utilisateurs</value>
+  </data>
+  <data name="Settings_PasswordComplexity" xml:space="preserve">
+    <value>Spécifications des mots de passe</value>
+  </data>
+  <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
+    <value>Veuillez sélectionner un format</value>
+  </data>
+  <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
+    <value>Horizon projeté de rupture de Stock</value>
+  </data>
+  <data name="Settings_PurchaseOrder" xml:space="preserve">
+    <value>Bon de commande</value>
+  </data>
+  <data name="Settings_Reset_Btn" xml:space="preserve">
+    <value>Réinitialiser</value>
+  </data>
+  <data name="Settings_RoundBufferValuesToOne" xml:space="preserve">
+    <value>Arrondir la valeur du Buffer</value>
+  </data>
+  <data name="Settings_SalesOrder" xml:space="preserve">
+    <value>Commande de vente</value>
+  </data>
+  <data name="Settings_SaveChanges_Btn" xml:space="preserve">
+    <value>Enregistrer les modifications</value>
+  </data>
+  <data name="Settings_SaveChangesConfirmation" xml:space="preserve">
+    <value>Voulez-vous enregistrer les modifications ?</value>
+  </data>
+  <data name="Settings_SaveChangesDetail" xml:space="preserve">
+    <value>Si vous n'enregistrez pas, vos modifications seront perdues.</value>
+  </data>
+  <data name="Settings_UnsavedChanges" xml:space="preserve">
+    <value>Modifications non enregistrées</value>
+  </data>
+  <data name="Settings_User_DateFormat" xml:space="preserve">
+    <value>Format de date</value>
+  </data>
+  <data name="Settings_User_DateFormat_NoneFound" xml:space="preserve">
+    <value>Aucune colonne de date trouvée</value>
+  </data>
+  <data name="Settings_User_DateFormat_Title" xml:space="preserve">
+    <value>Sélectionnez le Format de Date/heure</value>
+  </data>
+  <data name="Settings_User_DecimalPrecision" xml:space="preserve">
+    <value>Nombre de décimales</value>
+  </data>
+  <data name="Settings_User_DecimalPrecision_Title" xml:space="preserve">
+    <value>Sélectionner le nbre</value>
+  </data>
+  <data name="Settings_User_MinimumLength" xml:space="preserve">
+    <value>Longueur minimale ?</value>
+  </data>
+  <data name="Settings_User_Password" xml:space="preserve">
+    <value>Changer mot de passe</value>
+  </data>
+  <data name="Settings_User_PasswordComplexity" xml:space="preserve">
+    <value>Complexité du mot de passe</value>
+  </data>
+  <data name="Settings_User_PasswordMaxAgeDays" xml:space="preserve">
+    <value>Durée maxi du mot de passe (en jours)</value>
+  </data>
+  <data name="Settings_User_RequireDigit" xml:space="preserve">
+    <value>Besoin d'au moins 1 chiffre ? (0-9)</value>
+  </data>
+  <data name="Settings_User_RequireLowerCase" xml:space="preserve">
+    <value>Besoin d'au moins 1 minuscule ? (a-z)</value>
+  </data>
+  <data name="Settings_User_RequireNonDigitLetter" xml:space="preserve">
+    <value>Nécessitent des lettres ou des chiffres ?</value>
+  </data>
+  <data name="Settings_User_RequireNonDigitLetter_Title" xml:space="preserve">
+    <value>N'importe quel caractère mais différent de 0 à 9, a-z ou A-Z. Exemples:!, %, *, $</value>
+  </data>
+  <data name="Settings_User_RequireUpperCase" xml:space="preserve">
+    <value>Besoin d'au moins 1 majuscule ? (A-Z)</value>
+  </data>
+  <data name="Settings_User_UnknownGrid" xml:space="preserve">
+    <value>Grille inconnue</value>
+  </data>
+  <data name="Settings_UserDefined1" xml:space="preserve">
+    <value>UserDefined1</value>
+  </data>
+  <data name="Settings_UserDefined2" xml:space="preserve">
+    <value>UserDefined2</value>
+  </data>
+  <data name="Settings_UserDefined3" xml:space="preserve">
+    <value>UserDefined3</value>
+  </data>
+  <data name="Settings_UserDefined4" xml:space="preserve">
+    <value>UserDefined4</value>
+  </data>
+  <data name="Settings_UserDefined5" xml:space="preserve">
+    <value>UserDefined5</value>
+  </data>
+  <data name="Settings_UserDefined6" xml:space="preserve">
+    <value>UserDefined6</value>
+  </data>
+  <data name="Settings_UserDefined7" xml:space="preserve">
+    <value>UserDefined7</value>
+  </data>
+  <data name="Settings_UserDefined8" xml:space="preserve">
+    <value>UserDefined8</value>
+  </data>
+  <data name="Settings_WorkOrder" xml:space="preserve">
+    <value>OF</value>
+  </data>
+</root>

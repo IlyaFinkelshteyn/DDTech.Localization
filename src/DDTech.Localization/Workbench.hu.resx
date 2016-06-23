@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="120Days" xml:space="preserve">
+    <value>120 nap</value>
+  </data>
+  <data name="13Weeks" xml:space="preserve">
+    <value>13 hét</value>
+  </data>
+  <data name="150Days" xml:space="preserve">
+    <value>150 napon belül</value>
+  </data>
+  <data name="15Days" xml:space="preserve">
+    <value>15 napon belül</value>
+  </data>
+  <data name="17Weeks" xml:space="preserve">
+    <value>17 hét</value>
+  </data>
+  <data name="180Days" xml:space="preserve">
+    <value>180 napok</value>
+  </data>
+  <data name="22Weeks" xml:space="preserve">
+    <value>22 hét</value>
+  </data>
+  <data name="26Weeks" xml:space="preserve">
+    <value>26 hét</value>
+  </data>
+  <data name="30Days" xml:space="preserve">
+    <value>30 napon belül</value>
+  </data>
+  <data name="60Days" xml:space="preserve">
+    <value>60 nap</value>
+  </data>
+  <data name="90Days" xml:space="preserve">
+    <value>90 nap</value>
+  </data>
+  <data name="9Weeks" xml:space="preserve">
+    <value>9 hét</value>
+  </data>
+  <data name="AcceptSelectedOrders" xml:space="preserve">
+    <value>Kiválasztott megbízások elfogadása</value>
+  </data>
+  <data name="AllActivity" xml:space="preserve">
+    <value>Minden tevékenység</value>
+  </data>
+  <data name="Apply" xml:space="preserve">
+    <value>Alkalmazása</value>
+  </data>
+  <data name="AssignedLocation" xml:space="preserve">
+    <value>Hozzárendelt helye:</value>
+  </data>
+  <data name="BillOfMaterials" xml:space="preserve">
+    <value>Anyagjegyzék</value>
+  </data>
+  <data name="Buffered" xml:space="preserve">
+    <value>Pufferelt</value>
+  </data>
+  <data name="BufferSize" xml:space="preserve">
+    <value>Puffer mérete</value>
+  </data>
+  <data name="BufferSizing" xml:space="preserve">
+    <value>Puffer méret</value>
+  </data>
+  <data name="BufferTrend" xml:space="preserve">
+    <value>Puffer Trend</value>
+  </data>
+  <data name="BufferValuesIncompatibleWithChart" xml:space="preserve">
+    <value>Puffer értékeket megjelenítő diagram összeegyeztethetetlen.</value>
+  </data>
+  <data name="Button_CreateCustomOrder" xml:space="preserve">
+    <value>Egyéni rendelés létrehozása</value>
+  </data>
+  <data name="ClearSelection" xml:space="preserve">
+    <value>Törölje a jelet</value>
+  </data>
+  <data name="CollapseAll" xml:space="preserve">
+    <value>összes összecsukása</value>
+  </data>
+  <data name="Column" xml:space="preserve">
+    <value>Oszlop</value>
+  </data>
+  <data name="ColumnDisplaySettings" xml:space="preserve">
+    <value>Oszlop megjelenítési beállítások</value>
+  </data>
+  <data name="Committed" xml:space="preserve">
+    <value>Elkövetett</value>
+  </data>
+  <data name="CreateOrder" xml:space="preserve">
+    <value>Rendelés létrehozása</value>
+  </data>
+  <data name="CurrentPAFIs" xml:space="preserve">
+    <value>Jelenlegi PAF van:</value>
+  </data>
+  <data name="CurrentView" xml:space="preserve">
+    <value>Jelenlegi nézet</value>
+  </data>
+  <data name="Customer" xml:space="preserve">
+    <value>Vevő</value>
+  </data>
+  <data name="CustomerID" xml:space="preserve">
+    <value>Ügyfél-azonosító</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Dátum</value>
+  </data>
+  <data name="DaysConsumption" xml:space="preserve">
+    <value>Nappal fogyasztás</value>
+  </data>
+  <data name="DaysCovered" xml:space="preserve">
+    <value>Napon hatálya alá tartozó</value>
+  </data>
+  <data name="DaysEarly" xml:space="preserve">
+    <value> nap kora</value>
+  </data>
+  <data name="DaysLate" xml:space="preserve">
+    <value> nap végén</value>
+  </data>
+  <data name="DemandAllocations" xml:space="preserve">
+    <value>Igény szerinti felosztás</value>
+  </data>
+  <data name="DescriptionLabel" xml:space="preserve">
+    <value>Leírás</value>
+  </data>
+  <data name="Display" xml:space="preserve">
+    <value>Kijelző</value>
+  </data>
+  <data name="DisplaySettings" xml:space="preserve">
+    <value>Képernyő-beállítások</value>
+  </data>
+  <data name="DueDate" xml:space="preserve">
+    <value>Esedékesség</value>
+  </data>
+  <data name="ExpandAll" xml:space="preserve">
+    <value>Mindent kinagyít</value>
+  </data>
+  <data name="ExpectedAvgInventory" xml:space="preserve">
+    <value>Várható Avg készlet</value>
+  </data>
+  <data name="Exported" xml:space="preserve">
+    <value>Exportált</value>
+  </data>
+  <data name="ExportPage" xml:space="preserve">
+    <value>Az exportálandó fájl lapon</value>
+  </data>
+  <data name="Filter" xml:space="preserve">
+    <value>Szűrő</value>
+  </data>
+  <data name="Filters" xml:space="preserve">
+    <value>Szűrők:</value>
+  </data>
+  <data name="FixedLeadTime" xml:space="preserve">
+    <value>Rögzített átfutási idő</value>
+  </data>
+  <data name="GoToPage" xml:space="preserve">
+    <value>Ugrás az oldalra:</value>
+  </data>
+  <data name="Green" xml:space="preserve">
+    <value>Zöld</value>
+  </data>
+  <data name="GreenZone" xml:space="preserve">
+    <value>Zöld zóna</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="Inventory" xml:space="preserve">
+    <value>Készlet</value>
+  </data>
+  <data name="InventoryManagement" xml:space="preserve">
+    <value>Készletgazdálkodás</value>
+  </data>
+  <data name="LastNDays" xml:space="preserve">
+    <value>__Days__ az utolsó napokban</value>
+  </data>
+  <data name="LastNWeeks" xml:space="preserve">
+    <value>Utolsó __weeks__ hét</value>
+  </data>
+  <data name="Late" xml:space="preserve">
+    <value>Késő</value>
+  </data>
+  <data name="LeadTime" xml:space="preserve">
+    <value>átfutási idő</value>
+  </data>
+  <data name="LeadTimeCompression" xml:space="preserve">
+    <value>Ütemezés beállítása {0} napos vezet idő tömörítés miatt.</value>
+  </data>
+  <data name="Legend" xml:space="preserve">
+    <value>Jelmagyarázat:</value>
+  </data>
+  <data name="LocationFilter" xml:space="preserve">
+    <value>Raktár szűrő</value>
+  </data>
+  <data name="LongestLeg" xml:space="preserve">
+    <value>Leghosszabb láb</value>
+  </data>
+  <data name="Material" xml:space="preserve">
+    <value>Anyag</value>
+  </data>
+  <data name="MaterialFilter" xml:space="preserve">
+    <value>Anyag szűrő</value>
+  </data>
+  <data name="Max" xml:space="preserve">
+    <value>Max</value>
+  </data>
+  <data name="Min" xml:space="preserve">
+    <value>Min</value>
+  </data>
+  <data name="Min/Max" xml:space="preserve">
+    <value>Min/Max</value>
+  </data>
+  <data name="NBAndLTMPartsNoSizingValues" xml:space="preserve">
+    <value>Nem pufferelt és vezet idő kezelt alkatrészek nem méretezési értékkel rendelkeznek.</value>
+  </data>
+  <data name="NonBuffered" xml:space="preserve">
+    <value>Nem pufferelt</value>
+  </data>
+  <data name="NotEnoughHistoryForChart" xml:space="preserve">
+    <value>Ez a rész nem rendelkezik elég történelem adat-hoz létrehoz egy analytics-diagram</value>
+  </data>
+  <data name="Notes" xml:space="preserve">
+    <value>Jegyzetek</value>
+  </data>
+  <data name="of" xml:space="preserve">
+    <value> a </value>
+  </data>
+  <data name="OnHandInventory" xml:space="preserve">
+    <value>Aktuális készlet</value>
+  </data>
+  <data name="OpenPO" xml:space="preserve">
+    <value>Nyitott PO</value>
+  </data>
+  <data name="OpenWO" xml:space="preserve">
+    <value>Nyitott WO</value>
+  </data>
+  <data name="OrderCycleOverride" xml:space="preserve">
+    <value>Rendelés ciklus felülbírálása</value>
+  </data>
+  <data name="OrderDueDate" xml:space="preserve">
+    <value>Annak érdekében, kellő dátuma</value>
+  </data>
+  <data name="OrderNotes" xml:space="preserve">
+    <value>Rendelés megjegyzések:</value>
+  </data>
+  <data name="OrderNumber" xml:space="preserve">
+    <value>Rendelési szám</value>
+  </data>
+  <data name="OrderPolicy" xml:space="preserve">
+    <value>Politikai rend</value>
+  </data>
+  <data name="OrderQuantity" xml:space="preserve">
+    <value>Rendelési mennyiség</value>
+  </data>
+  <data name="OutSourcedCost" xml:space="preserve">
+    <value>Ki forrásból származó költségek</value>
+  </data>
+  <data name="Part" xml:space="preserve">
+    <value>Rész</value>
+  </data>
+  <data name="PartActivity" xml:space="preserve">
+    <value>Rész-tevékenység</value>
+  </data>
+  <data name="PartAnalytics" xml:space="preserve">
+    <value>Rész-Analytics</value>
+  </data>
+  <data name="PartDetail" xml:space="preserve">
+    <value>Tulajdonságai</value>
+  </data>
+  <data name="PartTypeFilter" xml:space="preserve">
+    <value>Rész szűrő</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>Függőben lévő</value>
+  </data>
+  <data name="Pinned" xml:space="preserve">
+    <value>Rögzített</value>
+  </data>
+  <data name="PlannerFilter" xml:space="preserve">
+    <value>Tervező szűrő</value>
+  </data>
+  <data name="PlannerLabel" xml:space="preserve">
+    <value>Tervező:</value>
+  </data>
+  <data name="PlannersWorkBench" xml:space="preserve">
+    <value>A tervezők munkáját pad</value>
+  </data>
+  <data name="Priority:" xml:space="preserve">
+    <value>Prioritás:</value>
+  </data>
+  <data name="PriorityFilter" xml:space="preserve">
+    <value>Prioritás-szűrő</value>
+  </data>
+  <data name="PromiseDate" xml:space="preserve">
+    <value>Ígéret dátum</value>
+  </data>
+  <data name="Quantity" xml:space="preserve">
+    <value>Mennyiség</value>
+  </data>
+  <data name="RawMaterialCost" xml:space="preserve">
+    <value>Nyersanyagköltségek</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Piros</value>
+  </data>
+  <data name="RedZone" xml:space="preserve">
+    <value>Piros zóna</value>
+  </data>
+  <data name="ReorderQty" xml:space="preserve">
+    <value>Újrarendelési mennyiség</value>
+  </data>
+  <data name="RequestDate" xml:space="preserve">
+    <value>Kérés dátuma</value>
+  </data>
+  <data name="RPlusLeadTime" xml:space="preserve">
+    <value>R+ átfutási idő</value>
+  </data>
+  <data name="RunningBalance" xml:space="preserve">
+    <value>Folyó egyenleg</value>
+  </data>
+  <data name="SelectPriorityCode" xml:space="preserve">
+    <value>Válassza ki a prioritási kódja</value>
+  </data>
+  <data name="ShowRows" xml:space="preserve">
+    <value>Térkép-sorok:</value>
+  </data>
+  <data name="SODemand" xml:space="preserve">
+    <value>ÍGY a kereslet</value>
+  </data>
+  <data name="Source" xml:space="preserve">
+    <value>Forrás</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>Kezdő dátuma</value>
+  </data>
+  <data name="StartOver" xml:space="preserve">
+    <value>Kezdje</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Állapot</value>
+  </data>
+  <data name="SubmitOrder" xml:space="preserve">
+    <value>Megrendelés</value>
+  </data>
+  <data name="SupplyOrders" xml:space="preserve">
+    <value>Ellátási rendelések</value>
+  </data>
+  <data name="TopOfZone" xml:space="preserve">
+    <value>Top zóna</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Típus</value>
+  </data>
+  <data name="UnfilteredExport" xml:space="preserve">
+    <value>Szűretlen Export</value>
+  </data>
+  <data name="Units" xml:space="preserve">
+    <value>Egységek</value>
+  </data>
+  <data name="Vendor" xml:space="preserve">
+    <value>Eladó</value>
+  </data>
+  <data name="WODemand" xml:space="preserve">
+    <value>JAJ kereslet</value>
+  </data>
+  <data name="Workbench_ApproveOrder_Button_Approve" xml:space="preserve">
+    <value>Rendelések jóváhagyása</value>
+  </data>
+  <data name="Workbench_ApproveOrder_Title" xml:space="preserve">
+    <value>Jóváhagyja a javasolt rendeléseket</value>
+  </data>
+  <data name="Workbench_ApproveOrders" xml:space="preserve">
+    <value>Jóváhagyja a rendelés (ek)</value>
+  </data>
+  <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
+    <value>Biztosan folytatni kívánja?</value>
+  </data>
+  <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
+    <value>"Legyen szíves belép a rendelési mennyiség"</value>
+  </data>
+  <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
+    <value>Mennyiség nagyobb, mint az ajánlott érték</value>
+  </data>
+  <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
+    <value>Adatok exportálása</value>
+  </data>
+  <data name="Workbench_Menu_Group_Help" xml:space="preserve">
+    <value>segítség</value>
+  </data>
+  <data name="Workbench_Menu_ViewInLegacyWorkbench" xml:space="preserve">
+    <value>Örökölt Workbench nézet</value>
+  </data>
+  <data name="Workbench_NoBillOfMaterial" xml:space="preserve">
+    <value>Része már nem anyagjegyzék</value>
+  </data>
+  <data name="Workbench_NoMatchingPartsFound" xml:space="preserve">
+    <value>Nem illő részek talált</value>
+  </data>
+  <data name="Workbench_NoNotes" xml:space="preserve">
+    <value>Része már nem</value>
+  </data>
+  <data name="Workbench_NoPartDetails" xml:space="preserve">
+    <value>Rész van do részletek</value>
+  </data>
+  <data name="Workbench_PartAnalytics_AvailableRanges" xml:space="preserve">
+    <value>Rendelkezésre álló tartományok</value>
+  </data>
+  <data name="Workbench_PartAnalytics_CurrentRange" xml:space="preserve">
+    <value>Terhelhetőség</value>
+  </data>
+  <data name="Workbench_PartAnalytics_NonBufferedPartsUnsupported" xml:space="preserve">
+    <value>Nem pufferelt részei nem támogatott</value>
+  </data>
+  <data name="Workbench_PartAnalytics_NotEnoughHistory" xml:space="preserve">
+    <value>Nem elég történelem diagram megjelenítéséhez</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_Analytics" xml:space="preserve">
+    <value>Analytics</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_BillOfMaterial" xml:space="preserve">
+    <value>Bill anyag</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_BufferSizing" xml:space="preserve">
+    <value>Puffer méret</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_Notes" xml:space="preserve">
+    <value>Jegyzetek</value>
+  </data>
+  <data name="Workbench_PartDetail_Tab_Properties" xml:space="preserve">
+    <value>Tulajdonságok</value>
+  </data>
+  <data name="Workbench_PartProperties_InventoryMgmtTitle" xml:space="preserve">
+    <value>Készletgazdálkodás</value>
+  </data>
+  <data name="Workbench_PartProperties_Title" xml:space="preserve">
+    <value>Tulajdonságai</value>
+  </data>
+  <data name="Workbench_PartProperties_UDFTitle" xml:space="preserve">
+    <value>Felhasználó által definiált mezők</value>
+  </data>
+  <data name="Workbench_PleaseSelectPart" xml:space="preserve">
+    <value>Kérjük, válasszon egy része</value>
+  </data>
+  <data name="Workbench_RecommendationsMarkedForApproval" xml:space="preserve">
+    <value>Javaslatokat jóváhagyásra jelölt</value>
+  </data>
+  <data name="Workbench_ResetFilters_Title" xml:space="preserve">
+    <value>Reset {0} aktív szűrése és rendezése?</value>
+  </data>
+  <data name="Yellow" xml:space="preserve">
+    <value>Sárga</value>
+  </data>
+  <data name="YellowZone" xml:space="preserve">
+    <value>Sárga zóna</value>
+  </data>
+  <data name="YouCanAlso" xml:space="preserve">
+    <value>akkor is</value>
+  </data>
+  <data name="ZoneSize" xml:space="preserve">
+    <value>Zóna mérete</value>
+  </data>
+</root>

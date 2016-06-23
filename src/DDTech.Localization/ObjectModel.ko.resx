@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Common_Description" xml:space="preserve">
+    <value>명세 </value>
+  </data>
+  <data name="Common_Late" xml:space="preserve">
+    <value>Late</value>
+  </data>
+  <data name="Common_MaterialType" xml:space="preserve">
+    <value>자재Type</value>
+  </data>
+  <data name="Common_Notes" xml:space="preserve">
+    <value>Comments</value>
+  </data>
+  <data name="Common_OrderType" xml:space="preserve">
+    <value>오더 Type</value>
+  </data>
+  <data name="Common_PartType" xml:space="preserve">
+    <value>품목 Type</value>
+  </data>
+  <data name="Common_PlannerCode" xml:space="preserve">
+    <value>플래너</value>
+  </data>
+  <data name="Common_PriorityCode" xml:space="preserve">
+    <value>우선순위 </value>
+  </data>
+  <data name="Common_Profile" xml:space="preserve">
+    <value>버퍼프로파일</value>
+  </data>
+  <data name="Common_Quantity" xml:space="preserve">
+    <value>수량</value>
+  </data>
+  <data name="Common_Source" xml:space="preserve">
+    <value>Source</value>
+  </data>
+  <data name="Common_Status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="Common_UnitOfMeasure" xml:space="preserve">
+    <value>단위</value>
+  </data>
+  <data name="Common_Vendor" xml:space="preserve">
+    <value>공급처</value>
+  </data>
+  <data name="Common_VendorId" xml:space="preserve">
+    <value>공급처 ID</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Order_Customer" xml:space="preserve">
+    <value>고객</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Order_LinkCode" xml:space="preserve">
+    <value>링크 코드</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Order_OrderId" xml:space="preserve">
+    <value>오더 ID</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Order_OrderNumber" xml:space="preserve">
+    <value>오더번호 </value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Order_RecommendedOrderQty" xml:space="preserve">
+    <value>오더권장수량</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_OrderKey_OrderNumber" xml:space="preserve">
+    <value>오더번호 </value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_AverageDailyUsage" xml:space="preserve">
+    <value>일평균사용량</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_EffectiveDailyUsage" xml:space="preserve">
+    <value>일사용량 선택 </value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_FixedLeadTime" xml:space="preserve">
+    <value>고정리드타임</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_ForecastedDailyUsage" xml:space="preserve">
+    <value>예측 일사용량</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Date" xml:space="preserve">
+    <value>일자</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_DueDate" xml:space="preserve">
+    <value>납기일자</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_IsInventory" xml:space="preserve">
+    <value>재고</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Late" xml:space="preserve">
+    <value>늦게</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Line" xml:space="preserve">
+    <value>Line</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Notes" xml:space="preserve">
+    <value>코멘트</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderCreationDate" xml:space="preserve">
+    <value>오더일자</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderSpikePriority" xml:space="preserve">
+    <value>오더 스파이크 우선순위</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderType" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_PromiseDate" xml:space="preserve">
+    <value>약속일자</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_QualifiedDemandOrder" xml:space="preserve">
+    <value>적격한 수요오더 </value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Quantity" xml:space="preserve">
+    <value>수량</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_ReminderStatus" xml:space="preserve">
+    <value>Reminder Status</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_RequestDate" xml:space="preserve">
+    <value>요청일자</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_RunningQuantity" xml:space="preserve">
+    <value>균형을 실행</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_RunningTotalAdjustment" xml:space="preserve">
+    <value>Running Total Adjustment </value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Source" xml:space="preserve">
+    <value>Source</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_StartDate" xml:space="preserve">
+    <value>시작일자</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Status" xml:space="preserve">
+    <value>상태</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_ThirdParty" xml:space="preserve">
+    <value>공급업체</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_ThirdPartyId" xml:space="preserve">
+    <value>공급업체 ID</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Type" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AdjustmentFactor" xml:space="preserve">
+    <value>조정률</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStock" xml:space="preserve">
+    <value>가용재고</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStockPercentage" xml:space="preserve">
+    <value>버퍼 %</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_CurrentInventoryStatus" xml:space="preserve">
+    <value>현재고 상태</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_DemandAllocations" xml:space="preserve">
+    <value>할당수요</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_DueDate" xml:space="preserve">
+    <value>납기일자</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_GreenZoneSize" xml:space="preserve">
+    <value>Green Zone 버퍼 크기</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryMethod" xml:space="preserve">
+    <value>Inventory Method</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryQty" xml:space="preserve">
+    <value>재고 수량</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_IssuedQty" xml:space="preserve">
+    <value>기출고량</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_LeadTimeStatus" xml:space="preserve">
+    <value>LTM Status</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_LTMTotalOrders" xml:space="preserve">
+    <value>LTM 오더 합계</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_MaterialSynchronizationDate" xml:space="preserve">
+    <value>MSA 일자</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_MaterialSynchronizationStatus" xml:space="preserve">
+    <value>MSA Status</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OnHandQty" xml:space="preserve">
+    <value>현 재고</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMaximumQty" xml:space="preserve">
+    <value>최대오더량</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMinimumQty" xml:space="preserve">
+    <value>최소오더량</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMultipleQty" xml:space="preserve">
+    <value>오더배수</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderSpikeAlert" xml:space="preserve">
+    <value>스파이크</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_PercentageOfTopOfRed" xml:space="preserve">
+    <value>% TOR</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_PlannedAdjustmentFactor" xml:space="preserve">
+    <value>조정FACTOR 이름</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_PlannedAdjustmentFactorValue" xml:space="preserve">
+    <value>조정FACTOR 값</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_ProjectedStockOutBufferPercent" xml:space="preserve">
+    <value>버퍼의 예상품절 %</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_ProjectedStockOutStatus" xml:space="preserve">
+    <value>예상품절 상태</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_PromiseDate" xml:space="preserve">
+    <value>약속 날짜</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_Quantity" xml:space="preserve">
+    <value>재발주량 </value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_RedZoneBase" xml:space="preserve">
+    <value>Red Zone  버퍼크기</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_ReminderStatus" xml:space="preserve">
+    <value>오더 Note </value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_ReorderPoint" xml:space="preserve">
+    <value>R+ Alert</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_RPlusLeadTime" xml:space="preserve">
+    <value>R+리드타임</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_StockOutDate" xml:space="preserve">
+    <value>품절일자:</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_SupplyOrders" xml:space="preserve">
+    <value>공급 오더</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TargetedInventory" xml:space="preserve">
+    <value>목표 재고</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfGreen" xml:space="preserve">
+    <value>Top of Green</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfRed" xml:space="preserve">
+    <value>Top of Red</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfYellow" xml:space="preserve">
+    <value>Top of Yellow</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_YellowZoneSize" xml:space="preserve">
+    <value>Yellow Zone버퍼크기</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartKey_Location" xml:space="preserve">
+    <value>Location</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartKey_PartNumber" xml:space="preserve">
+    <value>품목번호</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartKey_Revision" xml:space="preserve">
+    <value>Rev</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_CreatedByUser" xml:space="preserve">
+    <value>에 의해 만들어진</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_ExtendedCost" xml:space="preserve">
+    <value>금액</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_InventoryPlanning" xml:space="preserve">
+    <value>재고 계획</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_LineItem" xml:space="preserve">
+    <value>라인번호</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_PercOfBuffer" xml:space="preserve">
+    <value>버퍼 %</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_SalesOrderNumber" xml:space="preserve">
+    <value>판매 오더 번호</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_UnitCost" xml:space="preserve">
+    <value>단가</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_Variance" xml:space="preserve">
+    <value>수량 차이</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_VarianceCost" xml:space="preserve">
+    <value>금액 차이</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_VarianceNotes" xml:space="preserve">
+    <value>차이 Notes  </value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_RecommendedOrder_SuppressOrderQtyRules" xml:space="preserve">
+    <value>오더 수량 규칙 무시</value>
+  </data>
+</root>

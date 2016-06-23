@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DDTech.Services</id>
+    <version>1.0.0</version>
+    <authors>Demand Driven Technologies LLC</authors>
+    <owners>Demand Driven Technologies LLC</owners>
+    <licenseUrl>http://www.demanddriventechnologies.com</licenseUrl>
+    <projectUrl>http://www.demanddriventechnologies.com</projectUrl>
+    <iconUrl>http://www.demanddriventechnologies.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Demand Driven String Resources (DDSR)</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>localization strings resources</tags>
+  </metadata>
+  <files>
+	<file src="..\bin\Release\DDTech.Localization.*" target="lib\net40" />
+  </files>
+</package>
