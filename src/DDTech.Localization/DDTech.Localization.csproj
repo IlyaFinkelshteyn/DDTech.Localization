@@ -396,6 +396,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Common.tr.resx</DependentUpon>
     </Compile>
+    <Compile Include="CultureHelper.cs" />
     <Compile Include="Dashboard.de.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

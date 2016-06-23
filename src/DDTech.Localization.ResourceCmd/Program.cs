@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Net;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Resources;
 using System.Runtime.Serialization;
 using System.Text;
@@ -11,9 +11,9 @@ using System.Web;
 using CommandLine;
 using CsvHelper;
 using DDTech.Common.Extensions;
-using DDTech.Web.Helpers;
+using DDTech.Tools.LocalizationHelper;
 
-namespace DDTech.Tools.LocalizationHelper
+namespace DDTech.Localization.ResourceCmd
 {
     public enum LocalizationHelperMode
     {
