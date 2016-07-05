@@ -235,7 +235,7 @@
     <value>요청일자</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_RunningQuantity" xml:space="preserve">
-    <value>균형을 실행</value>
+    <value>Running Balance</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_RunningTotalAdjustment" xml:space="preserve">
     <value>Running Total Adjustment </value>

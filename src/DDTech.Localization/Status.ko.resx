@@ -136,7 +136,7 @@
     <value>현재 표준 시간대</value>
   </data>
   <data name="DataSetStatistics" xml:space="preserve">
-    <value>데이터 집합의 통계</value>
+    <value>Data Set Statistics</value>
   </data>
   <data name="DefaultInventoryAlertLevel" xml:space="preserve">
     <value>기본 재고 경고 레벨  </value>
@@ -181,7 +181,7 @@
     <value>품목 재고</value>
   </data>
   <data name="PerformanceMetrics" xml:space="preserve">
-    <value>성능 메트릭</value>
+    <value>Performance Metrics</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
     <value>계획조정FACTOR</value>

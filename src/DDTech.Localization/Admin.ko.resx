@@ -253,7 +253,7 @@
     <value>"데이터 가져오기 후 MRP Neeting"을 선택했다면, '신규 오더 생성시 MRP Netting"도 선택해야 한다. 그렇게 해야만 데이터가 일관되게 처리된다. </value>
   </data>
   <data name="Settings_Mrp_SalesOrderDemandProcessingWindow" xml:space="preserve">
-    <value>판매 오더 창 처리 수요</value>
+    <value>판매오더 수요 처리구간</value>
   </data>
   <data name="Settings_Mrp_WorkOrderDemandProcessingWindow" xml:space="preserve">
     <value>생산오더 수요 처리구간</value>

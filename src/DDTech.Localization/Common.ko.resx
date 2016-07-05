@@ -196,7 +196,7 @@
     <value>High</value>
   </data>
   <data name="Priority_HighNonBuffered" xml:space="preserve">
-    <value>긴급(NB)</value>
+    <value>High(NB)</value>
   </data>
   <data name="Priority_Inactive" xml:space="preserve">
     <value>Inactive</value>
@@ -208,7 +208,7 @@
     <value>Medium</value>
   </data>
   <data name="Priority_OToG" xml:space="preserve">
-    <value>과잉</value>
+    <value>OTOG</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
     <value>모두 선택</value>

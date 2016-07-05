@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AfterDeployment" xml:space="preserve">
-    <value>배포 후</value>
+    <value>After Deployment</value>
   </data>
   <data name="AfterDeploymentAvailabeStock" xml:space="preserve">
     <value>After  </value>
@@ -127,10 +127,10 @@
     <value>After Green %</value>
   </data>
   <data name="AvailableToDeploy" xml:space="preserve">
-    <value>사용할 수 있는-배포</value>
+    <value>Available To-Deploy</value>
   </data>
   <data name="BeforeDeployment" xml:space="preserve">
-    <value>배포 하기 전에</value>
+    <value>Before Deployment</value>
   </data>
   <data name="BeforeDeploymentAvailableStock" xml:space="preserve">
     <value>Before  </value>
@@ -148,10 +148,10 @@
     <value>수요 구간(일)</value>
   </data>
   <data name="DeployedTo" xml:space="preserve">
-    <value>에 배포</value>
+    <value>Deployed to</value>
   </data>
   <data name="DeploymentMode" xml:space="preserve">
-    <value>배포 모드</value>
+    <value>Deployment Mode</value>
   </data>
   <data name="DeploymentMode_Direct" xml:space="preserve">
     <value>직접</value>
@@ -160,7 +160,7 @@
     <value>허브</value>
   </data>
   <data name="DeploymentRequirement" xml:space="preserve">
-    <value>배포 요구 사항</value>
+    <value>Deployment Requirement</value>
   </data>
   <data name="Destination" xml:space="preserve">
     <value>목적지</value>
@@ -196,7 +196,7 @@
     <value>SDM: Source</value>
   </data>
   <data name="Holdback" xml:space="preserve">
-    <value>홀드백</value>
+    <value>Holdback</value>
   </data>
   <data name="IncludeIssued" xml:space="preserve">
     <value>홀드백에 출고된 수량 포함</value>
@@ -238,7 +238,7 @@
     <value>(허브  Deployment 전용)</value>
   </data>
   <data name="Settings_SourceOverride" xml:space="preserve">
-    <value>소스 재정</value>
+    <value>source override</value>
   </data>
   <data name="Settings_SourceUnitFieldNum" xml:space="preserve">
     <value>Source Location에 대한 사용자 정의 필드</value>
@@ -262,7 +262,7 @@
     <value>Source를 선택 하십시오.</value>
   </data>
   <data name="SourceLocation" xml:space="preserve">
-    <value>원본 위치</value>
+    <value>Source Location</value>
   </data>
   <data name="SourceProperties" xml:space="preserve">
     <value>속성</value>
@@ -280,9 +280,9 @@
     <value>요약</value>
   </data>
   <data name="TotalDeployed" xml:space="preserve">
-    <value>총 배포</value>
+    <value>Total Deployed</value>
   </data>
   <data name="TotalDeployedToBuffers" xml:space="preserve">
-    <value>버퍼 배포</value>
+    <value>Deployed to Buffers</value>
   </data>
 </root>
