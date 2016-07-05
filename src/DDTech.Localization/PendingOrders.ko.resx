@@ -130,7 +130,7 @@
     <value>취소</value>
   </data>
   <data name="Committed" xml:space="preserve">
-    <value>Committed</value>
+    <value>확정</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>삭제 확인</value>
@@ -187,7 +187,7 @@
     <value>링크코드</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>지역</value>
+    <value>Location</value>
   </data>
   <data name="Low" xml:space="preserve">
     <value>Low</value>
@@ -247,7 +247,7 @@
     <value>버퍼 %</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
-    <value>담당 품목 설정</value>
+    <value>플래너 코드</value>
   </data>
   <data name="Priority" xml:space="preserve">
     <value>우선순위</value>

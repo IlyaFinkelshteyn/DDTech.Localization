@@ -344,8 +344,13 @@ namespace DDTech.Localization.ResourceCmd
                 var outputFilePath = Path.Combine(Environment.CurrentDirectory, "FailedTranslations.csv");
                 using (var textWriter = new StreamWriter(outputFilePath, false, Encoding.UTF8))
                 {
-                    var csv = new CsvWriter(textWriter);
-                    foreach (var item in handbackMappings)
+                    var csv = new CsvWriter(textWriter, GetConfiguration());
+                    var items = handbackMappings.Select(obj => obj.Value).SelectMany(obj => obj.Values);
+
+                    // Add headers
+                    csv.WriteHeader<LocalizedString>();
+
+                    foreach (var item in items)
                     {
                         csv.WriteRecord(item);
                     }
@@ -358,6 +363,23 @@ namespace DDTech.Localization.ResourceCmd
                 Console.WriteLine(outputFilePath);
                 Environment.Exit(-1);
             }
+        }
+
+        public static CsvHelper.Configuration.CsvConfiguration GetConfiguration()
+        {
+            var cfg = new CsvHelper.Configuration.CsvConfiguration();
+            cfg.TrimFields = true;
+            cfg.TrimHeaders = true;
+            cfg.SkipEmptyRecords = false;
+            cfg.IgnoreBlankLines = true;
+            cfg.IgnoreReadingExceptions = false;
+            cfg.ThrowOnBadData = true;
+            cfg.WillThrowOnMissingField = false;
+            cfg.IgnoreHeaderWhiteSpace = true;
+            cfg.HasHeaderRecord = true;
+            cfg.IsHeaderCaseSensitive = false;
+            cfg.Quote = '"';
+            return cfg;
         }
 
         static void ProcessUntranslatedStrings(Options options, string translationsPath, IEnumerable<string> validResourceFileNames, IEnumerable<string> locales)

@@ -169,7 +169,7 @@
     <value>6월</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>지역</value>
+    <value>Location</value>
   </data>
   <data name="Location:" xml:space="preserve">
     <value>Location:</value>

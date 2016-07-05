@@ -157,7 +157,7 @@
     <value>선택 오더 수락</value>
   </data>
   <data name="ADU" xml:space="preserve">
-    <value>아 두</value>
+    <value>ADU</value>
   </data>
   <data name="AllActivity" xml:space="preserve">
     <value>All Activity</value>
@@ -202,7 +202,7 @@
     <value>열(Column) 표시 셋팅</value>
   </data>
   <data name="Committed" xml:space="preserve">
-    <value>Committed</value>
+    <value>확정</value>
   </data>
   <data name="CreateOrder" xml:space="preserve">
     <value>오더 생성</value>
@@ -433,7 +433,7 @@
     <value>R+ 리드타임</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
-    <value>균형을 실행</value>
+    <value>Running Balance</value>
   </data>
   <data name="SelectPriorityCode" xml:space="preserve">
     <value>우선순위 코드 선택</value>
@@ -472,7 +472,7 @@
     <value>공급오더</value>
   </data>
   <data name="TopOfZone" xml:space="preserve">
-    <value>Top of Zone</value>
+    <value>Top Of Zone</value>
   </data>
   <data name="Type" xml:space="preserve">
     <value>Type</value>
@@ -532,16 +532,16 @@
     <value>상세가 없습니다.</value>
   </data>
   <data name="Workbench_PartAnalytics_AvailableRanges" xml:space="preserve">
-    <value>사용 가능한 범위</value>
+    <value>Available ranges</value>
   </data>
   <data name="Workbench_PartAnalytics_CurrentRange" xml:space="preserve">
-    <value>현재 범위</value>
+    <value>Current range</value>
   </data>
   <data name="Workbench_PartAnalytics_NonBufferedPartsUnsupported" xml:space="preserve">
     <value>Non-Bufferd 품목은 지원되지 않습니다.</value>
   </data>
   <data name="Workbench_PartAnalytics_NotEnoughHistory" xml:space="preserve">
-    <value>도표 작성할 이력데이타 불충분</value>
+    <value>챠트 작성할 이력 데이터가 부족합니다. </value>
   </data>
   <data name="Workbench_PartDetail_Tab_Analytics" xml:space="preserve">
     <value>분석</value>
@@ -586,6 +586,6 @@
     <value>you can also</value>
   </data>
   <data name="ZoneSize" xml:space="preserve">
-    <value>구역크기</value>
+    <value>Zone Size</value>
   </data>
 </root>

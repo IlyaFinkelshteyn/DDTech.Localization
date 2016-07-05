@@ -151,7 +151,7 @@
     <value>REMINDERS를 보려면 클릭</value>
   </data>
   <data name="Committed" xml:space="preserve">
-    <value>committed</value>
+    <value>확정</value>
   </data>
   <data name="CurrentInventory" xml:space="preserve">
     <value>현재고</value>
@@ -307,7 +307,7 @@
     <value>미확정(PENDING)</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
-    <value>계획담당</value>
+    <value>플래너</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>프로파일</value>
@@ -460,6 +460,6 @@
     <value>WO 수요</value>
   </data>
   <data name="Yellow" xml:space="preserve">
-    <value>노란색</value>
+    <value>Yellow</value>
   </data>
 </root>

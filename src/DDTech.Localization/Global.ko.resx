@@ -223,10 +223,13 @@
     <value>현재 재고</value>
   </data>
   <data name="Nav_AlertsLTMSummary_Title" xml:space="preserve">
-    <value>리드타임</value>
+    <value>리드타임관리 </value>
   </data>
   <data name="Nav_AlertsMSA_Title" xml:space="preserve">
     <value>동기화</value>
+  </data>
+  <data name="Nav_AlertsMSASummary_Title" xml:space="preserve">
+    <value>MSA</value>
   </data>
   <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
     <value>예상품절</value>
@@ -313,13 +316,13 @@
     <value>Low</value>
   </data>
   <data name="Nav_PlannersWorkbench_OToG_Title" xml:space="preserve">
-    <value>녹색의 상단</value>
+    <value>Top of Green</value>
   </data>
   <data name="Nav_PlannersWorkbench_Red_Title" xml:space="preserve">
     <value>High</value>
   </data>
   <data name="Nav_PlannersWorkbench_RedNonBuffered_Title" xml:space="preserve">
-    <value>긴급(NB)</value>
+    <value>High(NB)</value>
   </data>
   <data name="Nav_PlannersWorkbench_Title" xml:space="preserve">
     <value>워크벤치</value>
