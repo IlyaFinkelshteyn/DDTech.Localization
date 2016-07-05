@@ -367,13 +367,13 @@
     <value>Нет текущей инвентаризации, и нет спроса</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Заказать за прибыть в менее чем 3% времени привести</value>
+    <value>Заказать за прибыть в менее чем 11% R + время</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Заказать за прибыть в менее что 11% времени, но более чем 7% времени привести</value>
+    <value>Закажите за прибыть между 33% и 22% R + время.</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Заказать за прибыть в менее 7% свинца время но более 3% времени привести</value>
+    <value>Закажите за прибыть между 22% и 11% R + привести времени.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
     <value>Есть открытые предложения и спроса в течение времени</value>

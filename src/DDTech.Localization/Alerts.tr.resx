@@ -364,13 +364,13 @@
     <value>Hiçbir geçerli stok ve hiçbir talep</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Tedarik süresi az % 3 gelmesi nedeniyle sipariş</value>
+    <value>Tedarik süresi R + daha az % 11 gelmesi nedeniyle sipariş</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>O % 11'i sağlama süresi tedarik süresi % 7'den fazla ama daha az gelmesi nedeniyle sipariş</value>
+    <value>% 33 ve tedarik süresi R + %22 arasında gelmesi nedeniyle sipariş.</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Kurşun % 7'si ama daha bu % 3'lük tedarik süresi zaman daha az gelmesi nedeniyle sipariş</value>
+    <value>% 22 ile tedarik süresi R + % 11'i arasında gelmesi nedeniyle sipariş.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
     <value>Sağlama süresi içinde açık arz ve talep vardır</value>

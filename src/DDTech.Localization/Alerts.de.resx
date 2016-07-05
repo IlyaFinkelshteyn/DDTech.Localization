@@ -364,13 +364,13 @@
     <value>Keine aktuellen Bestand, und es gibt keine Nachfrage</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Bestellen Sie aufgrund in weniger als 3 % der Zeit führen zu gelangen</value>
+    <value>Bestellen Sie aufgrund in weniger als 11 % der R + führen Zeit ankommen</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Bestellen Sie aufgrund weniger ankommen, dass 11 % der Vorbereitungs-und Anlaufzeit aber mehr als 7 % der Beschaffungszeit</value>
+    <value>Bestellen Sie wegen zwischen 33 % und 22 % der R + führen Zeit anreisen möchten.</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Bestellen Sie aufgrund weniger ankommen, dass 7 % Blei Zeit aber mehr als 3 % der Beschaffungszeit</value>
+    <value>Bestellen Sie wegen zwischen 22 % und 11 % der R + führen Zeit anreisen möchten.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
     <value>Hat offene Angebot und Nachfrage innerhalb von Vorbereitungs-und Anlaufzeit</value>

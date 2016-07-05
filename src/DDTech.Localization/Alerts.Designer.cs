@@ -799,7 +799,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Order due to arrive in less than 3% of the Lead Time.
+        ///   Looks up a localized string similar to Order due to arrive in less than 11% of the R+ Lead Time.
         /// </summary>
         public static string rule_LTM_High1 {
             get {
@@ -808,7 +808,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Order due to arrive in Less that 11% of Lead Time but more than 7% of Lead Time.
+        ///   Looks up a localized string similar to Order due to arrive between 33% and 22% of the R+ Lead Time..
         /// </summary>
         public static string rule_LTM_Low1 {
             get {
@@ -817,7 +817,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Order due to arrive in less that 7% of Lead Time but more that 3% of Lead Time.
+        ///   Looks up a localized string similar to Order due to arrive between 22% and 11% of the R+ Lead Time..
         /// </summary>
         public static string rule_LTM_Medium1 {
             get {

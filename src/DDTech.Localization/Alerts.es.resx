@@ -364,13 +364,13 @@
     <value>No hay inventario actual, y no hay ninguna demanda de la</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Orden debido para llegar en menos de 3% del plazo de ejecución de</value>
+    <value>Orden debe llegar en menos de un 11% de la R + plazo</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Orden debido a llegar a menos el 11% de tiempo pero más del 7% del plazo de ejecución de</value>
+    <value>Orden debido llegar entre 33% y 22% de la R + plazo de ejecución.</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Orden debido a llegar a menos que el 7% de plomo tiempo pero más 3% de plazo de ejecución de</value>
+    <value>Orden debido llegar entre 22% y 11% de la R + plazo de ejecución.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
     <value>Tiene libre oferta y demanda dentro de plazo de ejecución</value>

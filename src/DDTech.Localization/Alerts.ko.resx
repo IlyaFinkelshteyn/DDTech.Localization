@@ -364,13 +364,13 @@
     <value>아니 현재 재고 수요 그리고</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>리드 타임의 3% 미만에 도착 예정 주문</value>
+    <value>R + 리드 타임의 11% 미만에 도착 하기 때문에 주문</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>때문에 리드 타임의 7% 이상 하지만 리드 타임의 11%는 도착 주문</value>
+    <value>33%와 22 %R + 리드 타임의 사이 도착 인해 주문.</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>7%의 리드 타임의 3%는 하지만 더 많은 시간에 도착을 인해 주문</value>
+    <value>R + 리드 타임의 11%와 22% 사이 도착 인해 주문.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
     <value>리드 타임 내의 수요와 공급 오픈가</value>
