@@ -364,13 +364,13 @@
     <value>No current inventory, and there is no demand</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Order due to arrive in less than 3% of the Lead Time</value>
+    <value>Order due to arrive in less than 11% of the R+ Lead Time</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Order due to arrive in Less that 11% of Lead Time but more than 7% of Lead Time</value>
+    <value>Order due to arrive between 33% and 22% of the R+ Lead Time.</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Order due to arrive in less that 7% of Lead Time but more that 3% of Lead Time</value>
+    <value>Order due to arrive between 22% and 11% of the R+ Lead Time.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
     <value>Has open supply and demand within lead time</value>

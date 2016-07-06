@@ -364,13 +364,13 @@
     <value>Le stock est à zéro, et il n’y a pas de demande</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Échéance de l'ordre à moins de 3% du délai</value>
+    <value>Ordre de dû arriver en moins de 11 % de la R + délai</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Échéance de l'ordre supérieure à 7% et inférieure à 11% du délai</value>
+    <value>Ordre d’arriver entre 33 % et 22 % de la R + délai de dû.</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Échéance de l'ordre supérieure à 3% et inférieure à 7% du délai</value>
+    <value>Ordre d’arriver entre 22 % et 11 % de la R + délai de dû.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
     <value>Il y a des approvisionnements en cours et des besoins dans le délai découplé</value>

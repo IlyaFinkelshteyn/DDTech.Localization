@@ -364,13 +364,13 @@
     <value>Ei ole nykyinen varasto ja ei ole kysyntää</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Tilaa määrä saapua alle 3 % Oletustoimitusajan varmistus</value>
+    <value>Tilaa määrä saapua 11 % r johtaa aika</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Tilaa määrä saapua vähemmän että 11 % johtaa aikaa, mutta yli 7 % Toimitusaika</value>
+    <value>Tilaa määrä saapua 33-22 prosenttia r johtaa ajan.</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Tilaa määrä päästä alle 7 % lyijyä aika mutta että 3 prosenttia Toimitusaika</value>
+    <value>Tilaa määrä saapua välillä 22 prosenttia ja 11 prosenttia r johtaa aika.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
     <value>On auki kysynnän ja tarjonnan läpimenoaikaan</value>

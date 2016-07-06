@@ -364,13 +364,13 @@
     <value>Nincs aktuális készlet, és nincs igény</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Rendelés miatt érkezik, az átfutási idő kevesebb, mint 3 %-ában</value>
+    <value>Rendelés miatt érkezik a R + átfutási idő kevesebb, mint 11 %-át</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Rendelés miatt kevesebb érkezik a 11 %-át, az átfutási idő, de több mint 7 % átfutási idő</value>
+    <value>Rend miatt érkezik között 33 %-kal és 22 %-ában K + vezet.</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Rendelés miatt érkezik a kisebb, hogy a 7 %-a vezető időben de hogy 3 %-a átfutási idő</value>
+    <value>Rendelés esedékes között 22 %-a és 11 %-a a R + átfutási idő érkező.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
     <value>A nyílt keresleti és kínálati belül átfutási idő</value>
