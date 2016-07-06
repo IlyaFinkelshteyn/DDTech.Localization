@@ -123,9 +123,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\GlobalCompanyInfo.cs">
-      <Link>GlobalCompanyInfo.cs</Link>
-    </Compile>
     <Compile Include="BingModels.cs" />
     <Compile Include="Config.cs" />
     <Compile Include="JsonHelper.cs" />

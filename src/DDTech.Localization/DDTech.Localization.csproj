@@ -46,9 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\GlobalCompanyInfo.cs">
-      <Link>GlobalCompanyInfo.cs</Link>
-    </Compile>
     <Compile Include="Account.de.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
