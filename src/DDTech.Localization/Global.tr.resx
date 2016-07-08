@@ -225,6 +225,12 @@
   <data name="Nav_AlertsCurrentInventory_Title" xml:space="preserve">
     <value>Geçerli stok</value>
   </data>
+  <data name="Nav_AlertsLTMSummary_Title" xml:space="preserve">
+    <value>LTM</value>
+  </data>
+  <data name="Nav_AlertsMSASummary_Title" xml:space="preserve">
+    <value>MSA</value>
+  </data>
   <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
     <value>Dışarı öngörülen hisse senedi</value>
   </data>

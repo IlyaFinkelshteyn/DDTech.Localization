@@ -162,6 +162,9 @@
   <data name="Min" xml:space="preserve">
     <value>Min</value>
   </data>
+  <data name="NB" xml:space="preserve">
+    <value>NB</value>
+  </data>
   <data name="Non Buffered" xml:space="preserve">
     <value>Sigara arabelleğe alınmış</value>
   </data>

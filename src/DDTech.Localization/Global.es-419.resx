@@ -228,6 +228,9 @@
   <data name="Nav_AlertsMSA_Title" xml:space="preserve">
     <value>MSA</value>
   </data>
+  <data name="Nav_AlertsMSASummary_Title" xml:space="preserve">
+    <value>MSA</value>
+  </data>
   <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
     <value>Proyectada fuera de Stock</value>
   </data>

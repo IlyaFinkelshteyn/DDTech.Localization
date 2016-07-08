@@ -207,6 +207,9 @@
   <data name="Priority_Medium" xml:space="preserve">
     <value>Közepes</value>
   </data>
+  <data name="Priority_OToG" xml:space="preserve">
+    <value>OToG</value>
+  </data>
   <data name="SelectAll" xml:space="preserve">
     <value>Jelölje ki az összes</value>
   </data>
