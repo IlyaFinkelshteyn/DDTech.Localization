@@ -423,4 +423,10 @@
   <data name="Nav_Alerts_CurrentSupplyOrderNotes" xml:space="preserve">
     <value>Current Supply Order Notes</value>
   </data>
+  <data name="Nav_ApiExplorer" xml:space="preserve">
+    <value>Api Explorer</value>
+  </data>
+  <data name="Nav_Documentation" xml:space="preserve">
+    <value>Documentation</value>
+  </data>
 </root>

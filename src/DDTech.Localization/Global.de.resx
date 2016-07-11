@@ -231,6 +231,9 @@
   <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
     <value>Projizierte Lager heraus</value>
   </data>
+  <data name="Nav_ApiExplorer" xml:space="preserve">
+    <value>API-Explorer</value>
+  </data>
   <data name="Nav_BoM_Title" xml:space="preserve">
     <value>Stückliste</value>
   </data>
@@ -242,6 +245,9 @@
   </data>
   <data name="Nav_DataMgmt_Title" xml:space="preserve">
     <value>Daten</value>
+  </data>
+  <data name="Nav_Documentation" xml:space="preserve">
+    <value>Dokumentation</value>
   </data>
   <data name="Nav_EditBufferProfile_Title" xml:space="preserve">
     <value>Puffer-Profil</value>

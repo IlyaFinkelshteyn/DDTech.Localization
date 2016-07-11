@@ -234,6 +234,9 @@
   <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
     <value>Dışarı öngörülen hisse senedi</value>
   </data>
+  <data name="Nav_ApiExplorer" xml:space="preserve">
+    <value>API Explorer</value>
+  </data>
   <data name="Nav_BoM_Title" xml:space="preserve">
     <value>Ürün reçetesi</value>
   </data>
@@ -245,6 +248,9 @@
   </data>
   <data name="Nav_DataMgmt_Title" xml:space="preserve">
     <value>Veri</value>
+  </data>
+  <data name="Nav_Documentation" xml:space="preserve">
+    <value>Belgeleri</value>
   </data>
   <data name="Nav_EditBufferProfile_Title" xml:space="preserve">
     <value>Arabellek profili</value>
