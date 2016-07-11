@@ -228,6 +228,9 @@
   <data name="OrderType" xml:space="preserve">
     <value>Sipariş tipi</value>
   </data>
+  <data name="OToG" xml:space="preserve">
+    <value>OToG</value>
+  </data>
   <data name="PartNumber" xml:space="preserve">
     <value>Parça numarası</value>
   </data>

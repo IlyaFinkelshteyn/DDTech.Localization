@@ -234,6 +234,9 @@
   <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
     <value>예상품절</value>
   </data>
+  <data name="Nav_ApiExplorer" xml:space="preserve">
+    <value>Api 탐색기</value>
+  </data>
   <data name="Nav_BoM_Title" xml:space="preserve">
     <value>BOM</value>
   </data>
@@ -245,6 +248,9 @@
   </data>
   <data name="Nav_DataMgmt_Title" xml:space="preserve">
     <value>데이터</value>
+  </data>
+  <data name="Nav_Documentation" xml:space="preserve">
+    <value>설명서</value>
   </data>
   <data name="Nav_EditBufferProfile_Title" xml:space="preserve">
     <value>버퍼프로파일</value>

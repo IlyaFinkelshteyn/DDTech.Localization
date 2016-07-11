@@ -156,6 +156,9 @@
   <data name="AcceptSelectedOrders" xml:space="preserve">
     <value>Kiválasztott megbízások elfogadása</value>
   </data>
+  <data name="ADU" xml:space="preserve">
+    <value>ADU</value>
+  </data>
   <data name="AllActivity" xml:space="preserve">
     <value>Minden tevékenység</value>
   </data>

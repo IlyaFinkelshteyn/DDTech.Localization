@@ -156,6 +156,9 @@
   <data name="AcceptSelectedOrders" xml:space="preserve">
     <value>Seçili siparişleri kabul</value>
   </data>
+  <data name="ADU" xml:space="preserve">
+    <value>ADU</value>
+  </data>
   <data name="AllActivity" xml:space="preserve">
     <value>Tüm etkinlik</value>
   </data>

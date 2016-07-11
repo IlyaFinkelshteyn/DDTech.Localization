@@ -394,6 +394,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Api Explorer.
+        /// </summary>
+        public static string Nav_ApiExplorer {
+            get {
+                return ResourceManager.GetString("Nav_ApiExplorer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Bill of Materials.
         /// </summary>
         public static string Nav_BoM_Title {
@@ -426,6 +435,15 @@ namespace DDTech.Localization {
         public static string Nav_DataMgmt_Title {
             get {
                 return ResourceManager.GetString("Nav_DataMgmt_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Documentation.
+        /// </summary>
+        public static string Nav_Documentation {
+            get {
+                return ResourceManager.GetString("Nav_Documentation", resourceCulture);
             }
         }
         

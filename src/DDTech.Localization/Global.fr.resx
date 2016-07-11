@@ -228,8 +228,14 @@
   <data name="Nav_AlertsMSA_Title" xml:space="preserve">
     <value>Alerte de synchronisation article</value>
   </data>
+  <data name="Nav_AlertsMSASummary_Title" xml:space="preserve">
+    <value>MSA</value>
+  </data>
   <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
     <value>Stock projeté</value>
+  </data>
+  <data name="Nav_ApiExplorer" xml:space="preserve">
+    <value>API Explorer</value>
   </data>
   <data name="Nav_BoM_Title" xml:space="preserve">
     <value>Nomenclatures</value>
@@ -242,6 +248,9 @@
   </data>
   <data name="Nav_DataMgmt_Title" xml:space="preserve">
     <value>Données</value>
+  </data>
+  <data name="Nav_Documentation" xml:space="preserve">
+    <value>Documentation</value>
   </data>
   <data name="Nav_EditBufferProfile_Title" xml:space="preserve">
     <value>Profils de buffer</value>

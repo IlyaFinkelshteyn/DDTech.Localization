@@ -228,6 +228,9 @@
   <data name="OrderType" xml:space="preserve">
     <value>Auftragsart</value>
   </data>
+  <data name="OToG" xml:space="preserve">
+    <value>OToG</value>
+  </data>
   <data name="PartNumber" xml:space="preserve">
     <value>Teilenummer</value>
   </data>

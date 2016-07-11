@@ -162,6 +162,9 @@
   <data name="OnHand" xml:space="preserve">
     <value>Käsillä</value>
   </data>
+  <data name="OTOG" xml:space="preserve">
+    <value>OToG</value>
+  </data>
   <data name="OTOGTrendByPlanner" xml:space="preserve">
     <value>OToG ulottamalla Planner</value>
   </data>

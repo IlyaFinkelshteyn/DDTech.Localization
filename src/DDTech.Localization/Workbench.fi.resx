@@ -156,6 +156,9 @@
   <data name="AcceptSelectedOrders" xml:space="preserve">
     <value>Hyväksy valitut tilaukset</value>
   </data>
+  <data name="ADU" xml:space="preserve">
+    <value>ADU</value>
+  </data>
   <data name="AllActivity" xml:space="preserve">
     <value>Kaikki toiminta</value>
   </data>
