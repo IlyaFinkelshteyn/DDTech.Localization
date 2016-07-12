@@ -160,7 +160,7 @@
     <value>ADU</value>
   </data>
   <data name="AllActivity" xml:space="preserve">
-    <value>All Activity</value>
+    <value>모든 활동</value>
   </data>
   <data name="Apply" xml:space="preserve">
     <value>적용</value>
@@ -388,7 +388,7 @@
     <value>자재 타입 필터</value>
   </data>
   <data name="Pending" xml:space="preserve">
-    <value>Pending</value>
+    <value>미확정(PENDING)</value>
   </data>
   <data name="Pinned" xml:space="preserve">
     <value>고정</value>
@@ -475,7 +475,7 @@
     <value>Top Of Zone</value>
   </data>
   <data name="Type" xml:space="preserve">
-    <value>Type</value>
+    <value>TYPE</value>
   </data>
   <data name="UDF" xml:space="preserve">
     <value>사용자정의필드</value>

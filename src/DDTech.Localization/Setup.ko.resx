@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Admin_Confirm" xml:space="preserve">
-    <value>관리자가 등록 되었습니다. 암호를 설정 하는 지침 지정 된 이메일 주소로 보냈습니다.</value>
+    <value>관리자가 등록 되었습니다. 암호 설정 지침이 지정된 이메일로 전송되었습니다.</value>
   </data>
   <data name="Admin_Message" xml:space="preserve">
-    <value>먼저 첫 번째 관리자가 만들어야 합니다. 이 사용자는 다른 사용자를 관리할 수 있게 됩니다.</value>
+    <value>먼저 첫 번째 관리자를 만들어야 합니다. 이 사용자는 다른 사용자를 관리할 수 있게 됩니다.</value>
   </data>
   <data name="Admin_Title" xml:space="preserve">
     <value>관리자</value>
@@ -139,7 +139,7 @@
     <value>설치 완료</value>
   </data>
   <data name="Index_Message" xml:space="preserve">
-    <value>RPlus의 인스턴스를 사용할 수 거의 준비가 되어있습니다. 우리가 계속 하기 전에 몇 가지 비트의 정보를 수집 해야 합니다.</value>
+    <value>RPlus의 인스턴스를 사용할 준비가 거의 되었습니다. 계속하기 전에 몇 가지 정보를 수집해야 합니다.</value>
   </data>
   <data name="Index_Title" xml:space="preserve">
     <value>처음 설치</value>

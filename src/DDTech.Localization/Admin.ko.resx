@@ -208,7 +208,7 @@
     <value>없음</value>
   </data>
   <data name="Settings_HistoryCapture" xml:space="preserve">
-    <value>역사 캡처</value>
+    <value>이력 캡처</value>
   </data>
   <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
     <value>이력 보관 일수 </value>

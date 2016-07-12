@@ -157,7 +157,7 @@
     <value>자재Type:</value>
   </data>
   <data name="none" xml:space="preserve">
-    <value>none</value>
+    <value>없음</value>
   </data>
   <data name="OnHand" xml:space="preserve">
     <value>현 재고</value>

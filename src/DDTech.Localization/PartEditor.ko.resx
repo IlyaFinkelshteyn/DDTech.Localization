@@ -208,7 +208,7 @@
     <value>데이터 없슴</value>
   </data>
   <data name="Notes" xml:space="preserve">
-    <value>Notes  </value>
+    <value>Notes</value>
   </data>
   <data name="OrderCycleOverride" xml:space="preserve">
     <value>오더주기 Override</value>
@@ -256,10 +256,10 @@
     <value>Red</value>
   </data>
   <data name="Rev" xml:space="preserve">
-    <value>Rev</value>
+    <value>REV</value>
   </data>
   <data name="Revision" xml:space="preserve">
-    <value>Revision  </value>
+    <value>Revision</value>
   </data>
   <data name="RPlusLeadTime" xml:space="preserve">
     <value>R+리드타임</value>

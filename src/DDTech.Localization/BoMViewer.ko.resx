@@ -124,7 +124,7 @@
     <value>BOM:</value>
   </data>
   <data name="Buffered" xml:space="preserve">
-    <value>Buffered</value>
+    <value>버퍼</value>
   </data>
   <data name="Buy" xml:space="preserve">
     <value>구매</value>
@@ -160,7 +160,7 @@
     <value>Max</value>
   </data>
   <data name="Min" xml:space="preserve">
-    <value>Min </value>
+    <value>Min</value>
   </data>
   <data name="NB" xml:space="preserve">
     <value>NB</value>
@@ -184,7 +184,7 @@
     <value>새로 고침</value>
   </data>
   <data name="rev" xml:space="preserve">
-    <value>rev</value>
+    <value>REV</value>
   </data>
   <data name="Search" xml:space="preserve">
     <value>검색</value>

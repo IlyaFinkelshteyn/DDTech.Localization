@@ -205,25 +205,25 @@
     <value>사용자 관리</value>
   </data>
   <data name="Nav_Alerts_CurrentSupplyOrderNotes" xml:space="preserve">
-    <value>현재 공급 순서 노트</value>
+    <value>현재 공급오더 노트</value>
   </data>
   <data name="Nav_Alerts_NoSupplyOrderNotes" xml:space="preserve">
-    <value>아니 공급 순서 노트</value>
+    <value>공급오더 노트</value>
   </data>
   <data name="Nav_Alerts_OutstandingSupplyOrderNotes" xml:space="preserve">
-    <value>뛰어난 공급 순서 노트</value>
+    <value>Outstanding 공급오더 노트</value>
   </data>
   <data name="Nav_Alerts_OverdueSupplyOrderNotes" xml:space="preserve">
-    <value>기한 초과 공급 순서 노트</value>
+    <value>기한 초과 공급오더 노트</value>
   </data>
   <data name="Nav_Alerts_Title" xml:space="preserve">
-    <value>Alerts</value>
+    <value>경고</value>
   </data>
   <data name="Nav_AlertsCurrentInventory_Title" xml:space="preserve">
     <value>현재 재고</value>
   </data>
   <data name="Nav_AlertsLTMSummary_Title" xml:space="preserve">
-    <value>리드타임관리 </value>
+    <value>리드타임관리</value>
   </data>
   <data name="Nav_AlertsMSA_Title" xml:space="preserve">
     <value>동기화</value>
@@ -310,7 +310,7 @@
     <value>R+ 대시보드</value>
   </data>
   <data name="Nav_PlannersWorkbench_All_Title" xml:space="preserve">
-    <value>All</value>
+    <value>모든</value>
   </data>
   <data name="Nav_PlannersWorkbench_Critical_Title" xml:space="preserve">
     <value>Critical</value>
@@ -373,7 +373,7 @@
     <value>설정</value>
   </data>
   <data name="Nav_Status_Title" xml:space="preserve">
-    <value>Status</value>
+    <value>상태</value>
   </data>
   <data name="Nav_StockDeployment_Title" xml:space="preserve">
     <value>Stock Deployment</value>
@@ -385,7 +385,7 @@
     <value>never</value>
   </data>
   <data name="None" xml:space="preserve">
-    <value>none</value>
+    <value>없음</value>
   </data>
   <data name="NoneSelected" xml:space="preserve">
     <value>선택 없음</value>
@@ -421,16 +421,16 @@
     <value>더 보기</value>
   </data>
   <data name="TimeZone_Server_Desc1" xml:space="preserve">
-    <value>표시 되는 시간 구성 된 사이트의 글로벌 시간 설정을 사용 하는</value>
+    <value>표시되는 시간은 Global setting에서 설정된 시간이 사용됩니다.</value>
   </data>
   <data name="TimeZone_Server_Desc2" xml:space="preserve">
-    <value>시간 설정은 전역 설정 페이지에서 구성 됩니다.</value>
+    <value>시간 설정은 전역 설정 페이지에서 설정합니다.</value>
   </data>
   <data name="TimeZoneType_Browser" xml:space="preserve">
     <value>현재 사용자 시간대 (브라우저)</value>
   </data>
   <data name="TimeZoneType_Site" xml:space="preserve">
-    <value>구성 된 지역 시간대 (사이트)</value>
+    <value>설정된 지역 시간대 (사이트)</value>
   </data>
   <data name="TimeZoneType_UTC" xml:space="preserve">
     <value>서버 시간대 (UTC)</value>

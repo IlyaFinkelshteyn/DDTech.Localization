@@ -151,7 +151,7 @@
     <value>Source</value>
   </data>
   <data name="Common_Status" xml:space="preserve">
-    <value>Status</value>
+    <value>상태</value>
   </data>
   <data name="Common_UnitOfMeasure" xml:space="preserve">
     <value>단위</value>
@@ -205,7 +205,7 @@
     <value>늦게</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Line" xml:space="preserve">
-    <value>Line</value>
+    <value>라인</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Notes" xml:space="preserve">
     <value>코멘트</value>
@@ -217,7 +217,7 @@
     <value>오더 스파이크 우선순위</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderType" xml:space="preserve">
-    <value>Status</value>
+    <value>상태</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_PromiseDate" xml:space="preserve">
     <value>약속일자</value>
@@ -256,7 +256,7 @@
     <value>공급업체 ID</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Type" xml:space="preserve">
-    <value>Type</value>
+    <value>TYPE</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AdjustmentFactor" xml:space="preserve">
     <value>조정률</value>
@@ -280,7 +280,7 @@
     <value>Green Zone 버퍼 크기</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryMethod" xml:space="preserve">
-    <value>Inventory Method</value>
+    <value>재고관리 방법</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryQty" xml:space="preserve">
     <value>재고 수량</value>
@@ -376,7 +376,7 @@
     <value>품목번호</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartKey_Revision" xml:space="preserve">
-    <value>Rev</value>
+    <value>REV</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_CreatedByUser" xml:space="preserve">
     <value>에 의해 만들어진</value>

@@ -136,7 +136,7 @@
     <value>삭제</value>
   </data>
   <data name="Button_OK" xml:space="preserve">
-    <value>OK</value>
+    <value>괜찮았던 것</value>
   </data>
   <data name="Button_Save" xml:space="preserve">
     <value>저장</value>
@@ -163,7 +163,7 @@
     <value>LTM 부분</value>
   </data>
   <data name="LTMParts" xml:space="preserve">
-    <value>LTM 부품</value>
+    <value>LTM 품목</value>
   </data>
   <data name="Missing" xml:space="preserve">
     <value>누락</value>
@@ -181,7 +181,7 @@
     <value>버퍼링 되지 않은 부품</value>
   </data>
   <data name="None" xml:space="preserve">
-    <value>None</value>
+    <value>없음</value>
   </data>
   <data name="PartType_Buy" xml:space="preserve">
     <value>구매</value>
@@ -190,7 +190,7 @@
     <value>생산</value>
   </data>
   <data name="Priority_Critical" xml:space="preserve">
-    <value>Critical </value>
+    <value>Critical</value>
   </data>
   <data name="Priority_High" xml:space="preserve">
     <value>High</value>

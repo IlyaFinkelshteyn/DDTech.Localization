@@ -181,10 +181,10 @@
     <value>5월</value>
   </data>
   <data name="Name" xml:space="preserve">
-    <value>Name</value>
+    <value>이름</value>
   </data>
   <data name="Name:" xml:space="preserve">
-    <value>Name:</value>
+    <value>이름:</value>
   </data>
   <data name="Nov" xml:space="preserve">
     <value>11월</value>
@@ -193,7 +193,7 @@
     <value>10월</value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>OK</value>
+    <value>괜찮았던 것</value>
   </data>
   <data name="PAFDeletedSuccessfully" xml:space="preserve">
     <value>PAF 삭제 완료</value>

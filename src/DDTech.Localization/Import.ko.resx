@@ -157,7 +157,7 @@
     <value>가져오기 </value>
   </data>
   <data name="InstructionsForUnIdentified" xml:space="preserve">
-    <value>시스템 데이터 교환 설정이 올바른지 확인하십시오</value>
+    <value>시스템 데이터 교환설정(exchange setting)이 올바른지 확인하십시오</value>
   </data>
   <data name="KeyDeletedSuccessfully" xml:space="preserve">
     <value>삭제 완료</value>
@@ -166,7 +166,7 @@
     <value>데이터 없음</value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>OK</value>
+    <value>괜찮았던 것</value>
   </data>
   <data name="Processing" xml:space="preserve">
     <value>Processing</value>
@@ -175,7 +175,7 @@
     <value>가져오기 전에 미확정(Pending)/내보내기(Exported) 파일 삭제 </value>
   </data>
   <data name="RegionSettingsDescribed" xml:space="preserve">
-    <value>국가별 설정 업로드 하지 가져오기에서 파일에 적용 됩니다.</value>
+    <value>국가별 설정이 파일 upload(not import)에 적용되었습니다.</value>
   </data>
   <data name="Reset" xml:space="preserve">
     <value>재설정</value>
@@ -193,7 +193,7 @@
     <value>테스트 상태</value>
   </data>
   <data name="Type" xml:space="preserve">
-    <value>Type</value>
+    <value>TYPE</value>
   </data>
   <data name="Uploaded" xml:space="preserve">
     <value>업로드</value>

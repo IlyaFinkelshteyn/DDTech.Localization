@@ -145,7 +145,7 @@
     <value>NonBufferd 우선순위</value>
   </data>
   <data name="none" xml:space="preserve">
-    <value>none</value>
+    <value>없음</value>
   </data>
   <data name="NoReminders" xml:space="preserve">
     <value>없음 Reminder(s)</value>

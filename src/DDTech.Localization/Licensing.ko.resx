@@ -136,22 +136,22 @@
     <value>R+ 라이센스 만료 되었습니다.</value>
   </data>
   <data name="LicenseInvalid" xml:space="preserve">
-    <value>R+ 라이센스 부당한입니다.</value>
+    <value>R+ 라이선스가 유효하지 않습니다.</value>
   </data>
   <data name="LicenseValidForever" xml:space="preserve">
-    <value>R+ 구독은 영원히 유효</value>
+    <value>R+ 사용기간 영구 유효</value>
   </data>
   <data name="LicenseValidUntil" xml:space="preserve">
-    <value>R+ 구독까지 유효</value>
+    <value>R+ 사용기간 만기 </value>
   </data>
   <data name="NewLicenseUploaded" xml:space="preserve">
     <value>새로운 R+ 라이센스 성공적으로 업로드</value>
   </data>
   <data name="NoModulesPurchased" xml:space="preserve">
-    <value>아니 추가 모듈 구입</value>
+    <value>추가 구매한 모듈이 없음</value>
   </data>
   <data name="OnlyLICFiles" xml:space="preserve">
-    <value>만.lic 파일을 업로드할 수 있습니다.</value>
+    <value>lic 파일만을 업로드할 수 있습니다.</value>
   </data>
   <data name="PurchasedModules" xml:space="preserve">
     <value>구입한 모듈</value>

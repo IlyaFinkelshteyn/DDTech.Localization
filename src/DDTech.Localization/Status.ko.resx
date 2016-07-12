@@ -160,7 +160,7 @@
     <value>예측 수요</value>
   </data>
   <data name="HistoryCaptureLog_Btn" xml:space="preserve">
-    <value>역사 캡처 로그</value>
+    <value>이력 캡처 로그</value>
   </data>
   <data name="LastUpdated" xml:space="preserve">
     <value>최종수정일</value>

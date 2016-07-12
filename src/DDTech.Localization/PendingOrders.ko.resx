@@ -139,7 +139,7 @@
     <value>이 오더를 삭제하겠습니까?</value>
   </data>
   <data name="Critical" xml:space="preserve">
-    <value>Critical </value>
+    <value>Critical</value>
   </data>
   <data name="Customer" xml:space="preserve">
     <value>고객</value>
@@ -205,7 +205,7 @@
     <value>데이터 없음</value>
   </data>
   <data name="none" xml:space="preserve">
-    <value>none</value>
+    <value>없음</value>
   </data>
   <data name="NoPendingOrders" xml:space="preserve">
     <value>미확정(Pending) 오더가 없습니다.</value>
@@ -217,7 +217,7 @@
     <value> of </value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>OK</value>
+    <value>괜찮았던 것</value>
   </data>
   <data name="Order" xml:space="preserve">
     <value>오더</value>
