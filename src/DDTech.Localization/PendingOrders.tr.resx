@@ -156,6 +156,9 @@
   <data name="Description" xml:space="preserve">
     <value>Açıklama</value>
   </data>
+  <data name="DownloadAllPendingOrders" xml:space="preserve">
+    <value>Tüm bekleyen siparişler (geçiş) indir</value>
+  </data>
   <data name="Export" xml:space="preserve">
     <value>Dışa aktarma</value>
   </data>
@@ -296,6 +299,12 @@
   </data>
   <data name="TotalOrders" xml:space="preserve">
     <value>Toplam siparişler</value>
+  </data>
+  <data name="TransitionAllPendingOrders" xml:space="preserve">
+    <value>"İhraç" için tüm bekleyen siparişler geçiş</value>
+  </data>
+  <data name="TransitionSelectedPendingOrders" xml:space="preserve">
+    <value>Bekleyen siparişler "İhraç" için seçili geçiş</value>
   </data>
   <data name="Unit" xml:space="preserve">
     <value>Birim</value>

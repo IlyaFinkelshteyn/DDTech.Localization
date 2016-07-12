@@ -156,6 +156,9 @@
   <data name="Description" xml:space="preserve">
     <value>명세 </value>
   </data>
+  <data name="DownloadAllPendingOrders" xml:space="preserve">
+    <value>모든 보류 중인 주문 (전환)을 다운로드</value>
+  </data>
   <data name="Export" xml:space="preserve">
     <value>내보내기</value>
   </data>
@@ -302,6 +305,12 @@
   </data>
   <data name="TotalOrders" xml:space="preserve">
     <value>오더 합계</value>
+  </data>
+  <data name="TransitionAllPendingOrders" xml:space="preserve">
+    <value>"수출"를 모든 보류 중인 명령을 전환합니다</value>
+  </data>
+  <data name="TransitionSelectedPendingOrders" xml:space="preserve">
+    <value>"수출"를 주문 보류 선택 전환</value>
   </data>
   <data name="Unit" xml:space="preserve">
     <value>단위</value>

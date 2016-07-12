@@ -156,6 +156,9 @@
   <data name="Description" xml:space="preserve">
     <value>Désignation</value>
   </data>
+  <data name="DownloadAllPendingOrders" xml:space="preserve">
+    <value>Télécharger toutes les commandes en attente (sans Transition)</value>
+  </data>
   <data name="Export" xml:space="preserve">
     <value>Exporter</value>
   </data>
@@ -302,6 +305,12 @@
   </data>
   <data name="TotalOrders" xml:space="preserve">
     <value>Nombre total de commandes</value>
+  </data>
+  <data name="TransitionAllPendingOrders" xml:space="preserve">
+    <value>Toutes les commandes en attente « Exporté » la transition</value>
+  </data>
+  <data name="TransitionSelectedPendingOrders" xml:space="preserve">
+    <value>Transition sélectionnée dans l’attente de commandes « Exportés »</value>
   </data>
   <data name="Unit" xml:space="preserve">
     <value>Unité</value>

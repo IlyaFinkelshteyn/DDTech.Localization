@@ -156,6 +156,9 @@
   <data name="Description" xml:space="preserve">
     <value>Leírás</value>
   </data>
+  <data name="DownloadAllPendingOrders" xml:space="preserve">
+    <value>Töltse le a függőben lévő megbízások (nincs átmenet)</value>
+  </data>
   <data name="Export" xml:space="preserve">
     <value>Export</value>
   </data>
@@ -296,6 +299,12 @@
   </data>
   <data name="TotalOrders" xml:space="preserve">
     <value>Teljes megrendelés</value>
+  </data>
+  <data name="TransitionAllPendingOrders" xml:space="preserve">
+    <value>Átmenet az "Exportált" függőben lévő megbízások</value>
+  </data>
+  <data name="TransitionSelectedPendingOrders" xml:space="preserve">
+    <value>Függőben lévő megbízások az "Exportált" kijelölt átmenet</value>
   </data>
   <data name="Unit" xml:space="preserve">
     <value>Egység</value>

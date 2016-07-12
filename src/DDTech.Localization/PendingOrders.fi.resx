@@ -156,6 +156,9 @@
   <data name="Description" xml:space="preserve">
     <value>Kuvaus</value>
   </data>
+  <data name="DownloadAllPendingOrders" xml:space="preserve">
+    <value>Lataa kaikki odottavat toimeksiannot (siirtymä)</value>
+  </data>
   <data name="Export" xml:space="preserve">
     <value>Vienti</value>
   </data>
@@ -296,6 +299,12 @@
   </data>
   <data name="TotalOrders" xml:space="preserve">
     <value>Kaikista tilauksista</value>
+  </data>
+  <data name="TransitionAllPendingOrders" xml:space="preserve">
+    <value>Siirtyminen kaikkien odottavien tilausten "Viedä maasta"</value>
+  </data>
+  <data name="TransitionSelectedPendingOrders" xml:space="preserve">
+    <value>Siirtyminen valitun odottavien toimeksiantojen "Viedä maasta"</value>
   </data>
   <data name="Unit" xml:space="preserve">
     <value>Yksikkö</value>

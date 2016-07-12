@@ -178,6 +178,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Download All Pending Orders (No Transition).
+        /// </summary>
+        public static string DownloadAllPendingOrders {
+            get {
+                return ResourceManager.GetString("DownloadAllPendingOrders", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Export.
         /// </summary>
         public static string Export {
@@ -615,6 +624,24 @@ namespace DDTech.Localization {
         public static string TotalOrders {
             get {
                 return ResourceManager.GetString("TotalOrders", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Transition All Pending Orders to &quot;Exported&quot;.
+        /// </summary>
+        public static string TransitionAllPendingOrders {
+            get {
+                return ResourceManager.GetString("TransitionAllPendingOrders", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Transition Selected Pending Orders to &quot;Exported&quot;.
+        /// </summary>
+        public static string TransitionSelectedPendingOrders {
+            get {
+                return ResourceManager.GetString("TransitionSelectedPendingOrders", resourceCulture);
             }
         }
         

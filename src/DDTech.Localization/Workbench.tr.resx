@@ -468,6 +468,9 @@
   <data name="Type" xml:space="preserve">
     <value>Türü</value>
   </data>
+  <data name="UDF" xml:space="preserve">
+    <value>UDF</value>
+  </data>
   <data name="UnfilteredExport" xml:space="preserve">
     <value>Filtre uygulanmamış verme</value>
   </data>

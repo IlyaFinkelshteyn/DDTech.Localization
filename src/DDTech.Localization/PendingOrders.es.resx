@@ -156,6 +156,9 @@
   <data name="Description" xml:space="preserve">
     <value>Descripción</value>
   </data>
+  <data name="DownloadAllPendingOrders" xml:space="preserve">
+    <value>Descargar todos los pedidos pendientes (sin transición)</value>
+  </data>
   <data name="Export" xml:space="preserve">
     <value>Exportar</value>
   </data>
@@ -302,6 +305,12 @@
   </data>
   <data name="TotalOrders" xml:space="preserve">
     <value>Órdenes totales</value>
+  </data>
+  <data name="TransitionAllPendingOrders" xml:space="preserve">
+    <value>Todos los pedidos pendientes que "Exportar" de la transición</value>
+  </data>
+  <data name="TransitionSelectedPendingOrders" xml:space="preserve">
+    <value>Transición seleccionado pedidos a "Exportar"</value>
   </data>
   <data name="Unit" xml:space="preserve">
     <value>Unidad</value>
