@@ -129,8 +129,20 @@
   <data name="Cancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
+  <data name="Commit" xml:space="preserve">
+    <value>Commit</value>
+  </data>
+  <data name="CommitAllPendingOrders" xml:space="preserve">
+    <value>Commit All Pending Orders</value>
+  </data>
+  <data name="CommitSelectedPendingOrders" xml:space="preserve">
+    <value>Commit Selected Pending Orders</value>
+  </data>
   <data name="Committed" xml:space="preserve">
     <value>Committed</value>
+  </data>
+  <data name="ConfirmCommitOrders" xml:space="preserve">
+    <value>Are you sure you want to commit these orders?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Confirm Delete</value>

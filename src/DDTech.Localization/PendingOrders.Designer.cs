@@ -97,11 +97,47 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Commit.
+        /// </summary>
+        public static string Commit {
+            get {
+                return ResourceManager.GetString("Commit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Commit All Pending Orders.
+        /// </summary>
+        public static string CommitAllPendingOrders {
+            get {
+                return ResourceManager.GetString("CommitAllPendingOrders", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Commit Selected Pending Orders.
+        /// </summary>
+        public static string CommitSelectedPendingOrders {
+            get {
+                return ResourceManager.GetString("CommitSelectedPendingOrders", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Committed.
         /// </summary>
         public static string Committed {
             get {
                 return ResourceManager.GetString("Committed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to commit these orders?.
+        /// </summary>
+        public static string ConfirmCommitOrders {
+            get {
+                return ResourceManager.GetString("ConfirmCommitOrders", resourceCulture);
             }
         }
         

@@ -129,8 +129,20 @@
   <data name="Cancel" xml:space="preserve">
     <value>취소</value>
   </data>
+  <data name="Commit" xml:space="preserve">
+    <value>커밋</value>
+  </data>
+  <data name="CommitAllPendingOrders" xml:space="preserve">
+    <value>모든 보류 중인 주문 커밋</value>
+  </data>
+  <data name="CommitSelectedPendingOrders" xml:space="preserve">
+    <value>커밋 명령 보류 선택</value>
+  </data>
   <data name="Committed" xml:space="preserve">
     <value>확정</value>
+  </data>
+  <data name="ConfirmCommitOrders" xml:space="preserve">
+    <value>당신은 커밋 이러한 주문 하 시겠습니까?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>삭제 확인</value>

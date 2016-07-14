@@ -129,8 +129,20 @@
   <data name="Cancel" xml:space="preserve">
     <value>İptal</value>
   </data>
+  <data name="Commit" xml:space="preserve">
+    <value>Tamamlama</value>
+  </data>
+  <data name="CommitAllPendingOrders" xml:space="preserve">
+    <value>Tüm bekleyen siparişleri işlemek</value>
+  </data>
+  <data name="CommitSelectedPendingOrders" xml:space="preserve">
+    <value>Seçili siparişleri tamamlama</value>
+  </data>
   <data name="Committed" xml:space="preserve">
     <value>Kabul edilen</value>
+  </data>
+  <data name="ConfirmCommitOrders" xml:space="preserve">
+    <value>Bu siparişleri işlemek istediğinizden emin misiniz?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Silmeyi Onayla</value>

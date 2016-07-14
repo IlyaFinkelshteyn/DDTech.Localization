@@ -129,8 +129,20 @@
   <data name="Cancel" xml:space="preserve">
     <value>Cancelar</value>
   </data>
+  <data name="Commit" xml:space="preserve">
+    <value>Cometer</value>
+  </data>
+  <data name="CommitAllPendingOrders" xml:space="preserve">
+    <value>Cometen todos los pedidos pendientes</value>
+  </data>
+  <data name="CommitSelectedPendingOrders" xml:space="preserve">
+    <value>Seleccionada órdenes pendientes de confirmación</value>
+  </data>
   <data name="Committed" xml:space="preserve">
     <value>Validado</value>
+  </data>
+  <data name="ConfirmCommitOrders" xml:space="preserve">
+    <value>¿Está seguro que desea cometer estas órdenes?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Confirmar Borrado</value>

@@ -129,8 +129,20 @@
   <data name="Cancel" xml:space="preserve">
     <value>Abbrechen</value>
   </data>
+  <data name="Commit" xml:space="preserve">
+    <value>Begehen</value>
+  </data>
+  <data name="CommitAllPendingOrders" xml:space="preserve">
+    <value>Alle ausstehende Bestellungen verpflichten</value>
+  </data>
+  <data name="CommitSelectedPendingOrders" xml:space="preserve">
+    <value>Verpflichten, die noch nicht erledigten Aufträge ausgewählt</value>
+  </data>
   <data name="Committed" xml:space="preserve">
     <value>Verpflichtet</value>
+  </data>
+  <data name="ConfirmCommitOrders" xml:space="preserve">
+    <value>Sind Sie sicher, dass Sie diese Bestellungen verpflichten möchten?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Löschen bestätigen</value>

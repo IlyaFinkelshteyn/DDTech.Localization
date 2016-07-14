@@ -129,8 +129,20 @@
   <data name="Cancel" xml:space="preserve">
     <value>Mégse</value>
   </data>
+  <data name="Commit" xml:space="preserve">
+    <value>Véglegesítés</value>
+  </data>
+  <data name="CommitAllPendingOrders" xml:space="preserve">
+    <value>Függőben lévő megbízások elkövetni</value>
+  </data>
+  <data name="CommitSelectedPendingOrders" xml:space="preserve">
+    <value>Függőben lévő megbízások kiválasztott véglegesítés</value>
+  </data>
   <data name="Committed" xml:space="preserve">
     <value>Elkövetett</value>
+  </data>
+  <data name="ConfirmCommitOrders" xml:space="preserve">
+    <value>Biztosan azt szeretné, hogy kötelezzék el ezeket a rendeléseket?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Törlés megerősítése</value>

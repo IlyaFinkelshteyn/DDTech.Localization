@@ -129,8 +129,20 @@
   <data name="Cancel" xml:space="preserve">
     <value>Отмена</value>
   </data>
+  <data name="Commit" xml:space="preserve">
+    <value>Фиксации</value>
+  </data>
+  <data name="CommitAllPendingOrders" xml:space="preserve">
+    <value>Совершать все отложенные ордера</value>
+  </data>
+  <data name="CommitSelectedPendingOrders" xml:space="preserve">
+    <value>Фиксация выбранных отложенных ордеров</value>
+  </data>
   <data name="Committed" xml:space="preserve">
     <value>Размещенный  </value>
+  </data>
+  <data name="ConfirmCommitOrders" xml:space="preserve">
+    <value>Вы уверены, что вы хотите совершить эти заказы?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Подтверждение удаления</value>

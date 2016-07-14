@@ -129,8 +129,20 @@
   <data name="Cancel" xml:space="preserve">
     <value>Peruuta</value>
   </data>
+  <data name="Commit" xml:space="preserve">
+    <value>Commit</value>
+  </data>
+  <data name="CommitAllPendingOrders" xml:space="preserve">
+    <value>Vahvista kaikki odottavat toimeksiannot</value>
+  </data>
+  <data name="CommitSelectedPendingOrders" xml:space="preserve">
+    <value>Valittu odottavien toimeksiantojen toteutuksen</value>
+  </data>
   <data name="Committed" xml:space="preserve">
     <value>Sitoutunut</value>
+  </data>
+  <data name="ConfirmCommitOrders" xml:space="preserve">
+    <value>Oletko varma, että toimitettavat tilaukset?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Vahvista poistaminen</value>
