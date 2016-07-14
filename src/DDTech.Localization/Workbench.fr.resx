@@ -436,7 +436,7 @@
     <value>Stock projeté</value>
   </data>
   <data name="SelectPriorityCode" xml:space="preserve">
-    <value>Sélectionnez le Code de priorité</value>
+    <value>Sélectionner</value>
   </data>
   <data name="ShortDateFormatNoYear" xml:space="preserve">
     <value>__month__/__day__</value>
