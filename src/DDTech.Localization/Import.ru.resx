@@ -174,6 +174,9 @@
   <data name="PurgePendingExportedOrdersOnImport" xml:space="preserve">
     <value>Очистить экспортированные и заказы в ожидании при импорте заказов из ERP</value>
   </data>
+  <data name="RecordsIgnoredMessageFormat" xml:space="preserve">
+    <value>{0} записи были проигнорированы из-за конфигурации политики</value>
+  </data>
   <data name="RegionSettingsDescribed" xml:space="preserve">
     <value>Региональные параметры применяются к файлам загрузки и не импорта.</value>
   </data>

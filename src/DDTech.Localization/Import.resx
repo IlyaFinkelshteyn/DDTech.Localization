@@ -201,4 +201,7 @@
   <data name="Settings" xml:space="preserve">
     <value>Settings</value>
   </data>
+  <data name="RecordsIgnoredMessageFormat" xml:space="preserve">
+    <value>{0} records were ignored due to policy configuration</value>
+  </data>
 </root>

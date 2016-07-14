@@ -232,6 +232,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} records were ignored due to policy configuration.
+        /// </summary>
+        public static string RecordsIgnoredMessageFormat {
+            get {
+                return ResourceManager.GetString("RecordsIgnoredMessageFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Regional settings are applied to files at upload and not import..
         /// </summary>
         public static string RegionSettingsDescribed {

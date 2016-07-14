@@ -90,7 +90,8 @@
             "Material": "Material",
             "ToG": "ToG",
             "ToY": "ToY",
-            "ToR": "ToR"
+            "ToR": "ToR",
+            "LTM": "LTM"
         },
         "es-419": {
             "Jan": "Ene",
@@ -117,7 +118,8 @@
             "Material": "Material",
             "ToG": "ToG",
             "ToY": "ToY",
-            "ToR": "ToR"
+            "ToR": "ToR",
+            "LTM": "LTM"
         },
         "fi": {
             "ToG": "ToG",
