@@ -169,7 +169,7 @@
     <value>Описание</value>
   </data>
   <data name="DownloadAllPendingOrders" xml:space="preserve">
-    <value>Скачать все отложенные ордера (переход)</value>
+    <value>Скачать все отложенные ордера (без фиксации)</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Экспорт</value>
@@ -317,12 +317,6 @@
   </data>
   <data name="TotalOrders" xml:space="preserve">
     <value>Общее количество заказов</value>
-  </data>
-  <data name="TransitionAllPendingOrders" xml:space="preserve">
-    <value>Переход всех отложенных ордеров «Экспортировать»</value>
-  </data>
-  <data name="TransitionSelectedPendingOrders" xml:space="preserve">
-    <value>Переход выбранного ордера «Экспортировать»</value>
   </data>
   <data name="Unit" xml:space="preserve">
     <value>Единица измерения</value>
