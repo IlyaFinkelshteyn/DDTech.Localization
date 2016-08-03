@@ -12,12 +12,15 @@
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
+    <OutputPath>$(SolutionDir)\..\bin\$(Configuration)\$(MSBuildProjectName)\</OutputPath>
+    <OutDir>$(OutputPath)</OutDir>
+    <!--<IntermediateOutputPath>$(SolutionDir)\..\obj\$(Configuration)\$(MSBuildProjectName)\</IntermediateOutputPath>-->
+    <DocumentationFile>$(SolutionDir)\..\bin\$(Configuration)\$(MSBuildProjectName)\$(AssemblyName).xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -25,16 +28,14 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>..\..\bin\Release\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>true</SignAssembly>
-  </PropertyGroup>
-  <PropertyGroup>
-    <AssemblyOriginatorKeyFile>..\..\DDTech.Localization.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile Condition="Exists('..\DDTech.Localization.snk')">..\DDTech.Localization.snk</AssemblyOriginatorKeyFile>
+  	<AssemblyOriginatorKeyFile Condition="Exists('..\..\setup\certs\AssemblySNK\DDTech.snk')">..\..\setup\certs\AssemblySNK\DDTech.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -2398,7 +2399,7 @@
     </ExcludeFromStyleCop>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\DDTech.Localization.snk">
+    <None Include="..\DDTech.Localization.snk">
       <Link>DDTech.Localization.snk</Link>
     </None>
     <None Include="DDTech.Localization.nuspec" />
