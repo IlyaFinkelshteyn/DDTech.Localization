@@ -16,7 +16,7 @@
     </NuGetPackageImportStamp>
     <OutputPath>$(SolutionDir)\..\bin\$(Configuration)\$(MSBuildProjectName)\</OutputPath>
     <OutDir>$(OutputPath)</OutDir>
-    <IntermediateOutputPath>$(SolutionDir)\..\obj\$(Configuration)\$(MSBuildProjectName)\</IntermediateOutputPath>
+    <!--<IntermediateOutputPath>$(SolutionDir)\..\obj\$(Configuration)\$(MSBuildProjectName)\</IntermediateOutputPath>-->
     <DocumentationFile>$(SolutionDir)\..\bin\$(Configuration)\$(MSBuildProjectName)\$(AssemblyName).xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
