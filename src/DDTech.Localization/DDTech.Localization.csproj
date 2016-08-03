@@ -34,7 +34,8 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>..\..\DDTech.Localization.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile Condition="Exists('..\DDTech.Localization.snk')">..\DDTech.Localization.snk</AssemblyOriginatorKeyFile>
+  	<AssemblyOriginatorKeyFile Condition="Exists('..\..\setup\certs\AssemblySNK\DDTech.snk')">..\..\setup\certs\AssemblySNK\DDTech.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -2398,7 +2399,7 @@
     </ExcludeFromStyleCop>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\DDTech.Localization.snk">
+    <None Include="..\DDTech.Localization.snk">
       <Link>DDTech.Localization.snk</Link>
     </None>
     <None Include="DDTech.Localization.nuspec" />

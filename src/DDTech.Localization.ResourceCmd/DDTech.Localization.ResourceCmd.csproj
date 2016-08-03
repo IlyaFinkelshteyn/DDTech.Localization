@@ -44,7 +44,8 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>..\..\DDTech.Localization.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile Condition="Exists('..\DDTech.Localization.snk')">..\DDTech.Localization.snk</AssemblyOriginatorKeyFile>
+  	<AssemblyOriginatorKeyFile Condition="Exists('..\..\setup\certs\AssemblySNK\DDTech.snk')">..\..\setup\certs\AssemblySNK\DDTech.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CommandLine, Version=2.0.275.0, Culture=neutral, PublicKeyToken=de6f01bd326f8c32, processorArchitecture=MSIL">
@@ -69,11 +70,15 @@
       <HintPath>..\..\ext\packages\CsvHelper.2.15.0.0\lib\net45\CsvHelper.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DDTech.Common, Version=0.0.0.0, Culture=neutral, PublicKeyToken=a2259ebeb9c21862, processorArchitecture=MSIL">
+    <Reference Include="DDTech.Common">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\ext\packages\DDTech.Common.1.0.28\lib\net40\DDTech.Common.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <ProjectReference Include="..\..\..\DDTech.Common\src\DDTech.Common.csproj" Condition="Exists('..\..\..\DDTech.Common\src\DDTech.Common.csproj')">
+      <Project>{B7AA8686-9483-47CA-9632-342263DDB1AF}</Project>
+      <Name>DDTech.Common</Name>
+    </ProjectReference>
     <Reference Include="Microsoft.Threading.Tasks">
       <HintPath>..\..\ext\packages\Microsoft.Bcl.Async.1.0.168\lib\net40\Microsoft.Threading.Tasks.dll</HintPath>
     </Reference>
@@ -131,7 +136,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\DDTech.Localization.snk">
+    <None Include="..\DDTech.Localization.snk">
       <Link>DDTech.Localization.snk</Link>
     </None>
     <None Include="App.config" />
