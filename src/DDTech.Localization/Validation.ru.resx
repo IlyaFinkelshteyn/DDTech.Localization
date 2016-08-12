@@ -150,7 +150,7 @@
   <data name="notnullorwhitespace_error" xml:space="preserve">
     <value>«{PropertyName}» не должен быть null или содержать пробелы.</value>
   </data>
-  <data name="OutOfRangeDefaultWithValueFormat" xml:space="preserve">
+  <data name="OutOfRangeWithDefaultValueFormat" xml:space="preserve">
     <value>«{PropertyName}» вне диапазона и был сбросить в «{DefaultValue}»</value>
   </data>
 </root>

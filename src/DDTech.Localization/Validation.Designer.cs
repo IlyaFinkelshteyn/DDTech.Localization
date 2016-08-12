@@ -162,9 +162,9 @@ namespace DDTech.Localization {
         /// <summary>
         ///   Looks up a localized string similar to &apos;{PropertyName}&apos; out of range and has been reset to &apos;{DefaultValue}&apos;.
         /// </summary>
-        public static string OutOfRangeDefaultWithValueFormat {
+        public static string OutOfRangeWithDefaultValueFormat {
             get {
-                return ResourceManager.GetString("OutOfRangeDefaultWithValueFormat", resourceCulture);
+                return ResourceManager.GetString("OutOfRangeWithDefaultValueFormat", resourceCulture);
             }
         }
     }

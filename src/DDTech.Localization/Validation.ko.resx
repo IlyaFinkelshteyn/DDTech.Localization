@@ -150,7 +150,7 @@
   <data name="notnullorwhitespace_error" xml:space="preserve">
     <value>'{PropertyName}' 하지 null 또는 공백 포함 한다.</value>
   </data>
-  <data name="OutOfRangeDefaultWithValueFormat" xml:space="preserve">
+  <data name="OutOfRangeWithDefaultValueFormat" xml:space="preserve">
     <value>'{PropertyName}' 범위와 '{DefaultValue}'로 재설정 되었습니다.</value>
   </data>
 </root>

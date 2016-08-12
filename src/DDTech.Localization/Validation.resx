@@ -150,7 +150,7 @@
   <data name="notnullorwhitespace_error" xml:space="preserve">
     <value>'{PropertyName}' should not be null or contain whitespace.</value>
   </data>
-  <data name="OutOfRangeDefaultWithValueFormat" xml:space="preserve">
+  <data name="OutOfRangeWithDefaultValueFormat" xml:space="preserve">
     <value>'{PropertyName}' out of range and has been reset to '{DefaultValue}'</value>
   </data>
 </root>

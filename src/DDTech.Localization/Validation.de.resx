@@ -150,7 +150,7 @@
   <data name="notnullorwhitespace_error" xml:space="preserve">
     <value>'{PropertyName}' sollte nicht null sein oder Leerzeichen enthalten.</value>
   </data>
-  <data name="OutOfRangeDefaultWithValueFormat" xml:space="preserve">
+  <data name="OutOfRangeWithDefaultValueFormat" xml:space="preserve">
     <value>"{PropertyName}" aus der Reihe und wurde auf "{DefaultValue}" zurückgesetzt</value>
   </data>
 </root>
