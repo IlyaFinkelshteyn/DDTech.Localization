@@ -117,7 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DuplicateLinkCode" xml:space="preserve">
+    <value>Ismétlődő LinkCode észlelt</value>
+  </data>
+  <data name="DuplicateRecord" xml:space="preserve">
+    <value>Duplikált bejegyzést</value>
+  </data>
+  <data name="ForecastInvalidDayOfWeek" xml:space="preserve">
+    <value>Értéket kell esnie, ugyanazon a napon a hét más rekordok</value>
+  </data>
+  <data name="GreaterThanOrEqualToFormat" xml:space="preserve">
+    <value>{PropertyName} {PropertyValue} egyenlő vagy nagyobb kell lennie.</value>
+  </data>
+  <data name="InvalidBufferProfile" xml:space="preserve">
+    <value>Az értéknek kell lennie egy érvényes puffer profil</value>
+  </data>
+  <data name="InvalidInventoryMethod" xml:space="preserve">
+    <value>Az értéknek kell lennie egy érvényes InventoryMethod</value>
+  </data>
+  <data name="InvalidPaf" xml:space="preserve">
+    <value>Az értéknek kell lennie egy érvényes tervezett korrekciós faktor (PAF)</value>
+  </data>
+  <data name="LessThanOrEqualToFormat" xml:space="preserve">
+    <value>{PropertyName} nem lehet nagyobb, mint {PropertyValue}</value>
+  </data>
+  <data name="LessThanOrEqualToWithDefaultValueFormat" xml:space="preserve">
+    <value>{PropertyName} nem lehet nagyobb, mint {BadValue} és {DefaultValue} vissza lett állítva</value>
+  </data>
+  <data name="MustBeEvenlyDivisbleWithDefaultValueFormat" xml:space="preserve">
+    <value>{PropertyName} kell egyenletesen osztható {BadValue} és {DefaultValue} vissza lett állítva</value>
+  </data>
   <data name="notnullorwhitespace_error" xml:space="preserve">
     <value>{PropertyName} nem lehet null értékű, vagy szóközt tartalmaz.</value>
+  </data>
+  <data name="OutOfRangeDefaultWithValueFormat" xml:space="preserve">
+    <value>{PropertyName} tartomány és már visszaállítása {DefaultValue}</value>
   </data>
 </root>

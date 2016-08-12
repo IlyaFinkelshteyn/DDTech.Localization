@@ -117,7 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DuplicateLinkCode" xml:space="preserve">
+    <value>Kaksoiskappaleiden LinkCode kohtasi</value>
+  </data>
+  <data name="DuplicateRecord" xml:space="preserve">
+    <value>Tietueen kaksoiskappaleen</value>
+  </data>
+  <data name="ForecastInvalidDayOfWeek" xml:space="preserve">
+    <value>Arvo täytyy kaatua samana viikon muihin tietueisiin</value>
+  </data>
+  <data name="GreaterThanOrEqualToFormat" xml:space="preserve">
+    <value>{PropertyName} on oltava vähintään {PropertyValue}</value>
+  </data>
+  <data name="InvalidBufferProfile" xml:space="preserve">
+    <value>Arvon on oltava kelvollinen puskurin profiilin</value>
+  </data>
+  <data name="InvalidInventoryMethod" xml:space="preserve">
+    <value>Arvon on oltava kelvollinen InventoryMethod</value>
+  </data>
+  <data name="InvalidPaf" xml:space="preserve">
+    <value>Arvon on oltava voimassa suunniteltu säätö tekijä (PAF)</value>
+  </data>
+  <data name="LessThanOrEqualToFormat" xml:space="preserve">
+    <value>{PropertyName} on oltava enintään {PropertyValue}</value>
+  </data>
+  <data name="LessThanOrEqualToWithDefaultValueFormat" xml:space="preserve">
+    <value>{PropertyName} on oltava enintään {BadValue} ja {oletusarvo} palauttaa</value>
+  </data>
+  <data name="MustBeEvenlyDivisbleWithDefaultValueFormat" xml:space="preserve">
+    <value>{PropertyName} on oltava jaollinen luvulla {BadValue} ja {oletusarvo} palauttaa</value>
+  </data>
   <data name="notnullorwhitespace_error" xml:space="preserve">
     <value>{PropertyName} ei voi olla null tai sisältää välilyöntejä.</value>
+  </data>
+  <data name="OutOfRangeDefaultWithValueFormat" xml:space="preserve">
+    <value>{PropertyName} sallitussa alueessa ja on palauttaa {oletusarvo}</value>
   </data>
 </root>

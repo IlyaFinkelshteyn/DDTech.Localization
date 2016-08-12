@@ -117,7 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DuplicateLinkCode" xml:space="preserve">
+    <value>Doppelte LinkCode begegnet</value>
+  </data>
+  <data name="DuplicateRecord" xml:space="preserve">
+    <value>Datensatz duplizieren</value>
+  </data>
+  <data name="ForecastInvalidDayOfWeek" xml:space="preserve">
+    <value>Wert muss am gleichen Tag der Woche von anderen Datensätzen fallen.</value>
+  </data>
+  <data name="GreaterThanOrEqualToFormat" xml:space="preserve">
+    <value>"{PropertyName}" muss größer als oder gleich "{PropertyValue}"</value>
+  </data>
+  <data name="InvalidBufferProfile" xml:space="preserve">
+    <value>Wert muss ein gültiges Puffer-Profil</value>
+  </data>
+  <data name="InvalidInventoryMethod" xml:space="preserve">
+    <value>Wert muss eine gültige InventoryMethod</value>
+  </data>
+  <data name="InvalidPaf" xml:space="preserve">
+    <value>Wert muss eine gültige geplant Anpassung Faktor (PAF)</value>
+  </data>
+  <data name="LessThanOrEqualToFormat" xml:space="preserve">
+    <value>"{PropertyName}" muss kleiner als oder gleich "{PropertyValue}"</value>
+  </data>
+  <data name="LessThanOrEqualToWithDefaultValueFormat" xml:space="preserve">
+    <value>"{PropertyName}" muss kleiner als oder gleich "{BadValue}" und wurde auf "{DefaultValue}" zurückgesetzt</value>
+  </data>
+  <data name="MustBeEvenlyDivisbleWithDefaultValueFormat" xml:space="preserve">
+    <value>"{PropertyName}" muss durch "{BadValue}" teilbar und wurde auf "{DefaultValue}" zurückgesetzt</value>
+  </data>
   <data name="notnullorwhitespace_error" xml:space="preserve">
     <value>'{PropertyName}' sollte nicht null sein oder Leerzeichen enthalten.</value>
+  </data>
+  <data name="OutOfRangeDefaultWithValueFormat" xml:space="preserve">
+    <value>"{PropertyName}" aus der Reihe und wurde auf "{DefaultValue}" zurückgesetzt</value>
   </data>
 </root>

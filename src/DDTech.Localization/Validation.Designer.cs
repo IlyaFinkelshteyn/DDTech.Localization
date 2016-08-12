@@ -61,11 +61,110 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Duplicate LinkCode Encountered.
+        /// </summary>
+        public static string DuplicateLinkCode {
+            get {
+                return ResourceManager.GetString("DuplicateLinkCode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Duplicate Record.
+        /// </summary>
+        public static string DuplicateRecord {
+            get {
+                return ResourceManager.GetString("DuplicateRecord", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Value must fall on same day of week of other records.
+        /// </summary>
+        public static string ForecastInvalidDayOfWeek {
+            get {
+                return ResourceManager.GetString("ForecastInvalidDayOfWeek", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &apos;{PropertyName}&apos; must be greater than or equal to &apos;{PropertyValue}&apos;.
+        /// </summary>
+        public static string GreaterThanOrEqualToFormat {
+            get {
+                return ResourceManager.GetString("GreaterThanOrEqualToFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Value must be a valid Buffer Profile.
+        /// </summary>
+        public static string InvalidBufferProfile {
+            get {
+                return ResourceManager.GetString("InvalidBufferProfile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Value must be a valid InventoryMethod.
+        /// </summary>
+        public static string InvalidInventoryMethod {
+            get {
+                return ResourceManager.GetString("InvalidInventoryMethod", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Value must be a valid Planned Adjustment Factor (PAF).
+        /// </summary>
+        public static string InvalidPaf {
+            get {
+                return ResourceManager.GetString("InvalidPaf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &apos;{PropertyName}&apos; must be less than or equal to &apos;{PropertyValue}&apos;.
+        /// </summary>
+        public static string LessThanOrEqualToFormat {
+            get {
+                return ResourceManager.GetString("LessThanOrEqualToFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &apos;{PropertyName}&apos; must be less than or equal to &apos;{BadValue}&apos; and has been reset to &apos;{DefaultValue}&apos;.
+        /// </summary>
+        public static string LessThanOrEqualToWithDefaultValueFormat {
+            get {
+                return ResourceManager.GetString("LessThanOrEqualToWithDefaultValueFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &apos;{PropertyName}&apos; must be evenly divisible by &apos;{BadValue}&apos; and has been reset to &apos;{DefaultValue}&apos;.
+        /// </summary>
+        public static string MustBeEvenlyDivisbleWithDefaultValueFormat {
+            get {
+                return ResourceManager.GetString("MustBeEvenlyDivisbleWithDefaultValueFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to &apos;{PropertyName}&apos; should not be null or contain whitespace..
         /// </summary>
         public static string notnullorwhitespace_error {
             get {
                 return ResourceManager.GetString("notnullorwhitespace_error", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &apos;{PropertyName}&apos; out of range and has been reset to &apos;{DefaultValue}&apos;.
+        /// </summary>
+        public static string OutOfRangeDefaultWithValueFormat {
+            get {
+                return ResourceManager.GetString("OutOfRangeDefaultWithValueFormat", resourceCulture);
             }
         }
     }

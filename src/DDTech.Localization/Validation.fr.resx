@@ -117,7 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DuplicateLinkCode" xml:space="preserve">
+    <value>En double LinkCode rencontré</value>
+  </data>
+  <data name="DuplicateRecord" xml:space="preserve">
+    <value>Enregistrement en double</value>
+  </data>
+  <data name="ForecastInvalidDayOfWeek" xml:space="preserve">
+    <value>Valeur doit tomber le même jour de semaine d’autres enregistrements</value>
+  </data>
+  <data name="GreaterThanOrEqualToFormat" xml:space="preserve">
+    <value>« {PropertyName} » doit être supérieur ou égal à « Paramètre PropertyValue {} »</value>
+  </data>
+  <data name="InvalidBufferProfile" xml:space="preserve">
+    <value>Valeur doit être un profil valide de tampon</value>
+  </data>
+  <data name="InvalidInventoryMethod" xml:space="preserve">
+    <value>Valeur doit être un InventoryMethod valide</value>
+  </data>
+  <data name="InvalidPaf" xml:space="preserve">
+    <value>Valeur doit être un facteur de rajustement prévu (PAF) valide</value>
+  </data>
+  <data name="LessThanOrEqualToFormat" xml:space="preserve">
+    <value>« {PropertyName} » doit être inférieur ou égal à « Paramètre PropertyValue {} »</value>
+  </data>
+  <data name="LessThanOrEqualToWithDefaultValueFormat" xml:space="preserve">
+    <value>« {PropertyName} » doit être inférieur ou égal à « {BadValue} » et a été remis à « {DefaultValue} »</value>
+  </data>
+  <data name="MustBeEvenlyDivisbleWithDefaultValueFormat" xml:space="preserve">
+    <value>« {PropertyName} » doit être divisible par « {BadValue} » et a été remis à « {DefaultValue} »</value>
+  </data>
   <data name="notnullorwhitespace_error" xml:space="preserve">
     <value>« {PropertyName} » ne devrait pas être null ou contenir d’espace blanc.</value>
+  </data>
+  <data name="OutOfRangeDefaultWithValueFormat" xml:space="preserve">
+    <value>« {PropertyName} » hors de portée et a été remis à « {DefaultValue} »</value>
   </data>
 </root>

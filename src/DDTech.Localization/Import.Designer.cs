@@ -232,6 +232,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Records.
+        /// </summary>
+        public static string Records {
+            get {
+                return ResourceManager.GetString("Records", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} records were ignored due to policy configuration.
         /// </summary>
         public static string RecordsIgnoredMessageFormat {

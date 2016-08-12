@@ -117,7 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DuplicateLinkCode" xml:space="preserve">
+    <value>발생 하는 중복 LinkCode</value>
+  </data>
+  <data name="DuplicateRecord" xml:space="preserve">
+    <value>중복 레코드</value>
+  </data>
+  <data name="ForecastInvalidDayOfWeek" xml:space="preserve">
+    <value>값이 다른 레코드의 같은 요일에가 해야 합니다.</value>
+  </data>
+  <data name="GreaterThanOrEqualToFormat" xml:space="preserve">
+    <value>'{PropertyName}' '{PropertyValue}' 보다 크거나 되어야 합니다.</value>
+  </data>
+  <data name="InvalidBufferProfile" xml:space="preserve">
+    <value>값 유효한 버퍼 프로 파일 이어야 합니다.</value>
+  </data>
+  <data name="InvalidInventoryMethod" xml:space="preserve">
+    <value>값을 유효한 InventoryMethod 이어야 합니다.</value>
+  </data>
+  <data name="InvalidPaf" xml:space="preserve">
+    <value>값을 유효한 계획 조정 인자 (PAF) 여야 합니다.</value>
+  </data>
+  <data name="LessThanOrEqualToFormat" xml:space="preserve">
+    <value>'{PropertyName}' '{PropertyValue}' 보다 작거나 같아야 합니다.</value>
+  </data>
+  <data name="LessThanOrEqualToWithDefaultValueFormat" xml:space="preserve">
+    <value>'{PropertyName}' '{BadValue}' 보다 작거나 이어야 하며 '{DefaultValue}'로 재설정 되었습니다.</value>
+  </data>
+  <data name="MustBeEvenlyDivisbleWithDefaultValueFormat" xml:space="preserve">
+    <value>'{PropertyName}' '{BadValue}'에 의해 균등 하 게 나눌 수 있어야 합니다 그리고 '{DefaultValue}'로 재설정 되었습니다.</value>
+  </data>
   <data name="notnullorwhitespace_error" xml:space="preserve">
     <value>'{PropertyName}' 하지 null 또는 공백 포함 한다.</value>
+  </data>
+  <data name="OutOfRangeDefaultWithValueFormat" xml:space="preserve">
+    <value>'{PropertyName}' 범위와 '{DefaultValue}'로 재설정 되었습니다.</value>
   </data>
 </root>

@@ -117,7 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DuplicateLinkCode" xml:space="preserve">
+    <value>LinkCode duplicado encontrado</value>
+  </data>
+  <data name="DuplicateRecord" xml:space="preserve">
+    <value>Duplicar registro</value>
+  </data>
+  <data name="ForecastInvalidDayOfWeek" xml:space="preserve">
+    <value>Valor debe caer en el mismo día de la semana de otros expedientes</value>
+  </data>
+  <data name="GreaterThanOrEqualToFormat" xml:space="preserve">
+    <value>'{PropertyName}' debe ser mayor o igual a '{PropertyValue}'</value>
+  </data>
+  <data name="InvalidBufferProfile" xml:space="preserve">
+    <value>Valor debe ser un perfil válido de búfer</value>
+  </data>
+  <data name="InvalidInventoryMethod" xml:space="preserve">
+    <value>Valor debe ser un InventoryMethod válido</value>
+  </data>
+  <data name="InvalidPaf" xml:space="preserve">
+    <value>Valor debe ser un Factor de ajuste de planeado válido (PAF)</value>
+  </data>
+  <data name="LessThanOrEqualToFormat" xml:space="preserve">
+    <value>'{PropertyName}' debe ser menor o igual a '{PropertyValue}'</value>
+  </data>
+  <data name="LessThanOrEqualToWithDefaultValueFormat" xml:space="preserve">
+    <value>'{PropertyName}' debe ser menor o igual a '{BadValue}' y se ha reajustado a '{DefaultValue}'</value>
+  </data>
+  <data name="MustBeEvenlyDivisbleWithDefaultValueFormat" xml:space="preserve">
+    <value>'{PropertyName}' debe ser uniformemente divisible por '{BadValue}' y se ha reajustado a '{DefaultValue}'</value>
+  </data>
   <data name="notnullorwhitespace_error" xml:space="preserve">
     <value>'{PropertyName}' debe ser null ni contener espacios en blanco.</value>
+  </data>
+  <data name="OutOfRangeDefaultWithValueFormat" xml:space="preserve">
+    <value>'{PropertyName}' fuera de gama y ha sido restablecer '{DefaultValue}'</value>
   </data>
 </root>

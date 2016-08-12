@@ -117,7 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DuplicateLinkCode" xml:space="preserve">
+    <value>Дублировать LinkCode столкнулись</value>
+  </data>
+  <data name="DuplicateRecord" xml:space="preserve">
+    <value>Повторяющиеся записи</value>
+  </data>
+  <data name="ForecastInvalidDayOfWeek" xml:space="preserve">
+    <value>Значение должно падать на тот же день недели других записей</value>
+  </data>
+  <data name="GreaterThanOrEqualToFormat" xml:space="preserve">
+    <value>«{PropertyName}» должен быть больше или равен «{PropertyValue}»</value>
+  </data>
+  <data name="InvalidBufferProfile" xml:space="preserve">
+    <value>Значение должно быть допустимым буфера профиль</value>
+  </data>
+  <data name="InvalidInventoryMethod" xml:space="preserve">
+    <value>Значение должно быть допустимым InventoryMethod</value>
+  </data>
+  <data name="InvalidPaf" xml:space="preserve">
+    <value>Значение должно быть допустимым планируется регулировка фактор (суп)</value>
+  </data>
+  <data name="LessThanOrEqualToFormat" xml:space="preserve">
+    <value>«{PropertyName}» должен быть меньше или равным «{PropertyValue}»</value>
+  </data>
+  <data name="LessThanOrEqualToWithDefaultValueFormat" xml:space="preserve">
+    <value>«{PropertyName}» должен быть меньше или равным «{BadValue}» и был сброшен к «{DefaultValue}»</value>
+  </data>
+  <data name="MustBeEvenlyDivisbleWithDefaultValueFormat" xml:space="preserve">
+    <value>«{PropertyName}» должны быть равномерно делится на «{BadValue}» и был сброшен к «{DefaultValue}»</value>
+  </data>
   <data name="notnullorwhitespace_error" xml:space="preserve">
     <value>«{PropertyName}» не должен быть null или содержать пробелы.</value>
+  </data>
+  <data name="OutOfRangeDefaultWithValueFormat" xml:space="preserve">
+    <value>«{PropertyName}» вне диапазона и был сбросить в «{DefaultValue}»</value>
   </data>
 </root>
