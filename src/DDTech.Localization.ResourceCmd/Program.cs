@@ -17,14 +17,14 @@ namespace DDTech.Localization.ResourceCmd
 {
     public enum LocalizationHelperMode
     {
-        GenerateTranslations = 0,
-        ProcessLocalizationHandback,
-        GenerateLocalizationHandoff
+        Translate = 0,
+        Handback,
+        Handoff
     }
 
     class Options
     {
-        [Option('m', "mode", HelpText = "Operation Mode ([GenerateTranslations], ProcessLocalizationHandback, GenerateLocalizationHandoff)")]
+        [Option('m', "mode", HelpText = "Operation Mode ([Translate], Handback, Handoff)")]
         public LocalizationHelperMode Mode { get; set; }
 
         [Option('d', "dir", Required = true, HelpText = "Enlistment Directory")]
@@ -41,9 +41,6 @@ namespace DDTech.Localization.ResourceCmd
 
         [Option('l', "locales", HelpText = "Limit to specific locales")]
         public IEnumerable<string> Locales { get; set; }
-
-        [Option('o', "output", HelpText = "Filename for the Handoff Output File")]
-        public string OutputFile { get; set; }
     }
 
     class Program
@@ -120,14 +117,14 @@ namespace DDTech.Localization.ResourceCmd
 
             switch (options.Mode)
             {
-                case LocalizationHelperMode.GenerateTranslations:
+                case LocalizationHelperMode.Translate:
                     ProcessUntranslatedStrings(options, translationsPath, validResourceFileNames, locales);
                     break;
-                case LocalizationHelperMode.ProcessLocalizationHandback:
+                case LocalizationHelperMode.Handback:
                     ProcessLocalizationHandback(options, translationsPath, validResourceFileNames, locales);
                     break;
-                case LocalizationHelperMode.GenerateLocalizationHandoff:
-                    GenerateLocalizationHandoff(options, translationsPath, validResourceFileNames, locales);
+                case LocalizationHelperMode.Handoff:
+                    GenerateLocalizationHandoff(translationsPath, validResourceFileNames, locales);
                     break;
             }
 
@@ -138,49 +135,26 @@ namespace DDTech.Localization.ResourceCmd
             return 0;
         }
 
-        private static void GenerateLocalizationHandoff(Options options, string translationsPath, IEnumerable<string> validResourceFileNames, IEnumerable<string> locales)
+        private static void GenerateLocalizationHandoff(string translationsPath, IEnumerable<string> validResourceFileNames, IEnumerable<string> locales)
         {
-            var outputFilePath = options.OutputFile;
-            if (string.IsNullOrEmpty(outputFilePath))
+            foreach (var locale in locales)
             {
-                outputFilePath = "RPlusResources.csv";
-                Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("No output file specified. Assuming RPlusResources.csv");
-                Console.ResetColor();
+                GenerateLocaleHandoff(locale, translationsPath, validResourceFileNames);
             }
+        }
 
-            if (File.Exists(outputFilePath))
-            {
-                Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("Output File Exists. Overwriting");
-                Console.ResetColor();
-            }
-
-            var fi = new FileInfo(outputFilePath);
-            if (fi.Extension != ".csv")
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Only .csv file output is supported.");
-                Console.ResetColor();
-                Environment.Exit(-1);
-            }
-
-            if (locales == null || !locales.Any() || locales.Count() > 1)
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("A single locale must be specified. Please use the -l argument only once.");
-                Console.ResetColor();
-                Environment.Exit(-1);
-            }
-            var locale = locales.SingleOrDefault();
-
+        private static void GenerateLocaleHandoff(string locale, string translationsPath,
+            IEnumerable<string> validResourceFileNames)
+        {
+            string outputFilePath = $"RPlusStringResources-{locale}-UTF8.csv";
             using (var fileStream = File.Open(outputFilePath, FileMode.Create, FileAccess.Write))
             {
+                Console.WriteLine($"Generating Localization Handoff: {locale}");
                 using (var textWriter = new StreamWriter(fileStream, Encoding.UTF8))
                 {
                     var csvWriter = new CsvWriter(textWriter);
                     csvWriter.WriteHeader<LocalizedString>();
-                        
+
                     // Go through resource names
                     foreach (var resourceName in validResourceFileNames)
                     {
@@ -188,7 +162,7 @@ namespace DDTech.Localization.ResourceCmd
                         var baselineResources = GetCultureResources(translationsPath, resourceName, s_baselineCulture);
                         var localeResources = GetCultureResources(translationsPath, resourceName, locale);
 
-                        foreach(var sKey in baselineResources.Keys)
+                        foreach (var sKey in baselineResources.Keys)
                         {
                             csvWriter.WriteRecord(new LocalizedString()
                             {
@@ -341,7 +315,7 @@ namespace DDTech.Localization.ResourceCmd
 
             if (handbackMappings.Any())
             {
-                var outputFilePath = Path.Combine(Environment.CurrentDirectory, "FailedTranslations.csv");
+                var outputFilePath = Path.Combine(Environment.CurrentDirectory, $"FailedTranslations-{DateTime.Now.ToShortDateString()}-{locale}-UTF8.csv");
                 using (var textWriter = new StreamWriter(outputFilePath, false, Encoding.UTF8))
                 {
                     var csv = new CsvWriter(textWriter, GetConfiguration());
