@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AverageNumberOfDaysBetweenOrderCycles" xml:space="preserve">
-    <value>número de días aprox. entre pedidos</value>
+    <value>número medio de días entre pedidos</value>
   </data>
   <data name="BufferProfile" xml:space="preserve">
     <value>Perfil de Buffer</value>
@@ -133,16 +133,16 @@
     <value>Zona Verde - Base</value>
   </data>
   <data name="GreenZoneCalculationMethod" xml:space="preserve">
-    <value>Método de cálculo de Zona Verde</value>
+    <value>M‚todo de cálculo de Zona Verde</value>
   </data>
   <data name="InventoryAlertLevel" xml:space="preserve">
-    <value>Nivel de Alerta de Stock</value>
+    <value>Umbral para Alerta de Stock</value>
   </data>
   <data name="LeadTime" xml:space="preserve">
     <value>Plazo de ejecución</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Localización</value>
+    <value>Ubicación</value>
   </data>
   <data name="NoDataToDisplay" xml:space="preserve">
     <value>Sin datos que mostrar</value>
@@ -172,7 +172,7 @@
     <value>Descripción de Perfil</value>
   </data>
   <data name="ProfileSavedSuccessfully" xml:space="preserve">
-    <value>Guardado de Perfil OK</value>
+    <value>Perfil guardado OK</value>
   </data>
   <data name="RedZoneBase" xml:space="preserve">
     <value>Zona Roja - Base</value>
@@ -181,7 +181,7 @@
     <value>Zona Seguridad</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Salvar</value>
+    <value>Guardar</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
     <value>(Seleccionar Todos)</value>
@@ -193,7 +193,7 @@
     <value>La Alerta R+ es igual al Tope de Amarillo</value>
   </data>
   <data name="UnsupportedPart" xml:space="preserve">
-    <value>Los datos del búfer no son compatibles para este tipo de parte</value>
+    <value>Los datos del búfer no son compatibles para este tipo de artículo</value>
   </data>
   <data name="UseOrderCycleForGreenZone" xml:space="preserve">
     <value>Usar Ciclo de Pedido como zona verde</value>
@@ -205,7 +205,7 @@
     <value>Usar % Cons. por Lead Time como zona verde</value>
   </data>
   <data name="UseSystemSpikeHorizonOf" xml:space="preserve">
-    <value>Usar Horizon de Picos de</value>
+    <value>Usar valor general para Horizonte de Pedido Pico</value>
   </data>
   <data name="YellowZoneBase" xml:space="preserve">
     <value>Zona Amarilla - Base</value>

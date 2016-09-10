@@ -133,10 +133,10 @@
     <value>Nombre de usuario</value>
   </data>
   <data name="Settings_AllowLeadTimeCompression" xml:space="preserve">
-    <value>Permitir compresión de plazo de ejecución</value>
+    <value>Permitir Compresión de Lead Time</value>
   </data>
   <data name="Settings_BaselineFormattingRegion" xml:space="preserve">
-    <value>Región de formato de línea de base</value>
+    <value>Configuración Regional</value>
   </data>
   <data name="Settings_Close_Btn" xml:space="preserve">
     <value>Cerrar</value>
@@ -145,55 +145,55 @@
     <value>Formato de fecha</value>
   </data>
   <data name="Settings_DefaultInventoryAlertLevel" xml:space="preserve">
-    <value>Nivel de alerta por defecto inventario</value>
+    <value>Umbral para Alerta de Inventario - General</value>
   </data>
   <data name="Settings_DefaultOrderSpikeAlertLevel" xml:space="preserve">
-    <value>Nivel de alerta por defecto orden Spike</value>
+    <value>Umbral de Pedido Pico - General</value>
   </data>
   <data name="Settings_DefaultOrderSpikeHorizonLevel" xml:space="preserve">
-    <value>Nivel predeterminado orden Spike horizonte</value>
+    <value>Horizonte de búsqueda de Pedidos Pico - General</value>
   </data>
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
-    <value>Ignorar Nota demanda fuera de la ventana de procesamiento</value>
+    <value>Ignorar demanda de NBs más alláá del 'Horizonte de Demanda' establecido.</value>
   </data>
   <data name="Settings_Delimiter" xml:space="preserve">
-    <value>Delimitador de</value>
+    <value>Separador Columnas CSV</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
-    <value>Demandan orden ventana (días)</value>
+    <value>Horizonte de Demanda (días)</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Formato numérico esperado</value>
   </data>
   <data name="Settings_ExternalApiAccess" xml:space="preserve">
-    <value>Acceso a la API externa</value>
+    <value>Acceso Externo API</value>
   </data>
   <data name="Settings_ForecastedDemandLookAhead" xml:space="preserve">
-    <value>Semanas de pronostican la demanda</value>
+    <value>Semanas de Demanda Previsional</value>
   </data>
   <data name="Settings_Global_BuffersAndOrderProcessing" xml:space="preserve">
-    <value>Buffers y procesamiento de pedidos</value>
+    <value>Buffer y Generación de órdenes/Pedidos</value>
   </data>
   <data name="Settings_Global_DateTimeSettings" xml:space="preserve">
-    <value>Fecha y hora configuración</value>
+    <value>Configuración de Fecha y Hora</value>
   </data>
   <data name="Settings_Global_DisplayName" xml:space="preserve">
-    <value>Nombre para mostrar</value>
+    <value>Nombre Personalizado</value>
   </data>
   <data name="Settings_Global_Field" xml:space="preserve">
     <value>Campo</value>
   </data>
   <data name="Settings_Global_ForecastedDemand" xml:space="preserve">
-    <value>Pronostica la demanda y pronostica uso diario (FDU)</value>
+    <value>Demanda Previsional y Consumo Diario Previsto</value>
   </data>
   <data name="Settings_Global_ImportExportDataExchange" xml:space="preserve">
-    <value>Sistema de intercambio de datos (importación y exportación)</value>
+    <value>Sistema de Intercambio de Datos (importación y exportación)</value>
   </data>
   <data name="Settings_Global_RecommendationsAndAlerts" xml:space="preserve">
-    <value>Recomendaciones y alertas</value>
+    <value>Recomendaciones y Alertas</value>
   </data>
   <data name="Settings_Global_UDF" xml:space="preserve">
-    <value>Campos definidos por el usuario</value>
+    <value>Campos Personalizables</value>
   </data>
   <data name="Settings_Grids_Column_Label" xml:space="preserve">
     <value>Columna</value>
@@ -208,55 +208,55 @@
     <value>Ninguno</value>
   </data>
   <data name="Settings_HistoryCapture" xml:space="preserve">
-    <value>Captura de la historia</value>
+    <value>Captura de Histórico</value>
   </data>
   <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
-    <value>Días de la historia para mantener</value>
+    <value>Días de Registro de Histórico</value>
   </data>
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
-    <value>Incluyen picos en Stock disponible</value>
+    <value>Incluir Pedido Pico en Cálculos </value>
   </data>
   <data name="Settings_LocalTimeZone" xml:space="preserve">
-    <value>Zona horaria local</value>
+    <value>Zona Horaria Local</value>
   </data>
   <data name="Settings_Mrp_Disabled" xml:space="preserve">
-    <value>Cálculos de MRP se desactivan</value>
+    <value>Cálculos de MRP desactivados</value>
   </data>
   <data name="Settings_Mrp_DoMaterialRequirementsNettingAfterImport" xml:space="preserve">
-    <value>¿Realizar MRP compensación después de la importación? (MRP completo)</value>
+    <value>Lanzar MRP tras cada importación (MRP completo)</value>
   </data>
   <data name="Settings_Mrp_DoMaterialRequirementsNettingWhenCreatingOrders" xml:space="preserve">
-    <value>Realizar MRP malla al crear nuevos pedidos. (Red-cambio MRP)</value>
+    <value>Lanzar MRP al crear nuevos pedidos (MRP Parcial)</value>
   </data>
   <data name="Settings_Mrp_EnableAutoCreateMinMaxSupplyOrders" xml:space="preserve">
-    <value>¿Crear automáticamente órdenes de suministro para las piezas de Min/Max?</value>
+    <value>¿Crear automáticamente órdenes/pedidos para artículos Min/Max (MM)?</value>
   </data>
   <data name="Settings_Mrp_EnableAutoCreateNonBufferedSupplyOrders" xml:space="preserve">
-    <value>¿Crear automáticamente órdenes de suministro para las piezas no-Buffered?</value>
+    <value>¿Crear automáticamente órdenes/pedidos para artículos no-Buffer (NB)?</value>
   </data>
   <data name="Settings_Mrp_EnableMaterialRequirementsPlanning" xml:space="preserve">
-    <value>Permitir la planificación de requerimientos de Material</value>
+    <value>Activar Material Requirements Planning (MRP)</value>
   </data>
   <data name="Settings_Mrp_mrpFeatures1" xml:space="preserve">
-    <value>Estas opciones permiten R+ crear automáticamente órdenes de suministro durante el MRP de la red para satisfacer la demanda abierta y solo afectará a las partes en una lista de materiales.</value>
+    <value>Estas opciones permiten al MRP de R+ crear automáticamente órdenes/pedidos para satisfacer la demanda y solo afectará a artículos con padres o hijos en la lista de materiales (no comercializados).</value>
   </data>
   <data name="Settings_Mrp_mrpFeatures2" xml:space="preserve">
-    <value>Durante el MRP de la red, estos ajustes limitará cuán lejos adelante R+ intentará crear órdenes. Estos valores se añaden a R+ plazo de la parte de ejecución. por ejemplo si a '5' y una parte tienen una R+ plazo de 5 días, R+ no creará una orden hasta la fecha actual es dentro de 10 días hábiles de la demanda de fecha de vencimiento.</value>
+    <value>Cuando se lanza el MRP, estos ajustes limitarán el horizonte en que se crearán las órdenes/pedidos. Estos valores se suman al Lead Time Desacoplado del artículo. Por ejemplo, si este valor es '5' y un artículo tiene Lead Time Desacoplado igual a 6 días, R+ no creará una orden/pedido si la demanda tiene una fecha de necesidad (Due Date) más alla de 11 días hábiles (5+6).</value>
   </data>
   <data name="Settings_Mrp_mrpNettingFull" xml:space="preserve">
-    <value>R+ automáticamente hará MRP de la red para todos los pedidos de importación demanda (pedidos de venta y órdenes de trabajo). Registros importados demanda no deben contener la demanda de cualquier niño.</value>
+    <value>R+ incluirá automáticamente en los cálculos del MRP TODAS las demandas (Pedidos de Venta y órdenes de Trabajo). Las demandas importadas deberán ser SóLO de artículos padre o de venta.</value>
   </data>
   <data name="Settings_Mrp_mrpNettingNetChange" xml:space="preserve">
-    <value>R+ sólo realizará MRP de la red cuando recomienda crear órdenes manualmente o aprobar órdenes. R+ a suponer que todos los pedidos de importación demanda ya han sido anotó por su previo sistema MRP para importar.</value>
+    <value>R+ sólo lanzará el MRP al crear órdenes/pedidos manualmente o al aceptar las recomendaciones. R+ asumirá que el archivo de demanda incluye las necesidades tanto de artículos padre como de componentes, generadas por un MRP externo.</value>
   </data>
   <data name="Settings_Mrp_mrpNettingSuggestion1" xml:space="preserve">
-    <value>Si 'MRP compensación después de la importación' es seleccionada, sugerimos también que permite 'MRP compensación cuando se crean nuevas órdenes'. Esto asegurará el comportamiento consistente.</value>
+    <value>Si 'Lanzar MRP tras cada importación. (MRP completo)' está activado, se aconseja activar también 'Lanzar MRP al crear nuevos pedidos. (MRP Parcial)' para asegurar la consistencia de las órdenes/pedidos genenrados.</value>
   </data>
   <data name="Settings_Mrp_SalesOrderDemandProcessingWindow" xml:space="preserve">
-    <value>Demanda de ventana de procesamiento de pedidos de venta</value>
+    <value>Horizonte de Demanda para Pedidos de Venta</value>
   </data>
   <data name="Settings_Mrp_WorkOrderDemandProcessingWindow" xml:space="preserve">
-    <value>Demanda de ventana de procesamiento de órdenes de trabajo</value>
+    <value>Horizonte de Demanda para órdenes de Trabajo</value>
   </data>
   <data name="Settings_Nav_ApiTokens" xml:space="preserve">
     <value>Tokens de la API</value>
@@ -265,19 +265,19 @@
     <value>Formato de fecha/hora</value>
   </data>
   <data name="Settings_Nav_GlobalFilter" xml:space="preserve">
-    <value>Filtro parte global</value>
+    <value>Filtro Global de Artículos</value>
   </data>
   <data name="Settings_Nav_GlobalSettings" xml:space="preserve">
-    <value>Configuración global</value>
+    <value>Configuración Global</value>
   </data>
   <data name="Settings_Nav_Grids" xml:space="preserve">
-    <value>Rejillas</value>
+    <value>Columnas</value>
   </data>
   <data name="Settings_Nav_MaterialRequirements" xml:space="preserve">
-    <value>Planificación de requerimientos de material</value>
+    <value>Material Requirements Planning</value>
   </data>
   <data name="Settings_Nav_Sitewide" xml:space="preserve">
-    <value>En todo el sitio</value>
+    <value>En toda la web</value>
   </data>
   <data name="Settings_Nav_UserAccount" xml:space="preserve">
     <value>Cuenta de usuario</value>
@@ -286,34 +286,34 @@
     <value>Administración de usuarios</value>
   </data>
   <data name="Settings_PasswordComplexity" xml:space="preserve">
-    <value>Requisitos de complejidad de contraseña</value>
+    <value>Características de las Contraseñas</value>
   </data>
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>Por favor, seleccione un formato de</value>
   </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
-    <value>Horizonte plomo proyectada acción-hacia fuera</value>
+    <value>Horizonte de cálculo para Alerta de Proyección de Rotura</value>
   </data>
   <data name="Settings_PurchaseOrder" xml:space="preserve">
-    <value>Orden de compra</value>
+    <value>Pedido de Compra</value>
   </data>
   <data name="Settings_Reset_Btn" xml:space="preserve">
     <value>RESET</value>
   </data>
   <data name="Settings_RoundBufferValuesToOne" xml:space="preserve">
-    <value>Valores de Buffer circular a uno</value>
+    <value>Redondear zonas de Buffer a 1</value>
   </data>
   <data name="Settings_SalesOrder" xml:space="preserve">
-    <value>Pedido de ventas</value>
+    <value>Pedido de venta</value>
   </data>
   <data name="Settings_SaveChanges_Btn" xml:space="preserve">
     <value>Guardar cambios</value>
   </data>
   <data name="Settings_SaveChangesConfirmation" xml:space="preserve">
-    <value>¿Quieres guardar los cambios?</value>
+    <value>¿Quiere guardar los cambios?</value>
   </data>
   <data name="Settings_SaveChangesDetail" xml:space="preserve">
-    <value>Si no salvas, los cambios se perderán.</value>
+    <value>Si no guarda, los cambios se perderán.</value>
   </data>
   <data name="Settings_UnsavedChanges" xml:space="preserve">
     <value>Cambios no guardados</value>
@@ -334,7 +334,7 @@
     <value>Seleccione la precisión</value>
   </data>
   <data name="Settings_User_MinimumLength" xml:space="preserve">
-    <value>¿Longitud mínima?</value>
+    <value>Longitud mínima</value>
   </data>
   <data name="Settings_User_Password" xml:space="preserve">
     <value>Cambiar contraseña</value>
@@ -346,22 +346,22 @@
     <value>Contraseña Max Age (en días)</value>
   </data>
   <data name="Settings_User_RequireDigit" xml:space="preserve">
-    <value>¿Requiere al menos 1 dígito? (0-9)</value>
+    <value>Exigir al menos 1 dígito (0-9)</value>
   </data>
   <data name="Settings_User_RequireLowerCase" xml:space="preserve">
-    <value>¿Requiere al menos 1 minúscula? (a-z)</value>
+    <value>Exigir al menos 1 minúscula (a-z)</value>
   </data>
   <data name="Settings_User_RequireNonDigitLetter" xml:space="preserve">
-    <value>¿Requiere una no letra o dígito?</value>
+    <value>Exigir un caracter dígito o no-letra</value>
   </data>
   <data name="Settings_User_RequireNonDigitLetter_Title" xml:space="preserve">
-    <value>Cualquier carácter que no esté en los rangos de 0-9, a-z o A-Z. Ejemplos:!, %, *, $</value>
+    <value>Cualquier caracter que no est‚ en los rangos de 0-9, a-z o A-Z. Ejemplos:!, %, *, $</value>
   </data>
   <data name="Settings_User_RequireUpperCase" xml:space="preserve">
-    <value>¿Requiere al menos 1 mayúscula? (A-Z)</value>
+    <value>Exigir al menos 1 mayúscula (A-Z)</value>
   </data>
   <data name="Settings_User_UnknownGrid" xml:space="preserve">
-    <value>Desconocido de la red</value>
+    <value>Columna desconocida</value>
   </data>
   <data name="Settings_UserDefined1" xml:space="preserve">
     <value>UserDefined1</value>
@@ -388,6 +388,6 @@
     <value>UserDefined8</value>
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
-    <value>Orden de trabajo</value>
+    <value>Orden de Trabajo</value>
   </data>
 </root>

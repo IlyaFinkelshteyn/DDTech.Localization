@@ -127,16 +127,16 @@
     <value>Stock Actual</value>
   </data>
   <data name="Display" xml:space="preserve">
-    <value>Pantalla:</value>
+    <value>Mostrar:</value>
   </data>
   <data name="ExecutionAlerts" xml:space="preserve">
-    <value>Alertas de ejecución</value>
+    <value>Alertas de Ejecución</value>
   </data>
   <data name="LeadTimeManaged" xml:space="preserve">
     <value>Control Lead Time</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Localización:</value>
+    <value>Ubicación:</value>
   </data>
   <data name="MaterialSynchronization" xml:space="preserve">
     <value>Sincronización de Materiales</value>

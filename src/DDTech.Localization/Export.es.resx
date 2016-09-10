@@ -118,48 +118,48 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BillOfMaterial" xml:space="preserve">
-    <value>Lista de materiales</value>
+    <value>Bill of Materials</value>
   </data>
   <data name="BufferProfile" xml:space="preserve">
-    <value>Perfil de búfer</value>
+    <value>Buffer Profile</value>
   </data>
   <data name="DataExport" xml:space="preserve">
     <value>Exportar Datos</value>
   </data>
   <data name="DemandOrder" xml:space="preserve">
-    <value>Demanda orden</value>
+    <value>Demand Order</value>
   </data>
   <data name="ExportStr" xml:space="preserve">
     <value>Exportar</value>
   </data>
   <data name="ForecastedDemand" xml:space="preserve">
-    <value>Demanda pronosticada</value>
+    <value>Demanda previsional</value>
   </data>
   <data name="HeadersOnly" xml:space="preserve">
     <value>Sólo Encabezamientos</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Parte</value>
+    <value>Part</value>
   </data>
   <data name="PartAugment" xml:space="preserve">
-    <value>Parte aumentar</value>
+    <value>Part Augment</value>
   </data>
   <data name="PartBufferSizing" xml:space="preserve">
-    <value>Tamaño de búfer parte</value>
+    <value>Part Buffer Sizing</value>
   </data>
   <data name="PartInventory" xml:space="preserve">
-    <value>Parte inventario</value>
+    <value>Part Inventory</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Factor de ajuste planificados</value>
+    <value>Planned Adjustment Factor</value>
   </data>
   <data name="PleaseSelectTables" xml:space="preserve">
-    <value>Por favor, seleccione las tablas para la exportación</value>
+    <value>Por favor, seleccione archivos a exportar</value>
   </data>
   <data name="SelectTablesToExport" xml:space="preserve">
-    <value>Seleccionar tablas para exportar:</value>
+    <value>Seleccionar archivos a exportar:</value>
   </data>
   <data name="SupplyOrder" xml:space="preserve">
-    <value>Orden de suministro</value>
+    <value>Supply Order</value>
   </data>
 </root>

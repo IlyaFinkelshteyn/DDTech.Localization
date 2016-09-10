@@ -160,10 +160,10 @@
     <value>ninguno</value>
   </data>
   <data name="OnHand" xml:space="preserve">
-    <value>Físico</value>
+    <value>Stock</value>
   </data>
   <data name="OTOG" xml:space="preserve">
-    <value>Exceso</value>
+    <value>EXCESO</value>
   </data>
   <data name="OTOGTrendByPlanner" xml:space="preserve">
     <value>Evol. de EXCESO por Planner</value>
@@ -175,7 +175,7 @@
     <value>Distribución de Artículos</value>
   </data>
   <data name="PartType" xml:space="preserve">
-    <value>Tipo Árticulo:</value>
+    <value>Tipo µrticulo:</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
     <value>Cód. Planner:</value>
@@ -190,10 +190,10 @@
     <value>Total de Criticos y Altos</value>
   </data>
   <data name="SumOfOTOG" xml:space="preserve">
-    <value>Total de EXCESO</value>
+    <value>Total con EXCESO</value>
   </data>
   <data name="TargetInventory" xml:space="preserve">
-    <value>Stock Objetivo</value>
+    <value>Stock Esperado</value>
   </data>
   <data name="Total" xml:space="preserve">
     <value>Total</value>

@@ -118,18 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="KeyNotFound" xml:space="preserve">
-    <value>Clave no encontrado</value>
+    <value>Clave no encontrada</value>
   </data>
   <data name="ValueEmptyNotAllowed" xml:space="preserve">
-    <value>Valor no puede estar vacío</value>
+    <value>El valor no puede estar vacío</value>
   </data>
   <data name="ValueNullNotAllowed" xml:space="preserve">
-    <value>Valor no puede ser nulo</value>
+    <value>El valor no puede ser nulo</value>
   </data>
   <data name="ValueOutOfRange" xml:space="preserve">
-    <value>Valor está fuera del rango permitido</value>
+    <value>El valor está fuera del rango permitido</value>
   </data>
   <data name="ValueWhitespaceNotAllowed" xml:space="preserve">
-    <value>Valor no puede ser el espacio en blanco</value>
+    <value>El valor no puede ser vacío</value>
   </data>
 </root>

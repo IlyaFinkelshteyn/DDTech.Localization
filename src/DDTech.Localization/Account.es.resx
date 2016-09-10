@@ -126,10 +126,10 @@
     <value>Cambio de contraseña RPlus</value>
   </data>
   <data name="EmailAddress" xml:space="preserve">
-    <value>Dirección de correo electrónico</value>
+    <value>Correo electrónico</value>
   </data>
   <data name="Error_CannotResetPassword" xml:space="preserve">
-    <value>Hubo un error en restablecer tu contraseña.</value>
+    <value>Hubo un error al restablecer tu contraseña.</value>
   </data>
   <data name="Error_FailedEmail" xml:space="preserve">
     <value>Error al enviar el correo electrónico.</value>
@@ -147,13 +147,13 @@
     <value>Tu cuenta está deshabilitada</value>
   </data>
   <data name="Error_UserNameRequired" xml:space="preserve">
-    <value>Nombre de usuario es requerido.</value>
+    <value>Se requiere Nombre de Usuario.</value>
   </data>
   <data name="ForgotPassword" xml:space="preserve">
     <value>¿Olvidó su usuario o contraseña?</value>
   </data>
   <data name="ForgotPassword_Confirm" xml:space="preserve">
-    <value>Por favor revise su correo electrónico las instrucciones restablecer tu contraseña.</value>
+    <value>Por favor, busque en su correo electrónico las instrucciones para restablecer tu contraseña.</value>
   </data>
   <data name="ForgotPassword_Email" xml:space="preserve">
     <value>¿Cuál es tu dirección de correo electrónico?</value>
@@ -162,7 +162,7 @@
     <value>¿Cuál es tu nombre de usuario?</value>
   </data>
   <data name="LabelKeepLoggedIn" xml:space="preserve">
-    <value>Seguir inscrito</value>
+    <value>Seguir conectado</value>
   </data>
   <data name="LabelPassword" xml:space="preserve">
     <value>Contraseña:</value>
@@ -174,7 +174,7 @@
     <value>Iniciar sesión</value>
   </data>
   <data name="LoggedOut" xml:space="preserve">
-    <value>Han registrado hacia fuera.</value>
+    <value>Ha sido desconectado.</value>
   </data>
   <data name="LogIn" xml:space="preserve">
     <value>Iniciar Sesión</value>
@@ -183,7 +183,7 @@
     <value>Cierre de Sesión</value>
   </data>
   <data name="Manage_Account_SignedInAs" xml:space="preserve">
-    <value>Actualmente están firmados como &lt;b&gt;{0}&lt;/b&gt;.</value>
+    <value>Actualmente está conectado como &lt;b&gt;{0}&lt;/b&gt;.</value>
   </data>
   <data name="Manage_ChangePassword" xml:space="preserve">
     <value>Cambiar contraseña</value>
@@ -192,7 +192,7 @@
     <value>Crear contraseña</value>
   </data>
   <data name="Manage_CreatePassword_Message" xml:space="preserve">
-    <value>No tienes una contraseña local para este sitio. Añadir una cuenta local así que usted puede iniciar sesión sin una conexión externa.</value>
+    <value>No tienes una contraseña local para esta web. Añada una cuenta local para poder iniciar sesión sin una conexión externa.</value>
   </data>
   <data name="Manage_Message_ChangePasswordSuccess" xml:space="preserve">
     <value>Su contraseña ha sido cambiada con éxito.</value>
@@ -201,10 +201,10 @@
     <value>Hubo un error al hacer cambios a su cuenta.</value>
   </data>
   <data name="Manage_Message_RemoveLoginSuccess" xml:space="preserve">
-    <value>Han eliminado un usuario externo.</value>
+    <value>Ha eliminado un usuario externo.</value>
   </data>
   <data name="Manage_Message_SetPasswordSuccess" xml:space="preserve">
-    <value>Con éxito se ha establecido una contraseña para su cuenta.</value>
+    <value>Se ha establecido una contraseña para su cuenta con éxito.</value>
   </data>
   <data name="Manage_SetPassword" xml:space="preserve">
     <value>Establecer Contraseña</value>
@@ -213,7 +213,7 @@
     <value>Tu cuenta</value>
   </data>
   <data name="NewUserPwd_Body" xml:space="preserve">
-    <value>&lt;p&gt;Puede iniciar sesión en el sitio usando el siguiente url y nombre de usuario:&lt;/p&gt;
+    <value>&lt;p&gt;Puede iniciar sesión en la web usando el siguiente url y nombre de usuario:&lt;/p&gt;
 &lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;"&gt;&lt;%SiteURL%&gt;&lt;/a&gt;&lt;br&gt;Usuario: &lt;%UserName%&gt;&lt;/p&gt;
 &lt;p&gt;Antes de acceder a su cuenta, utilice este enlace para establecer una contraseña:&lt;/p&gt;
 &lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;"&gt;&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;&lt;/a&gt;&lt;/p&gt;</value>
@@ -228,7 +228,7 @@
     <value>Contraseña actual</value>
   </data>
   <data name="Password_Expired" xml:space="preserve">
-    <value>Su contraseña ha caducado. Antes de que usted puede tener acceso a este sistema, debe restablecer la contraseña. Por favor revise su correo electrónico las instrucciones restablecer tu contraseña.</value>
+    <value>Su contraseña ha caducado. Debe restablecer la contraseña para tener acceso. Por favor, busque su correo electrónico las instrucciones para restablecer tu contraseña.</value>
   </data>
   <data name="Password_New" xml:space="preserve">
     <value>Nueva contraseña</value>
@@ -240,25 +240,25 @@
     <value>al menos {0} caracteres</value>
   </data>
   <data name="PasswordPolicy_RequireDigit" xml:space="preserve">
-    <value>contienen al menos 1 dígito (0-9)</value>
+    <value>contener al menos 1 dígito (0-9)</value>
   </data>
   <data name="PasswordPolicy_RequireLowerCase" xml:space="preserve">
-    <value>contienen al menos 1 letra minúscula (a-z)</value>
+    <value>contener al menos 1 letra minúscula (a-z)</value>
   </data>
   <data name="PasswordPolicy_RequireNonDigitOrLetter" xml:space="preserve">
-    <value>contienen al menos 1 símbolo (no un dígito o letra a-z)</value>
+    <value>contener al menos 1 símbolo (no un dígito o letra a-z)</value>
   </data>
   <data name="PasswordPolicy_RequireUpperCase" xml:space="preserve">
-    <value>contienen al menos 1 mayúscula (A-z)</value>
+    <value>contener al menos 1 mayúscula (A-z)</value>
   </data>
   <data name="PleaseEnterPassword" xml:space="preserve">
-    <value>Por favor, ingrese su nombre de usuario y contraseña.</value>
+    <value>Por favor, introduzca su nombre de usuario y contraseña.</value>
   </data>
   <data name="RememberMe" xml:space="preserve">
     <value>Recordarme la próxima vez.</value>
   </data>
   <data name="RequestPasswordReset" xml:space="preserve">
-    <value>Solicitud de restablecimiento de contraseña</value>
+    <value>Solicitar restablecimiento de contraseña</value>
   </data>
   <data name="ResetPassword" xml:space="preserve">
     <value>Restablecer la contraseña</value>
@@ -267,7 +267,7 @@
     <value>Su contraseña ha sido cambiada.</value>
   </data>
   <data name="ResetPassword_GetToken" xml:space="preserve">
-    <value>Haga clic aquí para que intente otra vez.</value>
+    <value>Haga clic aquí para intentarlo de nuevo.</value>
   </data>
   <data name="ResetPassword_InvalidToken" xml:space="preserve">
     <value>El token de seguridad no es válido o no puede utilizarse para restablecer la contraseña.</value>
@@ -277,7 +277,7 @@
   </data>
   <data name="ResetUserPwd_Body" xml:space="preserve">
     <value>&lt;p&gt;&lt;%UserName%&gt;,&lt;/p&gt;
-&lt;p&gt;Contraseña de tu cuenta se ha pedido a restablecerse. Si usted no inició este reset, usted debe contactar al administrador del sistema inmediatamente. Utilice el siguiente enlace para establecer una nueva contraseña para tu cuenta:&lt;/p&gt;
+&lt;p&gt;Se ha solicitado un reseteo de su contraseña. Si usted no inició esta acción, usted debe contactar al administrador del sistema inmediatamente. Utilice el siguiente enlace para establecer una nueva contraseña para tu cuenta:&lt;/p&gt;
 &lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;"&gt;&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;&lt;/a&gt;&lt;/p&gt;</value>
   </data>
   <data name="ResetUserPwd_Subject" xml:space="preserve">

@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BillOfMaterial" xml:space="preserve">
-    <value>Bill of Materials</value>
+    <value>Lista de Materiales</value>
   </data>
   <data name="BufferProfile" xml:space="preserve">
-    <value>Buffer profile</value>
+    <value>Perfil de Buffer</value>
   </data>
   <data name="CreateChildAllocationsOnPendingOrderCreation" xml:space="preserve">
     <value>Crear necesidad de componentes al aceptar sugerencias en R+</value>
   </data>
   <data name="CreateChildAllocationsOnSupplyOrderImport" xml:space="preserve">
-    <value>Crear necesidad de componentes al importar pedidos de ERP</value>
+    <value>Crear necesidad de componentes al importar pedidos desde ERP</value>
   </data>
   <data name="CurrentLocalTime" xml:space="preserve">
     <value>Hora Local actual</value>
@@ -139,7 +139,7 @@
     <value>Conjunto de datos estadísticas</value>
   </data>
   <data name="DefaultInventoryAlertLevel" xml:space="preserve">
-    <value>Alerta Nivel de Stock por Defecto</value>
+    <value>Umbral Alerta de Stock por Defecto</value>
   </data>
   <data name="DefaultOrderSpikeAlertLevel" xml:space="preserve">
     <value>Umbral de Pedidos Picos por Defecto</value>
@@ -148,43 +148,43 @@
     <value>Horizonte de Pedidos Pico por Defecto</value>
   </data>
   <data name="DemandOrder" xml:space="preserve">
-    <value>Orden de la demanda</value>
+    <value>Demanda</value>
   </data>
   <data name="DemandOrderWindowForSalesOrders" xml:space="preserve">
     <value>Ventana para Pedidos de venta</value>
   </data>
   <data name="DemandOrderWindowForWorkOrders" xml:space="preserve">
-    <value>Ventana para Órdenes de Fabricación</value>
+    <value>Ventana para órdenes de Fabricación</value>
   </data>
   <data name="ForecastedDemand" xml:space="preserve">
-    <value>Demanda pronosticada</value>
+    <value>Demanda prevista</value>
   </data>
   <data name="HistoryCaptureLog_Btn" xml:space="preserve">
-    <value>Registro de captura de la historia</value>
+    <value>Registro de captura de histórico</value>
   </data>
   <data name="LastUpdated" xml:space="preserve">
-    <value>Última Actualización</value>
+    <value>éltima Actualización</value>
   </data>
   <data name="LocalTimeZoneInfo" xml:space="preserve">
     <value>Información de zona horaria local</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Parte</value>
+    <value>Artículos</value>
   </data>
   <data name="PartAugment" xml:space="preserve">
-    <value>Aumentar parte</value>
+    <value>Datos Artículos R+</value>
   </data>
   <data name="PartBufferSizing" xml:space="preserve">
-    <value>Part buffer Sizing</value>
+    <value>Tamaño MM-RO</value>
   </data>
   <data name="PartInventory" xml:space="preserve">
-    <value>Inventario de la parte</value>
+    <value>Inventario</value>
   </data>
   <data name="PerformanceMetrics" xml:space="preserve">
-    <value>Métricas de performance</value>
+    <value>Indicadores</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Factor de ajuste planificados</value>
+    <value>Factores de ajuste planificado</value>
   </data>
   <data name="ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Horizonte de Previsión de Rotura (factor)</value>
@@ -196,10 +196,10 @@
     <value>Ajustes</value>
   </data>
   <data name="SiteStatus" xml:space="preserve">
-    <value>Estado de sitio</value>
+    <value>Estado de la web</value>
   </data>
   <data name="SupplyOrder" xml:space="preserve">
-    <value>Orden de suministro</value>
+    <value>Aprovisionamiento</value>
   </data>
   <data name="UserDefined1" xml:space="preserve">
     <value>DefUsuario1</value>
@@ -226,6 +226,6 @@
     <value>Defusuario8</value>
   </data>
   <data name="ViewAdditionalStatusDetails" xml:space="preserve">
-    <value>Ver detalles de la condición adicional</value>
+    <value>Ver detalles adicionales</value>
   </data>
 </root>

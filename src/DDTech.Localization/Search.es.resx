@@ -139,7 +139,7 @@
     <value>Línea de Pedido</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Localización</value>
+    <value>Ubicación</value>
   </data>
   <data name="Make" xml:space="preserve">
     <value>Elaborado</value>
@@ -178,7 +178,7 @@
     <value>Cantidad</value>
   </data>
   <data name="RequestDate" xml:space="preserve">
-    <value>Fecha de Pedido</value>
+    <value>Fecha Pedida</value>
   </data>
   <data name="SearchDot" xml:space="preserve">
     <value>Buscando...</value>

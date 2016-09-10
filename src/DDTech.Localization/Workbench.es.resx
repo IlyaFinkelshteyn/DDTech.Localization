@@ -166,7 +166,7 @@
     <value>Aplicar</value>
   </data>
   <data name="AssignedLocation" xml:space="preserve">
-    <value>Localización Asignada:</value>
+    <value>Ubicación Asignada:</value>
   </data>
   <data name="BillOfMaterials" xml:space="preserve">
     <value>Lista de Materiales</value>
@@ -187,13 +187,13 @@
     <value>Valores de Buffer Incompatibles con Representación Gráfica</value>
   </data>
   <data name="Button_CreateCustomOrder" xml:space="preserve">
-    <value>Crear orden de encargo</value>
+    <value>Crear orden manual</value>
   </data>
   <data name="ClearSelection" xml:space="preserve">
     <value>Borrar selección</value>
   </data>
   <data name="CollapseAll" xml:space="preserve">
-    <value>Colapsar</value>
+    <value>Contraer</value>
   </data>
   <data name="Column" xml:space="preserve">
     <value>Columna</value>
@@ -226,7 +226,7 @@
     <value>Días de Consumo</value>
   </data>
   <data name="DaysCovered" xml:space="preserve">
-    <value>Días cubiertos</value>
+    <value>Días cobertura</value>
   </data>
   <data name="DaysEarly" xml:space="preserve">
     <value> día(s) antes</value>
@@ -289,25 +289,25 @@
     <value>Tipo de Buffer</value>
   </data>
   <data name="LastNDays" xml:space="preserve">
-    <value>Últimos __días__ Días</value>
+    <value>éltimos __días__ Días</value>
   </data>
   <data name="LastNWeeks" xml:space="preserve">
-    <value>Últimas __semanas__ Semanas</value>
+    <value>éltimas __semanas__ Semanas</value>
   </data>
   <data name="Late" xml:space="preserve">
     <value>Retraso</value>
   </data>
   <data name="LeadTime" xml:space="preserve">
-    <value>Plazo de ejecución</value>
+    <value>Lead Time</value>
   </data>
   <data name="LeadTimeCompression" xml:space="preserve">
-    <value>Ajuste de horario de {0} días debido a la compresión de tiempo llevan.</value>
+    <value>Reducción de Lead Time de {0} días debido a que hay stocks intermedios NB</value>
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Leyenda:</value>
   </data>
   <data name="LocationFilter" xml:space="preserve">
-    <value>Filtro Localización</value>
+    <value>Filtro Ubicación</value>
   </data>
   <data name="LongestLeg" xml:space="preserve">
     <value>Rama más larga</value>
@@ -352,10 +352,10 @@
     <value>OF Abierta</value>
   </data>
   <data name="OrderCycleOverride" xml:space="preserve">
-    <value>Ciclo de Pedido particular</value>
+    <value>Ciclo de Pedido</value>
   </data>
   <data name="OrderDueDate" xml:space="preserve">
-    <value>Orden legal fecha</value>
+    <value>Fecha de Necesidad</value>
   </data>
   <data name="OrderNotes" xml:space="preserve">
     <value>Notas de Pedido:</value>
@@ -367,16 +367,16 @@
     <value>Política de Pedido</value>
   </data>
   <data name="OrderQuantity" xml:space="preserve">
-    <value>Cantidad de la orden</value>
+    <value>Cantidad de la Orden</value>
   </data>
   <data name="OutSourcedCost" xml:space="preserve">
-    <value>Coste Externo</value>
+    <value>Coste Externalizado</value>
   </data>
   <data name="Part" xml:space="preserve">
     <value>Artículo</value>
   </data>
   <data name="PartActivity" xml:space="preserve">
-    <value>Actividad</value>
+    <value>Movimientos</value>
   </data>
   <data name="PartAnalytics" xml:space="preserve">
     <value>Análisis</value>
@@ -409,7 +409,7 @@
     <value>Filtro de Prioridad</value>
   </data>
   <data name="PromiseDate" xml:space="preserve">
-    <value>Fecha Esperada</value>
+    <value>Fecha Prometida</value>
   </data>
   <data name="Quantity" xml:space="preserve">
     <value>Cantidad</value>
@@ -430,13 +430,13 @@
     <value>Fecha Pedido</value>
   </data>
   <data name="RPlusLeadTime" xml:space="preserve">
-    <value>Plazo de ejecución R+</value>
+    <value>LT Desacop.</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Stock Esperado</value>
   </data>
   <data name="SelectPriorityCode" xml:space="preserve">
-    <value>Seleccione el código de prioridad</value>
+    <value>Seleccione código de prioridad</value>
   </data>
   <data name="ShortDateFormatNoYear" xml:space="preserve">
     <value>__month__/__day__</value>
@@ -460,10 +460,10 @@
     <value>Estado</value>
   </data>
   <data name="Status3" xml:space="preserve">
-    <value>Estado 3</value>
+    <value />
   </data>
   <data name="Status4" xml:space="preserve">
-    <value>Estado 4</value>
+    <value />
   </data>
   <data name="SubmitOrder" xml:space="preserve">
     <value>Emitir Orden</value>
@@ -508,7 +508,7 @@
     <value>"Escriba la cantidad de la orden"</value>
   </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
-    <value>Quanity es mayor que el valor recomendado</value>
+    <value>La Cantidad es mayor que el valor recomendado</value>
   </data>
   <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
     <value>Exportación de datos</value>
@@ -517,34 +517,34 @@
     <value>Ayuda</value>
   </data>
   <data name="Workbench_Menu_ViewInLegacyWorkbench" xml:space="preserve">
-    <value>Vista en legado Workbench</value>
+    <value>Ver Workbench antiguo</value>
   </data>
   <data name="Workbench_NoBillOfMaterial" xml:space="preserve">
-    <value>Parte no tiene ninguna lista de materiales</value>
+    <value>El Artículo no tiene componentes</value>
   </data>
   <data name="Workbench_NoMatchingPartsFound" xml:space="preserve">
-    <value>No hay piezas coincidentes</value>
+    <value>No se encontraron artículos</value>
   </data>
   <data name="Workbench_NoNotes" xml:space="preserve">
-    <value>Parte no tiene notas</value>
+    <value>El artículo no tiene notas</value>
   </data>
   <data name="Workbench_NoPartDetails" xml:space="preserve">
-    <value>Parte no tiene ningún detalle</value>
+    <value>El artículos no tiene detalles</value>
   </data>
   <data name="Workbench_PartAnalytics_AvailableRanges" xml:space="preserve">
     <value>Rangos disponibles</value>
   </data>
   <data name="Workbench_PartAnalytics_CurrentRange" xml:space="preserve">
-    <value>Gama actual</value>
+    <value>Rango actual</value>
   </data>
   <data name="Workbench_PartAnalytics_NonBufferedPartsUnsupported" xml:space="preserve">
-    <value>Piezas intermedia no son compatibles</value>
+    <value>Artículos NB no son compatibles</value>
   </data>
   <data name="Workbench_PartAnalytics_NotEnoughHistory" xml:space="preserve">
-    <value>No hay suficiente historia para mostrar gráfico</value>
+    <value>No hay suficiente histórico para mostrar gráfico</value>
   </data>
   <data name="Workbench_PartDetail_Tab_Analytics" xml:space="preserve">
-    <value>Analytics</value>
+    <value>Análisis</value>
   </data>
   <data name="Workbench_PartDetail_Tab_BillOfMaterial" xml:space="preserve">
     <value>Lista de materiales</value>
@@ -562,19 +562,19 @@
     <value>Gestión de inventario</value>
   </data>
   <data name="Workbench_PartProperties_Title" xml:space="preserve">
-    <value>Propiedades del elemento</value>
+    <value>Propiedades del artículo</value>
   </data>
   <data name="Workbench_PartProperties_UDFTitle" xml:space="preserve">
     <value>Campos definidos por el usuario</value>
   </data>
   <data name="Workbench_PleaseSelectPart" xml:space="preserve">
-    <value>Por favor, seleccione una parte</value>
+    <value>Por favor, seleccione un artículo</value>
   </data>
   <data name="Workbench_RecommendationsMarkedForApproval" xml:space="preserve">
-    <value>Radiocomunicaciones marcados para su aprobación</value>
+    <value>Recomendaciones seleccionadas para su aprobación</value>
   </data>
   <data name="Workbench_ResetFilters_Title" xml:space="preserve">
-    <value>¿Filtros activos de RESET {0} y tipo?</value>
+    <value>¿Eliminar {0} filtros y orden?</value>
   </data>
   <data name="Yellow" xml:space="preserve">
     <value>Amarillo</value>
@@ -583,7 +583,7 @@
     <value>Zona Amarilla</value>
   </data>
   <data name="YouCanAlso" xml:space="preserve">
-    <value>también se puede</value>
+    <value>tambi‚n se puede</value>
   </data>
   <data name="ZoneSize" xml:space="preserve">
     <value>Tamaño de Zona</value>

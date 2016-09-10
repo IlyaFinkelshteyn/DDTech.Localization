@@ -67,14 +67,14 @@
             "ToR": "ToR"
         },
         "es": {
-            "Jan": "Enero",
+            "Jan": "Ene",
             "Feb": "Feb",
             "Mar": "Marzo",
             "Apr": "Abr",
             "May": "Mayo",
             "Jun": "Jun",
             "Jul": "Jul",
-            "Aug": "Agosto",
+            "Aug": "Ago",
             "Sep": "Sept",
             "Oct": "Oct",
             "Nov": "Nov",
@@ -88,10 +88,10 @@
             "Info": "Info",
             "ID": "ID",
             "Material": "Material",
-            "ToG": "ToG",
-            "ToY": "ToY",
-            "ToR": "ToR",
-            "LTM": "LTM"
+            "ToG": "TdV",
+            "ToY": "TdA",
+            "ToR": "TdR",
+            "LTM": "CLT"
         },
         "es-419": {
             "Jan": "Ene",

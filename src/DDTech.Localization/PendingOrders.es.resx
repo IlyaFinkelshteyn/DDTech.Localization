@@ -130,19 +130,19 @@
     <value>Cancelar</value>
   </data>
   <data name="Commit" xml:space="preserve">
-    <value>Cometer</value>
+    <value>Fijar</value>
   </data>
   <data name="CommitAllPendingOrders" xml:space="preserve">
-    <value>Cometen todos los pedidos pendientes</value>
+    <value>Fijar todas las Órdenes Pendientes</value>
   </data>
   <data name="CommitSelectedPendingOrders" xml:space="preserve">
-    <value>Seleccionada órdenes pendientes de confirmación</value>
+    <value>Fijar Órdenes Pendientes seleccionadas</value>
   </data>
   <data name="Committed" xml:space="preserve">
-    <value>Validado</value>
+    <value>Fijado</value>
   </data>
   <data name="ConfirmCommitOrders" xml:space="preserve">
-    <value>¿Está seguro que desea cometer estas órdenes?</value>
+    <value>¿Está seguro que desea fijar estas órdenes?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Confirmar Borrado</value>
@@ -163,25 +163,25 @@
     <value>Eliminar todos los pedidos</value>
   </data>
   <data name="DeleteSelectedOrders" xml:space="preserve">
-    <value>Borre los pedidos seleccionados</value>
+    <value>Borrar los pedidos seleccionados</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Descripción</value>
   </data>
   <data name="DownloadAllPendingOrders" xml:space="preserve">
-    <value>Descargar todos los pedidos pendientes (sin confirmar)</value>
+    <value>Descargar todos los órdenes pendientes (sin fijar)</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Exportar</value>
   </data>
   <data name="ExportAllOrders" xml:space="preserve">
-    <value>Todos los pedidos de exportación</value>
+    <value>Exportar todos los pedidos</value>
   </data>
   <data name="Exported" xml:space="preserve">
     <value>Exportado</value>
   </data>
   <data name="ExportSelectedOrders" xml:space="preserve">
-    <value>Las órdenes de exportación</value>
+    <value>Exportar pedidos seleccionados</value>
   </data>
   <data name="ExtendedCost" xml:space="preserve">
     <value>Coste Total</value>
@@ -199,10 +199,10 @@
     <value>Línea</value>
   </data>
   <data name="LinkCode" xml:space="preserve">
-    <value>Código de enlace</value>
+    <value>Linkcode</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Loc.</value>
+    <value>Ubic.</value>
   </data>
   <data name="Low" xml:space="preserve">
     <value>Bajo</value>
@@ -256,7 +256,7 @@
     <value>Pendiente</value>
   </data>
   <data name="PendingOrdersStr" xml:space="preserve">
-    <value>Órdenes pendientes</value>
+    <value>Órdenes Pendientes</value>
   </data>
   <data name="PercentOfBuffer" xml:space="preserve">
     <value>% de Buffer</value>
@@ -280,10 +280,10 @@
     <value>Recomendado</value>
   </data>
   <data name="RequestDate" xml:space="preserve">
-    <value>Fecha de Pedido</value>
+    <value>Fecha Pedida</value>
   </data>
   <data name="ReviewRecommendedOrders" xml:space="preserve">
-    <value>Informe recomienda órdenes</value>
+    <value>Revisar órdenes recomendadas</value>
   </data>
   <data name="Revision" xml:space="preserve">
     <value>Revisión</value>
@@ -310,13 +310,13 @@
     <value>Estado</value>
   </data>
   <data name="Status3" xml:space="preserve">
-    <value>Estado 3</value>
+    <value />
   </data>
   <data name="Status4" xml:space="preserve">
-    <value>Estado 4</value>
+    <value />
   </data>
   <data name="TotalOrders" xml:space="preserve">
-    <value>Órdenes totales</value>
+    <value>Órdenes Totales</value>
   </data>
   <data name="Unit" xml:space="preserve">
     <value>Unidad</value>

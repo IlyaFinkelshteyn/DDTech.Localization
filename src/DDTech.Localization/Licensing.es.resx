@@ -133,30 +133,30 @@
     <value>Sitios con licencia</value>
   </data>
   <data name="LicenseExpired" xml:space="preserve">
-    <value>R+ licencia vencida.</value>
+    <value>Licencia R+ vencida.</value>
   </data>
   <data name="LicenseInvalid" xml:space="preserve">
-    <value>R+ licencia inválida.</value>
+    <value>Licencia R+ inválida.</value>
   </data>
   <data name="LicenseValidForever" xml:space="preserve">
-    <value>Su R+ suscripción es válida para siempre</value>
+    <value>Su suscripción a R+ es válida para siempre</value>
   </data>
   <data name="LicenseValidUntil" xml:space="preserve">
-    <value>Su R+ suscripción es válida hasta</value>
+    <value>Su suscripción a R+ es válida hasta</value>
   </data>
   <data name="NewLicenseUploaded" xml:space="preserve">
-    <value>Nueva R+ licencia subido con éxito</value>
+    <value>Nueva Licencia R+ cargada con éxito</value>
   </data>
   <data name="NoModulesPurchased" xml:space="preserve">
-    <value>Sin módulos adicionales comprados</value>
+    <value>Sin módulos adicionales activados</value>
   </data>
   <data name="OnlyLICFiles" xml:space="preserve">
-    <value>Pueden subir sólo los archivos .lic</value>
+    <value>Puede subir sólo los archivos .lic</value>
   </data>
   <data name="PurchasedModules" xml:space="preserve">
     <value>Módulos adquiridos</value>
   </data>
   <data name="UploadNewLicense" xml:space="preserve">
-    <value>Subir nueva R+ licencia</value>
+    <value>Subir nueva Licencia R+</value>
   </data>
 </root>

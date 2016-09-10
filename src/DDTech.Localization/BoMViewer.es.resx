@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Assigned Location" xml:space="preserve">
-    <value>Localización Asignada:</value>
+    <value>Ubicación Asignada:</value>
   </data>
   <data name="BillOfMaterials:" xml:space="preserve">
     <value>Lista de Materiales:</value>
@@ -130,13 +130,13 @@
     <value>Compra</value>
   </data>
   <data name="collapse all" xml:space="preserve">
-    <value>colapsar</value>
+    <value>contraer</value>
   </data>
   <data name="days" xml:space="preserve">
     <value> día(s)</value>
   </data>
   <data name="Decoupled_LeadTime" xml:space="preserve">
-    <value>Plazo de ejecución de desconectados</value>
+    <value>Lead Time Desacoplado</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Descripción:</value>
@@ -178,7 +178,7 @@
     <value>Cantidad:</value>
   </data>
   <data name="R+ Lead Time" xml:space="preserve">
-    <value>R+ tiempo:</value>
+    <value>Lead Time Desacop.:</value>
   </data>
   <data name="refresh" xml:space="preserve">
     <value>actualizar</value>

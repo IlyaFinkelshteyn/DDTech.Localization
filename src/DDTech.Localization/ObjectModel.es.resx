@@ -130,7 +130,7 @@
     <value>Comentarios</value>
   </data>
   <data name="Common_OrderType" xml:space="preserve">
-    <value>Tipo de pedido</value>
+    <value>Tipo de Pedido</value>
   </data>
   <data name="Common_PartType" xml:space="preserve">
     <value>Tipo de Artículo</value>
@@ -142,10 +142,10 @@
     <value>Prioridad</value>
   </data>
   <data name="Common_Profile" xml:space="preserve">
-    <value>`Perfil Buffer</value>
+    <value>Perfil Buffer</value>
   </data>
   <data name="Common_Quantity" xml:space="preserve">
-    <value>Cant</value>
+    <value>Cant.</value>
   </data>
   <data name="Common_Source" xml:space="preserve">
     <value>Fuente</value>
@@ -160,13 +160,13 @@
     <value>Proveedor</value>
   </data>
   <data name="Common_VendorId" xml:space="preserve">
-    <value>Cód. Proveedor</value>
+    <value>ID Proveedor</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_Customer" xml:space="preserve">
     <value>Cliente</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_LinkCode" xml:space="preserve">
-    <value>Código de enlace</value>
+    <value>LinkCode</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_OrderId" xml:space="preserve">
     <value>ID de pedido</value>
@@ -175,31 +175,31 @@
     <value>Número de pedido</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_RecommendedOrderQty" xml:space="preserve">
-    <value>Recomienda Qty de la orden</value>
+    <value>Cant. Recomendada</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_OrderKey_OrderNumber" xml:space="preserve">
     <value>Número de pedido</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_AverageDailyUsage" xml:space="preserve">
-    <value>Consumo medio Diario</value>
+    <value>Consumo Medio Diario</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_EffectiveDailyUsage" xml:space="preserve">
-    <value>Uso diario eficaz</value>
+    <value>Consumo Diario Efectivo</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_FixedLeadTime" xml:space="preserve">
     <value>Lead Time</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_ForecastedDailyUsage" xml:space="preserve">
-    <value>Previsión de uso diario</value>
+    <value>Consumo Previsional</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Date" xml:space="preserve">
     <value>Fecha</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_DueDate" xml:space="preserve">
-    <value>Fecha de vencimiento</value>
+    <value>Fecha de Necesidad</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_IsInventory" xml:space="preserve">
-    <value>Es el inventario</value>
+    <value>Es Stock</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Late" xml:space="preserve">
     <value>Tarde</value>
@@ -211,34 +211,34 @@
     <value>Comentarios</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderCreationDate" xml:space="preserve">
-    <value>Fecha de la orden</value>
+    <value>Fecha de pedido</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderSpikePriority" xml:space="preserve">
-    <value>Orden prioritario de Spike</value>
+    <value>Prioridad Pedido Pico</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderType" xml:space="preserve">
     <value>Estado</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_PromiseDate" xml:space="preserve">
-    <value>Fecha promesa</value>
+    <value>Fecha Prometida</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_QualifiedDemandOrder" xml:space="preserve">
-    <value>Orden de demanda calificada</value>
+    <value>Demanda Calificada</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Quantity" xml:space="preserve">
     <value>Cant</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_ReminderStatus" xml:space="preserve">
-    <value>Estado de recordatorio</value>
+    <value>Estado del recordatorio</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_RequestDate" xml:space="preserve">
-    <value>Fecha de solicitud</value>
+    <value>Fecha Solicitada</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_RunningQuantity" xml:space="preserve">
-    <value>Balance de ejecución</value>
+    <value>Stock Esperado</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_RunningTotalAdjustment" xml:space="preserve">
-    <value>Funcionamiento ajuste Total</value>
+    <value>Ajuste del total esperado</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Source" xml:space="preserve">
     <value>Fuente</value>
@@ -253,16 +253,16 @@
     <value>Proveedor</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_ThirdPartyId" xml:space="preserve">
-    <value>ID de proveedor</value>
+    <value>ID Proveedor</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Type" xml:space="preserve">
     <value>Tipo</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AdjustmentFactor" xml:space="preserve">
-    <value>Factor de ajuste</value>
+    <value>Factor de Ajuste</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStock" xml:space="preserve">
-    <value>Stock Disponible</value>
+    <value>Flujo Neto</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStockPercentage" xml:space="preserve">
     <value>% de Buffer</value>
@@ -277,13 +277,13 @@
     <value>Fecha de Necesidad</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_GreenZoneSize" xml:space="preserve">
-    <value>Tamaño del búfer de zona verde</value>
+    <value>Tamaño Zona Verde</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryMethod" xml:space="preserve">
-    <value>Método de inventario</value>
+    <value>M‚todo de Inventario</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryQty" xml:space="preserve">
-    <value>Inventario Qty</value>
+    <value>Stock</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_IssuedQty" xml:space="preserve">
     <value>En curso</value>
@@ -292,16 +292,16 @@
     <value>Estado CLT</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_LTMTotalOrders" xml:space="preserve">
-    <value>LTM Total pedidos</value>
+    <value>LTM Pedidos</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_MaterialSynchronizationDate" xml:space="preserve">
-    <value>Fecha MSA</value>
+    <value>Fecha ASM</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_MaterialSynchronizationStatus" xml:space="preserve">
-    <value>Estado SM</value>
+    <value>Estado ASM</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OnHandQty" xml:space="preserve">
-    <value>Físico</value>
+    <value>Stock</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMaximumQty" xml:space="preserve">
     <value>Pedido Máximo</value>
@@ -316,13 +316,13 @@
     <value>Pico</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_PercentageOfTopOfRed" xml:space="preserve">
-    <value>% Arriba del rojo</value>
+    <value>% Zona Roja</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Nombre del Factor de ajuste</value>
+    <value>Factor de Ajuste</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_PlannedAdjustmentFactorValue" xml:space="preserve">
-    <value>Valor del Factor de ajuste</value>
+    <value>Valores PAF</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_ProjectedStockOutBufferPercent" xml:space="preserve">
     <value>PSO % del Buffer</value>
@@ -331,13 +331,13 @@
     <value>Estado PRS</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_PromiseDate" xml:space="preserve">
-    <value>Fecha de promesa</value>
+    <value>Fecha prometida</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_Quantity" xml:space="preserve">
-    <value>Reordenar Qty</value>
+    <value>Pedir</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_RedZoneBase" xml:space="preserve">
-    <value>Tamaño del búfer de zona roja</value>
+    <value>Tamaño Zona Roja</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_ReminderStatus" xml:space="preserve">
     <value>Notas de Pedido</value>
@@ -346,7 +346,7 @@
     <value>Alerta R+</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_RPlusLeadTime" xml:space="preserve">
-    <value>R+ LT</value>
+    <value>LT Desacoplado</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_StockOutDate" xml:space="preserve">
     <value>Fecha de Rotura:</value>
@@ -355,22 +355,22 @@
     <value>Aprovisionamiento</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TargetedInventory" xml:space="preserve">
-    <value>Objetivo del inventario</value>
+    <value>Stock Objetivo</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfGreen" xml:space="preserve">
-    <value>ToG</value>
+    <value>TdV</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfRed" xml:space="preserve">
-    <value>ToR</value>
+    <value>TdR</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfYellow" xml:space="preserve">
-    <value>ToY</value>
+    <value>TdA</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_YellowZoneSize" xml:space="preserve">
-    <value>Tamaño del búfer de zona amarilla</value>
+    <value>Tamaño Zona Amarilla</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartKey_Location" xml:space="preserve">
-    <value>Localización</value>
+    <value>Ubicación</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartKey_PartNumber" xml:space="preserve">
     <value>Cód. Artículo</value>
@@ -385,30 +385,30 @@
     <value>Coste total</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_InventoryPlanning" xml:space="preserve">
-    <value>Planificación de inventario</value>
+    <value>Perfil Buffer</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_LineItem" xml:space="preserve">
-    <value>Elemento de línea</value>
+    <value>Linea Pedido</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_PercOfBuffer" xml:space="preserve">
-    <value>% de tampón</value>
+    <value>% de Buffer</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_SalesOrderNumber" xml:space="preserve">
-    <value>Número de pedido de ventas</value>
+    <value>Nº Pedido</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_UnitCost" xml:space="preserve">
     <value>Coste unitario</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_Variance" xml:space="preserve">
-    <value>Varianza</value>
+    <value>Diferencia</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_VarianceCost" xml:space="preserve">
-    <value>Costo de varianza</value>
+    <value>Coste Diferencia</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_VarianceNotes" xml:space="preserve">
-    <value>Información sobre la varianza</value>
+    <value>Notas Diferencia</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_RecommendedOrder_SuppressOrderQtyRules" xml:space="preserve">
-    <value>Suprimir las normas de cantidad de orden</value>
+    <value>Suprimir limitaciones de pedido</value>
   </data>
 </root>

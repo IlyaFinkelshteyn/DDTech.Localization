@@ -130,7 +130,7 @@
     <value>Abr</value>
   </data>
   <data name="AreYouSure" xml:space="preserve">
-    <value>¿Estás Seguro?</value>
+    <value>¿Está Seguro?</value>
   </data>
   <data name="Aug" xml:space="preserve">
     <value>Ago</value>
@@ -139,7 +139,7 @@
     <value>Cancelar</value>
   </data>
   <data name="ChooseLocation" xml:space="preserve">
-    <value>Elegir Localización:</value>
+    <value>Elegir Ubicación:</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Confirmar borrado</value>
@@ -169,10 +169,10 @@
     <value>Jun</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Localización</value>
+    <value>Ubicación</value>
   </data>
   <data name="Location:" xml:space="preserve">
-    <value>Localización:</value>
+    <value>Ubicación:</value>
   </data>
   <data name="Mar" xml:space="preserve">
     <value>Marzo</value>
@@ -193,10 +193,10 @@
     <value>Oct</value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>Vale</value>
+    <value>OK</value>
   </data>
   <data name="PAFDeletedSuccessfully" xml:space="preserve">
-    <value>FAP eliminado OK</value>
+    <value>PAF eliminado OK</value>
   </data>
   <data name="PartAddedDuccessfully" xml:space="preserve">
     <value>Artículo añadido OK</value>

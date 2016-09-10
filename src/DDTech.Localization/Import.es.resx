@@ -127,7 +127,7 @@
     <value>Cancelar</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
-    <value>Confirmar borrado</value>
+    <value>Confirme borrado</value>
   </data>
   <data name="DataImport" xml:space="preserve">
     <value>Importar Datos</value>
@@ -169,19 +169,19 @@
     <value>Vale</value>
   </data>
   <data name="Processing" xml:space="preserve">
-    <value>Procesamiento de</value>
+    <value>En proceso</value>
   </data>
   <data name="PurgePendingExportedOrdersOnImport" xml:space="preserve">
-    <value>Purgar órdenes pendientes/exportados de importación</value>
+    <value>Borrar órdenes pendientes/exportados al importar</value>
   </data>
   <data name="Records" xml:space="preserve">
     <value>Registros</value>
   </data>
   <data name="RecordsIgnoredMessageFormat" xml:space="preserve">
-    <value>{0} registros fueron ignorados debido a la configuración de directivas</value>
+    <value>{0} registros fueron ignorados debido a la configuración</value>
   </data>
   <data name="RegionSettingsDescribed" xml:space="preserve">
-    <value>Configuración regional se aplica a los archivos a subir y no de importación.</value>
+    <value>La Configuración Regional se aplica al cargar los archivos, no al importar.</value>
   </data>
   <data name="Reset" xml:space="preserve">
     <value>RESET</value>

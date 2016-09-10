@@ -118,28 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AfterDeployment" xml:space="preserve">
-    <value>Después de la implementación</value>
+    <value>Despu‚s del envío</value>
   </data>
   <data name="AfterDeploymentAvailabeStock" xml:space="preserve">
-    <value>Después de la</value>
+    <value>Despu‚s</value>
   </data>
   <data name="AfterDeploymentPercentOfTopOfGreen" xml:space="preserve">
-    <value>% De verde</value>
+    <value>Despu‚s % de verde</value>
   </data>
   <data name="AvailableToDeploy" xml:space="preserve">
-    <value>Disponibles para su implementación</value>
+    <value>Disponibles para envío</value>
   </data>
   <data name="BeforeDeployment" xml:space="preserve">
-    <value>Antes de la implementación</value>
+    <value>Antes del envío</value>
   </data>
   <data name="BeforeDeploymentAvailableStock" xml:space="preserve">
-    <value>Antes de</value>
+    <value>Antes</value>
   </data>
   <data name="BeforeDeploymentPercentOfTopOfGreen" xml:space="preserve">
-    <value>Antes de la % de verde</value>
+    <value>Antes % de verde</value>
   </data>
   <data name="CurrentWorkOrders" xml:space="preserve">
-    <value>Órdenes de trabajo actual</value>
+    <value>Órdenes de trabajo actuales</value>
   </data>
   <data name="DefaultExportType" xml:space="preserve">
     <value>Tipo de exportación por defecto</value>
@@ -148,19 +148,19 @@
     <value>Ventana de la demanda (días)</value>
   </data>
   <data name="DeployedTo" xml:space="preserve">
-    <value>Desplegado en</value>
+    <value>Enviado a</value>
   </data>
   <data name="DeploymentMode" xml:space="preserve">
-    <value>Modo de despliegue</value>
+    <value>Modo de envío</value>
   </data>
   <data name="DeploymentMode_Direct" xml:space="preserve">
     <value>Directa</value>
   </data>
   <data name="DeploymentMode_Hub" xml:space="preserve">
-    <value>Eje</value>
+    <value>Hub</value>
   </data>
   <data name="DeploymentRequirement" xml:space="preserve">
-    <value>Requisito de implementación</value>
+    <value>Necesidades de envío</value>
   </data>
   <data name="Destination" xml:space="preserve">
     <value>Destino</value>
@@ -175,7 +175,7 @@
     <value>Detalle</value>
   </data>
   <data name="Disabled" xml:space="preserve">
-    <value>Módulo de despliegue común está actualmente desactivado.</value>
+    <value>El Módulo de Distribución está desactivado.</value>
   </data>
   <data name="ExportType" xml:space="preserve">
     <value>Tipo de exportación</value>
@@ -187,34 +187,34 @@
     <value>DLXP</value>
   </data>
   <data name="GridDestinationDetails" xml:space="preserve">
-    <value>SDM: Destino detalles</value>
+    <value>SDM: Detalles de destino</value>
   </data>
   <data name="GridDestinationSummary" xml:space="preserve">
-    <value>SDM: Destino Resumen</value>
+    <value>SDM: Resumen de destinos</value>
   </data>
   <data name="GridSources" xml:space="preserve">
-    <value>SDM: fuentes</value>
+    <value>SDM: Orígenes</value>
   </data>
   <data name="Holdback" xml:space="preserve">
     <value>Retención</value>
   </data>
   <data name="IncludeIssued" xml:space="preserve">
-    <value>Incluyen la cantidad emitida en retención</value>
+    <value>Incluyen la cantidad en curso como retenida</value>
   </data>
   <data name="IssuedInventory" xml:space="preserve">
     <value>Inventario publicado</value>
   </data>
   <data name="LookAheadDays" xml:space="preserve">
-    <value>Días por delante de la mirada</value>
+    <value>Días a futuro</value>
   </data>
   <data name="MinimumHoldbackPercentOfRed" xml:space="preserve">
     <value>Retención mínima</value>
   </data>
   <data name="NoSourceSelected" xml:space="preserve">
-    <value>Ninguna fuente seleccionada</value>
+    <value>Ningún origen seleccionado</value>
   </data>
   <data name="OrderMultipleAdjustment" xml:space="preserve">
-    <value>Orden de ajuste múltiple</value>
+    <value>Ajuste de múltiplo de pedido</value>
   </data>
   <data name="Override" xml:space="preserve">
     <value>Anulación</value>
@@ -226,61 +226,61 @@
     <value>Anulación de RESET</value>
   </data>
   <data name="Settings_DecimalPlacesForCalculations" xml:space="preserve">
-    <value>Decimales a usar para los cálculos de</value>
+    <value>Precisión de los cálculos</value>
   </data>
   <data name="Settings_Disabled" xml:space="preserve">
-    <value>Implementación de acciones está deshabilitado</value>
+    <value>Módulo de Distribución desactivado</value>
   </data>
   <data name="Settings_ExportFileNameBase" xml:space="preserve">
     <value>Nombre de archivo de exportación</value>
   </data>
   <data name="Settings_MinimumHoldbackPercentOfRed_Desc" xml:space="preserve">
-    <value>(Sólo implementación del hub)</value>
+    <value>(Sólo Tipo Hub)</value>
   </data>
   <data name="Settings_SourceOverride" xml:space="preserve">
-    <value>anulación de la fuente</value>
+    <value>anulación de Origen</value>
   </data>
   <data name="Settings_SourceUnitFieldNum" xml:space="preserve">
-    <value>Campo personalizado para la ubicación de origen</value>
+    <value>Campo personalizado para Origen</value>
   </data>
   <data name="Settings_UsingShared" xml:space="preserve">
-    <value>usando la configuración compartida</value>
+    <value>configuración común activada</value>
   </data>
   <data name="SharedSettings" xml:space="preserve">
-    <value>Configuración compartida</value>
+    <value>Configuración común</value>
   </data>
   <data name="Shortfall" xml:space="preserve">
-    <value>Déficit de</value>
+    <value>D‚ficit</value>
   </data>
   <data name="Source" xml:space="preserve">
-    <value>Fuente</value>
+    <value>Origen</value>
   </data>
   <data name="SourceDetails" xml:space="preserve">
-    <value>Detalles de la fuente</value>
+    <value>Detalles del origen</value>
   </data>
   <data name="SourceDetails_SelectOne" xml:space="preserve">
-    <value>Por favor, seleccione una fuente.</value>
+    <value>Por favor, seleccione un origen</value>
   </data>
   <data name="SourceLocation" xml:space="preserve">
-    <value>Ubicación de origen</value>
+    <value>Ubicación del origen</value>
   </data>
   <data name="SourceProperties" xml:space="preserve">
     <value>Propiedades</value>
   </data>
   <data name="Sources" xml:space="preserve">
-    <value>Fuentes</value>
+    <value>Orígenes</value>
   </data>
   <data name="SourceSettings" xml:space="preserve">
-    <value>Configuración de fuente</value>
+    <value>Configuración de Orígenes</value>
   </data>
   <data name="StockDeploymentStr" xml:space="preserve">
-    <value>Implementación de acciones</value>
+    <value>Distribución de Stock</value>
   </data>
   <data name="Summary" xml:space="preserve">
     <value>Resumen</value>
   </data>
   <data name="TotalDeployed" xml:space="preserve">
-    <value>Total desplegado</value>
+    <value>Total enviado</value>
   </data>
   <data name="TotalDeployedToBuffers" xml:space="preserve">
     <value>Desplegado en Buffers</value>

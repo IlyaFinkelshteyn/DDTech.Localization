@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AllSelected" xml:space="preserve">
-    <value>Todos los seleccionados</value>
+    <value>Todos seleccionados</value>
   </data>
   <data name="BackgroundProcessing" xml:space="preserve">
-    <value>Está ejecutando un proceso en segundo plano.</value>
+    <value>Se está ejecutando un proceso en segundo plano.</value>
   </data>
   <data name="BackgroundProcessing_FeatureDisabled" xml:space="preserve">
-    <value>Esta funcionalidad está desactivada hasta que finalice la ejecución.</value>
+    <value>Esta funcionalidad está desactivada hasta que finalice el MRP.</value>
   </data>
   <data name="Column" xml:space="preserve">
     <value>Columna</value>
@@ -136,19 +136,19 @@
     <value>Alemán</value>
   </data>
   <data name="DisplayLang_en" xml:space="preserve">
-    <value>Inglés</value>
+    <value>Ingl‚s</value>
   </data>
   <data name="DisplayLang_es" xml:space="preserve">
     <value>Español</value>
   </data>
   <data name="DisplayLang_es_419" xml:space="preserve">
-    <value>Español (América Latina)</value>
+    <value>Español (Am‚rica Latina)</value>
   </data>
   <data name="DisplayLang_fi" xml:space="preserve">
-    <value>Finlandés</value>
+    <value>Finland‚s</value>
   </data>
   <data name="DisplayLang_fr" xml:space="preserve">
-    <value>Francés</value>
+    <value>Franc‚s</value>
   </data>
   <data name="DisplayLang_hu" xml:space="preserve">
     <value>Húngaro</value>
@@ -163,7 +163,7 @@
     <value>Turco</value>
   </data>
   <data name="FilterDisabled" xml:space="preserve">
-    <value>Filtro de personas con discapacidad</value>
+    <value>Filtro desactivado</value>
   </data>
   <data name="Home_About_ApplicationLabel" xml:space="preserve">
     <value>Aplicación</value>
@@ -187,10 +187,10 @@
     <value>Cuenta de usuario</value>
   </data>
   <data name="Nav_Admin_GlobalSettings_Title" xml:space="preserve">
-    <value>Configuración global</value>
+    <value>Configuración Global</value>
   </data>
   <data name="Nav_Admin_MaterialRequirements_Title" xml:space="preserve">
-    <value>Requerimientos de materiales</value>
+    <value>Necesidad de Materiales</value>
   </data>
   <data name="Nav_Admin_ProfileSettings_Title" xml:space="preserve">
     <value>Configuración del perfil</value>
@@ -205,46 +205,46 @@
     <value>Administración de usuarios</value>
   </data>
   <data name="Nav_Alerts_CurrentSupplyOrderNotes" xml:space="preserve">
-    <value>Notas de pedido de suministro actual</value>
+    <value>Notas en pedidos actuales</value>
   </data>
   <data name="Nav_Alerts_NoSupplyOrderNotes" xml:space="preserve">
-    <value>Sin notas de orden de suministro</value>
+    <value>Sin notas en pedidos</value>
   </data>
   <data name="Nav_Alerts_OutstandingSupplyOrderNotes" xml:space="preserve">
-    <value>Oferta excepcional orden notas</value>
+    <value>Nota en pedido excepcional</value>
   </data>
   <data name="Nav_Alerts_OverdueSupplyOrderNotes" xml:space="preserve">
-    <value>Notas de orden de suministro vencidos</value>
+    <value>Notas en pedidos vencidos</value>
   </data>
   <data name="Nav_Alerts_Title" xml:space="preserve">
     <value>Alertas</value>
   </data>
   <data name="Nav_AlertsCurrentInventory_Title" xml:space="preserve">
-    <value>Inventario actual</value>
+    <value>Stock Actual</value>
   </data>
   <data name="Nav_AlertsLTMSummary_Title" xml:space="preserve">
-    <value>LTM</value>
+    <value>CLT</value>
   </data>
   <data name="Nav_AlertsMSA_Title" xml:space="preserve">
     <value>MSA</value>
   </data>
   <data name="Nav_AlertsMSASummary_Title" xml:space="preserve">
-    <value>MSA</value>
+    <value>ASM</value>
   </data>
   <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
-    <value>Proyectada fuera de Stock</value>
+    <value>Proyeccion de Rotura</value>
   </data>
   <data name="Nav_ApiExplorer" xml:space="preserve">
-    <value>Explorador de API</value>
+    <value>Explorador API</value>
   </data>
   <data name="Nav_BoM_Title" xml:space="preserve">
     <value>Lista de materiales</value>
   </data>
   <data name="Nav_DataMgmt_Export_Title" xml:space="preserve">
-    <value>Exportación de datos</value>
+    <value>Exportar CSV</value>
   </data>
   <data name="Nav_DataMgmt_Import_Title" xml:space="preserve">
-    <value>Importación de datos</value>
+    <value>Importar CSV</value>
   </data>
   <data name="Nav_DataMgmt_Title" xml:space="preserve">
     <value>Datos</value>
@@ -253,7 +253,7 @@
     <value>Documentación</value>
   </data>
   <data name="Nav_EditBufferProfile_Title" xml:space="preserve">
-    <value>Perfil de búfer</value>
+    <value>Perfil de Buffer</value>
   </data>
   <data name="Nav_EditCalendar_Title" xml:space="preserve">
     <value>Calendario</value>
@@ -265,10 +265,10 @@
     <value>Editar</value>
   </data>
   <data name="Nav_EditPAF_Title" xml:space="preserve">
-    <value>Factor de ajuste planificados</value>
+    <value>Factores de Ajuste</value>
   </data>
   <data name="Nav_EditPart_Title" xml:space="preserve">
-    <value>Parte</value>
+    <value>Artículos</value>
   </data>
   <data name="Nav_Group_Admin" xml:space="preserve">
     <value>Admin</value>
@@ -295,19 +295,19 @@
     <value>Info</value>
   </data>
   <data name="Nav_Menu_NewBadge" xml:space="preserve">
-    <value>¡Nuevo!</value>
+    <value>!Nuevo!</value>
   </data>
   <data name="Nav_Menu_UpdatedBadge" xml:space="preserve">
-    <value>¡ Actualizado!</value>
+    <value>!Actualizado!</value>
   </data>
   <data name="Nav_PendingOrders_Title" xml:space="preserve">
-    <value>Órdenes pendientes</value>
+    <value>Revisión Órdenes</value>
   </data>
   <data name="Nav_Planner_Title" xml:space="preserve">
-    <value>Herramientas del planificador</value>
+    <value>Planificación</value>
   </data>
   <data name="Nav_PlannersDashboard_Title" xml:space="preserve">
-    <value>R+ tablero</value>
+    <value>R+ Vista General </value>
   </data>
   <data name="Nav_PlannersWorkbench_All_Title" xml:space="preserve">
     <value>Todos</value>
@@ -316,13 +316,13 @@
     <value>Crítica</value>
   </data>
   <data name="Nav_PlannersWorkbench_Custom_Title" xml:space="preserve">
-    <value>Personaliza</value>
+    <value>Filtrados</value>
   </data>
   <data name="Nav_PlannersWorkbench_Green_Title" xml:space="preserve">
     <value>Baja</value>
   </data>
   <data name="Nav_PlannersWorkbench_OToG_Title" xml:space="preserve">
-    <value>Parte superior del verde</value>
+    <value>Tope de Verde</value>
   </data>
   <data name="Nav_PlannersWorkbench_Red_Title" xml:space="preserve">
     <value>Alta</value>
@@ -331,43 +331,43 @@
     <value>Alta (NB)</value>
   </data>
   <data name="Nav_PlannersWorkbench_Title" xml:space="preserve">
-    <value>Banco de trabajo</value>
+    <value>Planificador R+</value>
   </data>
   <data name="Nav_PlannersWorkbench_Yellow_Title" xml:space="preserve">
-    <value>Medio</value>
+    <value>Media</value>
   </data>
   <data name="Nav_ReadBufferSummary_Title" xml:space="preserve">
-    <value>Extracto de búfer</value>
+    <value>Buffers</value>
   </data>
   <data name="Nav_ReadBufferTrend_Title" xml:space="preserve">
-    <value>Tendencia de búfer</value>
+    <value>Análisis de Buffer y Stock</value>
   </data>
   <data name="Nav_ReadCritHighPlanner_Title" xml:space="preserve">
-    <value>Tendencia crítica y alto por Planner</value>
+    <value>Análisis Críticos y Altos por Planner</value>
   </data>
   <data name="Nav_ReadOtogPlanner_Title" xml:space="preserve">
-    <value>Tendencia de la fotografía por Planner</value>
+    <value>Análisis EXCESO por Planner</value>
   </data>
   <data name="Nav_ReadPartActivity_Title" xml:space="preserve">
-    <value>Parte de la actividad</value>
+    <value>Movimientos del Artículo</value>
   </data>
   <data name="Nav_ReadPartDistribution_Title" xml:space="preserve">
-    <value>Distribución de parte</value>
+    <value>Comportamiento de Buffers</value>
   </data>
   <data name="Nav_ReadStockOutDemandTrend_Title" xml:space="preserve">
-    <value>Stock Out con demanda</value>
+    <value>Roturas con Demanda</value>
   </data>
   <data name="Nav_ReadSumCritHigh_Title" xml:space="preserve">
-    <value>Suma de críticos y de alta</value>
+    <value>Análisis Críticos y Altos </value>
   </data>
   <data name="Nav_ReadSumOfOtog_Title" xml:space="preserve">
-    <value>Suma de fotografía</value>
+    <value>Análisis EXCESO</value>
   </data>
   <data name="Nav_Reports_Title" xml:space="preserve">
     <value>Informes</value>
   </data>
   <data name="Nav_Search_Title" xml:space="preserve">
-    <value>Búsqueda de</value>
+    <value>Buscar</value>
   </data>
   <data name="Nav_Settings_Title" xml:space="preserve">
     <value>Configuración</value>
@@ -376,7 +376,7 @@
     <value>Estado</value>
   </data>
   <data name="Nav_StockDeployment_Title" xml:space="preserve">
-    <value>Implementación de acciones</value>
+    <value>Distribución de Stock</value>
   </data>
   <data name="Nav_User_Settings_Title" xml:space="preserve">
     <value>Configuración de usuario</value>
@@ -391,22 +391,22 @@
     <value>Ninguno seleccionado</value>
   </data>
   <data name="PartActivity_NoActivity" xml:space="preserve">
-    <value>Parte no tiene ninguna actividad</value>
+    <value>El artículo no tiene movimientos</value>
   </data>
   <data name="PartActivity_NoDemandAllocations" xml:space="preserve">
-    <value>Parte no tiene ninguna asignación de demanda</value>
+    <value>El artículo no tiene demandas</value>
   </data>
   <data name="PartActivity_NoSupplyOrders" xml:space="preserve">
-    <value>Parte no tiene ninguna orden de suministro</value>
+    <value>El artículo no tiene pedidos/órdenes</value>
   </data>
   <data name="PartActivity_Tab_AllActivity" xml:space="preserve">
-    <value>Toda la actividad</value>
+    <value>Movimientos</value>
   </data>
   <data name="PartActivity_Tab_DemandAllocations" xml:space="preserve">
-    <value>Asignaciones de demanda</value>
+    <value>Demandas</value>
   </data>
   <data name="PartActivity_Tab_SupplyOrders" xml:space="preserve">
-    <value>Suministro de pedidos</value>
+    <value>Pedidos/Órdenes</value>
   </data>
   <data name="QuickActions" xml:space="preserve">
     <value>Acciones rápidas</value>
@@ -421,18 +421,18 @@
     <value>ver más</value>
   </data>
   <data name="TimeZone_Server_Desc1" xml:space="preserve">
-    <value>La pantalla tiempos tengan parámetros de sitio configurado tiempo global</value>
+    <value>Las horas mostradas siguen la configuración global de R+</value>
   </data>
   <data name="TimeZone_Server_Desc2" xml:space="preserve">
-    <value>Configuración de la hora se configura en la página de configuración Global</value>
+    <value>Para ajustar las propiedades horarias vaya a Configuración Global</value>
   </data>
   <data name="TimeZoneType_Browser" xml:space="preserve">
-    <value>Zona horaria actual de usuario (navegador)</value>
+    <value>Zona horaria actual (navegador)</value>
   </data>
   <data name="TimeZoneType_Site" xml:space="preserve">
-    <value>Zona de tiempo Regional configurada (sitio)</value>
+    <value>Zona horaria configurada (R+)</value>
   </data>
   <data name="TimeZoneType_UTC" xml:space="preserve">
-    <value>Servidor horario (UTC)</value>
+    <value>Zona horaria del Servidor (UTC)</value>
   </data>
 </root>

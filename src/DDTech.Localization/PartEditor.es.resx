@@ -124,7 +124,7 @@
     <value>Añadir nuevo elemento</value>
   </data>
   <data name="AreYouSure" xml:space="preserve">
-    <value>¿Estás Seguro?</value>
+    <value>¿Está Seguro?</value>
   </data>
   <data name="AverageDailyUsage" xml:space="preserve">
     <value>Consumo Medio Diario</value>
@@ -136,25 +136,25 @@
     <value>Valores de Buffer no representables</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Comprado</value>
+    <value>Compra</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Confirmar Borrado</value>
   </data>
   <data name="CurrentPAFIs" xml:space="preserve">
-    <value>FAP actual es</value>
+    <value>FAP asignado</value>
   </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Días de Consumo</value>
   </data>
   <data name="DecoupledLeadTime" xml:space="preserve">
-    <value>Plazo de ejecución de desconectados</value>
+    <value>LT Desacoplado</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Descripción</value>
   </data>
   <data name="EffectiveDailyUsage" xml:space="preserve">
-    <value>Uso diario eficaz</value>
+    <value>Consumo Diario Efectivo</value>
   </data>
   <data name="EnterName" xml:space="preserve">
     <value>Introducir Nombre</value>
@@ -169,16 +169,16 @@
     <value>Lead Time</value>
   </data>
   <data name="ForecastedDailyUsage" xml:space="preserve">
-    <value>Previsión de uso diario</value>
+    <value>Consumo Diario Previsto</value>
   </data>
   <data name="Green" xml:space="preserve">
-    <value>verde</value>
+    <value>Verde</value>
   </data>
   <data name="InventoryManagement" xml:space="preserve">
     <value>Gestión de Inventario</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Localización</value>
+    <value>Ubicación</value>
   </data>
   <data name="Make" xml:space="preserve">
     <value>Elaborado</value>
@@ -211,7 +211,7 @@
     <value>Notas</value>
   </data>
   <data name="OrderCycleOverride" xml:space="preserve">
-    <value>Ciclo de Pedido particular:</value>
+    <value>Ciclo de Pedido:</value>
   </data>
   <data name="OrderMultiple" xml:space="preserve">
     <value>Multiplo de Pedido</value>
@@ -220,7 +220,7 @@
     <value>Política de Pedido</value>
   </data>
   <data name="OutSourcedCost" xml:space="preserve">
-    <value>A con coste</value>
+    <value>Coste Externalizado</value>
   </data>
   <data name="Part" xml:space="preserve">
     <value>Artículo</value>
@@ -241,7 +241,7 @@
     <value>Edición Artículos</value>
   </data>
   <data name="PartType" xml:space="preserve">
-    <value>Tipo de Referencia</value>
+    <value>Tipo de Artículo</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
     <value>Factor Ajuste Planificado</value>
@@ -250,7 +250,7 @@
     <value>Cód. Planner</value>
   </data>
   <data name="RawMaterialCost" xml:space="preserve">
-    <value>Costo de materia prima</value>
+    <value>Coste de Materia Prima</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Rojo</value>
@@ -262,7 +262,7 @@
     <value>Revisión</value>
   </data>
   <data name="RPlusLeadTime" xml:space="preserve">
-    <value>R+ tiempo</value>
+    <value>LT Desacoplado</value>
   </data>
   <data name="Search" xml:space="preserve">
     <value>Buscar</value>
@@ -322,10 +322,10 @@
     <value>Def-Usuario 8</value>
   </data>
   <data name="UnitOfMeasure" xml:space="preserve">
-    <value>Unidad de Medidad</value>
+    <value>Ud.de Medida</value>
   </data>
   <data name="Units" xml:space="preserve">
-    <value>Unidades</value>
+    <value>Unids.</value>
   </data>
   <data name="UserDefinedFields" xml:space="preserve">
     <value>Campos Personalizables</value>

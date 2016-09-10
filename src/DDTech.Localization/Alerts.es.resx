@@ -127,7 +127,7 @@
     <value>Factor de Ajuste</value>
   </data>
   <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
-    <value>Vista en legado alertas</value>
+    <value>Vista Alertas - antigua</value>
   </data>
   <data name="AlertsStr" xml:space="preserve">
     <value>Alertas</value>
@@ -136,7 +136,7 @@
     <value>Movimientos</value>
   </data>
   <data name="AvailableStock" xml:space="preserve">
-    <value>Stock Disponible</value>
+    <value>Flujo neto</value>
   </data>
   <data name="AvgDailyUsage" xml:space="preserve">
     <value>Consumo Medio Diario:</value>
@@ -148,7 +148,7 @@
     <value>Cancelar</value>
   </data>
   <data name="ClickToViewReminders" xml:space="preserve">
-    <value>clic para ver recordatorios</value>
+    <value>Haga clic para ver recordatorios</value>
   </data>
   <data name="Committed" xml:space="preserve">
     <value>Validada</value>
@@ -157,7 +157,7 @@
     <value>Stock Actual</value>
   </data>
   <data name="CurrentInventoryAll" xml:space="preserve">
-    <value>Inventario - todos</value>
+    <value>Stock Actual - Todos</value>
   </data>
   <data name="CurrentInventoryCritical" xml:space="preserve">
     <value>Stock Actual - Crítico</value>
@@ -205,7 +205,7 @@
     <value>Verde</value>
   </data>
   <data name="Inventory" xml:space="preserve">
-    <value>Inventario</value>
+    <value>Stock</value>
   </data>
   <data name="IssuedInventory" xml:space="preserve">
     <value>Stock en Curso</value>
@@ -220,40 +220,40 @@
     <value>Cargando...</value>
   </data>
   <data name="Loc" xml:space="preserve">
-    <value>¡No!</value>
+    <value>Loc</value>
   </data>
   <data name="LTMSummary" xml:space="preserve">
-    <value>Control LeadTime</value>
+    <value>Alerta Lead Time</value>
   </data>
   <data name="LTMSummaryAll" xml:space="preserve">
-    <value>Resumen de LTM - todos</value>
+    <value>Alerta Lead Time - Todos</value>
   </data>
   <data name="LTMSummaryHigh" xml:space="preserve">
-    <value>Alerta CLT - Alta</value>
+    <value>Alerta Lead Time - Alta</value>
   </data>
   <data name="LTMSummaryLow" xml:space="preserve">
-    <value>Alerta CLT - Baja</value>
+    <value>Alerta Lead Time - Baja</value>
   </data>
   <data name="LTMSummaryMedium" xml:space="preserve">
-    <value>Alerta CLT - Media</value>
+    <value>Alerta Lead Time - Media</value>
   </data>
   <data name="Make" xml:space="preserve">
     <value>Elaborado</value>
   </data>
   <data name="MaterialSynchronizationAlert" xml:space="preserve">
-    <value>Sincronización de Materiales</value>
+    <value>Alerta de Sincronización de Materiales</value>
   </data>
   <data name="MaterialType" xml:space="preserve">
     <value>Tipo de Material</value>
   </data>
   <data name="MSAAll" xml:space="preserve">
-    <value>MSA - todos</value>
+    <value>ASM - Todos</value>
   </data>
   <data name="MSACritical" xml:space="preserve">
-    <value>MSA - crítico</value>
+    <value>ASM - Crítico</value>
   </data>
   <data name="MSAHigh" xml:space="preserve">
-    <value>MSA - alta</value>
+    <value>MSA - Alta</value>
   </data>
   <data name="NoAlertSelected" xml:space="preserve">
     <value>Por favor, seleccione una alerta</value>
@@ -307,25 +307,25 @@
     <value>Pendiente</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
-    <value>Cód. Planner</value>
+    <value>Cód. Planificador</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>Perfil</value>
   </data>
   <data name="ProjectedStockOut" xml:space="preserve">
-    <value>Previsión Rotura Stock</value>
+    <value>Proyección Rotura Stock</value>
   </data>
   <data name="ProjectedStockOutAll" xml:space="preserve">
-    <value>Projected Stock Out - todo</value>
+    <value>Proyección Rotura Stock - Todo</value>
   </data>
   <data name="ProjectedStockOutCritical" xml:space="preserve">
-    <value>Previsión Rotura Stock- Crítica</value>
+    <value>Proyección Rotura Stock- Crítica</value>
   </data>
   <data name="ProjectedStockOutHigh" xml:space="preserve">
-    <value>Previsión Rotura Stock - Alta</value>
+    <value>Proyección Rotura Stock - Alta</value>
   </data>
   <data name="ProjectedStockOutMedium" xml:space="preserve">
-    <value>Previsión Rotura Stock - Alta</value>
+    <value>Proyección Rotura Stock - Alta</value>
   </data>
   <data name="PromiseDate" xml:space="preserve">
     <value>Fecha Esperada</value>
@@ -355,49 +355,49 @@
     <value>Se aplica a</value>
   </data>
   <data name="rule_CurrentInventory_Critical1" xml:space="preserve">
-    <value>Tiene actual o vencida de la demanda, pero sin inventario actual</value>
+    <value>Tiene demanda con fecha hoy o pasada y no tiene stock físico</value>
   </data>
   <data name="rule_CurrentInventory_High1" xml:space="preserve">
-    <value>Demanda excede el inventario actual</value>
+    <value>La demanda excede el stock físico</value>
   </data>
   <data name="rule_CurrentInventory_High2" xml:space="preserve">
-    <value>No hay inventario actual, y no hay ninguna demanda de la</value>
+    <value>No hay stock, pero no hay ninguna demanda</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Orden debe llegar en menos de un 11% de la R + plazo</value>
+    <value>El pedido debe llegar en menos de [0.11 x Lead Time Desacoplado] días.</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Orden debido llegar entre 33% y 22% de la R + plazo de ejecución.</value>
+    <value>El pedido debe llegar entre [0.22-0.33 x Lead Time Desacoplado] días.</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Orden debido llegar entre 22% y 11% de la R + plazo de ejecución.</value>
+    <value>El pedido debe llegar entre [0.11-0.22 x Lead Time Desacoplado] días.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
-    <value>Tiene libre oferta y demanda dentro de plazo de ejecución</value>
+    <value>Tiene órdenes/pedidos abiertos y demanda dentro de 1 lead time.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
-    <value>QOH (actual inventario disponible) &amp;gt; = 0 y si ejecuta equilibrio es &amp;lt; = 0 en cualquier momento durante el horizonte de tiempo de plomo</value>
+    <value>SF (Stock Físico Actual) &amp;gt; = 0 y el Stock Esperado &amp;lt; = 0 en algún momento dentro de 1 Lead time.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
     <value>Tiene libre demanda dentro de plazo de ejecución</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
-    <value>QOH (actual inventario disponible) &amp;gt; = 0 y Balance de ejecución es &amp;gt; 0 y &amp;lt; = % ToR en cualquier momento durante el horizonte de tiempo de plomo</value>
+    <value>SF (Stock Físico Actual) &amp;gt; = 0 y el Stock Esperado &amp;gt; 0 y &amp;lt; = % ToR en algún momento dentro de 1 Lead time.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
-    <value>Tiene saldo negativo de corriente en los últimos</value>
+    <value>Tiene Stock Esperado negativo en el pasado</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical2" xml:space="preserve">
-    <value>Tiene saldo negativo de corriente en cualquier momento durante el horizonte de tiempo de plomo</value>
+    <value>Tiene Stock Esperado negativo en algún momento dentro de un lead time</value>
   </data>
   <data name="rule_NotIncludedIn" xml:space="preserve">
     <value>No incluido en</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
-    <value>Nivel de inventario actual es menor que % de zona roja según lo definido por el nivel de alerta de inventario en Perfil de buffer (o por defecto del sistema para el nivel de alerta)</value>
+    <value>Stock actual es menor que el % de zona roja definido como el Umbral para Alerta de Inventario (En el Perfil de Buffer o valor General)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
-    <value>Nivel de inventario actual es menor o igual a la parte superior de la Red (ToR)</value>
+    <value>El Stock Actual es menor o igual al Tope de Rojo (ToR)</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Stock Esperado</value>
@@ -412,7 +412,7 @@
     <value>Origen</value>
   </data>
   <data name="SPIKE" xml:space="preserve">
-    <value>-PICO</value>
+    <value>#¿NOMBRE?</value>
   </data>
   <data name="StartDate" xml:space="preserve">
     <value>Fecha de Inicio</value>
@@ -421,10 +421,10 @@
     <value>Estado</value>
   </data>
   <data name="Status3" xml:space="preserve">
-    <value>Estado 3</value>
+    <value />
   </data>
   <data name="Status4" xml:space="preserve">
-    <value>Estado 4</value>
+    <value />
   </data>
   <data name="StockOut" xml:space="preserve">
     <value>ROTURA</value>
@@ -433,10 +433,10 @@
     <value>ROTURA CON DEMANDA</value>
   </data>
   <data name="SupplyOrderNote" xml:space="preserve">
-    <value>Nota de pedido de suministro</value>
+    <value>Nota en pedido de reposición</value>
   </data>
   <data name="SupplyOrders" xml:space="preserve">
-    <value>Aprovisionamiento</value>
+    <value>Aprovisionamientos</value>
   </data>
   <data name="TopOfGreen" xml:space="preserve">
     <value>Tope de Verde</value>

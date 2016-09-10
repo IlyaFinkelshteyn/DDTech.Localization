@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AreYouSure" xml:space="preserve">
-    <value>¿Estás seguro?</value>
+    <value>¿Está seguro?</value>
   </data>
   <data name="Buy" xml:space="preserve">
     <value>Compra</value>
   </data>
   <data name="BuyCalendarSaved" xml:space="preserve">
-    <value>Guardar Calendario de Compras</value>
+    <value>Calendario de Compras guardado</value>
   </data>
   <data name="CalendarStr" xml:space="preserve">
     <value>Calendario</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
-    <value>Confirmar borrar</value>
+    <value>Confirmar borrado</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Descripción</value>
@@ -148,7 +148,7 @@
     <value>Fabricación</value>
   </data>
   <data name="MakeCalendarSaved" xml:space="preserve">
-    <value>Guardar Calendario de Fabricación</value>
+    <value>Calendario de Fabricación guardado</value>
   </data>
   <data name="Monday" xml:space="preserve">
     <value>Lunes</value>
@@ -175,6 +175,6 @@
     <value>Proveedor</value>
   </data>
   <data name="Wednesday" xml:space="preserve">
-    <value>Miércoles</value>
+    <value>Mi‚rcoles</value>
   </data>
 </root>
