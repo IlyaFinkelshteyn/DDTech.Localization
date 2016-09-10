@@ -142,7 +142,7 @@
     <value>Vendredi</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Emplacement</value>
+    <value>Site</value>
   </data>
   <data name="Make" xml:space="preserve">
     <value>Fabriqué</value>

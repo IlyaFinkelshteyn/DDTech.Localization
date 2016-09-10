@@ -163,7 +163,7 @@
     <value>Turc</value>
   </data>
   <data name="FilterDisabled" xml:space="preserve">
-    <value>Sélectionner</value>
+    <value>Filtre désactivé</value>
   </data>
   <data name="Home_About_ApplicationLabel" xml:space="preserve">
     <value>Application</value>
@@ -229,13 +229,13 @@
     <value>Alerte de synchronisation article</value>
   </data>
   <data name="Nav_AlertsMSASummary_Title" xml:space="preserve">
-    <value>MSA</value>
+    <value>ASM</value>
   </data>
   <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
     <value>Stock projeté</value>
   </data>
   <data name="Nav_ApiExplorer" xml:space="preserve">
-    <value>API Explorer</value>
+    <value>Navigateur API</value>
   </data>
   <data name="Nav_BoM_Title" xml:space="preserve">
     <value>Nomenclatures</value>

@@ -193,7 +193,7 @@
     <value>L'alerte R+ correspond au Top du Jaune</value>
   </data>
   <data name="UnsupportedPart" xml:space="preserve">
-    <value>Non disponible pour article non stocké</value>
+    <value>Non disponible pour un article non stocké</value>
   </data>
   <data name="UseOrderCycleForGreenZone" xml:space="preserve">
     <value>Utiliser le cycle de commande</value>

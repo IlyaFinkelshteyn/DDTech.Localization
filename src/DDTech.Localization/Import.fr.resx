@@ -178,7 +178,7 @@
     <value>Comptes rendus</value>
   </data>
   <data name="RecordsIgnoredMessageFormat" xml:space="preserve">
-    <value>{0} dossiers ont été ignorés en raison de la configuration de la stratégie</value>
+    <value>{0} enregistrements ont été ignorés en raison du paramétrage</value>
   </data>
   <data name="RegionSettingsDescribed" xml:space="preserve">
     <value>Les paramètres régionaux sont appliqués aux fichiers lors du téléchargement et non à l’importation.</value>

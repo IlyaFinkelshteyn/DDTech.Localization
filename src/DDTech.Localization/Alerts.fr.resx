@@ -259,10 +259,10 @@
     <value>Veuillez sélectionner une alerte</value>
   </data>
   <data name="NoExecutionAlerts" xml:space="preserve">
-    <value>Aucune alerte de l’exécution</value>
+    <value>Aucune alerte d'exécution</value>
   </data>
   <data name="None" xml:space="preserve">
-    <value>Aucun</value>
+    <value>Aucune</value>
   </data>
   <data name="Note" xml:space="preserve">
     <value>Remarque</value>
@@ -277,7 +277,7 @@
     <value>Commande en cours</value>
   </data>
   <data name="OpenSupply" xml:space="preserve">
-    <value>Appro. En Cours</value>
+    <value>Appro. en cours</value>
   </data>
   <data name="OpenWO" xml:space="preserve">
     <value>OF en cours</value>
@@ -364,31 +364,31 @@
     <value>Le stock est à zéro, et il n’y a pas de demande</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Ordre de dû arriver en moins de 11 % de la R + délai</value>
+    <value>Échéance de l'ordre inférieure à 11% du délai R+</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Ordre d’arriver entre 33 % et 22 % de la R + délai de dû.</value>
+    <value>Échéance de l'ordre supérieure à 22% et inférieure à 33% du délai R+</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Ordre d’arriver entre 22 % et 11 % de la R + délai de dû.</value>
+    <value>Échéance de l'ordre supérieure à 11% et inférieure à 22% du délai R+</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
-    <value>Il y a des approvisionnements en cours et des besoins dans le délai découplé</value>
+    <value>Il y a des approvisionnements en cours et des besoins dans l'horizon du délai découplé</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
-    <value>Le stock est &amp;gt; = 0 et le stock projeté est &amp;lt; = 0 dans l'horizon de délai découplé</value>
+    <value>Le stock est &amp;gt; = 0 et le stock projeté est &amp;lt; = 0 dans l'horizon du délai découplé</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
-    <value>Il y a des approvisionnements/besoins dans le délai découplé</value>
+    <value>Il y a des approvisionnements/besoins dans l'horizon du délai découplé</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
-    <value>Le stock est &amp;gt; = 0 et le stock projeté est &amp;gt; 0 et &amp;lt; = % ToR dans l'horizon de délai découplé</value>
+    <value>Le stock est &amp;gt; = 0 et le stock projeté est &amp;gt; 0 et &amp;lt; = % ToR dans l'horizon du délai découplé</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
     <value>Le stock est négatif dans le passé</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical2" xml:space="preserve">
-    <value>Le stock projeté est négatif dans le délai découplé</value>
+    <value>Le stock projeté est négatif dans l'horizon du délai découplé</value>
   </data>
   <data name="rule_NotIncludedIn" xml:space="preserve">
     <value>Non inclus dans</value>
@@ -412,7 +412,7 @@
     <value>Source</value>
   </data>
   <data name="SPIKE" xml:space="preserve">
-    <value>#NAME?</value>
+    <value>#NOM?</value>
   </data>
   <data name="StartDate" xml:space="preserve">
     <value>Date de Début</value>

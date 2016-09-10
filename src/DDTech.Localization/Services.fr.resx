@@ -121,15 +121,15 @@
     <value>Clé introuvable</value>
   </data>
   <data name="ValueEmptyNotAllowed" xml:space="preserve">
-    <value>Valeur ne peut pas être vide</value>
+    <value>Le champ ne peut pas être vide</value>
   </data>
   <data name="ValueNullNotAllowed" xml:space="preserve">
-    <value>La valeur ne peut pas être null</value>
+    <value>La valeur ne peut pas être nulle</value>
   </data>
   <data name="ValueOutOfRange" xml:space="preserve">
-    <value>Valeur est hors limites admissibles</value>
+    <value>La valeur est hors limites admissibles</value>
   </data>
   <data name="ValueWhitespaceNotAllowed" xml:space="preserve">
-    <value>Valeur ne peut pas être un espace blanc</value>
+    <value>La valeur ne peut pas être un espace</value>
   </data>
 </root>

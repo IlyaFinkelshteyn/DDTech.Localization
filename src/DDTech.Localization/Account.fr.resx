@@ -119,7 +119,7 @@
   </resheader>
   <data name="ChangeUserPwd_Body" xml:space="preserve">
     <value>&lt;p&gt;&lt;%UserName%&gt;,&lt;/p&gt;
-&lt;p&gt;Votre mot de passe a été changé récemment. Si vous n’amorçait pas ce changement de mot de passe, contactez votre administrateur système immédiatement.&lt;/p&gt;
+&lt;p&gt;Votre mot de passe a été changé récemment. Si vous n'avez pas inititalisé ce changement de mot de passe, contactez immédiatement votre administrateur système.&lt;/p&gt;
 &lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;"&gt;&lt;%SiteURL%&gt;&lt;/a&gt;&lt;/p&gt;</value>
   </data>
   <data name="ChangeUserPwd_Subject" xml:space="preserve">
@@ -186,10 +186,10 @@
     <value>Vous êtes actuellement connecté comme &lt;b&gt;{0}&lt;/b&gt;.</value>
   </data>
   <data name="Manage_ChangePassword" xml:space="preserve">
-    <value>Changer mot de passe</value>
+    <value>Changer le mot de passe</value>
   </data>
   <data name="Manage_CreatePassword" xml:space="preserve">
-    <value>Créer mot de passe</value>
+    <value>Créer le mot de passe</value>
   </data>
   <data name="Manage_CreatePassword_Message" xml:space="preserve">
     <value>Vous n'avez pas un nom d'utilisateur/mot de passe local pour ce site. Ajouter un compte local, et vous pourrez vous connecter sans un login externe.</value>
@@ -213,7 +213,7 @@
     <value>Votre compte</value>
   </data>
   <data name="NewUserPwd_Body" xml:space="preserve">
-    <value>&lt;p&gt;Vous pouvez ouvrir une session dans le site en utilisant l’url suivante et le nom d’utilisateur :&lt;/p&gt;
+    <value>&lt;p&gt;Vous pouvez ouvrir une session en utilisant l’url suivante et le nom d’utilisateur :&lt;/p&gt;
 &lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;"&gt;&lt;%SiteURL%&gt;&lt;/a&gt;&lt;br&gt;Utilisateur : &lt;%UserName%&gt;&lt;/p&gt;
 &lt;p&gt;Avant d’accéder à votre compte, veuillez utiliser ce lien pour définir un mot de passe :&lt;/p&gt;
 &lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;"&gt;&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;&lt;/a&gt;&lt;/p&gt;</value>
@@ -222,7 +222,7 @@
     <value>Nouvel avis d'utilisateur RPlus</value>
   </data>
   <data name="Password_Confirm" xml:space="preserve">
-    <value>Confirmer mot de passe</value>
+    <value>Confirmer le mot de passe</value>
   </data>
   <data name="Password_Current" xml:space="preserve">
     <value>Mot de passe actuel</value>
@@ -277,11 +277,11 @@
   </data>
   <data name="ResetUserPwd_Body" xml:space="preserve">
     <value>&lt;p&gt;&lt;%UserName%&gt;,&lt;/p&gt;
-&lt;p&gt;Votre mot de passe a demandé à être remis à zéro. Si vous n’amorçait pas ce reset, contactez votre administrateur système immédiatement. Veuillez utiliser le lien suivant pour définir un nouveau mot de passe pour votre compte :&lt;/p&gt;
+&lt;p&gt;Une demande de réinitialisation de votre mot de passe a été effectuée. Si vous ne réinitialisez pas un nouveau mot de passe, contactez immédiatement votre administrateur système. Veuillez utiliser le lien suivant pour définir un nouveau mot de passe pour votre compte :&lt;/p&gt;
 &lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;"&gt;&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;&lt;/a&gt;&lt;/p&gt;</value>
   </data>
   <data name="ResetUserPwd_Subject" xml:space="preserve">
-    <value>Réinitialisation de mot de passe RPlus</value>
+    <value>Réinitialisation du mot de passe RPlus</value>
   </data>
   <data name="SignInToContinue" xml:space="preserve">
     <value>Connectez-vous pour continuer</value>

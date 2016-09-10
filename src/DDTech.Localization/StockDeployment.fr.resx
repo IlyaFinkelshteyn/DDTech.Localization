@@ -193,7 +193,7 @@
     <value>SDM : Résumé par destination</value>
   </data>
   <data name="GridSources" xml:space="preserve">
-    <value>SDM : Origine</value>
+    <value>SDM : Origines</value>
   </data>
   <data name="Holdback" xml:space="preserve">
     <value>Qté à conserver</value>
@@ -268,7 +268,7 @@
     <value>Propriétés</value>
   </data>
   <data name="Sources" xml:space="preserve">
-    <value>Origine</value>
+    <value>Origines</value>
   </data>
   <data name="SourceSettings" xml:space="preserve">
     <value>Paramètres du site d'origine</value>

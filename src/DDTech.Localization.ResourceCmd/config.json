@@ -3,15 +3,7 @@
     // Strings (keyed in english) will be omitted from locale resources file
     "Ignore": [
         "__month__/__day__",
-        "M/d/yyyy h:mm tt",
-        "UserDefined1",
-        "UserDefined2",
-        "UserDefined3",
-        "UserDefined4",
-        "UserDefined5",
-        "UserDefined6",
-        "UserDefined7",
-        "UserDefined8"
+        "M/d/yyyy h:mm tt"
     ],
 
     // Custom translations (Override bad automated translations)
@@ -157,13 +149,21 @@
             "OK": "Ok",
             "Hub": "Hub",
             "ToG": "ToV",
-            "ToY": "ToY",
+            "ToY": "ToJ",
             "ToR": "ToR",
             "Supply": "Réapprovisionnements",
             "Demand": "Demande",
             "Bill Of Material": "Nomenclature",
             "True": "TRUE",
-            "False": "FALSE"
+            "False": "FALSE",
+            "UserDefined1": "Champ utilisateur 1",
+            "UserDefined2": "Champ utilisateur 2",
+            "UserDefined3": "Champ utilisateur 3",
+            "UserDefined4": "Champ utilisateur 4",
+            "UserDefined5": "Champ utilisateur 5",
+            "UserDefined6": "Champ utilisateur 6",
+            "UserDefined7": "Champ utilisateur 7",
+            "UserDefined8": "Champ utilisateur 8"
         },
         "hu": {
             "ToG": "ToG",

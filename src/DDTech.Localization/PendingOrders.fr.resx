@@ -136,13 +136,13 @@
     <value>Valider toutes les commandes en attente</value>
   </data>
   <data name="CommitSelectedPendingOrders" xml:space="preserve">
-    <value>Sélectionné commandes en attente de validation</value>
+    <value>Valider la sélection des commandes en attente</value>
   </data>
   <data name="Committed" xml:space="preserve">
     <value>Engagé</value>
   </data>
   <data name="ConfirmCommitOrders" xml:space="preserve">
-    <value>Êtes-vous certain de que vouloir commettre ces ordres ?</value>
+    <value>Êtes-vous certain(e) de vouloir valider ces ordres?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Confirmer la suppression</value>
@@ -169,7 +169,7 @@
     <value>Désignation</value>
   </data>
   <data name="DownloadAllPendingOrders" xml:space="preserve">
-    <value>Télécharger toutes les commandes en attente (aucun Commit)</value>
+    <value>Télécharger toutes les commandes en attente (aucune validation)</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Exporter</value>
@@ -256,7 +256,7 @@
     <value>En attente</value>
   </data>
   <data name="PendingOrdersStr" xml:space="preserve">
-    <value>Ordres en attente</value>
+    <value>Commandes en attente</value>
   </data>
   <data name="PercentOfBuffer" xml:space="preserve">
     <value>% du Buffer</value>
