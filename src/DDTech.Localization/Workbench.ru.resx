@@ -268,7 +268,7 @@
     <value>Фильтры:</value>
   </data>
   <data name="FixedLeadTime" xml:space="preserve">
-    <value>Фиксированное время выполнения</value>
+    <value>Время выполнения</value>
   </data>
   <data name="GoToPage" xml:space="preserve">
     <value>Перейти на страницу:</value>
@@ -352,7 +352,7 @@
     <value>Заказ в производство</value>
   </data>
   <data name="OrderCycleOverride" xml:space="preserve">
-    <value>Переопределение цикла заказа</value>
+    <value>Измен. цыкла заказа</value>
   </data>
   <data name="OrderDueDate" xml:space="preserve">
     <value>Дата выполнения заказа</value>
@@ -364,7 +364,7 @@
     <value>Номер заказа</value>
   </data>
   <data name="OrderPolicy" xml:space="preserve">
-    <value>Политика заказа</value>
+    <value>Условия заказа</value>
   </data>
   <data name="OrderQuantity" xml:space="preserve">
     <value>Заказываемое количество</value>
@@ -550,7 +550,7 @@
     <value>Спецификация</value>
   </data>
   <data name="Workbench_PartDetail_Tab_BufferSizing" xml:space="preserve">
-    <value>Параментры буфера</value>
+    <value>Параметры буфера</value>
   </data>
   <data name="Workbench_PartDetail_Tab_Notes" xml:space="preserve">
     <value>Примечания</value>
@@ -565,7 +565,7 @@
     <value>Свойства номенклатуры</value>
   </data>
   <data name="Workbench_PartProperties_UDFTitle" xml:space="preserve">
-    <value>Определяемые пользователем поля</value>
+    <value>Дополнительные поля</value>
   </data>
   <data name="Workbench_PleaseSelectPart" xml:space="preserve">
     <value>Пожалуйста</value>

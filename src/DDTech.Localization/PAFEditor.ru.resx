@@ -202,7 +202,7 @@
     <value>Номенклатура добавлена</value>
   </data>
   <data name="PlannedAdjustmentFactors" xml:space="preserve">
-    <value>Коэффициенты сезонности (PAF)</value>
+    <value>Коэфф. сезон. (PAF)</value>
   </data>
   <data name="SavedSuccessfully" xml:space="preserve">
     <value>Сохранено</value>

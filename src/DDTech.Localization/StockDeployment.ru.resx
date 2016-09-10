@@ -127,7 +127,7 @@
     <value>После % от зеленой зоны</value>
   </data>
   <data name="AvailableToDeploy" xml:space="preserve">
-    <value>Доступные для развертывания</value>
+    <value>Доступный для распределения</value>
   </data>
   <data name="BeforeDeployment" xml:space="preserve">
     <value>Перед развертыванием</value>
@@ -175,7 +175,7 @@
     <value>Номенклатура</value>
   </data>
   <data name="Disabled" xml:space="preserve">
-    <value>Stock Deployment Module (SDM) is currently disabled.</value>
+    <value>Модуль дистрибуции отключен</value>
   </data>
   <data name="ExportType" xml:space="preserve">
     <value>Тип экспорта</value>
@@ -196,19 +196,19 @@
     <value>SDM: Источники</value>
   </data>
   <data name="Holdback" xml:space="preserve">
-    <value>Препятствие</value>
+    <value>Резерв</value>
   </data>
   <data name="IncludeIssued" xml:space="preserve">
-    <value>Включать количество выданных в препятствие</value>
+    <value>Кол-во в резерве</value>
   </data>
   <data name="IssuedInventory" xml:space="preserve">
-    <value>Инвентаризация выданных</value>
+    <value>Выпущенная продукция</value>
   </data>
   <data name="LookAheadDays" xml:space="preserve">
     <value>Взгляд вперед календарных</value>
   </data>
   <data name="MinimumHoldbackPercentOfRed" xml:space="preserve">
-    <value>Минимальное препятствие</value>
+    <value>Мин. кол-во в резерве</value>
   </data>
   <data name="NoSourceSelected" xml:space="preserve">
     <value>Источник не выбран</value>
@@ -217,7 +217,7 @@
     <value>Настройка кратности заказа</value>
   </data>
   <data name="Override" xml:space="preserve">
-    <value>Переопределение</value>
+    <value>Изменить</value>
   </data>
   <data name="QualifiedDemand" xml:space="preserve">
     <value>Потребность</value>
@@ -229,7 +229,7 @@
     <value>После запятой для использования для расчетов</value>
   </data>
   <data name="Settings_Disabled" xml:space="preserve">
-    <value>Stock Deployment отключено</value>
+    <value>Модуль дистрибуции отключен</value>
   </data>
   <data name="Settings_ExportFileNameBase" xml:space="preserve">
     <value>Имя экспортируемого файла/файла экспорта</value>
@@ -274,7 +274,7 @@
     <value>Настройки источника</value>
   </data>
   <data name="StockDeploymentStr" xml:space="preserve">
-    <value>Складе развертывания</value>
+    <value>Дистрибуция</value>
   </data>
   <data name="Summary" xml:space="preserve">
     <value>Резюме</value>

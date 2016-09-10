@@ -142,7 +142,7 @@
     <value>Номенклатура</value>
   </data>
   <data name="PartAugment" xml:space="preserve">
-    <value>Часть увеличения</value>
+    <value>Расширение комплектующих</value>
   </data>
   <data name="PartBufferSizing" xml:space="preserve">
     <value>Параметры буфера </value>
@@ -151,7 +151,7 @@
     <value>Запас номенклатуры</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Коэффициент сезонности (PAF)</value>
+    <value>Коэфф. сезон. (PAF)</value>
   </data>
   <data name="PleaseSelectTables" xml:space="preserve">
     <value>Пожалуйста</value>

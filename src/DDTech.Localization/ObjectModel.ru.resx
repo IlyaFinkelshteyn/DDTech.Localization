@@ -184,13 +184,13 @@
     <value>Среднее дневное потребление</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_EffectiveDailyUsage" xml:space="preserve">
-    <value>Фактическое дневное потребление</value>
+    <value>Факт. дн. потреб.</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_FixedLeadTime" xml:space="preserve">
-    <value>Фиксированное время выполнения</value>
+    <value>Время выполнения</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_ForecastedDailyUsage" xml:space="preserve">
-    <value>Прогнозируемое дневное потребление</value>
+    <value>Прогноз. дн. потреб.</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Date" xml:space="preserve">
     <value>Дата</value>
@@ -199,7 +199,7 @@
     <value>Дата выполнения</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_IsInventory" xml:space="preserve">
-    <value>-Инвентаризация</value>
+    <value>#NAME?</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Late" xml:space="preserve">
     <value>Поздно</value>
@@ -259,7 +259,7 @@
     <value>Тип</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AdjustmentFactor" xml:space="preserve">
-    <value>Коэффициент сезонности (PAF)</value>
+    <value>Коэфф. сезон. (PAF)</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStock" xml:space="preserve">
     <value>Доступный запас</value>
@@ -286,7 +286,7 @@
     <value>Кол-во запаса</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_IssuedQty" xml:space="preserve">
-    <value>Количество выданных</value>
+    <value>Кол-во выпущенно</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_LeadTimeStatus" xml:space="preserve">
     <value>LTM Статус</value>
@@ -343,7 +343,7 @@
     <value>Примечания к заказам</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_ReorderPoint" xml:space="preserve">
-    <value>Предупреждение от R + </value>
+    <value>Оповещение от R + </value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_RPlusLeadTime" xml:space="preserve">
     <value>Время выполнения Rplus</value>

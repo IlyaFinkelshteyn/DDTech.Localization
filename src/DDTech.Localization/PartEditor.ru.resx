@@ -136,7 +136,7 @@
     <value>Значения буфера несовместимы с визуализацией графика.</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Покупается</value>
+    <value>Покуп.</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Подтверждение удаления</value>
@@ -145,7 +145,7 @@
     <value>Текущий PAF:</value>
   </data>
   <data name="DaysConsumption" xml:space="preserve">
-    <value>Потребление в днях</value>
+    <value>Дни</value>
   </data>
   <data name="DecoupledLeadTime" xml:space="preserve">
     <value>Развязкой</value>
@@ -154,7 +154,7 @@
     <value>Описание:</value>
   </data>
   <data name="EffectiveDailyUsage" xml:space="preserve">
-    <value>Фактическое дневное потребление</value>
+    <value>Факт. дн. потреб.</value>
   </data>
   <data name="EnterName" xml:space="preserve">
     <value>Введите название</value>
@@ -169,7 +169,7 @@
     <value>Фиксированное время выполнения </value>
   </data>
   <data name="ForecastedDailyUsage" xml:space="preserve">
-    <value>Прогнозируемое дневное потребление</value>
+    <value>Прогноз. дн. потреб.</value>
   </data>
   <data name="Green" xml:space="preserve">
     <value>Зеленая</value>
@@ -181,7 +181,7 @@
     <value>Склад</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Изготовляется</value>
+    <value>Изготов.</value>
   </data>
   <data name="MaterialType" xml:space="preserve">
     <value>Тип материала</value>
@@ -211,13 +211,13 @@
     <value>Примечания</value>
   </data>
   <data name="OrderCycleOverride" xml:space="preserve">
-    <value>Переопределение цикла заказа</value>
+    <value>Измен. цыкла заказа</value>
   </data>
   <data name="OrderMultiple" xml:space="preserve">
     <value>Кратность заказа</value>
   </data>
   <data name="OrderPolicy" xml:space="preserve">
-    <value>Политика заказа</value>
+    <value>Условия заказа</value>
   </data>
   <data name="Out Sourced Cost:" xml:space="preserve">
     <value>Стоимость источников:</value>
@@ -247,7 +247,7 @@
     <value>Тип номенклатуры</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Коэффициент сезонности (PAF)</value>
+    <value>Коэфф. сезон. (PAF)</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
     <value>Код менеджера:</value>
@@ -283,19 +283,19 @@
     <value>(Выбрать все)</value>
   </data>
   <data name="SelectFilter" xml:space="preserve">
-    <value>Выберите фильтр</value>
+    <value>Фильтр</value>
   </data>
   <data name="TopOfGreen" xml:space="preserve">
-    <value>Верх зеленой зоны</value>
+    <value>Зеленой</value>
   </data>
   <data name="TopOfGreenCannotBeLessThanTopOfYellow" xml:space="preserve">
     <value>Верх зеленой зоны не может быть меньше верха желтой зоны</value>
   </data>
   <data name="TopOfRed" xml:space="preserve">
-    <value>Верх красной зоны</value>
+    <value>Красной</value>
   </data>
   <data name="TopOfYellow" xml:space="preserve">
-    <value>Верх желтой зоны</value>
+    <value>Желтой</value>
   </data>
   <data name="TopOfYellowCannotBeLessThanTopOfRed" xml:space="preserve">
     <value>Верх желтой зоны не может быть меньше верха красной зоны</value>
@@ -331,16 +331,16 @@
     <value>Единица измерения</value>
   </data>
   <data name="Units" xml:space="preserve">
-    <value>Единицы</value>
+    <value>Кол-во</value>
   </data>
   <data name="UserDefinedFields" xml:space="preserve">
-    <value>Определяемые пользователем поля</value>
+    <value>Дополнительные поля</value>
   </data>
   <data name="Vendor" xml:space="preserve">
     <value>Поставщик</value>
   </data>
   <data name="VendorIdentifier" xml:space="preserve">
-    <value>Идентификатор поставщика</value>
+    <value>ID поставщика</value>
   </data>
   <data name="Yellow" xml:space="preserve">
     <value>Желтая</value>

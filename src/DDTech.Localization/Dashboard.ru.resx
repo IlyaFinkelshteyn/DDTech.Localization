@@ -133,7 +133,7 @@
     <value>Выполнение оповещений</value>
   </data>
   <data name="LeadTimeManaged" xml:space="preserve">
-    <value>Управляемые с помощью времени выполнения (LTM)</value>
+    <value>Под заказ (LTM)</value>
   </data>
   <data name="Location" xml:space="preserve">
     <value>Склад:</value>

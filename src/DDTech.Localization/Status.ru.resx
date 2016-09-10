@@ -136,13 +136,13 @@
     <value>Текущий часовой пояс</value>
   </data>
   <data name="DataSetStatistics" xml:space="preserve">
-    <value>Набор данных статистики</value>
+    <value>Статистика</value>
   </data>
   <data name="DefaultInventoryAlertLevel" xml:space="preserve">
-    <value>Предупреждение о прогнозируемом Stock Out при уровне запаса по умолчанию</value>
+    <value>Оповещение при уровне запаса по умолчанию</value>
   </data>
   <data name="DefaultOrderSpikeAlertLevel" xml:space="preserve">
-    <value>Предупреждение при уровне пикового заказа по умолчанию</value>
+    <value>Оповещение при уровне пикового заказа по умолчанию</value>
   </data>
   <data name="DefaultOrderSpikeHorizonLevel" xml:space="preserve">
     <value>Глубина горизонта пикового заказа по умолчанию</value>
@@ -172,7 +172,7 @@
     <value>Номенклатура</value>
   </data>
   <data name="PartAugment" xml:space="preserve">
-    <value>Часть увеличения</value>
+    <value>Расширение комплектующих</value>
   </data>
   <data name="PartBufferSizing" xml:space="preserve">
     <value>Параметры буфера </value>
@@ -184,7 +184,7 @@
     <value>Показатели производительности</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Коэффициент сезонности (PAF)</value>
+    <value>Коэфф. сезон. (PAF)</value>
   </data>
   <data name="ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Горизонт времени выполнения для прогнозируемого аут-оф-стока</value>
@@ -196,7 +196,7 @@
     <value>Настройки</value>
   </data>
   <data name="SiteStatus" xml:space="preserve">
-    <value>Статус сайта</value>
+    <value>Обмен данных</value>
   </data>
   <data name="SupplyOrder" xml:space="preserve">
     <value>Заказ на поставку</value>

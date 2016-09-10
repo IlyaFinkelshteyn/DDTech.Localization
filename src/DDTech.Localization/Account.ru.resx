@@ -135,7 +135,7 @@
     <value>Ошибка при отправке сообщения.</value>
   </data>
   <data name="Error_FailedLogin" xml:space="preserve">
-    <value>Не удалось войти. Пожалуйста</value>
+    <value>Не удалось войти. Пожалуйста попробуйте еще раз</value>
   </data>
   <data name="Error_PasswordRequired" xml:space="preserve">
     <value>Введите пароль.</value>

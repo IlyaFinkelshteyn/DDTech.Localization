@@ -124,7 +124,7 @@
     <value>Вы уверены?</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Покупается</value>
+    <value>Покуп.</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Отмена</value>
@@ -208,7 +208,7 @@
     <value>Низкая</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Изготовляется</value>
+    <value>Изготов.</value>
   </data>
   <data name="MaterialType" xml:space="preserve">
     <value>Тип материала</value>
@@ -244,7 +244,7 @@
     <value>Тип заказа</value>
   </data>
   <data name="OToG" xml:space="preserve">
-    <value>OToG</value>
+    <value>Излишки</value>
   </data>
   <data name="PartNumber" xml:space="preserve">
     <value>Код номенклатуры</value>

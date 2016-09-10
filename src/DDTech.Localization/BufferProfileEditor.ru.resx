@@ -130,13 +130,13 @@
     <value>Описание</value>
   </data>
   <data name="GreenZoneBase" xml:space="preserve">
-    <value>Основание зеленой зоны</value>
+    <value>Основ. зел. зоны</value>
   </data>
   <data name="GreenZoneCalculationMethod" xml:space="preserve">
-    <value>Метод расчета зеленой зоны</value>
+    <value>Расчет зел. зоны</value>
   </data>
   <data name="InventoryAlertLevel" xml:space="preserve">
-    <value>Предупреждение при уровне запаса:</value>
+    <value>Опов. о низком запасе</value>
   </data>
   <data name="LeadTime" xml:space="preserve">
     <value>Время выполнения (LT)</value>
@@ -175,10 +175,10 @@
     <value>Профиль сохранен</value>
   </data>
   <data name="RedZoneBase" xml:space="preserve">
-    <value>Основание красной зоны</value>
+    <value>Основ. красн. зоны</value>
   </data>
   <data name="SafetyZone" xml:space="preserve">
-    <value>Зона страховаого запаса:</value>
+    <value>Страховой запас</value>
   </data>
   <data name="Save" xml:space="preserve">
     <value>Сохранить</value>
@@ -187,10 +187,10 @@
     <value>(Выбрать все)</value>
   </data>
   <data name="SelectFilter" xml:space="preserve">
-    <value>Выберите фильтр</value>
+    <value>Фильтр</value>
   </data>
   <data name="TheRPlusAlertIsEqualToTopOfYellow" xml:space="preserve">
-    <value>Предупреждение от R + при достижении верха желтой зоны (ToY)</value>
+    <value>Оповещение от R + при достижении верха желтой зоны (ToY)</value>
   </data>
   <data name="UnsupportedPart" xml:space="preserve">
     <value>Параметры буфера не поддерживаются для номенклатуры данного типа </value>
@@ -208,6 +208,6 @@
     <value>Системный горизонт пика равен</value>
   </data>
   <data name="YellowZoneBase" xml:space="preserve">
-    <value>Основание желтой зоны</value>
+    <value>Основ. желт. зоны</value>
   </data>
 </root>

@@ -145,10 +145,10 @@
     <value>Формат даты</value>
   </data>
   <data name="Settings_DefaultInventoryAlertLevel" xml:space="preserve">
-    <value>Предупреждение при уровне запаса по умолчанию</value>
+    <value>Оповещение при уровне запаса по умолчанию</value>
   </data>
   <data name="Settings_DefaultOrderSpikeAlertLevel" xml:space="preserve">
-    <value>Предупреждение при уровне пикового заказа по умолчанию</value>
+    <value>Оповещение при уровне пикового заказа по умолчанию</value>
   </data>
   <data name="Settings_DefaultOrderSpikeHorizonLevel" xml:space="preserve">
     <value>Глубина горизонта пикового заказа по умолчанию</value>
@@ -190,7 +190,7 @@
     <value>Системный обмен данными (импорт &amp; экспорт)</value>
   </data>
   <data name="Settings_Global_RecommendationsAndAlerts" xml:space="preserve">
-    <value>Рекомендации и предупреждения</value>
+    <value>Рекомендации и оповещения</value>
   </data>
   <data name="Settings_Global_UDF" xml:space="preserve">
     <value>Пользовательские поля</value>
@@ -322,7 +322,7 @@
     <value>Формат даты</value>
   </data>
   <data name="Settings_User_DateFormat_NoneFound" xml:space="preserve">
-    <value>Столбцы даты, не найдено</value>
+    <value>Столбцы даты</value>
   </data>
   <data name="Settings_User_DateFormat_Title" xml:space="preserve">
     <value>Выберите формат даты и времени</value>

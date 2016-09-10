@@ -121,10 +121,10 @@
     <value>Все</value>
   </data>
   <data name="BufferedPart" xml:space="preserve">
-    <value>Буферизованный часть</value>
+    <value>Буфферизированная комплектующая</value>
   </data>
   <data name="BufferedParts" xml:space="preserve">
-    <value>Буферизованный частей</value>
+    <value>Буфферизированные комплектующие</value>
   </data>
   <data name="Button_Add" xml:space="preserve">
     <value>Добавить</value>
@@ -163,7 +163,7 @@
     <value>LTM часть</value>
   </data>
   <data name="LTMParts" xml:space="preserve">
-    <value>LTM частей</value>
+    <value>Комплектующие под заказ</value>
   </data>
   <data name="Missing" xml:space="preserve">
     <value>Отсутствует</value>
@@ -175,19 +175,19 @@
     <value>(Без фильтра)</value>
   </data>
   <data name="NonBufferedPart" xml:space="preserve">
-    <value>Без буферизации часть</value>
+    <value>Комплектующая без буфера</value>
   </data>
   <data name="NonBufferedParts" xml:space="preserve">
-    <value>Без буферизации части</value>
+    <value>Комплектующие без буферов</value>
   </data>
   <data name="None" xml:space="preserve">
     <value>Нет</value>
   </data>
   <data name="PartType_Buy" xml:space="preserve">
-    <value>Покупается</value>
+    <value>Покуп.</value>
   </data>
   <data name="PartType_Make" xml:space="preserve">
-    <value>Изготовляется</value>
+    <value>Изготов.</value>
   </data>
   <data name="Priority_Critical" xml:space="preserve">
     <value>Критическая</value>
@@ -208,7 +208,7 @@
     <value>Средняя</value>
   </data>
   <data name="Priority_OToG" xml:space="preserve">
-    <value>OToG</value>
+    <value>Излишки</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
     <value>Выбрать все</value>

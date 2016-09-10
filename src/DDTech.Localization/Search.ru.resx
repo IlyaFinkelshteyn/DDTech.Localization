@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Buy" xml:space="preserve">
-    <value>Покупается</value>
+    <value>Покуп.</value>
   </data>
   <data name="Comments" xml:space="preserve">
     <value>Комментарии</value>
@@ -130,7 +130,7 @@
     <value>Дата выполнения</value>
   </data>
   <data name="Id" xml:space="preserve">
-    <value>Идентификатор</value>
+    <value>ID</value>
   </data>
   <data name="InventoryMethod" xml:space="preserve">
     <value>Метод учета</value>
@@ -142,7 +142,7 @@
     <value>Склад</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Изготовляется</value>
+    <value>Изготов.</value>
   </data>
   <data name="MaterialType" xml:space="preserve">
     <value>Тип материала</value>

@@ -127,7 +127,7 @@
     <value>С буфером</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Покупается</value>
+    <value>Покуп.</value>
   </data>
   <data name="collapse all" xml:space="preserve">
     <value>Свернуть все</value>
@@ -154,7 +154,7 @@
     <value>Самая длинная ветка</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Изготовляется</value>
+    <value>Изготов.</value>
   </data>
   <data name="Max" xml:space="preserve">
     <value>Макс.</value>

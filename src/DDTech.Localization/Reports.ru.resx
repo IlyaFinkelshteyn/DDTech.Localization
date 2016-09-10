@@ -124,7 +124,7 @@
     <value>График буфера</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Покупается</value>
+    <value>Покуп.</value>
   </data>
   <data name="CriticalAndHigh" xml:space="preserve">
     <value>Критическая и высокая</value>
@@ -151,7 +151,7 @@
     <value>Склад:</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Изготовляется</value>
+    <value>Изготов.</value>
   </data>
   <data name="MaterialType" xml:space="preserve">
     <value>Тип материала:</value>
@@ -163,7 +163,7 @@
     <value>Наличный запас</value>
   </data>
   <data name="OTOG" xml:space="preserve">
-    <value>OToG</value>
+    <value>Излишки</value>
   </data>
   <data name="OTOGTrendByPlanner" xml:space="preserve">
     <value>Излишки по менеджерам</value>
@@ -190,7 +190,7 @@
     <value>Риск аут-оф-стока</value>
   </data>
   <data name="SumOfOTOG" xml:space="preserve">
-    <value>Излишки</value>
+    <value>Сумма излишков</value>
   </data>
   <data name="TargetInventory" xml:space="preserve">
     <value>Целевой запас</value>

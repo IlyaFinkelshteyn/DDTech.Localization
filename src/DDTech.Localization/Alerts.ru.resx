@@ -124,13 +124,13 @@
     <value>Добавить напоминание</value>
   </data>
   <data name="AdjustmentFactor" xml:space="preserve">
-    <value>Коэффициент сезонности (PAF)</value>
+    <value>Коэфф. сезон. (PAF)</value>
   </data>
   <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
     <value>Просмотр в наследие оповещения</value>
   </data>
   <data name="AlertsStr" xml:space="preserve">
-    <value>Предупреждения</value>
+    <value>Оповещения</value>
   </data>
   <data name="AllActivity" xml:space="preserve">
     <value>Все движения</value>
@@ -142,7 +142,7 @@
     <value>Среднее дневное потребление:</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Покупается</value>
+    <value>Покуп.</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Отмена</value>
@@ -208,7 +208,7 @@
     <value>Запас</value>
   </data>
   <data name="IssuedInventory" xml:space="preserve">
-    <value>Инвентаризация выданных</value>
+    <value>Выпущенная продукция</value>
   </data>
   <data name="Late" xml:space="preserve">
     <value>Запаздывание</value>
@@ -238,10 +238,10 @@
     <value>LTM резюме -Средняя</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Изготовляется</value>
+    <value>Изготов.</value>
   </data>
   <data name="MaterialSynchronizationAlert" xml:space="preserve">
-    <value>Предупреждение синхронизации материалов (MSA)</value>
+    <value>Оповещение о рассинхронизации материалов (MSA)</value>
   </data>
   <data name="MaterialType" xml:space="preserve">
     <value>Тип материала</value>
@@ -352,7 +352,7 @@
     <value>Английский Версия</value>
   </data>
   <data name="RPlusAlert" xml:space="preserve">
-    <value>Предупреждение от R + </value>
+    <value>Оповещение от R + </value>
   </data>
   <data name="rule_AppliesTo" xml:space="preserve">
     <value>Применяется к</value>
@@ -379,13 +379,13 @@
     <value>Есть открытые предложения и спроса в течение времени</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
-    <value>QOH (ток на запасы) &amp;gt; = 0 и если запуск баланс &amp;lt; = 0 в любое время в период привести</value>
+    <value />
   </data>
   <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
     <value>Имеет открытый спроса в течение времени</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
-    <value>QOH (ток на запасы) &amp;gt; = 0 и запуск баланс &amp;gt; 0 и &amp;lt; = % ToR в любое время в период привести</value>
+    <value />
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
     <value>Имеет отрицательный баланс работает в прошлом</value>
@@ -415,7 +415,7 @@
     <value>Источник</value>
   </data>
   <data name="SPIKE" xml:space="preserve">
-    <value>-ПИК</value>
+    <value>#NAME?</value>
   </data>
   <data name="StartDate" xml:space="preserve">
     <value>Дата начала</value>

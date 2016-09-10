@@ -157,7 +157,7 @@
     <value>корейский</value>
   </data>
   <data name="DisplayLang_ru" xml:space="preserve">
-    <value>русский</value>
+    <value>Русский</value>
   </data>
   <data name="DisplayLang_tr" xml:space="preserve">
     <value>турецкий</value>
@@ -205,19 +205,19 @@
     <value>Управление пользователями</value>
   </data>
   <data name="Nav_Alerts_CurrentSupplyOrderNotes" xml:space="preserve">
-    <value>Текущие предложения порядка заметки</value>
+    <value>Текущее просроченные поставки</value>
   </data>
   <data name="Nav_Alerts_NoSupplyOrderNotes" xml:space="preserve">
-    <value>Не отмечает порядок снабжения</value>
+    <value>Необработанные просроченные поставки</value>
   </data>
   <data name="Nav_Alerts_OutstandingSupplyOrderNotes" xml:space="preserve">
     <value>Выдающиеся питания порядка заметки</value>
   </data>
   <data name="Nav_Alerts_OverdueSupplyOrderNotes" xml:space="preserve">
-    <value>Просроченную поставку заказа Notes</value>
+    <value>Просроченные ранее  поставки</value>
   </data>
   <data name="Nav_Alerts_Title" xml:space="preserve">
-    <value>Предупреждения</value>
+    <value>Оповещения</value>
   </data>
   <data name="Nav_AlertsCurrentInventory_Title" xml:space="preserve">
     <value>Текущий запас</value>
@@ -265,7 +265,7 @@
     <value>Редактировать</value>
   </data>
   <data name="Nav_EditPAF_Title" xml:space="preserve">
-    <value>Коэффициент сезонности (PAF)</value>
+    <value>Коэфф. сезон. (PAF)</value>
   </data>
   <data name="Nav_EditPart_Title" xml:space="preserve">
     <value>Номенклатура</value>
@@ -361,7 +361,7 @@
     <value>Риск аут-оф-стока</value>
   </data>
   <data name="Nav_ReadSumOfOtog_Title" xml:space="preserve">
-    <value>Излишки</value>
+    <value>Сумма излишков</value>
   </data>
   <data name="Nav_Reports_Title" xml:space="preserve">
     <value>Отчеты</value>
@@ -376,7 +376,7 @@
     <value>Статус</value>
   </data>
   <data name="Nav_StockDeployment_Title" xml:space="preserve">
-    <value>Складе развертывания</value>
+    <value>Дистрибуция</value>
   </data>
   <data name="Nav_User_Settings_Title" xml:space="preserve">
     <value>Пользовательские настройки</value>
