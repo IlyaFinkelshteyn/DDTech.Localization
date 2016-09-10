@@ -315,7 +315,7 @@ namespace DDTech.Localization.ResourceCmd
 
             if (handbackMappings.Any())
             {
-                var outputFilePath = Path.Combine(Environment.CurrentDirectory, $"FailedTranslations-{DateTime.Now.ToShortDateString()}-{locale}-UTF8.csv");
+                var outputFilePath = Path.Combine(Environment.CurrentDirectory, $"FailedTranslations-{DateTime.Now:MM.dd.yyyy}-{locale}-UTF8.csv");
                 using (var textWriter = new StreamWriter(outputFilePath, false, Encoding.UTF8))
                 {
                     var csv = new CsvWriter(textWriter, GetConfiguration());
