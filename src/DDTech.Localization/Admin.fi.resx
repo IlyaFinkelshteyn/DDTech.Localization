@@ -315,6 +315,9 @@
   <data name="Settings_SaveChangesDetail" xml:space="preserve">
     <value>Jos et tallenna muutokset menetetään.</value>
   </data>
+  <data name="Settings_SecuritySettings" xml:space="preserve">
+    <value>Suojausasetukset</value>
+  </data>
   <data name="Settings_UnsavedChanges" xml:space="preserve">
     <value>Tallentamattomat muutokset</value>
   </data>
@@ -332,6 +335,33 @@
   </data>
   <data name="Settings_User_DecimalPrecision_Title" xml:space="preserve">
     <value>Valitse tarkkuus</value>
+  </data>
+  <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
+    <value>Kirjautumisen yhteydessä, käyttäjät voivat vaihtoehtoisesti muista niiden</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
+    <value>Kirjaudu sisään</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
+    <value>Mitään</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
+    <value>Käyttäjätunnus</value>
+  </data>
+  <data name="Settings_User_LogoutAfter" xml:space="preserve">
+    <value>Liikemerkki käyttäjät automaattisesti käyttämättömyysajan jälkeen? (tuntia)</value>
+  </data>
+  <data name="Settings_User_LogoutAfter_RememberMe" xml:space="preserve">
+    <value>Käyttäjät voivat käyttää "Muista minut" sisäänkirjautuneena.</value>
+  </data>
+  <data name="Settings_User_LogoutAll" xml:space="preserve">
+    <value>Joukko aivan käyttäjä jotta halko kotona jälleen?</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Action" xml:space="preserve">
+    <value>Kirjaudu ulos kaikki käyttäjät</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
+    <value>Tällöin myös kaikille käyttäjille, myös nykyisen käyttäjän vaativat kirjautumisen uudelleen. Jatketaanko?</value>
   </data>
   <data name="Settings_User_MinimumLength" xml:space="preserve">
     <value>Pienin pituus?</value>

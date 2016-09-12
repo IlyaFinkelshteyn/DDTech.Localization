@@ -655,6 +655,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Security Settings.
+        /// </summary>
+        public static string Settings_SecuritySettings {
+            get {
+                return ResourceManager.GetString("Settings_SecuritySettings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Unsaved changes.
         /// </summary>
         public static string Settings_UnsavedChanges {
@@ -705,6 +714,87 @@ namespace DDTech.Localization {
         public static string Settings_User_DecimalPrecision_Title {
             get {
                 return ResourceManager.GetString("Settings_User_DecimalPrecision_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to During login, allow the users to optionally remember their.
+        /// </summary>
+        public static string Settings_User_LoginCanRemeber {
+            get {
+                return ResourceManager.GetString("Settings_User_LoginCanRemeber", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Login.
+        /// </summary>
+        public static string Settings_User_LoginRemember_Login {
+            get {
+                return ResourceManager.GetString("Settings_User_LoginRemember_Login", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Nothing.
+        /// </summary>
+        public static string Settings_User_LoginRemember_Nothing {
+            get {
+                return ResourceManager.GetString("Settings_User_LoginRemember_Nothing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Username.
+        /// </summary>
+        public static string Settings_User_LoginRemember_Username {
+            get {
+                return ResourceManager.GetString("Settings_User_LoginRemember_Username", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Logout users automatically after a period of inactivity? (hours).
+        /// </summary>
+        public static string Settings_User_LogoutAfter {
+            get {
+                return ResourceManager.GetString("Settings_User_LogoutAfter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Users can use &quot;Remember Me&quot; to stay logged in..
+        /// </summary>
+        public static string Settings_User_LogoutAfter_RememberMe {
+            get {
+                return ResourceManager.GetString("Settings_User_LogoutAfter_RememberMe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Force all users to log in again?.
+        /// </summary>
+        public static string Settings_User_LogoutAll {
+            get {
+                return ResourceManager.GetString("Settings_User_LogoutAll", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Logout All Users.
+        /// </summary>
+        public static string Settings_User_LogoutAll_Action {
+            get {
+                return ResourceManager.GetString("Settings_User_LogoutAll_Action", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This will also cause all users, including the current user, to require login again. Proceed?.
+        /// </summary>
+        public static string Settings_User_LogoutAll_Confirm {
+            get {
+                return ResourceManager.GetString("Settings_User_LogoutAll_Confirm", resourceCulture);
             }
         }
         

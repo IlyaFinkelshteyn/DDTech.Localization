@@ -315,6 +315,9 @@
   <data name="Settings_SaveChangesDetail" xml:space="preserve">
     <value>Wenn Sie nicht speichern, gehen Ihre Änderungen verloren.</value>
   </data>
+  <data name="Settings_SecuritySettings" xml:space="preserve">
+    <value>Sicherheitseinstellungen</value>
+  </data>
   <data name="Settings_UnsavedChanges" xml:space="preserve">
     <value>Ungespeicherte Änderungen</value>
   </data>
@@ -332,6 +335,33 @@
   </data>
   <data name="Settings_User_DecimalPrecision_Title" xml:space="preserve">
     <value>Wählen Sie Präzision</value>
+  </data>
+  <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
+    <value>Bei der Anmeldung erlauben den Benutzern, optional erinnern ihre</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
+    <value>Nichts</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
+    <value>Benutzername</value>
+  </data>
+  <data name="Settings_User_LogoutAfter" xml:space="preserve">
+    <value>Logout Benutzer automatisch nach einem Zeitraum der Inaktivität? (Stunden)</value>
+  </data>
+  <data name="Settings_User_LogoutAfter_RememberMe" xml:space="preserve">
+    <value>"Remember Me" können Benutzer eingeloggt bleiben.</value>
+  </data>
+  <data name="Settings_User_LogoutAll" xml:space="preserve">
+    <value>Erzwingen Sie alle Benutzer wieder anmelden?</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Action" xml:space="preserve">
+    <value>Logout alle Benutzer</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
+    <value>Dadurch werden auch alle Benutzer, einschließlich der aktuellen Benutzers, um Anmeldung wieder erfordern. Möchten Sie fortfahren?</value>
   </data>
   <data name="Settings_User_MinimumLength" xml:space="preserve">
     <value>Minimale Länge?</value>
