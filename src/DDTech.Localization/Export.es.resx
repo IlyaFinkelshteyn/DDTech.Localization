@@ -121,13 +121,13 @@
     <value>Bill of Materials</value>
   </data>
   <data name="BufferProfile" xml:space="preserve">
-    <value>Perfil de búfer</value>
+    <value>Buffer Profile</value>
   </data>
   <data name="DataExport" xml:space="preserve">
     <value>Exportar Datos</value>
   </data>
   <data name="DemandOrder" xml:space="preserve">
-    <value>Orden de la demanda</value>
+    <value>Demand Order</value>
   </data>
   <data name="ExportStr" xml:space="preserve">
     <value>Exportar</value>
@@ -139,19 +139,19 @@
     <value>Sólo Encabezamientos</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Parte</value>
+    <value>Part</value>
   </data>
   <data name="PartAugment" xml:space="preserve">
-    <value>Aumentar parte</value>
+    <value>Part Augment</value>
   </data>
   <data name="PartBufferSizing" xml:space="preserve">
-    <value>Tamaño de búfer de parte</value>
+    <value>Part Buffer Sizing</value>
   </data>
   <data name="PartInventory" xml:space="preserve">
-    <value>Inventario de la parte</value>
+    <value>Part Inventory</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Factor de ajuste prevista</value>
+    <value>Planned Adjustment Factor</value>
   </data>
   <data name="PleaseSelectTables" xml:space="preserve">
     <value>Por favor, seleccione archivos a exportar</value>
