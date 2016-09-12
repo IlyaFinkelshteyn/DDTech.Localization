@@ -298,7 +298,7 @@
     <value>Retraso</value>
   </data>
   <data name="LeadTime" xml:space="preserve">
-    <value>Plazo de ejecución</value>
+    <value>Lead Time</value>
   </data>
   <data name="LeadTimeCompression" xml:space="preserve">
     <value>Reducción de Lead Time de {0} días debido a que hay stocks intermedios NB</value>

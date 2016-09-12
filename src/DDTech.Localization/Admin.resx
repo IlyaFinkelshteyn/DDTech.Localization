@@ -303,6 +303,9 @@
   <data name="Settings_User_MinimumLength" xml:space="preserve">
     <value>Minimum Length?</value>
   </data>
+    <data name="Settings_User_PasswordComplexity" xml:space="preserve">
+    <value>Password Complexity</value>
+  </data>
   <data name="Settings_SecuritySettings" xml:space="preserve">
     <value>Security Settings</value>
   </data>

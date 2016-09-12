@@ -160,6 +160,6 @@
     <value>Seleccionar archivos a exportar:</value>
   </data>
   <data name="SupplyOrder" xml:space="preserve">
-    <value>Orden de suministro</value>
+    <value>Supply Order</value>
   </data>
 </root>

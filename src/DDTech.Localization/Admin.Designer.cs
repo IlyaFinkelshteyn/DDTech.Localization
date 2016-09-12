@@ -817,6 +817,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Password Complexity.
+        /// </summary>
+        public static string Settings_User_PasswordComplexity {
+            get {
+                return ResourceManager.GetString("Settings_User_PasswordComplexity", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Password Max Age (in days).
         /// </summary>
         public static string Settings_User_PasswordMaxAgeDays {
