@@ -315,6 +315,9 @@
   <data name="Settings_SaveChangesDetail" xml:space="preserve">
     <value> your changes will be lost.</value>
   </data>
+  <data name="Settings_SecuritySettings" xml:space="preserve">
+    <value>Параметры безопасности</value>
+  </data>
   <data name="Settings_UnsavedChanges" xml:space="preserve">
     <value>Несохраненные изменения</value>
   </data>
@@ -332,6 +335,33 @@
   </data>
   <data name="Settings_User_DecimalPrecision_Title" xml:space="preserve">
     <value>Выберите округление</value>
+  </data>
+  <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
+    <value>Во время входа, позволяют пользователям дополнительно запомнить их</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
+    <value>Логин</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
+    <value>Ничего не</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
+    <value>Имя пользователя</value>
+  </data>
+  <data name="Settings_User_LogoutAfter" xml:space="preserve">
+    <value>Выход пользователей автоматически после определенного периода бездействия? (часов)</value>
+  </data>
+  <data name="Settings_User_LogoutAfter_RememberMe" xml:space="preserve">
+    <value>Пользователи могут использовать «Запомнить меня» чтобы оставаться зарегистрированным.</value>
+  </data>
+  <data name="Settings_User_LogoutAll" xml:space="preserve">
+    <value>Заставить всех пользователей снова войти в систему?</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Action" xml:space="preserve">
+    <value>Выход из системы всех пользователей</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
+    <value>Это также вызовет всех пользователей, включая текущего пользователя, чтобы требовать входа в систему снова. Продолжить?</value>
   </data>
   <data name="Settings_User_MinimumLength" xml:space="preserve">
     <value>Минимальная длина?</value>

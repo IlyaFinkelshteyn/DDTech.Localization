@@ -315,6 +315,9 @@
   <data name="Settings_SaveChangesDetail" xml:space="preserve">
     <value>Ha nem mentjük, a módosítások elvesznek.</value>
   </data>
+  <data name="Settings_SecuritySettings" xml:space="preserve">
+    <value>Biztonsági beállítások</value>
+  </data>
   <data name="Settings_UnsavedChanges" xml:space="preserve">
     <value>Mentetlen módosítások</value>
   </data>
@@ -332,6 +335,33 @@
   </data>
   <data name="Settings_User_DecimalPrecision_Title" xml:space="preserve">
     <value>Válassza ki a pontosság</value>
+  </data>
+  <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
+    <value>Bejelentkezés, során lehetővé teszi a felhasználók számára, hogy tetszés szerint emlékszem a</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
+    <value>Bejelentkezés</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
+    <value>Semmi sem</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="Settings_User_LogoutAfter" xml:space="preserve">
+    <value>Jel használók gépiesen után egy időköz-ból tétlenség? (óra)</value>
+  </data>
+  <data name="Settings_User_LogoutAfter_RememberMe" xml:space="preserve">
+    <value>Használók tud használ "Emlékezz rám" legyen bejelentkezve.</value>
+  </data>
+  <data name="Settings_User_LogoutAll" xml:space="preserve">
+    <value>Kényszeríti a felhasználókat, hogy jelentkezzen be újra?</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Action" xml:space="preserve">
+    <value>Logout minden felhasználó számára</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
+    <value>Ez is okozhat valamennyi felhasználónak, beleértve a jelenlegi felhasználó igényel logika újra. Folytatja?</value>
   </data>
   <data name="Settings_User_MinimumLength" xml:space="preserve">
     <value>Minimális hossza?</value>

@@ -274,7 +274,7 @@
     <value>Columnas</value>
   </data>
   <data name="Settings_Nav_MaterialRequirements" xml:space="preserve">
-    <value>Material Requirements Planning</value>
+    <value>Planificación de requerimientos de material</value>
   </data>
   <data name="Settings_Nav_Sitewide" xml:space="preserve">
     <value>En toda la web</value>
@@ -315,6 +315,9 @@
   <data name="Settings_SaveChangesDetail" xml:space="preserve">
     <value>Si no guarda, los cambios se perderán.</value>
   </data>
+  <data name="Settings_SecuritySettings" xml:space="preserve">
+    <value>Configuración de seguridad</value>
+  </data>
   <data name="Settings_UnsavedChanges" xml:space="preserve">
     <value>Cambios no guardados</value>
   </data>
@@ -332,6 +335,33 @@
   </data>
   <data name="Settings_User_DecimalPrecision_Title" xml:space="preserve">
     <value>Seleccione la precisión</value>
+  </data>
+  <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
+    <value>Durante la sesión, permite a los usuarios opcionalmente recordar sus</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
+    <value>Inicio de sesión</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
+    <value>Nada</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
+    <value>Nombre de usuario</value>
+  </data>
+  <data name="Settings_User_LogoutAfter" xml:space="preserve">
+    <value>¿Usuarios de sesión automáticamente después de un período de inactividad? (horas)</value>
+  </data>
+  <data name="Settings_User_LogoutAfter_RememberMe" xml:space="preserve">
+    <value>Los usuarios pueden utilizar "Recuerda Me" permanecer conectado.</value>
+  </data>
+  <data name="Settings_User_LogoutAll" xml:space="preserve">
+    <value>¿Fuerza a todos los usuarios iniciar sesión otra vez?</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Action" xml:space="preserve">
+    <value>Cerrar sesión todos los usuarios</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
+    <value>Esto también hará que todos los usuarios, incluyendo el usuario actual, para requerir inicio de sesión nuevo. ¿Proceder?</value>
   </data>
   <data name="Settings_User_MinimumLength" xml:space="preserve">
     <value>Longitud mínima</value>

@@ -315,6 +315,9 @@
   <data name="Settings_SaveChangesDetail" xml:space="preserve">
     <value>Kaydetmezseniz, yaptığınız değişiklikler kaybolacak.</value>
   </data>
+  <data name="Settings_SecuritySettings" xml:space="preserve">
+    <value>Güvenlik ayarları</value>
+  </data>
   <data name="Settings_UnsavedChanges" xml:space="preserve">
     <value>Kaydedilmemiş değişiklikler</value>
   </data>
@@ -332,6 +335,33 @@
   </data>
   <data name="Settings_User_DecimalPrecision_Title" xml:space="preserve">
     <value>Hassas seçin</value>
+  </data>
+  <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
+    <value>Oturum açma sırasında isteğe bağlı olarak hatırlıyorum kullanıcıların kendi</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
+    <value>Oturum açma</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
+    <value>Hiçbir şey</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
+    <value>Kullanıcı adı</value>
+  </data>
+  <data name="Settings_User_LogoutAfter" xml:space="preserve">
+    <value>Oturum kapatma kullanıcı işlem bir süre sonra otomatik olarak? (saat)</value>
+  </data>
+  <data name="Settings_User_LogoutAfter_RememberMe" xml:space="preserve">
+    <value>Kullanıcılar "Onthoud mij" bağlı kalmak için kullanabilirsiniz.</value>
+  </data>
+  <data name="Settings_User_LogoutAll" xml:space="preserve">
+    <value>Tekrar oturum açmak için tüm kullanıcıların zorlamak mı?</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Action" xml:space="preserve">
+    <value>Oturum kapatma tüm kullanıcılar</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
+    <value>Bu da tüm kullanıcılar, geçerli kullanıcının yeniden oturum açma gerektirir, dahil neden olur. Devam edilsin mi?</value>
   </data>
   <data name="Settings_User_MinimumLength" xml:space="preserve">
     <value>Uzunluk alt sınırı?</value>

@@ -315,6 +315,9 @@
   <data name="Settings_SaveChangesDetail" xml:space="preserve">
     <value>Si vous n'enregistrez pas, vos modifications seront perdues.</value>
   </data>
+  <data name="Settings_SecuritySettings" xml:space="preserve">
+    <value>Paramètres de sécurité</value>
+  </data>
   <data name="Settings_UnsavedChanges" xml:space="preserve">
     <value>Modifications non enregistrées</value>
   </data>
@@ -332,6 +335,33 @@
   </data>
   <data name="Settings_User_DecimalPrecision_Title" xml:space="preserve">
     <value>Sélectionner le nbre</value>
+  </data>
+  <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
+    <value>Lors de la connexion, autoriser les utilisateurs à éventuellement me souviens leur</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
+    <value>Ouverture de session</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
+    <value>Rien</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
+    <value>Nom d’utilisateur</value>
+  </data>
+  <data name="Settings_User_LogoutAfter" xml:space="preserve">
+    <value>Utilisateurs de se déconnecter automatiquement après une période d’inactivité ? (heures)</value>
+  </data>
+  <data name="Settings_User_LogoutAfter_RememberMe" xml:space="preserve">
+    <value>Permet aux utilisateurs « Se souvenir de moi » pour rester connecté.</value>
+  </data>
+  <data name="Settings_User_LogoutAll" xml:space="preserve">
+    <value>Forcer tous les utilisateurs de se connecter à nouveau ?</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Action" xml:space="preserve">
+    <value>Se déconnecter tous les utilisateurs</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
+    <value>Cela provoquera également tous les utilisateurs, y compris l’utilisateur en cours, afin d’exiger de se connecter à nouveau. Aller de l’avant ?</value>
   </data>
   <data name="Settings_User_MinimumLength" xml:space="preserve">
     <value>Longueur minimale ?</value>
