@@ -171,6 +171,9 @@
   <data name="Name" xml:space="preserve">
     <value>név</value>
   </data>
+  <data name="No" xml:space="preserve">
+    <value>nem</value>
+  </data>
   <data name="NoFilterInParens" xml:space="preserve">
     <value>(Nincs szűrő)</value>
   </data>
@@ -227,5 +230,8 @@
   </data>
   <data name="ViewAdditionalInformation" xml:space="preserve">
     <value>További információk megtekintése</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>igen</value>
   </data>
 </root>
