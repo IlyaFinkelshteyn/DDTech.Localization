@@ -171,6 +171,9 @@
   <data name="Name" xml:space="preserve">
     <value>Nom</value>
   </data>
+  <data name="No" xml:space="preserve">
+    <value>N°</value>
+  </data>
   <data name="NoFilterInParens" xml:space="preserve">
     <value>(Pas de filtre)</value>
   </data>
@@ -227,5 +230,8 @@
   </data>
   <data name="ViewAdditionalInformation" xml:space="preserve">
     <value>Afficher des informations supplémentaires</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Oui</value>
   </data>
 </root>

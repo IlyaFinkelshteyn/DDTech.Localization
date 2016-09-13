@@ -171,6 +171,9 @@
   <data name="Name" xml:space="preserve">
     <value>Nimi</value>
   </data>
+  <data name="No" xml:space="preserve">
+    <value>Ei</value>
+  </data>
   <data name="NoFilterInParens" xml:space="preserve">
     <value>(Ei suodatusta)</value>
   </data>
@@ -227,5 +230,8 @@
   </data>
   <data name="ViewAdditionalInformation" xml:space="preserve">
     <value>Lisätietojen näyttäminen</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Kyllä</value>
   </data>
 </root>

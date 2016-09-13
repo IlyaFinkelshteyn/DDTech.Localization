@@ -228,4 +228,10 @@
   <data name="System" xml:space="preserve">
     <value>System</value>
   </data>
+  <data name="No" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
 </root>

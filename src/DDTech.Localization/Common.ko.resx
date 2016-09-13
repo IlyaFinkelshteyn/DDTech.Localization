@@ -171,6 +171,9 @@
   <data name="Name" xml:space="preserve">
     <value>이름</value>
   </data>
+  <data name="No" xml:space="preserve">
+    <value>없음</value>
+  </data>
   <data name="NoFilterInParens" xml:space="preserve">
     <value>(필터 없음)</value>
   </data>
@@ -227,5 +230,8 @@
   </data>
   <data name="ViewAdditionalInformation" xml:space="preserve">
     <value>추가 정보 보기</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>예</value>
   </data>
 </root>
