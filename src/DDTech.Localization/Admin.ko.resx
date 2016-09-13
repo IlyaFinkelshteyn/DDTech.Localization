@@ -337,16 +337,10 @@
     <value>자릿수 선택</value>
   </data>
   <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
-    <value>로그인 하는 동안 사용자가 선택적으로 기억 허용 그들의</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
-    <value>로그인</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
-    <value>아무것도</value>
+    <value>사용자가 "기억 나"를 사용 하도록 허용?</value>
   </data>
   <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
-    <value>사용자 이름</value>
+    <value>사용자만</value>
   </data>
   <data name="Settings_User_LogoutAfter" xml:space="preserve">
     <value>비활동의 기간 후에 자동으로 사용자가 로그 아웃? (시간)</value>

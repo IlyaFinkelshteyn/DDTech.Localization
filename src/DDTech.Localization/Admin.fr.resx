@@ -337,16 +337,10 @@
     <value>Sélectionner le nbre</value>
   </data>
   <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
-    <value>Lors de la connexion, autoriser les utilisateurs à éventuellement me souviens leur</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
-    <value>Ouverture de session</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
-    <value>Rien</value>
+    <value>Permettre aux utilisateurs d’utiliser « Se souvenir de moi » ?</value>
   </data>
   <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
-    <value>Nom d’utilisateur</value>
+    <value>nom d’utilisateur uniquement</value>
   </data>
   <data name="Settings_User_LogoutAfter" xml:space="preserve">
     <value>Utilisateurs de se déconnecter automatiquement après une période d’inactivité ? (heures)</value>

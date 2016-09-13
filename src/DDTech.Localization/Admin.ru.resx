@@ -337,16 +337,10 @@
     <value>Выберите округление</value>
   </data>
   <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
-    <value>Во время входа, позволяют пользователям дополнительно запомнить их</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
-    <value>Логин</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
-    <value>Ничего не</value>
+    <value>Разрешить пользователям использовать «Запомнить меня»?</value>
   </data>
   <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
-    <value>Имя пользователя</value>
+    <value>имя пользователя только</value>
   </data>
   <data name="Settings_User_LogoutAfter" xml:space="preserve">
     <value>Выход пользователей автоматически после определенного периода бездействия? (часов)</value>

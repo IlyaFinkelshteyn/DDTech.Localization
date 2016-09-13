@@ -337,16 +337,10 @@
     <value>Hassas seçin</value>
   </data>
   <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
-    <value>Oturum açma sırasında isteğe bağlı olarak hatırlıyorum kullanıcıların kendi</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
-    <value>Oturum açma</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
-    <value>Hiçbir şey</value>
+    <value>"Onthoud mij" kullanmak için kullanıcıların izin verilsin mi?</value>
   </data>
   <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
-    <value>Kullanıcı adı</value>
+    <value>Kullanıcı adı sadece</value>
   </data>
   <data name="Settings_User_LogoutAfter" xml:space="preserve">
     <value>Oturum kapatma kullanıcı işlem bir süre sonra otomatik olarak? (saat)</value>

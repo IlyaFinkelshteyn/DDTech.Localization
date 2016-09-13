@@ -303,7 +303,7 @@
   <data name="Settings_User_MinimumLength" xml:space="preserve">
     <value>Minimum Length?</value>
   </data>
-    <data name="Settings_User_PasswordComplexity" xml:space="preserve">
+  <data name="Settings_User_PasswordComplexity" xml:space="preserve">
     <value>Password Complexity</value>
   </data>
   <data name="Settings_SecuritySettings" xml:space="preserve">
@@ -394,16 +394,10 @@
     <value>History Capture</value>
   </data>
   <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
-    <value>During login, allow the users to optionally remember their</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
-    <value>Login</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
-    <value>Nothing</value>
+    <value>Allow users to use "Remember Me"?</value>
   </data>
   <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
-    <value>Username</value>
+    <value>username only</value>
   </data>
   <data name="Settings_User_LogoutAfter" xml:space="preserve">
     <value>Logout users automatically after a period of inactivity? (hours)</value>

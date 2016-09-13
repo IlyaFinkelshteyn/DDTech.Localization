@@ -379,13 +379,13 @@
     <value>Есть открытые предложения и спроса в течение времени</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
-    <value />
+    <value></value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
     <value>Имеет открытый спроса в течение времени</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
-    <value />
+    <value></value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
     <value>Имеет отрицательный баланс работает в прошлом</value>
