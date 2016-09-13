@@ -337,16 +337,10 @@
     <value>Wählen Sie Präzision</value>
   </data>
   <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
-    <value>Bei der Anmeldung erlauben den Benutzern, optional erinnern ihre</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
-    <value>Login</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
-    <value>Nichts</value>
+    <value>Erlauben Sie Benutzern, "Remember Me" verwenden?</value>
   </data>
   <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
-    <value>Benutzername</value>
+    <value>nur Benutzername</value>
   </data>
   <data name="Settings_User_LogoutAfter" xml:space="preserve">
     <value>Logout Benutzer automatisch nach einem Zeitraum der Inaktivität? (Stunden)</value>

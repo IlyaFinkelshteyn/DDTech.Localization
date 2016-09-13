@@ -337,16 +337,10 @@
     <value>Seleccione la precisión</value>
   </data>
   <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
-    <value>Durante la sesión, permite a los usuarios opcionalmente recordar sus</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
-    <value>Inicio de sesión</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
-    <value>Nada</value>
+    <value>¿Permiten a los usuarios utilizar "Recuerda Me"?</value>
   </data>
   <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
-    <value>Nombre de usuario</value>
+    <value>nombre de usuario sólo</value>
   </data>
   <data name="Settings_User_LogoutAfter" xml:space="preserve">
     <value>¿Usuarios de sesión automáticamente después de un período de inactividad? (horas)</value>

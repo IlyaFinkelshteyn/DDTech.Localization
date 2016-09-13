@@ -337,16 +337,10 @@
     <value>Válassza ki a pontosság</value>
   </data>
   <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
-    <value>Bejelentkezés, során lehetővé teszi a felhasználók számára, hogy tetszés szerint emlékszem a</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Login" xml:space="preserve">
-    <value>Bejelentkezés</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Nothing" xml:space="preserve">
-    <value>Semmi sem</value>
+    <value>Lehetővé teszi a felhasználók számára, hogy "Emlékezz rám"?</value>
   </data>
   <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
-    <value>Username</value>
+    <value>felhasználóneved csak</value>
   </data>
   <data name="Settings_User_LogoutAfter" xml:space="preserve">
     <value>Jel használók gépiesen után egy időköz-ból tétlenség? (óra)</value>

@@ -718,7 +718,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to During login, allow the users to optionally remember their.
+        ///   Looks up a localized string similar to Allow users to use &quot;Remember Me&quot;?.
         /// </summary>
         public static string Settings_User_LoginCanRemeber {
             get {
@@ -727,25 +727,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Login.
-        /// </summary>
-        public static string Settings_User_LoginRemember_Login {
-            get {
-                return ResourceManager.GetString("Settings_User_LoginRemember_Login", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Nothing.
-        /// </summary>
-        public static string Settings_User_LoginRemember_Nothing {
-            get {
-                return ResourceManager.GetString("Settings_User_LoginRemember_Nothing", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Username.
+        ///   Looks up a localized string similar to username only.
         /// </summary>
         public static string Settings_User_LoginRemember_Username {
             get {
