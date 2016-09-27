@@ -159,6 +159,18 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Sınırlayıcı</value>
   </data>
+  <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
+    <value>İsteğe bağlı sipariş işleme penceresi olmayan tamponlanmış parçalar için</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
+    <value>Bu ayarları ne kadar ileri R + NB parçalar için talep yer alacak sınırı olacaktır. Bu değerler için bölümün R + zaman yol eklenir. Örneğin eğer '5' olarak ayarlayın ve bir R + tedarik süresi 5 gün, R + will değil accound kadar geçerli tarihi 10 iş günü içinde talep Vade tarihinin talep için bir kısım vardır.</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
+    <value>NB pencere (yani) işleme</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
+    <value>NB pencere (WO) işleme</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Talep siparişleri penceresi (gün)</value>
   </data>

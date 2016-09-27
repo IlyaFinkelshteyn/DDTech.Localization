@@ -159,6 +159,18 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Erotin</value>
   </data>
+  <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
+    <value>Kysynnän tilauksen käsittely-ikkunassa ei-puskuroituun osat</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
+    <value>Nämä asetukset rajoittaa edistystä R + sisältää kysyntä NB osat. Nämä arvot lisätään osan R + Toimitusaika. esimerkiksi jos asetettu "5", ja osa on R + Toimitusaika 5 päivää R + ei arvo tulee kysynnän kunnes 10 työpäivän kuluessa siitä kysynnän eräpäivä on nykyinen päivämäärä.</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
+    <value>NB käsittely ikkunassa, (niin)</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
+    <value>NB käsittely ikkunassa (WO)</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Vaatia ikkuna (päivää)</value>
   </data>

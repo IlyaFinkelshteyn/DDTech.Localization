@@ -411,4 +411,16 @@
   <data name="DDTech_RPlus_DTO_Engine_RecommendedOrder_SuppressOrderQtyRules" xml:space="preserve">
     <value>Остановить правила о количестве к заказу</value>
   </data>
+  <data name="Demand" xml:space="preserve">
+    <value>Спрос</value>
+  </data>
+  <data name="DemandOrder" xml:space="preserve">
+    <value>Заказ спроса</value>
+  </data>
+  <data name="Supply" xml:space="preserve">
+    <value>Поставка</value>
+  </data>
+  <data name="SupplyOrder" xml:space="preserve">
+    <value>Заказ на поставку</value>
+  </data>
 </root>

@@ -159,6 +159,18 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Separador Columnas CSV</value>
   </data>
+  <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
+    <value>Ventana de procesamiento de orden de demanda para piezas no tamponado</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
+    <value>Esta configuración limita cuánto adelante R + incluirá la demanda de piezas NB. Estos valores se agregan a R + plazo de la parte de ejecución. por ejemplo, si a '5' y una parte tiene un R + plazo de 5 días, R + voluntad no accound demanda hasta la fecha actual es dentro de 10 días hábiles de la fecha de vencimiento de la demanda.</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
+    <value>Nota procesamiento de ventana (tan)</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
+    <value>Nota procesamiento de ventana (WO)</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Horizonte de Demanda (días)</value>
   </data>

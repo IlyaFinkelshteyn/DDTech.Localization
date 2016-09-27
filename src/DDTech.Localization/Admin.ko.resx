@@ -159,6 +159,18 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>구분 기호</value>
   </data>
+  <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
+    <value>버퍼링 되지 않은 부분에 대 한 수요 순서 처리 창</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
+    <value>이러한 설정은 얼마나 멀리 앞으로 R + 포함 됩니다 NB 부품에 대 한 수요가 제한 됩니다. 이러한 값은 부품의 R + 리드 타임에 추가 됩니다. 예를 들어 경우 '5'로 설정 하 고 일부는 R + 리드 타임 5 일, R + 윌 하지 accound 요구 될 때까지 현재 날짜의 요구 기한 10 작업 일 이내에.</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
+    <value>NB (그래서) 창 처리</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
+    <value>NB 창 (WO) 처리</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>수요 오더 구간(일)</value>
   </data>

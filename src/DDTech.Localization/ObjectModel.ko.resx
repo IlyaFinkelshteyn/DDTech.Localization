@@ -411,4 +411,16 @@
   <data name="DDTech_RPlus_DTO_Engine_RecommendedOrder_SuppressOrderQtyRules" xml:space="preserve">
     <value>오더 수량 규칙 무시</value>
   </data>
+  <data name="Demand" xml:space="preserve">
+    <value>수요</value>
+  </data>
+  <data name="DemandOrder" xml:space="preserve">
+    <value>수요 순서</value>
+  </data>
+  <data name="Supply" xml:space="preserve">
+    <value>공급</value>
+  </data>
+  <data name="SupplyOrder" xml:space="preserve">
+    <value>공급 순서</value>
+  </data>
 </root>

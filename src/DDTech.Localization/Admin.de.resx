@@ -159,6 +159,18 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Trennzeichen</value>
   </data>
+  <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
+    <value>Anfrage Bestellung Verarbeitungsfenster für nicht gepuffert Teile</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
+    <value>Diese Einstellungen werden wie weit nach vorne gehören R + Nachfrage nach NB Parts begrenzen. Diese Werte sind des Teils R + Vorlaufzeit hinzugefügt. z.B. wenn auf "5" gesetzt, und ein Teil hat eine R + führen Zeit von 5 Tagen, R + Wille nicht Spendenliste für Nachfrage bis das aktuelle Datum innerhalb 10 Werktage nach Fälligkeit Bedarf liegt.</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
+    <value>NB Verarbeitung Fenster (also)</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
+    <value>NB Verarbeitung Fenster (WO)</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Bestellfenster zu verlangen (Tage)</value>
   </data>

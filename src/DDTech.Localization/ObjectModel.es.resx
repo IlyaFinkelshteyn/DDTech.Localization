@@ -411,4 +411,16 @@
   <data name="DDTech_RPlus_DTO_Engine_RecommendedOrder_SuppressOrderQtyRules" xml:space="preserve">
     <value>Suprimir limitaciones de pedido</value>
   </data>
+  <data name="Demand" xml:space="preserve">
+    <value>Demanda</value>
+  </data>
+  <data name="DemandOrder" xml:space="preserve">
+    <value>Orden de la demanda</value>
+  </data>
+  <data name="Supply" xml:space="preserve">
+    <value>De la fuente</value>
+  </data>
+  <data name="SupplyOrder" xml:space="preserve">
+    <value>Orden de suministro</value>
+  </data>
 </root>
