@@ -187,6 +187,42 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Demand Order Processing Window for Non-Buffered Parts.
+        /// </summary>
+        public static string Settings_DemandOrderNBProcessingWindow {
+            get {
+                return ResourceManager.GetString("Settings_DemandOrderNBProcessingWindow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to These settings will limit how far forward R+ will include Demand for NB Parts. These values are added to the part&apos;s R+ Lead Time. e.g. If set to &apos;5&apos;, and a part has an R+ Lead Time of 5 days, R+ will not accound for Demand until the Current Date is within 10 working days of the Demand Due Date..
+        /// </summary>
+        public static string Settings_DemandOrderNBProcessingWindow_Description {
+            get {
+                return ResourceManager.GetString("Settings_DemandOrderNBProcessingWindow_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NB Processing Window (SO).
+        /// </summary>
+        public static string Settings_DemandOrderNBProcessingWindowSales {
+            get {
+                return ResourceManager.GetString("Settings_DemandOrderNBProcessingWindowSales", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NB Processing Window (WO).
+        /// </summary>
+        public static string Settings_DemandOrderNBProcessingWindowWork {
+            get {
+                return ResourceManager.GetString("Settings_DemandOrderNBProcessingWindowWork", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Demand Order Window (days).
         /// </summary>
         public static string Settings_DemandOrderWindow {

@@ -414,4 +414,16 @@
   <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
     <value>This will also cause all users, including the current user, to require login again. Proceed?</value>
   </data>
+  <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
+    <value>Demand Order Processing Window for Non-Buffered Parts</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
+    <value>NB Processing Window (SO)</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
+    <value>NB Processing Window (WO)</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
+    <value>These settings will limit how far forward R+ will include Demand for NB Parts. These values are added to the part's R+ Lead Time. e.g. If set to '5', and a part has an R+ Lead Time of 5 days, R+ will not accound for Demand until the Current Date is within 10 working days of the Demand Due Date.</value>
+  </data>
 </root>

@@ -896,5 +896,41 @@ namespace DDTech.Localization {
                 return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_RecommendedOrder_SuppressOrderQtyRules", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Demand.
+        /// </summary>
+        public static string Demand {
+            get {
+                return ResourceManager.GetString("Demand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Demand Order.
+        /// </summary>
+        public static string DemandOrder {
+            get {
+                return ResourceManager.GetString("DemandOrder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Supply.
+        /// </summary>
+        public static string Supply {
+            get {
+                return ResourceManager.GetString("Supply", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Supply Order.
+        /// </summary>
+        public static string SupplyOrder {
+            get {
+                return ResourceManager.GetString("SupplyOrder", resourceCulture);
+            }
+        }
     }
 }
