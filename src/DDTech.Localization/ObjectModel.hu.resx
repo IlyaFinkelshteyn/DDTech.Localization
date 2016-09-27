@@ -396,4 +396,16 @@
   <data name="DDTech_RPlus_DTO_Engine_RecommendedOrder_SuppressOrderQtyRules" xml:space="preserve">
     <value>Elnyomja a rendelési mennyiség szabályok</value>
   </data>
+  <data name="Demand" xml:space="preserve">
+    <value>Igény szerint</value>
+  </data>
+  <data name="DemandOrder" xml:space="preserve">
+    <value>Igénylési rendelés</value>
+  </data>
+  <data name="Supply" xml:space="preserve">
+    <value>Kínálat</value>
+  </data>
+  <data name="SupplyOrder" xml:space="preserve">
+    <value>Ellátási rendelés</value>
+  </data>
 </root>

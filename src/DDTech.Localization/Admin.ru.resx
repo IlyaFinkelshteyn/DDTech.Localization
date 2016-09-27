@@ -159,6 +159,18 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Разделитель</value>
   </data>
+  <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
+    <value>Окно обработки заказа спроса для частей без буферизации</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
+    <value>Эти параметры будут ограничивать, насколько далеко вперед R + будет включать спрос на детали NB. Эти значения добавляются к части R + время. Например если значение '5', и часть имеет R + время 5 дней, R + будет не accound для спроса до текущей даты в течение 10 рабочих дней срок спроса.</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
+    <value>NB, обработки окна (SO)</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
+    <value>NB, обработки окна (WO)</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Окно заказов на отгрузку (дни)</value>
   </data>

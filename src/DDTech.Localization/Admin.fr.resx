@@ -159,6 +159,18 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Délimiteur</value>
   </data>
+  <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
+    <value>Fenêtre de traitement de commande de demande pour les pièces sans tampon</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
+    <value>Ces paramètres seront limitera à quelle distance avant R + comprendra demande de NB pièces. Ces valeurs sont ajoutées à R + délai de la partie. par exemple si la valeur "5", et une partie a un R + délai de 5 jours, R + va pas notons pour la demande jusqu'à ce que la Date actuelle est dans les 10 jours de l’échéance de la demande.</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
+    <value>NB de traitement de fenêtre (donc)</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
+    <value>NB de traitement de fenêtre (WO)</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Horizon de demande (jours)</value>
   </data>
