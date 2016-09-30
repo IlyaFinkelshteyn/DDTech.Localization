@@ -261,6 +261,18 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AdjustmentFactor" xml:space="preserve">
     <value>조정률</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertDescription" xml:space="preserve">
+    <value>경고 설명</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertPriority" xml:space="preserve">
+    <value>알림 우선 순위</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertStatus" xml:space="preserve">
+    <value>경고 상태</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertType" xml:space="preserve">
+    <value>경고 유형</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStock" xml:space="preserve">
     <value>가용재고</value>
   </data>

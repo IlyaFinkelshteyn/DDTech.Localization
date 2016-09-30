@@ -261,6 +261,18 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AdjustmentFactor" xml:space="preserve">
     <value>Korrekturfaktor</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertDescription" xml:space="preserve">
+    <value>Warnung Beschreibung</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertPriority" xml:space="preserve">
+    <value>Alert Priority</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertStatus" xml:space="preserve">
+    <value>Alert-Status</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertType" xml:space="preserve">
+    <value>Alert-Typ</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStock" xml:space="preserve">
     <value>Lieferbar</value>
   </data>

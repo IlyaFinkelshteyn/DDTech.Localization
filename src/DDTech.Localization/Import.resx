@@ -207,4 +207,7 @@
   <data name="Records" xml:space="preserve">
     <value>Records</value>
   </data>
+  <data name="EncounteredNumErrorsWithUploadFormat" xml:space="preserve">
+    <value>Encountered {0} errors. Showing the first {1} errors.</value>
+  </data>
 </root>

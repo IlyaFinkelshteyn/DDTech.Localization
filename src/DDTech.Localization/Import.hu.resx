@@ -141,6 +141,9 @@
   <data name="DeleteFileAndReupload" xml:space="preserve">
     <value>Törölje a fájlt, és ré hang-feltölt</value>
   </data>
+  <data name="EncounteredNumErrorsWithUploadFormat" xml:space="preserve">
+    <value>A(z) {0} hibákat észlelt. Az első {1} hibák találat.</value>
+  </data>
   <data name="ErrorsInUpload" xml:space="preserve">
     <value>Feltöltési hiba</value>
   </data>

@@ -141,6 +141,9 @@
   <data name="DeleteFileAndReupload" xml:space="preserve">
     <value>Poista tiedosto ja lähettää sen uudelleen</value>
   </data>
+  <data name="EncounteredNumErrorsWithUploadFormat" xml:space="preserve">
+    <value>Kohtasi {0} virhettä. Näytetään ensimmäinen {1} virheitä.</value>
+  </data>
   <data name="ErrorsInUpload" xml:space="preserve">
     <value>Virheitä lataus</value>
   </data>

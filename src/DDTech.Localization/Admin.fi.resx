@@ -156,6 +156,9 @@
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
     <value>Ohita NB kysynnän ulkopuolisesta valmistuksesta ikkuna</value>
   </data>
+  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
+    <value>Tuotu kysyntä NB osat, jotka johtuvat kuin (osa läpimenoaika + kysynnän ikkuna) ei tuoda R +. Tämä asetus ei vaikuta jos tarvelaskennan on käytössä.</value>
+  </data>
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Erotin</value>
   </data>
@@ -170,6 +173,9 @@
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
     <value>NB käsittely ikkunassa (WO)</value>
+  </data>
+  <data name="Settings_DemandOrderWindow" xml:space="preserve">
+    <value>Kysynnän ikkuna</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Odotettu numeerisessa muodossa</value>
@@ -221,6 +227,9 @@
   </data>
   <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
     <value>Päivän historia säilyttää</value>
+  </data>
+  <data name="Settings_ImportedDemand" xml:space="preserve">
+    <value>Tuodut kysynnän</value>
   </data>
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Piikit ovat saatavilla varastosta</value>
@@ -422,5 +431,8 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>Työtilaus</value>
+  </data>
+  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
+    <value>Käsittely</value>
   </data>
 </root>

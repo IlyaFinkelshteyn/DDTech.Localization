@@ -133,6 +133,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Encountered {0} errors. Showing the first {1} errors..
+        /// </summary>
+        public static string EncounteredNumErrorsWithUploadFormat {
+            get {
+                return ResourceManager.GetString("EncounteredNumErrorsWithUploadFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Errors In Upload.
         /// </summary>
         public static string ErrorsInUpload {

@@ -141,6 +141,9 @@
   <data name="DeleteFileAndReupload" xml:space="preserve">
     <value>Dosyayı silin ve yeniden yükleyin</value>
   </data>
+  <data name="EncounteredNumErrorsWithUploadFormat" xml:space="preserve">
+    <value>{0} hatalarla karşılaştı. İlk {1} hataları gösteriliyor.</value>
+  </data>
   <data name="ErrorsInUpload" xml:space="preserve">
     <value>Karşıya yükleme hataları</value>
   </data>

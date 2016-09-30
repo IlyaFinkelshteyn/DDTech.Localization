@@ -141,6 +141,9 @@
   <data name="DeleteFileAndReupload" xml:space="preserve">
     <value>Datei löschen und re-upload</value>
   </data>
+  <data name="EncounteredNumErrorsWithUploadFormat" xml:space="preserve">
+    <value>Aufgetretene Fehler {0}. Zeigt die erste {1} Fehler.</value>
+  </data>
   <data name="ErrorsInUpload" xml:space="preserve">
     <value>Fehler bei Upload</value>
   </data>

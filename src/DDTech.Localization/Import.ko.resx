@@ -141,6 +141,9 @@
   <data name="DeleteFileAndReupload" xml:space="preserve">
     <value>파일 삭제 후 재-업로드</value>
   </data>
+  <data name="EncounteredNumErrorsWithUploadFormat" xml:space="preserve">
+    <value>{0} 오류가 발생 했습니다. 첫 번째 {1} 오류를 보여주는.</value>
+  </data>
   <data name="ErrorsInUpload" xml:space="preserve">
     <value>업로드 중 Error</value>
   </data>

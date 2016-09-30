@@ -156,6 +156,9 @@
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
     <value>Figyelmen kívül hagyja a NB igény szerint külső bérmunka ablak</value>
   </data>
+  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
+    <value>Importált kereslet NB részeket, amelyek miatt túl a (rész átfutási idő + igény szerint ablak) nem lesz importálva a R +. Ez a beállítás hatástalan, ha engedélyezve van az anyagszükséglet-tervezés.</value>
+  </data>
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Határoló</value>
   </data>
@@ -170,6 +173,9 @@
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
     <value>NB-feldolgozás ablak (WO)</value>
+  </data>
+  <data name="Settings_DemandOrderWindow" xml:space="preserve">
+    <value>Igény szerint rendelés ablakban</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Várható numerikus formátumban</value>
@@ -221,6 +227,9 @@
   </data>
   <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
     <value>Nap története fenntartása</value>
+  </data>
+  <data name="Settings_ImportedDemand" xml:space="preserve">
+    <value>Importált kereslet</value>
   </data>
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Közé tartozik a tüskék a rendelkezésre álló készlet</value>
@@ -422,5 +431,8 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>Munkálatok</value>
+  </data>
+  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
+    <value>Feldolgozás</value>
   </data>
 </root>
