@@ -171,9 +171,6 @@
   <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
     <value>NB 창 (WO) 처리</value>
   </data>
-  <data name="Settings_DemandOrderWindow" xml:space="preserve">
-    <value>수요 오더 구간(일)</value>
-  </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>숫자 표시 형식</value>
   </data>

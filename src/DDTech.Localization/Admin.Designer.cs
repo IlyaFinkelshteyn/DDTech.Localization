@@ -178,6 +178,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Imported Demand for NB Parts which are due beyond the (part lead time + demand window) will not be imported into R+. This setting will have no effect if Material Requirements Planning is Enabled..
+        /// </summary>
+        public static string Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description {
+            get {
+                return ResourceManager.GetString("Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Delimiter.
         /// </summary>
         public static string Settings_Delimiter {
@@ -223,7 +232,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Demand Order Window (days).
+        ///   Looks up a localized string similar to Demand Order Window.
         /// </summary>
         public static string Settings_DemandOrderWindow {
             get {
@@ -381,6 +390,15 @@ namespace DDTech.Localization {
         public static string Settings_HistoryCaptureDaysToKeep {
             get {
                 return ResourceManager.GetString("Settings_HistoryCaptureDaysToKeep", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Imported Demand.
+        /// </summary>
+        public static string Settings_ImportedDemand {
+            get {
+                return ResourceManager.GetString("Settings_ImportedDemand", resourceCulture);
             }
         }
         
@@ -984,6 +1002,15 @@ namespace DDTech.Localization {
         public static string Settings_WorkOrder {
             get {
                 return ResourceManager.GetString("Settings_WorkOrder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Processing.
+        /// </summary>
+        public static string Settins_Nav_OrderProcessing {
+            get {
+                return ResourceManager.GetString("Settins_Nav_OrderProcessing", resourceCulture);
             }
         }
     }
