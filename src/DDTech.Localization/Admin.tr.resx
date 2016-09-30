@@ -171,9 +171,6 @@
   <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
     <value>NB pencere (WO) işleme</value>
   </data>
-  <data name="Settings_DemandOrderWindow" xml:space="preserve">
-    <value>Talep siparişleri penceresi (gün)</value>
-  </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Beklenen sayısal biçim</value>
   </data>

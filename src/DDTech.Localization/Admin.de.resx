@@ -171,9 +171,6 @@
   <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
     <value>NB Verarbeitung Fenster (WO)</value>
   </data>
-  <data name="Settings_DemandOrderWindow" xml:space="preserve">
-    <value>Bestellfenster zu verlangen (Tage)</value>
-  </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Numerisches Format erwartet</value>
   </data>

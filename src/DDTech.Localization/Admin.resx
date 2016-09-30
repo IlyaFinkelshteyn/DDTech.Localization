@@ -145,7 +145,7 @@
     <value>Default Order Spike Horizon Level</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
-    <value>Demand Order Window (days)</value>
+    <value>Demand Order Window</value>
   </data>
   <data name="Settings_Global_DisplayName" xml:space="preserve">
     <value>Display Name</value>
@@ -425,5 +425,14 @@
   </data>
   <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
     <value>These settings will limit how far forward R+ will include Demand for NB Parts. These values are added to the part's R+ Lead Time. e.g. If set to '5', and a part has an R+ Lead Time of 5 days, R+ will not accound for Demand until the Current Date is within 10 working days of the Demand Due Date.</value>
+  </data>
+  <data name="Settings_ImportedDemand" xml:space="preserve">
+    <value>Imported Demand</value>
+  </data>
+  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
+    <value>Processing</value>
+  </data>
+  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
+    <value>Imported Demand for NB Parts which are due beyond the (part lead time + demand window) will not be imported into R+. This setting will have no effect if Material Requirements Planning is Enabled.</value>
   </data>
 </root>

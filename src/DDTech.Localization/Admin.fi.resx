@@ -171,9 +171,6 @@
   <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
     <value>NB käsittely ikkunassa (WO)</value>
   </data>
-  <data name="Settings_DemandOrderWindow" xml:space="preserve">
-    <value>Vaatia ikkuna (päivää)</value>
-  </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Odotettu numeerisessa muodossa</value>
   </data>

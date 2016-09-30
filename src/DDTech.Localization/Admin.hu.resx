@@ -171,9 +171,6 @@
   <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
     <value>NB-feldolgozás ablak (WO)</value>
   </data>
-  <data name="Settings_DemandOrderWindow" xml:space="preserve">
-    <value>Rendelés ablakban a kereslet (nap)</value>
-  </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Várható numerikus formátumban</value>
   </data>
