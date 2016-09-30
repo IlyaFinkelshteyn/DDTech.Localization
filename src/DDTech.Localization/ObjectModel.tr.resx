@@ -246,6 +246,18 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AdjustmentFactor" xml:space="preserve">
     <value>Ayarlama çarpanı</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertDescription" xml:space="preserve">
+    <value>Uyarı açıklaması</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertPriority" xml:space="preserve">
+    <value>Uyarı öncelik</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertStatus" xml:space="preserve">
+    <value>Uyarı durumu</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertType" xml:space="preserve">
+    <value>Uyarõ tipi</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStock" xml:space="preserve">
     <value>Kullanılabilir stok</value>
   </data>

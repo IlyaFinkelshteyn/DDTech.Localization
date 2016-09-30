@@ -156,6 +156,9 @@
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
     <value>Pencere işleme dışında NB talebi yoksay</value>
   </data>
+  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
+    <value>İthal talep nedeniyle ötesinde olan NB bölümleri için (bölüm tedarik süresi + talep penceresi) R + alınmaz. Malzeme gereksinimleri planlaması etkinse, bu ayarın hiçbir etkisi olmayacaktır.</value>
+  </data>
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Sınırlayıcı</value>
   </data>
@@ -170,6 +173,9 @@
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
     <value>NB pencere (WO) işleme</value>
+  </data>
+  <data name="Settings_DemandOrderWindow" xml:space="preserve">
+    <value>İsteğe bağlı Siparişi penceresini</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Beklenen sayısal biçim</value>
@@ -221,6 +227,9 @@
   </data>
   <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
     <value>Geçmişini korumak için günlük</value>
+  </data>
+  <data name="Settings_ImportedDemand" xml:space="preserve">
+    <value>Alınan talep</value>
   </data>
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Sivri mevcut stok dahil</value>
@@ -422,5 +431,8 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>İş emri</value>
+  </data>
+  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
+    <value>İşleme</value>
   </data>
 </root>

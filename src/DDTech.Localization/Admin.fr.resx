@@ -156,6 +156,9 @@
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
     <value>Ignorer la demande des NB en dehors de l'horizon de traitement</value>
   </data>
+  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
+    <value>Importé demande de NB pièces qui doivent être effectués au-delà de la (partie délai + demande fenêtre) ne seront pas importés dans R +. Ce paramètre n’a aucun effet si planification des besoins matières est activée.</value>
+  </data>
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Délimiteur</value>
   </data>
@@ -170,6 +173,9 @@
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
     <value>NB de traitement de fenêtre (WO)</value>
+  </data>
+  <data name="Settings_DemandOrderWindow" xml:space="preserve">
+    <value>Fenêtre de commande de la demande</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Format numérique attendu</value>
@@ -221,6 +227,9 @@
   </data>
   <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
     <value>Jours d'historique à conserver</value>
+  </data>
+  <data name="Settings_ImportedDemand" xml:space="preserve">
+    <value>Demande importée</value>
   </data>
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Inclure les pics dans le flux disponible</value>
@@ -422,5 +431,8 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>OF</value>
+  </data>
+  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
+    <value>Traitement</value>
   </data>
 </root>

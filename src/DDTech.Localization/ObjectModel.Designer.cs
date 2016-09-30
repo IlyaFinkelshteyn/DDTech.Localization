@@ -448,6 +448,42 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Alert Description.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_AlertDescription {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_AlertDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Alert Priority.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_AlertPriority {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_AlertPriority", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Alert Status.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_AlertStatus {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_AlertStatus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Alert Type.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_AlertType {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_AlertType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Available Stock.
         /// </summary>
         public static string DDTech_RPlus_DTO_Engine_PartDetail_AvailableStock {

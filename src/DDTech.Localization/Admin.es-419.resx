@@ -156,6 +156,9 @@
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
     <value>Ignorar Nota demanda fuera de la ventana de procesamiento</value>
   </data>
+  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
+    <value>Importados demanda de piezas NB que van más allá de la (parte tiempo de entrega + la demanda ventana) no se podrá importar en R +. Esta configuración no tendrá efecto si la planificación de requisitos de Material está habilitada.</value>
+  </data>
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Delimitador de</value>
   </data>
@@ -170,6 +173,9 @@
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
     <value>Nota procesamiento de ventana (WO)</value>
+  </data>
+  <data name="Settings_DemandOrderWindow" xml:space="preserve">
+    <value>Ventana de orden de la demanda</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Formato numérico esperado</value>
@@ -221,6 +227,9 @@
   </data>
   <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
     <value>Días de la historia para mantener</value>
+  </data>
+  <data name="Settings_ImportedDemand" xml:space="preserve">
+    <value>Demanda importada</value>
   </data>
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Incluyen picos en Stock disponible</value>
@@ -422,5 +431,8 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>Orden de trabajo</value>
+  </data>
+  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
+    <value>Procesamiento de</value>
   </data>
 </root>

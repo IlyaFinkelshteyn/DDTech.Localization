@@ -261,6 +261,18 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AdjustmentFactor" xml:space="preserve">
     <value>Коэфф. сезон. (PAF)</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertDescription" xml:space="preserve">
+    <value>Описание оповещения</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertPriority" xml:space="preserve">
+    <value>Приоритет оповещения</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertStatus" xml:space="preserve">
+    <value>Состояние оповещения</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertType" xml:space="preserve">
+    <value>Тип оповещения</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStock" xml:space="preserve">
     <value>Доступный запас</value>
   </data>

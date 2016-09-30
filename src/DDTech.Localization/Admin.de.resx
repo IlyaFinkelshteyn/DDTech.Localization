@@ -156,6 +156,9 @@
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
     <value>Ignorieren Sie NB-Nachfrage außerhalb Verarbeitung Fenster</value>
   </data>
+  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
+    <value>Nachfrage nach NB Parts, die darüber hinaus sollen importiert die (Teil Vorbereitungs-und Anlaufzeit + Nachfrage Fenster) wird nicht in R + importiert werden. Diese Einstellung wird wirkungslos, wenn die Materialbedarfsplanung aktiviert ist.</value>
+  </data>
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Trennzeichen</value>
   </data>
@@ -170,6 +173,9 @@
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
     <value>NB Verarbeitung Fenster (WO)</value>
+  </data>
+  <data name="Settings_DemandOrderWindow" xml:space="preserve">
+    <value>Nachfrage-Order-Fenster</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Numerisches Format erwartet</value>
@@ -221,6 +227,9 @@
   </data>
   <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
     <value>Tage der Geschichte zu pflegen</value>
+  </data>
+  <data name="Settings_ImportedDemand" xml:space="preserve">
+    <value>Importierte Nachfrage</value>
   </data>
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Sind Spikes in lieferbar</value>
@@ -422,5 +431,8 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>Arbeitsauftrag</value>
+  </data>
+  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
+    <value>Verarbeitung</value>
   </data>
 </root>

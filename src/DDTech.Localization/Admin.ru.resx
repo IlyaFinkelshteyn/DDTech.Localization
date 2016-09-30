@@ -156,6 +156,9 @@
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
     <value>Игнорировать потребность в NB за пределами окна обработки</value>
   </data>
+  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
+    <value>Импортированные спрос на NB частей, которые должны за пределами (часть времени + спрос окна) не будут импортированы в R +. Этот параметр не будет влиять Если планирование материальных требований.</value>
+  </data>
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Разделитель</value>
   </data>
@@ -170,6 +173,9 @@
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
     <value>NB, обработки окна (WO)</value>
+  </data>
+  <data name="Settings_DemandOrderWindow" xml:space="preserve">
+    <value>Окно спроса</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Ожидаемый числовой формат</value>
@@ -221,6 +227,9 @@
   </data>
   <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
     <value>Период хранения истории (дни)</value>
+  </data>
+  <data name="Settings_ImportedDemand" xml:space="preserve">
+    <value>Импортного спроса</value>
   </data>
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Включать пиковые заказы в доступный запас</value>
@@ -422,5 +431,8 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>Производственный заказ</value>
+  </data>
+  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
+    <value>Обработка</value>
   </data>
 </root>
