@@ -97,6 +97,60 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Critical.
+        /// </summary>
+        public static string AlertSeverity_Critical {
+            get {
+                return ResourceManager.GetString("AlertSeverity_Critical", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to High.
+        /// </summary>
+        public static string AlertSeverity_High {
+            get {
+                return ResourceManager.GetString("AlertSeverity_High", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Low.
+        /// </summary>
+        public static string AlertSeverity_Low {
+            get {
+                return ResourceManager.GetString("AlertSeverity_Low", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lowest.
+        /// </summary>
+        public static string AlertSeverity_Lowest {
+            get {
+                return ResourceManager.GetString("AlertSeverity_Lowest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Medium.
+        /// </summary>
+        public static string AlertSeverity_Medium {
+            get {
+                return ResourceManager.GetString("AlertSeverity_Medium", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to None.
+        /// </summary>
+        public static string AlertSeverity_None {
+            get {
+                return ResourceManager.GetString("AlertSeverity_None", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Alerts.
         /// </summary>
         public static string AlertsStr {

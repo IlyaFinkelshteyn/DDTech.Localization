@@ -129,6 +129,24 @@
   <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
     <value>Legacy uyarıları görünümünde</value>
   </data>
+  <data name="AlertSeverity_Critical" xml:space="preserve">
+    <value>Kritik</value>
+  </data>
+  <data name="AlertSeverity_High" xml:space="preserve">
+    <value>Yüksek</value>
+  </data>
+  <data name="AlertSeverity_Low" xml:space="preserve">
+    <value>Düşük</value>
+  </data>
+  <data name="AlertSeverity_Lowest" xml:space="preserve">
+    <value>En düşük fiyat</value>
+  </data>
+  <data name="AlertSeverity_Medium" xml:space="preserve">
+    <value>Orta</value>
+  </data>
+  <data name="AlertSeverity_None" xml:space="preserve">
+    <value>Hiçbiri</value>
+  </data>
   <data name="AlertsStr" xml:space="preserve">
     <value>Uyarıları</value>
   </data>

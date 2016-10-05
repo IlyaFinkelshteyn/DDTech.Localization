@@ -466,6 +466,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Alert Severity.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_AlertSeverity {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_AlertSeverity", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Alert Status.
         /// </summary>
         public static string DDTech_RPlus_DTO_Engine_PartDetail_AlertStatus {

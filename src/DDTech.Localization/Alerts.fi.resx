@@ -129,6 +129,24 @@
   <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
     <value>Näytä Legacy ilmoitukset</value>
   </data>
+  <data name="AlertSeverity_Critical" xml:space="preserve">
+    <value>Kriittinen</value>
+  </data>
+  <data name="AlertSeverity_High" xml:space="preserve">
+    <value>Korkea</value>
+  </data>
+  <data name="AlertSeverity_Low" xml:space="preserve">
+    <value>Matala</value>
+  </data>
+  <data name="AlertSeverity_Lowest" xml:space="preserve">
+    <value>Alin</value>
+  </data>
+  <data name="AlertSeverity_Medium" xml:space="preserve">
+    <value>Normaali</value>
+  </data>
+  <data name="AlertSeverity_None" xml:space="preserve">
+    <value>Ei mitään</value>
+  </data>
   <data name="AlertsStr" xml:space="preserve">
     <value>Hälytykset</value>
   </data>

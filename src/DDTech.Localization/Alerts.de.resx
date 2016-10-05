@@ -129,6 +129,24 @@
   <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
     <value>Ansicht in Legacy-Warnungen</value>
   </data>
+  <data name="AlertSeverity_Critical" xml:space="preserve">
+    <value>Kritischen</value>
+  </data>
+  <data name="AlertSeverity_High" xml:space="preserve">
+    <value>Hoch</value>
+  </data>
+  <data name="AlertSeverity_Low" xml:space="preserve">
+    <value>Low</value>
+  </data>
+  <data name="AlertSeverity_Lowest" xml:space="preserve">
+    <value>Niedrigste</value>
+  </data>
+  <data name="AlertSeverity_Medium" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="AlertSeverity_None" xml:space="preserve">
+    <value>Keine</value>
+  </data>
   <data name="AlertsStr" xml:space="preserve">
     <value>Warnungen</value>
   </data>

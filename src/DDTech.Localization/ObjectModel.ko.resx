@@ -267,6 +267,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertPriority" xml:space="preserve">
     <value>알림 우선 순위</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertSeverity" xml:space="preserve">
+    <value>경고 심각도</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertStatus" xml:space="preserve">
     <value>경고 상태</value>
   </data>

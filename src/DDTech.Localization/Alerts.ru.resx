@@ -129,6 +129,24 @@
   <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
     <value>Просмотр в наследие оповещения</value>
   </data>
+  <data name="AlertSeverity_Critical" xml:space="preserve">
+    <value>Критический</value>
+  </data>
+  <data name="AlertSeverity_High" xml:space="preserve">
+    <value>Высокая</value>
+  </data>
+  <data name="AlertSeverity_Low" xml:space="preserve">
+    <value>Низкая</value>
+  </data>
+  <data name="AlertSeverity_Lowest" xml:space="preserve">
+    <value>Самая низкая</value>
+  </data>
+  <data name="AlertSeverity_Medium" xml:space="preserve">
+    <value>Средний</value>
+  </data>
+  <data name="AlertSeverity_None" xml:space="preserve">
+    <value>Нет</value>
+  </data>
   <data name="AlertsStr" xml:space="preserve">
     <value>Оповещения</value>
   </data>
@@ -379,13 +397,13 @@
     <value>Есть открытые предложения и спроса в течение времени</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
-    <value></value>
+    <value>QOH (ток на наличии) &amp;gt; = 0 и, если баланс работает &amp;lt; = 0 в любое время в течение периода привести</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
     <value>Имеет открытый спроса в течение времени</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
-    <value></value>
+    <value>QOH (ток на наличии) &amp;gt; = 0 и работает баланс &amp;gt; 0 и &amp;lt; = % ToR в любое время в течение периода привести</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
     <value>Имеет отрицательный баланс работает в прошлом</value>

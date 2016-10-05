@@ -129,6 +129,24 @@
   <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
     <value>Nézet öröksége értesítéseket</value>
   </data>
+  <data name="AlertSeverity_Critical" xml:space="preserve">
+    <value>Kritikus</value>
+  </data>
+  <data name="AlertSeverity_High" xml:space="preserve">
+    <value>Magas</value>
+  </data>
+  <data name="AlertSeverity_Low" xml:space="preserve">
+    <value>Alacsony</value>
+  </data>
+  <data name="AlertSeverity_Lowest" xml:space="preserve">
+    <value>Legalacsonyabb</value>
+  </data>
+  <data name="AlertSeverity_Medium" xml:space="preserve">
+    <value>Közepes</value>
+  </data>
+  <data name="AlertSeverity_None" xml:space="preserve">
+    <value>Egyik sem</value>
+  </data>
   <data name="AlertsStr" xml:space="preserve">
     <value>Riasztások</value>
   </data>

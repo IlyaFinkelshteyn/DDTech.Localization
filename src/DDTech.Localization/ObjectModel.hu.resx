@@ -252,6 +252,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertPriority" xml:space="preserve">
     <value>Riasztási prioritás</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertSeverity" xml:space="preserve">
+    <value>Veszélyességi</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertStatus" xml:space="preserve">
     <value>Riasztási állapot</value>
   </data>
