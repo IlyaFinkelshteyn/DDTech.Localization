@@ -165,17 +165,17 @@
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>Anfrage Bestellung Verarbeitungsfenster für nicht gepuffert Teile</value>
   </data>
-  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
-    <value>Diese Einstellungen werden wie weit nach vorne gehören R + Nachfrage nach NB Parts begrenzen. Diese Werte sind des Teils R + Vorlaufzeit hinzugefügt. z.B. wenn auf "5" gesetzt, und ein Teil hat eine R + führen Zeit von 5 Tagen, R + Wille nicht Spendenliste für Nachfrage bis das aktuelle Datum innerhalb 10 Werktage nach Fälligkeit Bedarf liegt.</value>
+  <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
+    <value>Non-Buffered (NB) Verarbeitung Fenster (SO)</value>
   </data>
-  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
-    <value>NB Verarbeitung Fenster (also)</value>
-  </data>
-  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
-    <value>NB Verarbeitung Fenster (WO)</value>
+  <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
+    <value>Non-Buffered (NB) Verarbeitung Fenster (WO)</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Nachfrage-Order-Fenster</value>
+  </data>
+  <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
+    <value>Diese Einstellungen werden begrenzen wie weit nach vorne gehören R + Nachfrage nach teilen. Konfigurierten Werte werden zur R + Lieferzeit für passende Teile hinzugefügt. Wenn '5', und ein Teil einer R + Vorbereitungs-und Anlaufzeit hat 5 Tage R + wird nicht entfallen auf Nachfrage bis das aktuelle Datum innerhalb von 10 Werktagen der Nachfrage ist Fälligkeitsdatum. Wenn auf '0' gesetzt, R + nur aktuelle und frühere Fälligkeit beinhalten wird Nachfrage. Wenn auf "-1" (deaktiviert), R + jede Nachfrage nicht enthalten soll.</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Numerisches Format erwartet</value>
@@ -293,6 +293,9 @@
   </data>
   <data name="Settings_Nav_MaterialRequirements" xml:space="preserve">
     <value>Bedarfsplanung</value>
+  </data>
+  <data name="Settings_Nav_Processing" xml:space="preserve">
+    <value>Verarbeitung</value>
   </data>
   <data name="Settings_Nav_Sitewide" xml:space="preserve">
     <value>Sitewide</value>
@@ -431,8 +434,5 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>Arbeitsauftrag</value>
-  </data>
-  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
-    <value>Verarbeitung</value>
   </data>
 </root>

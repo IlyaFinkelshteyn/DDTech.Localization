@@ -178,7 +178,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Imported Demand for NB Parts which are due beyond the (part lead time + demand window) will not be imported into R+. This setting will have no effect if Material Requirements Planning is Enabled..
+        ///   Looks up a localized string similar to Imported demand for Non-Buffered (NB) parts which are due beyond the (part lead time + demand window) will not be imported into R+. This setting will have no effect if Material Requirements Planning (MRP) is enabled..
         /// </summary>
         public static string Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description {
             get {
@@ -196,7 +196,25 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Demand Order Processing Window for Non-Buffered Parts.
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Settings_DemandOrderBufferedProcessingWindowSalesOrder {
+            get {
+                return ResourceManager.GetString("Settings_DemandOrderBufferedProcessingWindowSalesOrder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Settings_DemandOrderBufferedProcessingWindowWorkOrder {
+            get {
+                return ResourceManager.GetString("Settings_DemandOrderBufferedProcessingWindowWorkOrder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Demand Order Processing Window for Non-Buffered (NB) Parts.
         /// </summary>
         public static string Settings_DemandOrderNBProcessingWindow {
             get {
@@ -205,29 +223,20 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to These settings will limit how far forward R+ will include Demand for NB Parts. These values are added to the part&apos;s R+ Lead Time. e.g. If set to &apos;5&apos;, and a part has an R+ Lead Time of 5 days, R+ will not accound for Demand until the Current Date is within 10 working days of the Demand Due Date..
+        ///   Looks up a localized string similar to Non-Buffered (NB) Processing Window (SO).
         /// </summary>
-        public static string Settings_DemandOrderNBProcessingWindow_Description {
+        public static string Settings_DemandOrderNBProcessingWindowSalesOrder {
             get {
-                return ResourceManager.GetString("Settings_DemandOrderNBProcessingWindow_Description", resourceCulture);
+                return ResourceManager.GetString("Settings_DemandOrderNBProcessingWindowSalesOrder", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to NB Processing Window (SO).
+        ///   Looks up a localized string similar to Non-Buffered (NB) Processing Window (WO).
         /// </summary>
-        public static string Settings_DemandOrderNBProcessingWindowSales {
+        public static string Settings_DemandOrderNBProcessingWindowWorkOrder {
             get {
-                return ResourceManager.GetString("Settings_DemandOrderNBProcessingWindowSales", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to NB Processing Window (WO).
-        /// </summary>
-        public static string Settings_DemandOrderNBProcessingWindowWork {
-            get {
-                return ResourceManager.GetString("Settings_DemandOrderNBProcessingWindowWork", resourceCulture);
+                return ResourceManager.GetString("Settings_DemandOrderNBProcessingWindowWorkOrder", resourceCulture);
             }
         }
         
@@ -237,6 +246,15 @@ namespace DDTech.Localization {
         public static string Settings_DemandOrderWindow {
             get {
                 return ResourceManager.GetString("Settings_DemandOrderWindow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to These settings will limit how far forward R+ will include demand for parts. Configured values are added to the R+ lead time for matching parts. If set to &apos;5&apos;, and a part has an R+ lead time of 5 days, R+ will not account for demand until the current date is within 10 working days of the demand due date. If set to ‘0’, R+ will only include current and past due demand. If set to ‘-1’ (disabled), R+ will not include any demand..
+        /// </summary>
+        public static string Settings_DemandOrderWindow_Description {
+            get {
+                return ResourceManager.GetString("Settings_DemandOrderWindow_Description", resourceCulture);
             }
         }
         
@@ -588,6 +606,15 @@ namespace DDTech.Localization {
         public static string Settings_Nav_MaterialRequirements {
             get {
                 return ResourceManager.GetString("Settings_Nav_MaterialRequirements", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Processing.
+        /// </summary>
+        public static string Settings_Nav_Processing {
+            get {
+                return ResourceManager.GetString("Settings_Nav_Processing", resourceCulture);
             }
         }
         
@@ -1006,11 +1033,11 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Processing.
+        ///   Looks up a localized string similar to .
         /// </summary>
-        public static string Settins_Nav_OrderProcessing {
+        public static string String1 {
             get {
-                return ResourceManager.GetString("Settins_Nav_OrderProcessing", resourceCulture);
+                return ResourceManager.GetString("String1", resourceCulture);
             }
         }
     }

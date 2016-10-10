@@ -165,17 +165,17 @@
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>Окно обработки заказа спроса для частей без буферизации</value>
   </data>
-  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
-    <value>Эти параметры будут ограничивать, насколько далеко вперед R + будет включать спрос на детали NB. Эти значения добавляются к части R + время. Например если значение '5', и часть имеет R + время 5 дней, R + будет не accound для спроса до текущей даты в течение 10 рабочих дней срок спроса.</value>
+  <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
+    <value>Non-Buffered (NB), обработки окна (SO)</value>
   </data>
-  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
-    <value>NB, обработки окна (SO)</value>
-  </data>
-  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
-    <value>NB, обработки окна (WO)</value>
+  <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
+    <value>Non-Buffered (NB), обработки окна (WO)</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Окно спроса</value>
+  </data>
+  <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
+    <value>Эти параметры будут ограничивать, насколько далеко вперед R + будет включать спрос на запчасти. Настроенные значения добавляются к R + свинца время для соответствующих частей. Если значение '5' и часть имеет время R + 5 дней, R + не будут учтены потребности до текущей даты в течение 10 рабочих дней спроса Дата. Если значение '0', R + будет включать только текущие и прошлые должного спроса. Если задано значение «-1' (отключено), R + не будет включать любой спрос.</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Ожидаемый числовой формат</value>
@@ -293,6 +293,9 @@
   </data>
   <data name="Settings_Nav_MaterialRequirements" xml:space="preserve">
     <value>Планирование потребности в материалах (MRP)</value>
+  </data>
+  <data name="Settings_Nav_Processing" xml:space="preserve">
+    <value>Обработка</value>
   </data>
   <data name="Settings_Nav_Sitewide" xml:space="preserve">
     <value>По всему сайту</value>
@@ -431,8 +434,5 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>Производственный заказ</value>
-  </data>
-  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
-    <value>Обработка</value>
   </data>
 </root>

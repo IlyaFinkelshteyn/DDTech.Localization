@@ -165,17 +165,17 @@
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>İsteğe bağlı sipariş işleme penceresi olmayan tamponlanmış parçalar için</value>
   </data>
-  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
-    <value>Bu ayarları ne kadar ileri R + NB parçalar için talep yer alacak sınırı olacaktır. Bu değerler için bölümün R + zaman yol eklenir. Örneğin eğer '5' olarak ayarlayın ve bir R + tedarik süresi 5 gün, R + will değil accound kadar geçerli tarihi 10 iş günü içinde talep Vade tarihinin talep için bir kısım vardır.</value>
+  <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
+    <value>Non-Buffered (NB) pencere (SO) işleme</value>
   </data>
-  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
-    <value>NB pencere (yani) işleme</value>
-  </data>
-  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
-    <value>NB pencere (WO) işleme</value>
+  <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
+    <value>Non-Buffered (NB) pencere (WO) işleme</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>İsteğe bağlı Siparişi penceresini</value>
+  </data>
+  <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
+    <value>Bu ayarları ne kadar ileri R + bölümleri için talep yer alacak sınırı olacaktır. Yapılandırılmış değerleri parçalar eşleştirmek için R + sağlama süresine eklenir. Ayarlamak '5' ve bir bölümü bir R + sağlama süresi var 10 gün içerisinde talebin geçerli tarihtir kadar 5 gün, R + için talep hesap olacaktır değil son tarih. '0' olarak ayarlayın, R + sadece mevcut ve geçmiş nedeniyle içerecektir Eğer isteğe bağlı. Eğer '-1' (devre dışı), R + kümesine herhangi bir talep içermez.</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Beklenen sayısal biçim</value>
@@ -293,6 +293,9 @@
   </data>
   <data name="Settings_Nav_MaterialRequirements" xml:space="preserve">
     <value>Malzeme gereksinimleri planlaması</value>
+  </data>
+  <data name="Settings_Nav_Processing" xml:space="preserve">
+    <value>İşleme</value>
   </data>
   <data name="Settings_Nav_Sitewide" xml:space="preserve">
     <value>Site çapında</value>
@@ -431,8 +434,5 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>İş emri</value>
-  </data>
-  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
-    <value>İşleme</value>
   </data>
 </root>

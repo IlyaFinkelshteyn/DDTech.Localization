@@ -165,17 +165,17 @@
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>Kysynnän tilauksen käsittely-ikkunassa ei-puskuroituun osat</value>
   </data>
-  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
-    <value>Nämä asetukset rajoittaa edistystä R + sisältää kysyntä NB osat. Nämä arvot lisätään osan R + Toimitusaika. esimerkiksi jos asetettu "5", ja osa on R + Toimitusaika 5 päivää R + ei arvo tulee kysynnän kunnes 10 työpäivän kuluessa siitä kysynnän eräpäivä on nykyinen päivämäärä.</value>
+  <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
+    <value>Non-Buffered (NB) käsittely ikkunassa, (SO)</value>
   </data>
-  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
-    <value>NB käsittely ikkunassa, (niin)</value>
-  </data>
-  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
-    <value>NB käsittely ikkunassa (WO)</value>
+  <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
+    <value>Non-Buffered (NB) käsittely ikkunassa (WO)</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Kysynnän ikkuna</value>
+  </data>
+  <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
+    <value>Nämä asetukset rajoittaa edistystä R + sisältää kysyntä osat. Konfiguroitujen lisätään R + Toimitusaika vastaavia osia. Jos asetettu "5", ja osa on r-Toimitusaika 5 päivää R + eivät ota huomioon kysynnän kunnes nykyinen päivämäärä on 10 työpäivän kysynnän eräpäivä. Jos arvoksi "0", R + sisältää vain nykyisen ja erääntyneiden kysyntää. Jos asetettu "1" (ei käytössä), r ei sisällä vaatimusta.</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Odotettu numeerisessa muodossa</value>
@@ -293,6 +293,9 @@
   </data>
   <data name="Settings_Nav_MaterialRequirements" xml:space="preserve">
     <value>Materiaalitarpeiden suunnittelu</value>
+  </data>
+  <data name="Settings_Nav_Processing" xml:space="preserve">
+    <value>Käsittely</value>
   </data>
   <data name="Settings_Nav_Sitewide" xml:space="preserve">
     <value>Sivustolaajuista</value>
@@ -431,8 +434,5 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>Työtilaus</value>
-  </data>
-  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
-    <value>Käsittely</value>
   </data>
 </root>

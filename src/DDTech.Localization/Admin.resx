@@ -132,8 +132,17 @@
   <data name="Admin_UserManagement_UserNameLabel" xml:space="preserve">
     <value>User Name</value>
   </data>
+  <data name="Settings_AllowLeadTimeCompression" xml:space="preserve">
+    <value>Allow Lead Time Compression</value>
+  </data>
+  <data name="Settings_BaselineFormattingRegion" xml:space="preserve">
+    <value>Baseline Formatting Region</value>
+  </data>
   <data name="Settings_Close_Btn" xml:space="preserve">
     <value>Close</value>
+  </data>
+  <data name="Settings_DateFormat" xml:space="preserve">
+    <value>Date Format</value>
   </data>
   <data name="Settings_DefaultInventoryAlertLevel" xml:space="preserve">
     <value>Default Inventory Alert Level</value>
@@ -144,14 +153,65 @@
   <data name="Settings_DefaultOrderSpikeHorizonLevel" xml:space="preserve">
     <value>Default Order Spike Horizon Level</value>
   </data>
+  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
+    <value>Ignore NB Demand Outside Processing Window</value>
+  </data>
+  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
+    <value>Imported demand for Non-Buffered (NB) parts which are due beyond the (part lead time + demand window) will not be imported into R+. This setting will have no effect if Material Requirements Planning (MRP) is enabled.</value>
+  </data>
+  <data name="Settings_Delimiter" xml:space="preserve">
+    <value>Delimiter</value>
+  </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowSalesOrder" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowWorkOrder" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
+    <value>Demand Order Processing Window for Non-Buffered (NB) Parts</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
+    <value>Non-Buffered (NB) Processing Window (SO)</value>
+  </data>
+  <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
+    <value>Non-Buffered (NB) Processing Window (WO)</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Demand Order Window</value>
+  </data>
+  <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
+    <value>These settings will limit how far forward R+ will include demand for parts. Configured values are added to the R+ lead time for matching parts. If set to '5', and a part has an R+ lead time of 5 days, R+ will not account for demand until the current date is within 10 working days of the demand due date. If set to ‘0’, R+ will only include current and past due demand. If set to ‘-1’ (disabled), R+ will not include any demand.</value>
+  </data>
+  <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
+    <value>Expected Numeric Format</value>
+  </data>
+  <data name="Settings_ExternalApiAccess" xml:space="preserve">
+    <value>External API Access</value>
+  </data>
+  <data name="Settings_ForecastedDemandLookAhead" xml:space="preserve">
+    <value>Weeks Of Forecasted Demand</value>
+  </data>
+  <data name="Settings_Global_BuffersAndOrderProcessing" xml:space="preserve">
+    <value>Buffers and Order Processing</value>
+  </data>
+  <data name="Settings_Global_DateTimeSettings" xml:space="preserve">
+    <value>Date/Time Settings</value>
   </data>
   <data name="Settings_Global_DisplayName" xml:space="preserve">
     <value>Display Name</value>
   </data>
   <data name="Settings_Global_Field" xml:space="preserve">
     <value>Field</value>
+  </data>
+  <data name="Settings_Global_ForecastedDemand" xml:space="preserve">
+    <value>Forecasted Demand and Forecasted Daily Usage (FDU)</value>
+  </data>
+  <data name="Settings_Global_ImportExportDataExchange" xml:space="preserve">
+    <value>System Data Exchange (Import &amp; Export)</value>
+  </data>
+  <data name="Settings_Global_RecommendationsAndAlerts" xml:space="preserve">
+    <value>Recommendations and Alerts</value>
   </data>
   <data name="Settings_Global_UDF" xml:space="preserve">
     <value>User-Defined Fields</value>
@@ -168,8 +228,23 @@
   <data name="Settings_Grids_NoPrecisionLabel" xml:space="preserve">
     <value>None</value>
   </data>
+  <data name="Settings_HistoryCapture" xml:space="preserve">
+    <value>History Capture</value>
+  </data>
+  <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
+    <value>Days Of History To Maintain</value>
+  </data>
+  <data name="Settings_ImportedDemand" xml:space="preserve">
+    <value>Imported Demand</value>
+  </data>
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Include Spikes in Available Stock</value>
+  </data>
+  <data name="Settings_LocalTimeZone" xml:space="preserve">
+    <value>Local Time Zone</value>
+  </data>
+  <data name="Settings_Mrp_Disabled" xml:space="preserve">
+    <value>MRP calculations are disabled</value>
   </data>
   <data name="Settings_Mrp_DoMaterialRequirementsNettingAfterImport" xml:space="preserve">
     <value>Perform MRP Netting after import? (Full MRP)</value>
@@ -207,6 +282,9 @@
   <data name="Settings_Mrp_WorkOrderDemandProcessingWindow" xml:space="preserve">
     <value>Demand Processing Window for Work Orders</value>
   </data>
+  <data name="Settings_Nav_ApiTokens" xml:space="preserve">
+    <value>API Tokens</value>
+  </data>
   <data name="Settings_Nav_DateTime" xml:space="preserve">
     <value>Date/Time Format</value>
   </data>
@@ -222,11 +300,29 @@
   <data name="Settings_Nav_MaterialRequirements" xml:space="preserve">
     <value>Material Requirements Planning</value>
   </data>
+  <data name="Settings_Nav_Processing" xml:space="preserve">
+    <value>Processing</value>
+  </data>
+  <data name="Settings_Nav_Sitewide" xml:space="preserve">
+    <value>Sitewide</value>
+  </data>
+  <data name="Settings_Nav_UserAccount" xml:space="preserve">
+    <value>User Account</value>
+  </data>
   <data name="Settings_Nav_UserManagement" xml:space="preserve">
     <value>User Management</value>
   </data>
+  <data name="Settings_PasswordComplexity" xml:space="preserve">
+    <value>Password Complexity Requirements</value>
+  </data>
+  <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
+    <value>Please select a format</value>
+  </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Projected Stock-Out Lead Time Horizon</value>
+  </data>
+  <data name="Settings_PurchaseOrder" xml:space="preserve">
+    <value>Purchase Order</value>
   </data>
   <data name="Settings_Reset_Btn" xml:space="preserve">
     <value>Reset</value>
@@ -237,17 +333,86 @@
   <data name="Settings_SalesOrder" xml:space="preserve">
     <value>Sales Order</value>
   </data>
+  <data name="Settings_SaveChanges_Btn" xml:space="preserve">
+    <value>Save changes</value>
+  </data>
   <data name="Settings_SaveChangesConfirmation" xml:space="preserve">
     <value>Do you want to save your changes?</value>
   </data>
   <data name="Settings_SaveChangesDetail" xml:space="preserve">
     <value>If you don't save, your changes will be lost.</value>
   </data>
-  <data name="Settings_SaveChanges_Btn" xml:space="preserve">
-    <value>Save changes</value>
+  <data name="Settings_SecuritySettings" xml:space="preserve">
+    <value>Security Settings</value>
   </data>
   <data name="Settings_UnsavedChanges" xml:space="preserve">
     <value>Unsaved changes</value>
+  </data>
+  <data name="Settings_User_DateFormat" xml:space="preserve">
+    <value>Date Format</value>
+  </data>
+  <data name="Settings_User_DateFormat_NoneFound" xml:space="preserve">
+    <value>No date columns found</value>
+  </data>
+  <data name="Settings_User_DateFormat_Title" xml:space="preserve">
+    <value>Select Date/Time Format</value>
+  </data>
+  <data name="Settings_User_DecimalPrecision" xml:space="preserve">
+    <value>Decimal Precision</value>
+  </data>
+  <data name="Settings_User_DecimalPrecision_Title" xml:space="preserve">
+    <value>Select Precision</value>
+  </data>
+  <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
+    <value>Allow users to use "Remember Me"?</value>
+  </data>
+  <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
+    <value>username only</value>
+  </data>
+  <data name="Settings_User_LogoutAfter" xml:space="preserve">
+    <value>Logout users automatically after a period of inactivity? (hours)</value>
+  </data>
+  <data name="Settings_User_LogoutAfter_RememberMe" xml:space="preserve">
+    <value>Users can use "Remember Me" to stay logged in.</value>
+  </data>
+  <data name="Settings_User_LogoutAll" xml:space="preserve">
+    <value>Force all users to log in again?</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Action" xml:space="preserve">
+    <value>Logout All Users</value>
+  </data>
+  <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
+    <value>This will also cause all users, including the current user, to require login again. Proceed?</value>
+  </data>
+  <data name="Settings_User_MinimumLength" xml:space="preserve">
+    <value>Minimum Length?</value>
+  </data>
+  <data name="Settings_User_Password" xml:space="preserve">
+    <value>Change Password</value>
+  </data>
+  <data name="Settings_User_PasswordComplexity" xml:space="preserve">
+    <value>Password Complexity</value>
+  </data>
+  <data name="Settings_User_PasswordMaxAgeDays" xml:space="preserve">
+    <value>Password Max Age (in days)</value>
+  </data>
+  <data name="Settings_User_RequireDigit" xml:space="preserve">
+    <value>Require at least 1 digit? (0-9)</value>
+  </data>
+  <data name="Settings_User_RequireLowerCase" xml:space="preserve">
+    <value>Require at least 1 lowercase? (a-z)</value>
+  </data>
+  <data name="Settings_User_RequireNonDigitLetter" xml:space="preserve">
+    <value>Require a non-letter or digit?</value>
+  </data>
+  <data name="Settings_User_RequireNonDigitLetter_Title" xml:space="preserve">
+    <value>Any character not in the ranges of 0-9, a-z, or A-Z. Examples: !, %, *, $</value>
+  </data>
+  <data name="Settings_User_RequireUpperCase" xml:space="preserve">
+    <value>Require at least 1 uppercase? (A-Z)</value>
+  </data>
+  <data name="Settings_User_UnknownGrid" xml:space="preserve">
+    <value>Unknown Grid</value>
   </data>
   <data name="Settings_UserDefined1" xml:space="preserve">
     <value>UserDefined1</value>
@@ -276,163 +441,7 @@
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>Work Order</value>
   </data>
-  <data name="Settings_Global_RecommendationsAndAlerts" xml:space="preserve">
-    <value>Recommendations and Alerts</value>
-  </data>
-  <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
-    <value>Days Of History To Maintain</value>
-  </data>
-  <data name="Settings_ExternalApiAccess" xml:space="preserve">
-    <value>External API Access</value>
-  </data>
-  <data name="Settings_Nav_ApiTokens" xml:space="preserve">
-    <value>API Tokens</value>
-  </data>
-  <data name="Settings_Nav_Sitewide" xml:space="preserve">
-    <value>Sitewide</value>
-  </data>
-  <data name="Settings_Nav_UserAccount" xml:space="preserve">
-    <value>User Account</value>
-  </data>
-  <data name="Settings_User_Password" xml:space="preserve">
-    <value>Change Password</value>
-  </data>
-  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
-    <value>Ignore NB Demand Outside Processing Window</value>
-  </data>
-  <data name="Settings_User_MinimumLength" xml:space="preserve">
-    <value>Minimum Length?</value>
-  </data>
-  <data name="Settings_User_PasswordComplexity" xml:space="preserve">
-    <value>Password Complexity</value>
-  </data>
-  <data name="Settings_SecuritySettings" xml:space="preserve">
-    <value>Security Settings</value>
-  </data>
-  <data name="Settings_User_RequireDigit" xml:space="preserve">
-    <value>Require at least 1 digit? (0-9)</value>
-  </data>
-  <data name="Settings_User_RequireLowerCase" xml:space="preserve">
-    <value>Require at least 1 lowercase? (a-z)</value>
-  </data>
-  <data name="Settings_User_RequireNonDigitLetter" xml:space="preserve">
-    <value>Require a non-letter or digit?</value>
-  </data>
-  <data name="Settings_User_RequireNonDigitLetter_Title" xml:space="preserve">
-    <value>Any character not in the ranges of 0-9, a-z, or A-Z. Examples: !, %, *, $</value>
-  </data>
-  <data name="Settings_User_RequireUpperCase" xml:space="preserve">
-    <value>Require at least 1 uppercase? (A-Z)</value>
-  </data>
-  <data name="Settings_ForecastedDemandLookAhead" xml:space="preserve">
-    <value>Weeks Of Forecasted Demand</value>
-  </data>
-  <data name="Settings_Global_BuffersAndOrderProcessing" xml:space="preserve">
-    <value>Buffers and Order Processing</value>
-  </data>
-  <data name="Settings_Global_DateTimeSettings" xml:space="preserve">
-    <value>Date/Time Settings</value>
-  </data>
-  <data name="Settings_Global_ForecastedDemand" xml:space="preserve">
-    <value>Forecasted Demand and Forecasted Daily Usage (FDU)</value>
-  </data>
-  <data name="Settings_LocalTimeZone" xml:space="preserve">
-    <value>Local Time Zone</value>
-  </data>
-  <data name="Settings_Mrp_Disabled" xml:space="preserve">
-    <value>MRP calculations are disabled</value>
-  </data>
-  <data name="Settings_User_DateFormat" xml:space="preserve">
-    <value>Date Format</value>
-  </data>
-  <data name="Settings_User_DateFormat_NoneFound" xml:space="preserve">
-    <value>No date columns found</value>
-  </data>
-  <data name="Settings_User_DateFormat_Title" xml:space="preserve">
-    <value>Select Date/Time Format</value>
-  </data>
-  <data name="Settings_User_DecimalPrecision" xml:space="preserve">
-    <value>Decimal Precision</value>
-  </data>
-  <data name="Settings_User_DecimalPrecision_Title" xml:space="preserve">
-    <value>Select Precision</value>
-  </data>
-  <data name="Settings_User_UnknownGrid" xml:space="preserve">
-    <value>Unknown Grid</value>
-  </data>
-  <data name="Settings_PasswordComplexity" xml:space="preserve">
-    <value>Password Complexity Requirements</value>
-  </data>
-  <data name="Settings_BaselineFormattingRegion" xml:space="preserve">
-    <value>Baseline Formatting Region</value>
-  </data>
-  <data name="Settings_DateFormat" xml:space="preserve">
-    <value>Date Format</value>
-  </data>
-  <data name="Settings_Delimiter" xml:space="preserve">
-    <value>Delimiter</value>
-  </data>
-  <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
-    <value>Expected Numeric Format</value>
-  </data>
-  <data name="Settings_Global_ImportExportDataExchange" xml:space="preserve">
-    <value>System Data Exchange (Import &amp; Export)</value>
-  </data>
-  <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
-    <value>Please select a format</value>
-  </data>
-  <data name="Settings_User_PasswordMaxAgeDays" xml:space="preserve">
-    <value>Password Max Age (in days)</value>
-  </data>
-  <data name="Settings_AllowLeadTimeCompression" xml:space="preserve">
-    <value>Allow Lead Time Compression</value>
-  </data>
-  <data name="Settings_PurchaseOrder" xml:space="preserve">
-    <value>Purchase Order</value>
-  </data>
-  <data name="Settings_HistoryCapture" xml:space="preserve">
-    <value>History Capture</value>
-  </data>
-  <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
-    <value>Allow users to use "Remember Me"?</value>
-  </data>
-  <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
-    <value>username only</value>
-  </data>
-  <data name="Settings_User_LogoutAfter" xml:space="preserve">
-    <value>Logout users automatically after a period of inactivity? (hours)</value>
-  </data>
-  <data name="Settings_User_LogoutAfter_RememberMe" xml:space="preserve">
-    <value>Users can use "Remember Me" to stay logged in.</value>
-  </data>
-  <data name="Settings_User_LogoutAll" xml:space="preserve">
-    <value>Force all users to log in again?</value>
-  </data>
-  <data name="Settings_User_LogoutAll_Action" xml:space="preserve">
-    <value>Logout All Users</value>
-  </data>
-  <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
-    <value>This will also cause all users, including the current user, to require login again. Proceed?</value>
-  </data>
-  <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
-    <value>Demand Order Processing Window for Non-Buffered Parts</value>
-  </data>
-  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
-    <value>NB Processing Window (SO)</value>
-  </data>
-  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
-    <value>NB Processing Window (WO)</value>
-  </data>
-  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
-    <value>These settings will limit how far forward R+ will include Demand for NB Parts. These values are added to the part's R+ Lead Time. e.g. If set to '5', and a part has an R+ Lead Time of 5 days, R+ will not accound for Demand until the Current Date is within 10 working days of the Demand Due Date.</value>
-  </data>
-  <data name="Settings_ImportedDemand" xml:space="preserve">
-    <value>Imported Demand</value>
-  </data>
-  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
-    <value>Processing</value>
-  </data>
-  <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
-    <value>Imported Demand for NB Parts which are due beyond the (part lead time + demand window) will not be imported into R+. This setting will have no effect if Material Requirements Planning is Enabled.</value>
+  <data name="String1" xml:space="preserve">
+    <value />
   </data>
 </root>

@@ -165,17 +165,17 @@
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>버퍼링 되지 않은 부분에 대 한 수요 순서 처리 창</value>
   </data>
-  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
-    <value>이러한 설정은 얼마나 멀리 앞으로 R + 포함 됩니다 NB 부품에 대 한 수요가 제한 됩니다. 이러한 값은 부품의 R + 리드 타임에 추가 됩니다. 예를 들어 경우 '5'로 설정 하 고 일부는 R + 리드 타임 5 일, R + 윌 하지 accound 요구 될 때까지 현재 날짜의 요구 기한 10 작업 일 이내에.</value>
+  <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
+    <value>Non-Buffered (NB) (SO) 창 처리</value>
   </data>
-  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
-    <value>NB (그래서) 창 처리</value>
-  </data>
-  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
-    <value>NB 창 (WO) 처리</value>
+  <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
+    <value>Non-Buffered (NB) 창 (WO) 처리</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>수요 순서 창</value>
+  </data>
+  <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
+    <value>이러한 설정은 얼마나 멀리 앞으로 R + 포함 됩니다 부품에 대 한 수요가 제한 됩니다. 구성 된 값은 일치 하는 부품에 대 한 R + 리드 타임에 추가 됩니다. 만약 설정 '5', 그리고 일부는 R + 리드 타임 5 일, R + 것입니다 고려 하지 수요에 대 한 현재 날짜가 10 일 이내에 수요의 때까지 기한. 경우 '0'으로 설정, R + 포함 됩니다 현재와 과거 인해 수요. 경우 '-1' (사용 안 함), R +로 설정 팬 들은 어떤 요구의 정보를 포함 하지 않습니다.</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>숫자 표시 형식</value>
@@ -293,6 +293,9 @@
   </data>
   <data name="Settings_Nav_MaterialRequirements" xml:space="preserve">
     <value>MRP</value>
+  </data>
+  <data name="Settings_Nav_Processing" xml:space="preserve">
+    <value>Processing</value>
   </data>
   <data name="Settings_Nav_Sitewide" xml:space="preserve">
     <value>사이트 전체</value>
@@ -431,8 +434,5 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>생산 오더</value>
-  </data>
-  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
-    <value>Processing</value>
   </data>
 </root>

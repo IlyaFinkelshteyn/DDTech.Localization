@@ -165,17 +165,17 @@
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>Igény szerint rendelés feldolgozás ablak nem pufferelt alkatrészek</value>
   </data>
-  <data name="Settings_DemandOrderNBProcessingWindow_Description" xml:space="preserve">
-    <value>Ezek a beállítások korlátozni fogja, milyen messze előre R + magában foglalja a kereslet a NB alkatrészek. Ezek az értékek bekerülnek a rész R + átfutási idő. pl. ha készlet-hoz "5", és egy része van egy R + átfutási idő 5 nap, R + nem számla lesz kereslet, amíg az aktuális dátumot a kereslet esedékesség napjától számított 10 munkanapon belül.</value>
+  <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
+    <value>Non-Buffered (NB) feldolgozás ablak, (SO)</value>
   </data>
-  <data name="Settings_DemandOrderNBProcessingWindowSales" xml:space="preserve">
-    <value>NB-feldolgozás ablak, (SO)</value>
-  </data>
-  <data name="Settings_DemandOrderNBProcessingWindowWork" xml:space="preserve">
-    <value>NB-feldolgozás ablak (WO)</value>
+  <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
+    <value>Non-Buffered (NB) feldolgozás ablak (WO)</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Igény szerint rendelés ablakban</value>
+  </data>
+  <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
+    <value>Ezek a beállítások milyen messze előre R + magában foglalja a kereslet részére korlátozza. Konfigurált értékek adódnak hozzá a megfelelő részek R + átfutási idő. Ha készlet-hoz "5", és egy része még egy R + átfutási idő 5 nap, R + nem figyelembe veszi a kereslet addig, amíg az aktuális dátumot a kereslet követő 10 munkanapon belül fizetési határidő. Ha értéke "0", R + között csak jelenlegi és korábbi megfelelő kereslet. Ha meg a "-1" (fogyatékkal élő), R + nem terjednek ki minden igényt.</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Várható numerikus formátumban</value>
@@ -293,6 +293,9 @@
   </data>
   <data name="Settings_Nav_MaterialRequirements" xml:space="preserve">
     <value>Anyagigény-tervezés</value>
+  </data>
+  <data name="Settings_Nav_Processing" xml:space="preserve">
+    <value>Feldolgozás</value>
   </data>
   <data name="Settings_Nav_Sitewide" xml:space="preserve">
     <value>Teljes website</value>
@@ -431,8 +434,5 @@
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>Munkálatok</value>
-  </data>
-  <data name="Settins_Nav_OrderProcessing" xml:space="preserve">
-    <value>Feldolgozás</value>
   </data>
 </root>
