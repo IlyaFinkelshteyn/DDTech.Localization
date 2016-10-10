@@ -162,6 +162,12 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Разделитель</value>
   </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowSalesOrder" xml:space="preserve">
+    <value>Буфер обработки окна (SO)</value>
+  </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowWorkOrder" xml:space="preserve">
+    <value>Буфер обработки окна (WO)</value>
+  </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>Окно обработки заказа спроса для частей без буферизации</value>
   </data>

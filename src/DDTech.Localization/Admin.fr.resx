@@ -162,6 +162,12 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Délimiteur</value>
   </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowSalesOrder" xml:space="preserve">
+    <value>Fenêtre de traitement dans la mémoire tampon (SO)</value>
+  </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowWorkOrder" xml:space="preserve">
+    <value>Fenêtre de traitement dans la mémoire tampon (WO)</value>
+  </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>Fenêtre de traitement de commande de demande pour les pièces sans tampon</value>
   </data>

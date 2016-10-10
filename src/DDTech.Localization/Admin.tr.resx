@@ -162,6 +162,12 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Sınırlayıcı</value>
   </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowSalesOrder" xml:space="preserve">
+    <value>Arabelleğe alınan işlem penceresi (SO)</value>
+  </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowWorkOrder" xml:space="preserve">
+    <value>Arabelleğe alınan işlem penceresi (WO)</value>
+  </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>İsteğe bağlı sipariş işleme penceresi olmayan tamponlanmış parçalar için</value>
   </data>

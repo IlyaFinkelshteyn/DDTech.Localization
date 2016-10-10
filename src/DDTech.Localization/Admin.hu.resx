@@ -162,6 +162,12 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Határoló</value>
   </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowSalesOrder" xml:space="preserve">
+    <value>Pufferelt feldolgozás ablak (SO)</value>
+  </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowWorkOrder" xml:space="preserve">
+    <value>Pufferelt feldolgozás ablak (WO)</value>
+  </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>Igény szerint rendelés feldolgozás ablak nem pufferelt alkatrészek</value>
   </data>

@@ -163,10 +163,10 @@
     <value>Delimiter</value>
   </data>
   <data name="Settings_DemandOrderBufferedProcessingWindowSalesOrder" xml:space="preserve">
-    <value />
+    <value>Buffered Processing Window (SO)</value>
   </data>
   <data name="Settings_DemandOrderBufferedProcessingWindowWorkOrder" xml:space="preserve">
-    <value />
+    <value>Buffered Processing Window (WO)</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>Demand Order Processing Window for Non-Buffered (NB) Parts</value>

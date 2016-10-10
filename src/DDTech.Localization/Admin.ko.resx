@@ -162,11 +162,17 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>구분 기호</value>
   </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowSalesOrder" xml:space="preserve">
+    <value>버퍼링된 처리 창 (SO)</value>
+  </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowWorkOrder" xml:space="preserve">
+    <value>버퍼링된 처리 창 (WO)</value>
+  </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>버퍼링 되지 않은 부분에 대 한 수요 순서 처리 창</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
-    <value>Non-Buffered (NB) (SO) 창 처리</value>
+    <value>Non-Buffered (NB) 창 (SO) 처리</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
     <value>Non-Buffered (NB) 창 (WO) 처리</value>

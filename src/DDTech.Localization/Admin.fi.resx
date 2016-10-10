@@ -162,6 +162,12 @@
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Erotin</value>
   </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowSalesOrder" xml:space="preserve">
+    <value>Puskuroitu käsittely ikkunassa (SO)</value>
+  </data>
+  <data name="Settings_DemandOrderBufferedProcessingWindowWorkOrder" xml:space="preserve">
+    <value>Puskuroitu käsittely ikkunassa (WO)</value>
+  </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>Kysynnän tilauksen käsittely-ikkunassa ei-puskuroituun osat</value>
   </data>

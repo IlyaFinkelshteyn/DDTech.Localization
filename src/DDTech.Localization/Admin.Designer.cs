@@ -196,7 +196,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Buffered Processing Window (SO).
         /// </summary>
         public static string Settings_DemandOrderBufferedProcessingWindowSalesOrder {
             get {
@@ -205,7 +205,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Buffered Processing Window (WO).
         /// </summary>
         public static string Settings_DemandOrderBufferedProcessingWindowWorkOrder {
             get {
