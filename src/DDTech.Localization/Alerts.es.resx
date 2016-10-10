@@ -411,11 +411,20 @@
   <data name="rule_NotIncludedIn" xml:space="preserve">
     <value>No incluido en</value>
   </data>
+  <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
+    <value>EDU en base balance corriente hacia fuera a una QUE R + plazo de ejecución es menor o igual a cero</value>
+  </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Stock actual es menor que el % de zona roja definido como el Umbral para Alerta de Inventario (En el Perfil de Buffer o valor General)</value>
   </data>
+  <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
+    <value>EDU en equilibrar a un R + plazo de ejecución es menor o igual al % de zona roja según lo definido por el nivel de alerta de inventario en Perfil de buffer (o por defecto del sistema para el nivel de alerta)</value>
+  </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
     <value>El Stock Actual es menor o igual al Tope de Rojo (ToR)</value>
+  </data>
+  <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
+    <value>EDU en base balance corriente hacia fuera a una QUE R + plazo de ejecución es menor o igual a la parte superior de la Red (ToR)</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Stock Esperado</value>

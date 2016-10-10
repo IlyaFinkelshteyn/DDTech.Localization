@@ -240,6 +240,9 @@
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Включать пиковые заказы в доступный запас</value>
   </data>
+  <data name="Settings_IsHighAccuracyPSO" xml:space="preserve">
+    <value>Включить открытые предложения в прогнозируемых запасов из оповещения</value>
+  </data>
   <data name="Settings_LocalTimeZone" xml:space="preserve">
     <value>Местный часовой пояс</value>
   </data>

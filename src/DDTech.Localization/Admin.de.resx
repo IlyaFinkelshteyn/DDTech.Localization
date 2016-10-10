@@ -240,6 +240,9 @@
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Sind Spikes in lieferbar</value>
   </data>
+  <data name="Settings_IsHighAccuracyPSO" xml:space="preserve">
+    <value>Sind offene Versorgung im projizierten bestand Warnsignal</value>
+  </data>
   <data name="Settings_LocalTimeZone" xml:space="preserve">
     <value>Lokale Zeitzone</value>
   </data>

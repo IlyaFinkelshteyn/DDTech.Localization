@@ -240,6 +240,9 @@
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Inclure les pics dans le flux disponible</value>
   </data>
+  <data name="Settings_IsHighAccuracyPSO" xml:space="preserve">
+    <value>Comprennent l’approvisionnement ouvert en Stock projetée alerte</value>
+  </data>
   <data name="Settings_LocalTimeZone" xml:space="preserve">
     <value>Fuseau horaire local</value>
   </data>

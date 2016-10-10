@@ -411,11 +411,20 @@
   <data name="rule_NotIncludedIn" xml:space="preserve">
     <value>Nicht enthalten in</value>
   </data>
+  <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
+    <value>EDU basierte laufenden Saldo, um ein R + führen mal kleiner oder gleich Null ist</value>
+  </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Aktueller Lagerbestand ist weniger als % der roten Zone definiert durch Inventar Warnstufe in Puffer Profil (oder Systemvorschlag für Warnstufe)</value>
   </data>
+  <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
+    <value>EDU Basis läuft, R + führen einmal ausgleichen kleiner oder gleich % der roten Zone definiert durch Inventar Warnstufe in Puffer Profil (oder Systemvorschlag für Warnstufe)</value>
+  </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
     <value>Aktueller Lagerbestand ist kleiner als oder gleich Top rot (ToR)</value>
+  </data>
+  <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
+    <value>EDU basierte laufenden Saldo, um ein R + Beschaffungszeit kleiner als oder gleich Top rot (ToR ist)</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Laufenden Kontostands</value>

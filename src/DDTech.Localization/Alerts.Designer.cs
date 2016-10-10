@@ -943,11 +943,29 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Current Inventory Level is less than % of red zone as defined by inventory alert level in buffer profile (or system default for alert level).
+        ///   Looks up a localized string similar to EDU based running balance out to one R+ Lead Time is less than or equal to zero.
+        /// </summary>
+        public static string rule_ProjectedStockOut_Critical2 {
+            get {
+                return ResourceManager.GetString("rule_ProjectedStockOut_Critical2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Current Inventory Level is less than or equal to % of red zone as defined by inventory alert level in buffer profile (or system default for alert level).
         /// </summary>
         public static string rule_ProjectedStockOut_High1 {
             get {
                 return ResourceManager.GetString("rule_ProjectedStockOut_High1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to EDU based running balance out to one R+ Lead Time is less than or equal to % of red zone as defined by inventory alert level in buffer profile (or system default for alert level).
+        /// </summary>
+        public static string rule_ProjectedStockOut_High2 {
+            get {
+                return ResourceManager.GetString("rule_ProjectedStockOut_High2", resourceCulture);
             }
         }
         
@@ -957,6 +975,15 @@ namespace DDTech.Localization {
         public static string rule_ProjectedStockOut_Medium1 {
             get {
                 return ResourceManager.GetString("rule_ProjectedStockOut_Medium1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to EDU based running balance out to one R+ Lead Time is less than or equal to Top of Red (ToR).
+        /// </summary>
+        public static string rule_ProjectedStockOut_Medium2 {
+            get {
+                return ResourceManager.GetString("rule_ProjectedStockOut_Medium2", resourceCulture);
             }
         }
         

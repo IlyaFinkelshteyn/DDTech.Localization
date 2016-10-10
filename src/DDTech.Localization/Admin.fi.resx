@@ -240,6 +240,9 @@
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Piikit ovat saatavilla varastosta</value>
   </data>
+  <data name="Settings_IsHighAccuracyPSO" xml:space="preserve">
+    <value>Ovat avoinna tarjonnan ennustetaan varastossa varoitusta.</value>
+  </data>
   <data name="Settings_LocalTimeZone" xml:space="preserve">
     <value>Paikallisen aikavyöhykkeen</value>
   </data>

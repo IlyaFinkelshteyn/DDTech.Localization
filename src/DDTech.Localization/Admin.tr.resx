@@ -240,6 +240,9 @@
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Sivri mevcut stok dahil</value>
   </data>
+  <data name="Settings_IsHighAccuracyPSO" xml:space="preserve">
+    <value>Uyarı dışarı öngörülen hisse senedi açık kaynağı içerir</value>
+  </data>
   <data name="Settings_LocalTimeZone" xml:space="preserve">
     <value>Yerel Saat dilimi</value>
   </data>

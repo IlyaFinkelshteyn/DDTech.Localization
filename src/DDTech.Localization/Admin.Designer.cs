@@ -430,6 +430,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Include Open Supply in Projected Stock Out Alert.
+        /// </summary>
+        public static string Settings_IsHighAccuracyPSO {
+            get {
+                return ResourceManager.GetString("Settings_IsHighAccuracyPSO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Local Time Zone.
         /// </summary>
         public static string Settings_LocalTimeZone {
@@ -1029,15 +1038,6 @@ namespace DDTech.Localization {
         public static string Settings_WorkOrder {
             get {
                 return ResourceManager.GetString("Settings_WorkOrder", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to .
-        /// </summary>
-        public static string String1 {
-            get {
-                return ResourceManager.GetString("String1", resourceCulture);
             }
         }
     }
