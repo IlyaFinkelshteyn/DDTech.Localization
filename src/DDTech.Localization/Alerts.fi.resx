@@ -411,11 +411,20 @@
   <data name="rule_NotIncludedIn" xml:space="preserve">
     <value>Eivät sisälly</value>
   </data>
+  <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
+    <value>EDU-pitää keskuspaikkanaan juokseva saldo, yksi R + Toimitusaika on pienempi tai yhtä suuri kuin nolla</value>
+  </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Nykyistä varastotilannetta on alle prosenttia punaiselle alueelle määritelty varaston varoitustasosta puskurin profiili (tai varoitustasosta Järjestelmäoletus)</value>
   </data>
+  <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
+    <value>EDU perustuu käynnissä tasapainottavat yksi R + Toimitusaika on enintään % punaiselle alueelle määritelty varaston varoitustasosta puskurin profiili (tai varoitustasosta Järjestelmäoletus)</value>
+  </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
     <value>Nykyinen varaston määrä on enintään Red Top (ToR)</value>
+  </data>
+  <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
+    <value>EDU-pitää keskuspaikkanaan juokseva saldo, yksi R + Toimitusaika on enintään Red Top (ToR)</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Juokseva saldo</value>

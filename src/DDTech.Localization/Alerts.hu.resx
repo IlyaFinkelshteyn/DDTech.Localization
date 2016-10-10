@@ -411,11 +411,20 @@
   <data name="rule_NotIncludedIn" xml:space="preserve">
     <value>Nem szerepel</value>
   </data>
+  <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
+    <value>EDU alapján folyó egyenleg ki egy R + átfutási idő kisebb vagy azzal egyenlő értékre</value>
+  </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Aktuális készletszintet, kisebb, mint %-a vörös zóna meghatározott készletszint riasztási puffer profil (vagy a rendszer alapértelmezett riasztási szint)</value>
   </data>
+  <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
+    <value>EDU-alapú futás egyensúly ki egy R + átfutási idő kisebb vagy egyenlő %-a vörös zóna meghatározott készletszint riasztási puffer profil (vagy a rendszer alapértelmezett riasztási szint)</value>
+  </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
     <value>Aktuális készlet szintje kisebb vagy egyenlő a felső piros (ToR)</value>
+  </data>
+  <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
+    <value>EDU alapján folyó egyenleg ki egy R + átfutási idő kisebb vagy egyenlő a felső piros (ToR)</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Folyó egyenleg</value>

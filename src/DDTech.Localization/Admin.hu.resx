@@ -240,6 +240,9 @@
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Közé tartozik a tüskék a rendelkezésre álló készlet</value>
   </data>
+  <data name="Settings_IsHighAccuracyPSO" xml:space="preserve">
+    <value>Nyitott ellátási bevonni tervezett Készlethiány figyelmeztetés</value>
+  </data>
   <data name="Settings_LocalTimeZone" xml:space="preserve">
     <value>Helyi időzóna</value>
   </data>
