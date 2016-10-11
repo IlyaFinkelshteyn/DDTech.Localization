@@ -298,10 +298,10 @@
     <value>Запаздывание </value>
   </data>
   <data name="LeadTime" xml:space="preserve">
-    <value>Время выполнения</value>
+    <value>Lead Time</value>
   </data>
   <data name="LeadTimeCompression" xml:space="preserve">
-    <value>Изменение графика на {0} дней в связи с уменьшением времени выполнения  </value>
+    <value>Изменение графика на {0} дней в связи с cжатием Lead Time</value>
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Легенда:</value>
@@ -328,7 +328,7 @@
     <value>Мин/Макс</value>
   </data>
   <data name="NBAndLTMPartsNoSizingValues" xml:space="preserve">
-    <value>У номенклатур без буфера (NB) и управляемых с помощью времени выполнения (LTM) нет размерных значений.</value>
+    <value>Ккомплектующие под заказ(LTM) и не буферезируемые(NB) не имеют размера буфера</value>
   </data>
   <data name="NonBuffered" xml:space="preserve">
     <value>Без буфера (NB)</value>
@@ -403,10 +403,10 @@
     <value>Рабочий стол менеджера</value>
   </data>
   <data name="Priority:" xml:space="preserve">
-    <value>Приоритетность:</value>
+    <value>Приоритет:</value>
   </data>
   <data name="PriorityFilter" xml:space="preserve">
-    <value>Фильтр по приоритетности</value>
+    <value>Фильтр по приоритету</value>
   </data>
   <data name="PromiseDate" xml:space="preserve">
     <value>Обещанная дата</value>
@@ -430,13 +430,13 @@
     <value>Требуемая дата</value>
   </data>
   <data name="RPlusLeadTime" xml:space="preserve">
-    <value>Время выполнения R+</value>
+    <value>R+ Lead Time</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Текущий остаток</value>
   </data>
   <data name="SelectPriorityCode" xml:space="preserve">
-    <value>Выберите приоритетность</value>
+    <value>Выберите приоритет </value>
   </data>
   <data name="ShortDateFormatNoYear" xml:space="preserve">
     <value>__month__/__day__</value>
@@ -481,7 +481,7 @@
     <value>UDF</value>
   </data>
   <data name="UnfilteredExport" xml:space="preserve">
-    <value>Нефильтрованное экспорт</value>
+    <value>Эекспорт без фильтров</value>
   </data>
   <data name="Units" xml:space="preserve">
     <value>Единицы</value>
@@ -538,7 +538,7 @@
     <value>Текущий диапазон времени</value>
   </data>
   <data name="Workbench_PartAnalytics_NonBufferedPartsUnsupported" xml:space="preserve">
-    <value>Номенклатура без буфера не поддерживается</value>
+    <value>Номенклатура без буфера(NB) не поддерживается</value>
   </data>
   <data name="Workbench_PartAnalytics_NotEnoughHistory" xml:space="preserve">
     <value>Не достаточно исторических данных для отображения графика</value>

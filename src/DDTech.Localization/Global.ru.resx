@@ -421,16 +421,16 @@
     <value>Показать больше</value>
   </data>
   <data name="TimeZone_Server_Desc1" xml:space="preserve">
-    <value>Отображаемое раз используете настроенный сайт глобального времени настройки</value>
+    <value>Оьображаемое время использует глобальные настройки  даты и времени</value>
   </data>
   <data name="TimeZone_Server_Desc2" xml:space="preserve">
-    <value>Время настройки глобальных параметров страницы</value>
+    <value>Настройки времени возможны на станице Глобальных Настроек</value>
   </data>
   <data name="TimeZoneType_Browser" xml:space="preserve">
     <value>Текущий часовой пояс пользователя (браузер)</value>
   </data>
   <data name="TimeZoneType_Site" xml:space="preserve">
-    <value>Настроенные региональных часовой пояс (сайт)</value>
+    <value>Настраеваемый региональный часовой пояс</value>
   </data>
   <data name="TimeZoneType_UTC" xml:space="preserve">
     <value>Часовой пояс сервера (UTC)</value>

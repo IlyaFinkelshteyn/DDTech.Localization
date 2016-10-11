@@ -127,7 +127,7 @@
     <value>Вы уверены?</value>
   </data>
   <data name="AverageDailyUsage" xml:space="preserve">
-    <value>Среднее дневное потребление (ADU)</value>
+    <value>Ср. дн. потребление</value>
   </data>
   <data name="BufferSizing" xml:space="preserve">
     <value>Параметры буфера </value>
@@ -166,7 +166,7 @@
     <value>Ожидаемый средний запас</value>
   </data>
   <data name="FixedLeadTime" xml:space="preserve">
-    <value>Фиксированное время выполнения </value>
+    <value>Фиксированный Lead Time </value>
   </data>
   <data name="ForecastedDailyUsage" xml:space="preserve">
     <value>Прогноз. дн. потреб.</value>
@@ -202,7 +202,7 @@
     <value>Моделировать номенклатуру</value>
   </data>
   <data name="NBAndLTMPartsNoSizingValues" xml:space="preserve">
-    <value>У номенклатур без буфера (NB) и управляемых с помощью времени выполнения (LTM) нет размерных значений.</value>
+    <value>Ккомплектующие под заказ(LTM) и не буферезируемые(NB) не имеют размера буфера</value>
   </data>
   <data name="NoDataToDisplay" xml:space="preserve">
     <value>Нет данных для отображения</value>
@@ -262,13 +262,13 @@
     <value>Красная</value>
   </data>
   <data name="Rev" xml:space="preserve">
-    <value>Английский Версия</value>
+    <value>Rev</value>
   </data>
   <data name="Revision" xml:space="preserve">
     <value>Редакция</value>
   </data>
   <data name="RPlusLeadTime" xml:space="preserve">
-    <value>Время выполнения R +</value>
+    <value>R+ Lead Time</value>
   </data>
   <data name="Search" xml:space="preserve">
     <value>Поиск</value>

@@ -148,7 +148,7 @@
     <value>Новый R+ лицензия успешно загружены</value>
   </data>
   <data name="NoModulesPurchased" xml:space="preserve">
-    <value>Без дополнительных модулей</value>
+    <value>Без дополнительных модулей, которые приобрели</value>
   </data>
   <data name="OnlyLICFiles" xml:space="preserve">
     <value>Только .lic файлы могут быть загружены</value>

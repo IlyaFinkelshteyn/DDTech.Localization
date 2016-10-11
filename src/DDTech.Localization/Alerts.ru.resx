@@ -157,7 +157,7 @@
     <value>Доступный запас</value>
   </data>
   <data name="AvgDailyUsage" xml:space="preserve">
-    <value>Среднее дневное потребление:</value>
+    <value>Ср. дн. потребление:</value>
   </data>
   <data name="Buy" xml:space="preserve">
     <value>Покуп.</value>
@@ -175,16 +175,16 @@
     <value>Текущий запас</value>
   </data>
   <data name="CurrentInventoryAll" xml:space="preserve">
-    <value>Текущий уровень запаса - Все</value>
+    <value>Текущий запас - Все</value>
   </data>
   <data name="CurrentInventoryCritical" xml:space="preserve">
-    <value>Текущий уровень запаса - Критическая</value>
+    <value>Текущий запас - Критический</value>
   </data>
   <data name="CurrentInventoryHigh" xml:space="preserve">
-    <value>Текущий уровень запаса - Высокая</value>
+    <value>Текущий запас - Высокий</value>
   </data>
   <data name="CurrentInventoryMedium" xml:space="preserve">
-    <value>Текущий уровень запаса - Средняя</value>
+    <value>Текущий запас - Средний</value>
   </data>
   <data name="Customer" xml:space="preserve">
     <value>Клиент</value>
@@ -241,19 +241,19 @@
     <value>Склад</value>
   </data>
   <data name="LTMSummary" xml:space="preserve">
-    <value>LTM резюме</value>
+    <value>Под заказ (LTM) - Все</value>
   </data>
   <data name="LTMSummaryAll" xml:space="preserve">
-    <value>Резюме LTM - Все</value>
+    <value>Под заказ (LTM) - Все</value>
   </data>
   <data name="LTMSummaryHigh" xml:space="preserve">
-    <value>LTM резюме - Высокая</value>
+    <value>Под заказ (LTM) - Высокий</value>
   </data>
   <data name="LTMSummaryLow" xml:space="preserve">
-    <value>LTM резюме - Низкая</value>
+    <value>Под заказ (LTM) - Низкий</value>
   </data>
   <data name="LTMSummaryMedium" xml:space="preserve">
-    <value>LTM резюме -Средняя</value>
+    <value>Под заказ (LTM) - Средний</value>
   </data>
   <data name="Make" xml:space="preserve">
     <value>Изготов.</value>
@@ -265,19 +265,19 @@
     <value>Тип материала</value>
   </data>
   <data name="MSAAll" xml:space="preserve">
-    <value>MSA - Все</value>
+    <value>Синхронизация - Все</value>
   </data>
   <data name="MSACritical" xml:space="preserve">
-    <value>MSA - Критическая</value>
+    <value>Синхронизация - Критический</value>
   </data>
   <data name="MSAHigh" xml:space="preserve">
-    <value>MSA - Высокая</value>
+    <value>Синхронизация - Высокий</value>
   </data>
   <data name="NoAlertSelected" xml:space="preserve">
     <value>Пожалуйста</value>
   </data>
   <data name="NoExecutionAlerts" xml:space="preserve">
-    <value>Оповещения не исполнения</value>
+    <value>Нет оповещений</value>
   </data>
   <data name="None" xml:space="preserve">
     <value>Нет</value>
@@ -310,7 +310,7 @@
     <value>заказ (-ы)</value>
   </data>
   <data name="OrderSpikePriority" xml:space="preserve">
-    <value>Приоритетность пикового заказа</value>
+    <value>Приоритет пикового заказа</value>
   </data>
   <data name="Part" xml:space="preserve">
     <value>Номенклатура</value>
@@ -331,19 +331,19 @@
     <value>Профиль</value>
   </data>
   <data name="ProjectedStockOut" xml:space="preserve">
-    <value>Прогнозируемый аут-оф-сток (PSO)</value>
+    <value>Прогноз. Аутофсток</value>
   </data>
   <data name="ProjectedStockOutAll" xml:space="preserve">
-    <value>Прогнозируемый аут-оф-сток (PSO) - Все</value>
+    <value>Прогноз. Аутофсток - Все</value>
   </data>
   <data name="ProjectedStockOutCritical" xml:space="preserve">
-    <value>Прогнозируемый аут-оф-сток (PSO) - Критическая</value>
+    <value>Прогноз. Аутофсток - Критический</value>
   </data>
   <data name="ProjectedStockOutHigh" xml:space="preserve">
-    <value>Прогнозируемый аут-оф-сток (PSO) - Высокая</value>
+    <value>Прогноз. Аутофсток - Высокий</value>
   </data>
   <data name="ProjectedStockOutMedium" xml:space="preserve">
-    <value>Прогнозируемый аут-оф-сток (PSO) - Средняя</value>
+    <value>Прогноз. Аутофсток - Средний</value>
   </data>
   <data name="PromiseDate" xml:space="preserve">
     <value>Обещаннная дата</value>
@@ -367,7 +367,7 @@
     <value>Требуемая дата</value>
   </data>
   <data name="Rev" xml:space="preserve">
-    <value>Английский Версия</value>
+    <value>Rev</value>
   </data>
   <data name="RPlusAlert" xml:space="preserve">
     <value>Оповещение от R + </value>
@@ -376,40 +376,40 @@
     <value>Применяется к</value>
   </data>
   <data name="rule_CurrentInventory_Critical1" xml:space="preserve">
-    <value>Текущий или просроченные спросом, но не текущей инвентаризации</value>
+    <value>Есть/был спрос - нет текущего запаса</value>
   </data>
   <data name="rule_CurrentInventory_High1" xml:space="preserve">
-    <value>Спрос превышает текущие инвентаризации</value>
+    <value>Спрос выше текущего запаса</value>
   </data>
   <data name="rule_CurrentInventory_High2" xml:space="preserve">
-    <value>Нет текущей инвентаризации, и нет спроса</value>
+    <value>Нет ни запаса, ни спроса</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Заказать за прибыть в менее чем 11% R + время</value>
+    <value>Заказ должен прибыть менее, чем через 11% от Lead Time</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Закажите за прибыть между 33% и 22% R + время.</value>
+    <value>Заказ должен прибыть между 33% и 22% от Lead Time</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Закажите за прибыть между 22% и 11% R + привести времени.</value>
+    <value>Заказ должен прибыть между 22% и 11% от Lead Time</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
-    <value>Есть открытые предложения и спроса в течение времени</value>
+    <value>Есть ожидаемые поставки и спрос в течение Lead Time</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
-    <value>QOH (ток на наличии) &amp;gt; = 0 и, если баланс работает &amp;lt; = 0 в любое время в течение периода привести</value>
+    <value>QOH (тек. запас) = 0 и если доступный запас = 0 в любое время в рамках одного Lead Time</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
-    <value>Имеет открытый спроса в течение времени</value>
+    <value>Есть спрос в рамках одного Lead Time</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
-    <value>QOH (ток на наличии) &amp;gt; = 0 и работает баланс &amp;gt; 0 и &amp;lt; = % ToR в любое время в течение периода привести</value>
+    <value>QOH (тек. запас) = 0 и если доступный запас = % красной зоны в любое время в рамках одного Lead Time</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
-    <value>Имеет отрицательный баланс работает в прошлом</value>
+    <value>Текущий отрицательный баланс</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical2" xml:space="preserve">
-    <value>Имеет отрицательный баланс работает в любое время во время привести временной горизонт</value>
+    <value>Возникнет отрицательный баланс в рамках одного Lead Time</value>
   </data>
   <data name="rule_NotIncludedIn" xml:space="preserve">
     <value>Не включены в</value>
@@ -418,13 +418,13 @@
     <value>EDU на основе текущего остатка на один R + время меньше или равно нулю</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
-    <value>Текущий уровень запасов меньше % красной зоны как определяется уровень оповещения инвентаризации в буфер профиль (или системы по умолчанию для уровня оповещения)</value>
+    <value>Текущий запас ниже  % красной зоны. % определяется в настройках профилей буферов</value>
   </data>
   <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
     <value>EDU на основе выполнения баланса вне один R + время меньше или равно % красной зоны как определено оповещения уровень запаса в профиле буфера (или по умолчанию для уровня оповещения)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
-    <value>Текущий уровень запасов составляет меньше или равно Top красный (Тор)</value>
+    <value>Текущий запас ниже или равен верху красной зоны(TOR)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
     <value>EDU на основе текущего остатка на один R + время меньше или равно Top красного (ToR)</value>
@@ -442,7 +442,7 @@
     <value>Источник</value>
   </data>
   <data name="SPIKE" xml:space="preserve">
-    <value>#NAME?</value>
+    <value>ПИК</value>
   </data>
   <data name="StartDate" xml:space="preserve">
     <value>Дата начала</value>

@@ -127,10 +127,10 @@
     <value>Покуп.</value>
   </data>
   <data name="CriticalAndHigh" xml:space="preserve">
-    <value>Критическая и высокая</value>
+    <value>Критический и Высокий</value>
   </data>
   <data name="CriticalAndHighTrendByPlanner" xml:space="preserve">
-    <value>Риск аут-оф-стока по менеджерам</value>
+    <value>Критический и Высокий по менеджерам</value>
   </data>
   <data name="DateRange" xml:space="preserve">
     <value>Диапазон времени:</value>
@@ -160,7 +160,7 @@
     <value>нет</value>
   </data>
   <data name="OnHand" xml:space="preserve">
-    <value>Наличный запас</value>
+    <value>Текущий запас</value>
   </data>
   <data name="OTOG" xml:space="preserve">
     <value>Излишки</value>

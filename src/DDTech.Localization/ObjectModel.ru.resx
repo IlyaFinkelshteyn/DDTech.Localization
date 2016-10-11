@@ -139,7 +139,7 @@
     <value>Менеджер</value>
   </data>
   <data name="Common_PriorityCode" xml:space="preserve">
-    <value>Приоритетность</value>
+    <value>Приоритет</value>
   </data>
   <data name="Common_Profile" xml:space="preserve">
     <value>Профиль буфера</value>
@@ -181,7 +181,7 @@
     <value>Номер заказа</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_AverageDailyUsage" xml:space="preserve">
-    <value>Среднее дневное потребление</value>
+    <value>Ср. дн. потребление</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_EffectiveDailyUsage" xml:space="preserve">
     <value>Факт. дн. потреб.</value>
@@ -199,7 +199,7 @@
     <value>Дата выполнения</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_IsInventory" xml:space="preserve">
-    <value>#NAME?</value>
+    <value>-Инвентаризация</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Late" xml:space="preserve">
     <value>Поздно</value>
@@ -391,7 +391,7 @@
     <value>Номер номенклатуры</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartKey_Revision" xml:space="preserve">
-    <value>Английский Версия</value>
+    <value>Rev</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_CreatedByUser" xml:space="preserve">
     <value>Создан</value>

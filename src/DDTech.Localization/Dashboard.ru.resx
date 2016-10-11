@@ -148,7 +148,7 @@
     <value>ничего</value>
   </data>
   <data name="NoReminders" xml:space="preserve">
-    <value>Не напоминание(я)</value>
+    <value>Нет напоминаний</value>
   </data>
   <data name="Outstanding" xml:space="preserve">
     <value>Выдающиеся</value>
@@ -160,10 +160,10 @@
     <value>Код менеджера:</value>
   </data>
   <data name="PlanningPriorities" xml:space="preserve">
-    <value>Приоритетность планирования</value>
+    <value>Приоритеты планирования</value>
   </data>
   <data name="ProjectedStockOut" xml:space="preserve">
-    <value>Прогнозируемый аут-оф-сток (PSO)</value>
+    <value>Прогнозируемый Аутофсток</value>
   </data>
   <data name="Reminders" xml:space="preserve">
     <value>Напоминание(я)</value>

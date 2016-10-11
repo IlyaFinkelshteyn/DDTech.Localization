@@ -136,7 +136,7 @@
     <value>дней</value>
   </data>
   <data name="Decoupled_LeadTime" xml:space="preserve">
-    <value>Отделенные время</value>
+    <value>Разбит Lead Time</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Описание:</value>
@@ -145,7 +145,7 @@
     <value>развернуть все</value>
   </data>
   <data name="Lead Time" xml:space="preserve">
-    <value>Время выполнения:</value>
+    <value>Lead Time:</value>
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Условные обозначения:</value>
@@ -178,13 +178,13 @@
     <value>Количество:</value>
   </data>
   <data name="R+ Lead Time" xml:space="preserve">
-    <value>Время выполнения R+:</value>
+    <value>R+ Lead Time:</value>
   </data>
   <data name="refresh" xml:space="preserve">
     <value>обновить</value>
   </data>
   <data name="rev" xml:space="preserve">
-    <value>Английский Версия</value>
+    <value>rev</value>
   </data>
   <data name="Search" xml:space="preserve">
     <value>Поиск</value>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AverageNumberOfDaysBetweenOrderCycles" xml:space="preserve">
-    <value>среднее количество дней между циклами заказа</value>
+    <value>ср. кол-во дней между циклами заказа</value>
   </data>
   <data name="BufferProfile" xml:space="preserve">
     <value>Профиль буфера</value>
@@ -139,7 +139,7 @@
     <value>Опов. о низком запасе</value>
   </data>
   <data name="LeadTime" xml:space="preserve">
-    <value>Время выполнения (LT)</value>
+    <value>Lead Time</value>
   </data>
   <data name="Location" xml:space="preserve">
     <value>Склад</value>
@@ -148,7 +148,7 @@
     <value>Нет данных для отображения</value>
   </data>
   <data name="OrderCycleDays" xml:space="preserve">
-    <value>Дни цикла заказа</value>
+    <value>Дней цыкла заказа</value>
   </data>
   <data name="OrderSpikeHorizon" xml:space="preserve">
     <value>Горизонт пикового заказа</value>
@@ -160,7 +160,7 @@
     <value>% от верха красной зоны (ToR)</value>
   </data>
   <data name="PercentOfUsageOverLeadTime" xml:space="preserve">
-    <value>% потребления за время выполнения</value>
+    <value>% потребления за время Lead Time</value>
   </data>
   <data name="PercentRedZoneBase" xml:space="preserve">
     <value>% основания красной зоны</value>
@@ -202,7 +202,7 @@
     <value>Использовать минимальное заказываемое количество (MOQ) </value>
   </data>
   <data name="UsePercentOfUsageOverLeadTime" xml:space="preserve">
-    <value>Использовать % потребления за время выполнения</value>
+    <value>Использовать % потребления за время Lead Time</value>
   </data>
   <data name="UseSystemSpikeHorizonOf" xml:space="preserve">
     <value>Системный горизонт пика равен</value>

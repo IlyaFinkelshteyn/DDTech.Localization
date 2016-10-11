@@ -187,7 +187,7 @@
     <value>Коэфф. сезон. (PAF)</value>
   </data>
   <data name="ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
-    <value>Горизонт времени выполнения для прогнозируемого аут-оф-стока</value>
+    <value>Горизонт времени Lead Time  для прогнозирование Аутофстока</value>
   </data>
   <data name="RoundBufferValuesToOne" xml:space="preserve">
     <value>Круглая буфера значения для одного</value>

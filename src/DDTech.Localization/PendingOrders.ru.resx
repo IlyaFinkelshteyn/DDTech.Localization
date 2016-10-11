@@ -265,7 +265,7 @@
     <value>Код менеджера</value>
   </data>
   <data name="Priority" xml:space="preserve">
-    <value>Приоритетность</value>
+    <value>Приоритет</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>Профиль</value>

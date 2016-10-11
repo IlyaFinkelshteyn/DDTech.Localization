@@ -178,7 +178,7 @@
     <value>Non-Buffered (NB), обработки окна (WO)</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
-    <value>Окно спроса</value>
+    <value>Окно заказов на отгрузку (дни)</value>
   </data>
   <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
     <value>Эти параметры будут ограничивать, насколько далеко вперед R + будет включать спрос на запчасти. Настроенные значения добавляются к R + свинца время для соответствующих частей. Если значение '5' и часть имеет время R + 5 дней, R + не будут учтены потребности до текущей даты в течение 10 рабочих дней спроса Дата. Если значение '0', R + будет включать только текущие и прошлые должного спроса. Если задано значение «-1' (отключено), R + не будет включать любой спрос.</value>
@@ -355,7 +355,7 @@
     <value>Формат даты</value>
   </data>
   <data name="Settings_User_DateFormat_NoneFound" xml:space="preserve">
-    <value>Столбцы даты</value>
+    <value>Столбцы даты, не найдено</value>
   </data>
   <data name="Settings_User_DateFormat_Title" xml:space="preserve">
     <value>Выберите формат даты и времени</value>

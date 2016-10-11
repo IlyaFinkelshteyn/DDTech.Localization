@@ -135,7 +135,7 @@
     <value>Ошибка при отправке сообщения.</value>
   </data>
   <data name="Error_FailedLogin" xml:space="preserve">
-    <value>Не удалось войти. Пожалуйста попробуйте еще раз</value>
+    <value>Не удалось войти. Пожалуйста, повторите попытку</value>
   </data>
   <data name="Error_PasswordRequired" xml:space="preserve">
     <value>Введите пароль.</value>
@@ -228,7 +228,7 @@
     <value>Текущий пароль</value>
   </data>
   <data name="Password_Expired" xml:space="preserve">
-    <value> you must reset your password. Please check your email for instructions to reset your password.</value>
+    <value>Ваш пароль просрочен. Пожалуйста проверте пошту и следуйте указаным инструкциям для входа в систему</value>
   </data>
   <data name="Password_New" xml:space="preserve">
     <value>Новый пароль</value>

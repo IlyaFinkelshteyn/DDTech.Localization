@@ -121,10 +121,10 @@
     <value>Все</value>
   </data>
   <data name="BufferedPart" xml:space="preserve">
-    <value>Буфферизированная комплектующая</value>
+    <value>Буферизированная комплектующая</value>
   </data>
   <data name="BufferedParts" xml:space="preserve">
-    <value>Буфферизированные комплектующие</value>
+    <value>Буферизированные комплектующие</value>
   </data>
   <data name="Button_Add" xml:space="preserve">
     <value>Добавить</value>
@@ -154,13 +154,13 @@
     <value>Пусто / нет</value>
   </data>
   <data name="LeadTimeManaged" xml:space="preserve">
-    <value>Время выполнения управляемых (LTM)</value>
+    <value>Под заказ</value>
   </data>
   <data name="Loading" xml:space="preserve">
     <value>Загрузка...</value>
   </data>
   <data name="LTMPart" xml:space="preserve">
-    <value>LTM часть</value>
+    <value>Комплектующая под заказ</value>
   </data>
   <data name="LTMParts" xml:space="preserve">
     <value>Комплектующие под заказ</value>

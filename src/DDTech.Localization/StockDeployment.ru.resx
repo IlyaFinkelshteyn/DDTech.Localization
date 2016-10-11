@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AfterDeployment" xml:space="preserve">
-    <value>После развертывания</value>
+    <value>После распределения</value>
   </data>
   <data name="AfterDeploymentAvailabeStock" xml:space="preserve">
     <value>После</value>
@@ -130,7 +130,7 @@
     <value>Доступный для распределения</value>
   </data>
   <data name="BeforeDeployment" xml:space="preserve">
-    <value>Перед развертыванием</value>
+    <value>До распределения</value>
   </data>
   <data name="BeforeDeploymentAvailableStock" xml:space="preserve">
     <value>Перед</value>
@@ -205,7 +205,7 @@
     <value>Выпущенная продукция</value>
   </data>
   <data name="LookAheadDays" xml:space="preserve">
-    <value>Взгляд вперед календарных</value>
+    <value>Взгляд вперед в календарных днях</value>
   </data>
   <data name="MinimumHoldbackPercentOfRed" xml:space="preserve">
     <value>Мин. кол-во в резерве</value>
@@ -223,10 +223,10 @@
     <value>Потребность</value>
   </data>
   <data name="ResetOverride" xml:space="preserve">
-    <value>Сбросить переопределения</value>
+    <value>Сбросить изменения</value>
   </data>
   <data name="Settings_DecimalPlacesForCalculations" xml:space="preserve">
-    <value>После запятой для использования для расчетов</value>
+    <value>Количество знаков после запятой</value>
   </data>
   <data name="Settings_Disabled" xml:space="preserve">
     <value>Модуль дистрибуции отключен</value>
@@ -235,10 +235,10 @@
     <value>Имя экспортируемого файла/файла экспорта</value>
   </data>
   <data name="Settings_MinimumHoldbackPercentOfRed_Desc" xml:space="preserve">
-    <value>(Только для развертывания хаб)</value>
+    <value>(Только для дистрибуции)</value>
   </data>
   <data name="Settings_SourceOverride" xml:space="preserve">
-    <value>Источник переопределения</value>
+    <value>изменить источник</value>
   </data>
   <data name="Settings_SourceUnitFieldNum" xml:space="preserve">
     <value>Настраиваемое поле для расположения источника</value>
@@ -280,9 +280,9 @@
     <value>Резюме</value>
   </data>
   <data name="TotalDeployed" xml:space="preserve">
-    <value>Всего развертывания</value>
+    <value>Всего распределено</value>
   </data>
   <data name="TotalDeployedToBuffers" xml:space="preserve">
-    <value>Развернута в буферы</value>
+    <value>Распределено в буферы</value>
   </data>
 </root>
