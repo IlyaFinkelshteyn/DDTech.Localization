@@ -169,7 +169,7 @@
     <value>Fenêtre de traitement dans la mémoire tampon (WO)</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
-    <value>Fenêtre de traitement de commande de demande pour les pièces sans tampon</value>
+    <value>Horizon de traitement de la demande pour les articles non stockées </value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
     <value>Non-Buffered (NB) de traitement de fenêtre (SO)</value>
@@ -178,7 +178,7 @@
     <value>Non-Buffered (NB) de traitement de fenêtre (WO)</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
-    <value>Fenêtre de commande de la demande</value>
+    <value>Horizon de demande (jours)</value>
   </data>
   <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
     <value>Ces paramètres seront limitera à quelle distance avant R + comprendra demande de pièces. Valeurs configurées sont ajoutés à la R + délai d’exécution pour faire correspondre les pièces. Si l’est réglé sur '5' et une partie a un délai de production de R + 5 jours, R + ne tient pas compte de la demande jusqu'à ce que la date actuelle est dans les 10 jours ouvrables de la demande date d’échéance. Si la valeur '0', R + n’inclut que dûment actuel et passé la demande. Si la valeur « -1' (désactivé), R + n’inclura pas n’importe quelle demande.</value>
@@ -373,19 +373,19 @@
     <value>nom d’utilisateur uniquement</value>
   </data>
   <data name="Settings_User_LogoutAfter" xml:space="preserve">
-    <value>Utilisateurs de se déconnecter automatiquement après une période d’inactivité ? (heures)</value>
+    <value>Déconnecter automatiquement les utilisateurs après une période d'inactivité? (heures) </value>
   </data>
   <data name="Settings_User_LogoutAfter_RememberMe" xml:space="preserve">
-    <value>Permet aux utilisateurs « Se souvenir de moi » pour rester connecté.</value>
+    <value>Les utilisateurs peuvent utiliser « Se souvenir de moi » pour rester connectés</value>
   </data>
   <data name="Settings_User_LogoutAll" xml:space="preserve">
-    <value>Forcer tous les utilisateurs de se connecter à nouveau ?</value>
+    <value>	Forcer tous les utilisateurs à se connecter à nouveau ?	</value>
   </data>
   <data name="Settings_User_LogoutAll_Action" xml:space="preserve">
-    <value>Se déconnecter tous les utilisateurs</value>
+    <value>Déconnecter tous les utilisateurs</value>
   </data>
   <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
-    <value>Cela provoquera également tous les utilisateurs, y compris l’utilisateur en cours, afin d’exiger de se connecter à nouveau. Aller de l’avant ?</value>
+    <value>Cela impliquera que tous les utilisateurs, y compris l'utilisateur actuel, devront se connecter à nouveau. Continuer?</value>
   </data>
   <data name="Settings_User_MinimumLength" xml:space="preserve">
     <value>Longueur minimale ?</value>

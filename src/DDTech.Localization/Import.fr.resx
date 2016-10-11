@@ -178,7 +178,7 @@
     <value>Purger les commandes en attente/exportées lors de l'import</value>
   </data>
   <data name="Records" xml:space="preserve">
-    <value>Comptes rendus</value>
+    <value>Enregistrements  </value>
   </data>
   <data name="RecordsIgnoredMessageFormat" xml:space="preserve">
     <value>{0} enregistrements ont été ignorés en raison du paramétrage</value>

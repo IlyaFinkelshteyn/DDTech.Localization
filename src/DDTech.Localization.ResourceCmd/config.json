@@ -156,6 +156,7 @@
             "Bill Of Material": "Nomenclature",
             "True": "TRUE",
             "False": "FALSE",
+            "NB": "NB", 
             "UserDefined1": "Champ utilisateur 1",
             "UserDefined2": "Champ utilisateur 2",
             "UserDefined3": "Champ utilisateur 3",

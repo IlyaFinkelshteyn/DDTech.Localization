@@ -505,7 +505,7 @@
     <value>Êtes-vous sûr de vouloir continuer ?</value>
   </data>
   <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
-    <value>« Veuillez entrer la quantité d'ordre »</value>
+    <value>« Veuillez entrer la quantité »</value>
   </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
     <value>La quantité est supérieure à la valeur recommandée</value>
