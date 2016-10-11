@@ -121,7 +121,7 @@
     <value>Kuvaus</value>
   </data>
   <data name="Common_Late" xml:space="preserve">
-    <value>Myöhään</value>
+    <value>Myöhässä</value>
   </data>
   <data name="Common_MaterialType" xml:space="preserve">
     <value>Materiaalin tyyppi</value>
@@ -133,7 +133,7 @@
     <value>Tilauksen tyyppi</value>
   </data>
   <data name="Common_PartType" xml:space="preserve">
-    <value>Osan tyyppi</value>
+    <value>Tuotteen tyyppi</value>
   </data>
   <data name="Common_PlannerCode" xml:space="preserve">
     <value>Suunnittelija</value>
@@ -157,16 +157,16 @@
     <value>Mittayksikkö</value>
   </data>
   <data name="Common_Vendor" xml:space="preserve">
-    <value>Toimittajan</value>
+    <value>Toimittaja</value>
   </data>
   <data name="Common_VendorId" xml:space="preserve">
     <value>Toimittajatunnus</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_Customer" xml:space="preserve">
-    <value>Asiakkaan</value>
+    <value>Asiakas</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_LinkCode" xml:space="preserve">
-    <value>Koodi</value>
+    <value>LinkkiKoodi</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_OrderId" xml:space="preserve">
     <value>Tilauksen tunnus</value>
@@ -175,22 +175,22 @@
     <value>Tilausnumero</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_RecommendedOrderQty" xml:space="preserve">
-    <value>Suositellut tilauksen määrä</value>
+    <value>Suositeltu tilausmäärä</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_OrderKey_OrderNumber" xml:space="preserve">
     <value>Tilausnumero</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_AverageDailyUsage" xml:space="preserve">
-    <value>Keskimääräinen päivittäinen käyttö</value>
+    <value>Keskimääräinen päivittäinen käyttö (ADU)</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_EffectiveDailyUsage" xml:space="preserve">
-    <value>Tehokas päivittäinen käyttö</value>
+    <value>Sovellettu päivittäinen käyttö</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_FixedLeadTime" xml:space="preserve">
-    <value>Kiinteä Toimitusaika</value>
+    <value>Kiinteä läpimenoaika</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_ForecastedDailyUsage" xml:space="preserve">
-    <value>Ennustetut päivittäinen käyttö</value>
+    <value>Ennustetut päivittäinen käyttö (FDU)</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Date" xml:space="preserve">
     <value>Päivämäärä</value>
@@ -199,7 +199,7 @@
     <value>Eräpäivä</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_IsInventory" xml:space="preserve">
-    <value>On varasto</value>
+    <value>On varastoa</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Line" xml:space="preserve">
     <value>Rivi</value>
@@ -208,34 +208,34 @@
     <value>Tilauksen päivämäärä</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderSpikePriority" xml:space="preserve">
-    <value>Tilauksen piikki prioriteetti</value>
+    <value>Tilauspiikki prioriteetti</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderType" xml:space="preserve">
     <value>Tila</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_PromiseDate" xml:space="preserve">
-    <value>Lupaus päivämäärä</value>
+    <value>Luvattu pvm</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_QualifiedDemandOrder" xml:space="preserve">
-    <value>Pätevä kysynnästä</value>
+    <value>Pätevä kysyntätilaus</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_ReminderStatus" xml:space="preserve">
-    <value>Muistutus tila</value>
+    <value>Muistutuksen tila</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_RequestDate" xml:space="preserve">
-    <value>Pyynnön päivämäärä</value>
+    <value>Pyydetty pvm</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_RunningQuantity" xml:space="preserve">
     <value>Juokseva saldo</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_RunningTotalAdjustment" xml:space="preserve">
-    <value>Jatkuva muutos yhteensä</value>
+    <value>Rullaava muutos yhteensä</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_StartDate" xml:space="preserve">
     <value>Alkamispäivä</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_ThirdParty" xml:space="preserve">
-    <value>Toimittajan</value>
+    <value>Toimittaja</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_ThirdPartyId" xml:space="preserve">
     <value>Toimittajatunnus</value>
@@ -244,7 +244,7 @@
     <value>Tyyppi</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AdjustmentFactor" xml:space="preserve">
-    <value>Muutoskerroin</value>
+    <value>Säätötekijä</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertDescription" xml:space="preserve">
     <value>Ilmoituksen kuvaus</value>
@@ -262,13 +262,13 @@
     <value>Laji</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStock" xml:space="preserve">
-    <value>Saatavilla varastosta</value>
+    <value>Saatavilla oleva varasto</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStockPercentage" xml:space="preserve">
-    <value>%-lta puskuroida</value>
+    <value>%-ia puskurista</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_CurrentInventoryStatus" xml:space="preserve">
-    <value>CI tila</value>
+    <value>Nykyvaraston tila</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_DemandAllocations" xml:space="preserve">
     <value>Kysynnän kohdistukset</value>
@@ -277,22 +277,22 @@
     <value>Eräpäivä</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_GreenZoneSize" xml:space="preserve">
-    <value>Green Zone puskurikoko</value>
+    <value>Vihreä vyöhyke puskurikoko</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryMethod" xml:space="preserve">
-    <value>Luettelointitavan</value>
+    <value>Varasto-ohjaustapa</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryQty" xml:space="preserve">
     <value>Varaston määrä</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_IssuedQty" xml:space="preserve">
-    <value>Myönnetty määrä</value>
+    <value>Asetettu määrä</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_LeadTimeStatus" xml:space="preserve">
     <value>LTM tila</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_LTMTotalOrders" xml:space="preserve">
-    <value>LTM kaikista tilauksista</value>
+    <value>LTM kaikki tilaukset</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_MaterialSynchronizationDate" xml:space="preserve">
     <value>MSA päivämäärä</value>
@@ -301,7 +301,7 @@
     <value>MSA tila</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OnHandQty" xml:space="preserve">
-    <value>Käsillä</value>
+    <value>Vapaasti toimitettavissa</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMaximumQty" xml:space="preserve">
     <value>Tilauksen enimmäismäärä</value>
@@ -310,7 +310,7 @@
     <value>Minimitilaus</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMultipleQty" xml:space="preserve">
-    <value>Tilata useita</value>
+    <value>Tilauksen määräkerroin</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderSpikeAlert" xml:space="preserve">
     <value>Piikki</value>
@@ -319,43 +319,43 @@
     <value>% Top punainen</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Säätö tekijä nimi</value>
+    <value>Säätötekijän nimi</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_PlannedAdjustmentFactorValue" xml:space="preserve">
-    <value>Säätö tekijä arvo</value>
+    <value>Säätötekijän arvo</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_ProjectedStockOutBufferPercent" xml:space="preserve">
-    <value>PSO %-lta puskuroida</value>
+    <value>PSO % puskurista</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_ProjectedStockOutStatus" xml:space="preserve">
     <value>PSO tila</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_PromiseDate" xml:space="preserve">
-    <value>Lupaus päivämäärä</value>
+    <value>Luvattu pvm</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_Quantity" xml:space="preserve">
-    <value>Järjestä kpl</value>
+    <value>Täydennystilauksen määrä</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_RedZoneBase" xml:space="preserve">
-    <value>Punainen vyöhyke puskurikoko</value>
+    <value>Punaisen vyöhykkeen puskurikoko</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_ReminderStatus" xml:space="preserve">
-    <value>Tilaa Notes</value>
+    <value>Tilauksen kommentit</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_ReorderPoint" xml:space="preserve">
     <value>R+ hälytys</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_RPlusLeadTime" xml:space="preserve">
-    <value>RPlus Toimitusaika</value>
+    <value>RPlus Läpimenoaika</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_StockOutDate" xml:space="preserve">
-    <value>Varastossa rikki ajoittaa:</value>
+    <value>Stock Out pvm:</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_SupplyOrders" xml:space="preserve">
-    <value>Toimitustilaukset</value>
+    <value>Hankintatilaukset</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TargetedInventory" xml:space="preserve">
-    <value>Kohdistettuja varaston</value>
+    <value>Tavoitevarasto</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfGreen" xml:space="preserve">
     <value>ToG</value>
@@ -367,31 +367,31 @@
     <value>ToY</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_YellowZoneSize" xml:space="preserve">
-    <value>Keltaisella vyöhykkeellä puskurikoko</value>
+    <value>Keltaisen vyöhykkeen puskurikoko</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartKey_Location" xml:space="preserve">
     <value>Sijainti</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartKey_PartNumber" xml:space="preserve">
-    <value>Osan numero</value>
+    <value>Tuotteen numero</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartKey_Revision" xml:space="preserve">
     <value>Rev</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_CreatedByUser" xml:space="preserve">
-    <value>Luoma</value>
+    <value>Luonut</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_ExtendedCost" xml:space="preserve">
     <value>Laajennettu hinta</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_InventoryPlanning" xml:space="preserve">
-    <value>Inventory suunnittelu</value>
+    <value>Varastosuunnittelu</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_LineItem" xml:space="preserve">
-    <value>Rivinimike</value>
+    <value>Rivin tuote</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_PercOfBuffer" xml:space="preserve">
-    <value>%-lta puskuroida</value>
+    <value>%-ia puskurista</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_SalesOrderNumber" xml:space="preserve">
     <value>Myyntitilauksen numero</value>
@@ -403,13 +403,13 @@
     <value>Varianssi</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_VarianceCost" xml:space="preserve">
-    <value>Varianssi kustannukset</value>
+    <value>Varianssikustannukset</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_VarianceNotes" xml:space="preserve">
-    <value>Varianssi toteaa</value>
+    <value>Varianssi kommentit</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_RecommendedOrder_SuppressOrderQtyRules" xml:space="preserve">
-    <value>Tukahduttaa määrä säännöt</value>
+    <value>Ohita tilauksen määräsäännöt</value>
   </data>
   <data name="Demand" xml:space="preserve">
     <value>Kysynnän</value>

@@ -124,13 +124,13 @@
     <value>Sähköposti</value>
   </data>
   <data name="Expires" xml:space="preserve">
-    <value>Päättyy</value>
+    <value>Menee umpeen</value>
   </data>
   <data name="LicenseDetails" xml:space="preserve">
     <value>Lisenssin tiedot</value>
   </data>
   <data name="LicensedSites" xml:space="preserve">
-    <value>Lisensoitu sivustot</value>
+    <value>Lisensoitu sivusto</value>
   </data>
   <data name="LicenseExpired" xml:space="preserve">
     <value>R+ käyttöoikeussopimus on vanhentunut.</value>
@@ -142,19 +142,19 @@
     <value>R-tilauksesi on voimassa ikuisesti</value>
   </data>
   <data name="LicenseValidUntil" xml:space="preserve">
-    <value>R-tilauksesi on voimassa</value>
+    <value>R-tilauksesi on voimassaolo </value>
   </data>
   <data name="NewLicenseUploaded" xml:space="preserve">
     <value>Uusi R+ lisenssi ladattu</value>
   </data>
   <data name="NoModulesPurchased" xml:space="preserve">
-    <value>Ei ostettu lisämoduulit</value>
+    <value>Lisämoduuleja ei ole hankittu</value>
   </data>
   <data name="OnlyLICFiles" xml:space="preserve">
     <value>Vain .lic tiedostoja voidaan ladata</value>
   </data>
   <data name="PurchasedModules" xml:space="preserve">
-    <value>Ostettu moduulit</value>
+    <value>Ostetut moduulit</value>
   </data>
   <data name="UploadNewLicense" xml:space="preserve">
     <value>Lataa uusi R+ lisenssi</value>

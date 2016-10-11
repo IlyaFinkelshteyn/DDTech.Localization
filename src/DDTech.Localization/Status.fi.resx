@@ -121,13 +121,13 @@
     <value>Tuoterakenne</value>
   </data>
   <data name="BufferProfile" xml:space="preserve">
-    <value>Puskurin profiili</value>
+    <value>Puskuriprofiili</value>
   </data>
   <data name="CreateChildAllocationsOnPendingOrderCreation" xml:space="preserve">
-    <value>Luo lapsi kohdistukset ennen tilauksen luominen</value>
+    <value>Tee BOM-lasten kohdistukset odottavien tilausten luonnin yhteydessä</value>
   </data>
   <data name="CreateChildAllocationsOnSupplyOrderImport" xml:space="preserve">
-    <value>Luo lapsi kohdistukset tarjonnan aste tuotaessa</value>
+    <value>Tee BOM-lasten kohdistukset hankintatilausten tuonnin yhteydessä</value>
   </data>
   <data name="CurrentLocalTime" xml:space="preserve">
     <value>Nykyinen paikallinen aika</value>
@@ -136,61 +136,61 @@
     <value>Nykyinen aikavyöhyke</value>
   </data>
   <data name="DataSetStatistics" xml:space="preserve">
-    <value>Tietojoukon tilastot</value>
+    <value>Data-tauluja koskevat tilastot</value>
   </data>
   <data name="DefaultInventoryAlertLevel" xml:space="preserve">
-    <value>Oletus varaston ilmoitustaso</value>
+    <value>Varastohälytyksen oletustaso</value>
   </data>
   <data name="DefaultOrderSpikeAlertLevel" xml:space="preserve">
-    <value>Laiminlyöminen jotta piikki ilmoitustaso</value>
+    <value>Tilauspiikkihälytyksen oletustaso</value>
   </data>
   <data name="DefaultOrderSpikeHorizonLevel" xml:space="preserve">
-    <value>Jotta piikki Horizon Oletustaso</value>
+    <value>Tilauspiikin aikahorisontin oletustaso</value>
   </data>
   <data name="DemandOrder" xml:space="preserve">
-    <value>Kysynnästä</value>
+    <value>Kysyntätilaus</value>
   </data>
   <data name="DemandOrderWindowForSalesOrders" xml:space="preserve">
-    <value>Kysynnän ikkuna myyntitilausten</value>
+    <value>Myyntitilausten kysyntäikkuna</value>
   </data>
   <data name="DemandOrderWindowForWorkOrders" xml:space="preserve">
-    <value>Kysynnän tilausikkunan Työtilaukset</value>
+    <value>Työtilausten kysyntäikkuna</value>
   </data>
   <data name="ForecastedDemand" xml:space="preserve">
-    <value>Ennustettu kysynnän</value>
+    <value>Ennustettu kysyntä</value>
   </data>
   <data name="HistoryCaptureLog_Btn" xml:space="preserve">
-    <value>Historia kaapata Log</value>
+    <value>Historia loki</value>
   </data>
   <data name="LastUpdated" xml:space="preserve">
     <value>Viimeksi päivitetty</value>
   </data>
   <data name="LocalTimeZoneInfo" xml:space="preserve">
-    <value>Paikallinen aikavyöhyketiedot</value>
+    <value>Paikalliset aikavyöhyketiedot</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Osa</value>
+    <value>Tuote</value>
   </data>
   <data name="PartAugment" xml:space="preserve">
-    <value>Osa laajentaa</value>
+    <value>Tuotetietojen lisäykset</value>
   </data>
   <data name="PartBufferSizing" xml:space="preserve">
-    <value>Osa puskurin koon</value>
+    <value>Tuotteen puskurikoon määritys</value>
   </data>
   <data name="PartInventory" xml:space="preserve">
-    <value>Osa varaston</value>
+    <value>Tuotteen varasto</value>
   </data>
   <data name="PerformanceMetrics" xml:space="preserve">
-    <value>Suorituskyvyn mittarit</value>
+    <value>Suorituskykymittarit</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Suunniteltu Muutoskerroin</value>
+    <value>Suunniteltu Säätötekijä</value>
   </data>
   <data name="ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
-    <value>Ennustetaan varastossa, Toimitusaika Horizon</value>
+    <value>Ennustetun Stock Outin läpimenoaikahorisontti</value>
   </data>
   <data name="RoundBufferValuesToOne" xml:space="preserve">
-    <value>Pyöreä puskuri arvot yhteen</value>
+    <value>Pyöristä puskuriarvot arvoon yksi</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Asetukset</value>
@@ -199,7 +199,7 @@
     <value>Sivuston tila</value>
   </data>
   <data name="SupplyOrder" xml:space="preserve">
-    <value>Toimitustilauksen</value>
+    <value>Hankintatilaus</value>
   </data>
   <data name="UserDefined1" xml:space="preserve">
     <value>Käyttäjän määrittämä 1</value>
@@ -226,6 +226,6 @@
     <value>Käyttäjän määrittämä 8</value>
   </data>
   <data name="ViewAdditionalStatusDetails" xml:space="preserve">
-    <value>Lisätilaa tarkasteleminen</value>
+    <value>Katso statuksen lisäyksityiskohdat</value>
   </data>
 </root>

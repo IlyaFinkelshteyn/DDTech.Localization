@@ -121,7 +121,7 @@
     <value>Lisää</value>
   </data>
   <data name="AddNewPart" xml:space="preserve">
-    <value>Lisää uusi osa</value>
+    <value>Lisää uusi Tuote</value>
   </data>
   <data name="AreYouSure" xml:space="preserve">
     <value>Oletko varma?</value>
@@ -136,10 +136,10 @@
     <value>Puskuri arvot ristiriidassa tekee kaavion.</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Ostaa</value>
+    <value>Osto</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
-    <value>Vahvista poistaminen</value>
+    <value>Vahvista poisto</value>
   </data>
   <data name="CurrentPAFIs" xml:space="preserve">
     <value>Nykyinen PAF on</value>
@@ -148,7 +148,7 @@
     <value>Päivän kulutus</value>
   </data>
   <data name="DecoupledLeadTime" xml:space="preserve">
-    <value>Tuotannosta toimitusajan</value>
+    <value>Eriytetty läpimenoaika</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Kuvauksessa/valvonta:</value>
@@ -166,7 +166,7 @@
     <value>Oletettu Avg varasto</value>
   </data>
   <data name="FixedLeadTime" xml:space="preserve">
-    <value>Kiinteä Toimitusaika</value>
+    <value>Kiinteä Läpimenoaika</value>
   </data>
   <data name="ForecastedDailyUsage" xml:space="preserve">
     <value>Ennustetut päivittäinen käyttö</value>
@@ -181,7 +181,7 @@
     <value>Sijainti</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Tehdä</value>
+    <value>Valmistus</value>
   </data>
   <data name="MaterialType" xml:space="preserve">
     <value>Materiaalin tyyppi</value>
@@ -199,13 +199,13 @@
     <value>Minimitilaus</value>
   </data>
   <data name="ModelAPart" xml:space="preserve">
-    <value>Mallin osa</value>
+    <value>Tuotteen malli</value>
   </data>
   <data name="NBAndLTMPartsNoSizingValues" xml:space="preserve">
     <value>Puskuroimaton ja johtaa aikaa ylläpito on mitoitus arvoja.</value>
   </data>
   <data name="NoDataToDisplay" xml:space="preserve">
-    <value>Ei tietoa n├ñytett├ñv├ñksi</value>
+    <value>Ei tietoa näytettäväksi</value>
   </data>
   <data name="Notes" xml:space="preserve">
     <value>Muistiinpanot</value>
@@ -223,28 +223,28 @@
     <value>Raaka kustannukset</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Osa</value>
+    <value>Tuote</value>
   </data>
   <data name="PartAddedSuccessfully" xml:space="preserve">
-    <value>Osan lisääminen onnistui</value>
+    <value>Tuotteen lisääminen onnistui</value>
   </data>
   <data name="PartDeletedSuccessfully" xml:space="preserve">
-    <value>Poistettu osa</value>
+    <value>Tuotepoisto ok</value>
   </data>
   <data name="PartNumber" xml:space="preserve">
-    <value>Osan numero</value>
+    <value>Tuotteen numero</value>
   </data>
   <data name="PartSavedSuccessfully" xml:space="preserve">
-    <value>Osan tallentaminen onnistui</value>
+    <value>Tuotteen tallentaminen onnistui</value>
   </data>
   <data name="PartsEdit" xml:space="preserve">
     <value>Osien muokkaaminen</value>
   </data>
   <data name="PartType" xml:space="preserve">
-    <value>Osan tyyppi</value>
+    <value>Tuotteen tyyppi</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Suunniteltu Muutoskerroin</value>
+    <value>Suunniteltu Säätötekijä</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
     <value>Suunnittelija koodi</value>
@@ -268,7 +268,7 @@
     <value>Etsi</value>
   </data>
   <data name="SearchPart" xml:space="preserve">
-    <value>Etsi osa...</value>
+    <value>Etsi Tuote...</value>
   </data>
   <data name="SearchResults" xml:space="preserve">
     <value>Hakutulokset</value>
@@ -283,10 +283,10 @@
     <value>Top Green</value>
   </data>
   <data name="TopOfGreenCannotBeLessThanTopOfYellow" xml:space="preserve">
-    <value>Top Green ei voi olla alle Top keltainen</value>
+    <value>Top Vihreä ei voi olla alle Top keltainen</value>
   </data>
   <data name="TopOfRed" xml:space="preserve">
-    <value>Alkuun punainen</value>
+    <value>Top punainen</value>
   </data>
   <data name="TopOfYellow" xml:space="preserve">
     <value>Top keltainen</value>
@@ -331,7 +331,7 @@
     <value>Käyttäjän määrittämät kentät</value>
   </data>
   <data name="Vendor" xml:space="preserve">
-    <value>Toimittaja:</value>
+    <value>Toimittaja</value>
   </data>
   <data name="VendorIdentifier" xml:space="preserve">
     <value>Toimittajan tunnus</value>
@@ -340,6 +340,6 @@
     <value>Keltainen</value>
   </data>
   <data name="ZoneSize" xml:space="preserve">
-    <value>Alueen kokoa</value>
+    <value>Vyöhykkeen koko</value>
   </data>
 </root>

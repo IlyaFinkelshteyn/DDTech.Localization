@@ -124,28 +124,28 @@
     <value>Oletko varma?</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Ostaa</value>
+    <value>Osto</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Peruuta</value>
   </data>
   <data name="Commit" xml:space="preserve">
-    <value>Commit</value>
+    <value>Sitoumus</value>
   </data>
   <data name="CommitAllPendingOrders" xml:space="preserve">
-    <value>Vahvista kaikki odottavat toimeksiannot</value>
+    <value>Vahvista kaikki odottavat tilaukset</value>
   </data>
   <data name="CommitSelectedPendingOrders" xml:space="preserve">
-    <value>Valittu odottavien toimeksiantojen toteutuksen</value>
+    <value>Vahvista valitut odottavat tilaukset</value>
   </data>
   <data name="Committed" xml:space="preserve">
     <value>Sitoutunut</value>
   </data>
   <data name="ConfirmCommitOrders" xml:space="preserve">
-    <value>Oletko varma, että toimitettavat tilaukset?</value>
+    <value>Oletko varma, että haluat vahvistaa nämä tilaukset?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
-    <value>Vahvista poistaminen</value>
+    <value>Vahvista poisto</value>
   </data>
   <data name="ConfirmDeleteOrders" xml:space="preserve">
     <value>Oletko varma, että haluat poistaa nämä tilaukset?</value>
@@ -154,7 +154,7 @@
     <value>Kriittinen</value>
   </data>
   <data name="Customer" xml:space="preserve">
-    <value>Asiakkaan</value>
+    <value>Asiakas</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Poista</value>
@@ -169,7 +169,7 @@
     <value>Kuvaus</value>
   </data>
   <data name="DownloadAllPendingOrders" xml:space="preserve">
-    <value>Lataa kaikki odottavat toimeksiannot (lähetys)</value>
+    <value>Lataa kaikki odottavat tilaukset (Ei vahvistetut)</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Vienti</value>
@@ -178,7 +178,7 @@
     <value>Vie kaikki tilaukset</value>
   </data>
   <data name="Exported" xml:space="preserve">
-    <value>Viedä</value>
+    <value>Viety</value>
   </data>
   <data name="ExportSelectedOrders" xml:space="preserve">
     <value>Vie valitut tilaukset</value>
@@ -193,13 +193,13 @@
     <value>Korkea</value>
   </data>
   <data name="Late" xml:space="preserve">
-    <value>Myöhään</value>
+    <value>Myöhässä</value>
   </data>
   <data name="LineItem" xml:space="preserve">
-    <value>Rivinimike</value>
+    <value>Rivin tuote</value>
   </data>
   <data name="LinkCode" xml:space="preserve">
-    <value>Koodi</value>
+    <value>LinkkiKoodi</value>
   </data>
   <data name="Location" xml:space="preserve">
     <value>Sijainti</value>
@@ -208,31 +208,31 @@
     <value>Matala</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Tehdä</value>
+    <value>Valmistus</value>
   </data>
   <data name="MaterialType" xml:space="preserve">
     <value>Materiaalin tyyppi</value>
   </data>
   <data name="Medium" xml:space="preserve">
-    <value>Normaali</value>
+    <value>Medium</value>
   </data>
   <data name="NoDataTodisplay" xml:space="preserve">
-    <value>Ei tietoa n├ñytett├ñv├ñksi</value>
+    <value>Ei tietoa näytettäväksi</value>
   </data>
   <data name="none" xml:space="preserve">
     <value>ei mitään</value>
   </data>
   <data name="NoPendingOrders" xml:space="preserve">
-    <value>Eivät ole odottavat toimeksiannot</value>
+    <value>Ei odottavia tilauksia</value>
   </data>
   <data name="Notes" xml:space="preserve">
-    <value>Muistiinpanot</value>
+    <value>Kommentit</value>
   </data>
   <data name="of" xml:space="preserve">
     <value> ja </value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>Okei</value>
+    <value>Ok</value>
   </data>
   <data name="Order" xml:space="preserve">
     <value>Tilaus</value>
@@ -247,10 +247,10 @@
     <value>OToG</value>
   </data>
   <data name="PartNumber" xml:space="preserve">
-    <value>Osan numero</value>
+    <value>Tuotteen numero</value>
   </data>
   <data name="PartType" xml:space="preserve">
-    <value>Osan tyyppi</value>
+    <value>Tuotteen tyyppi</value>
   </data>
   <data name="Pending" xml:space="preserve">
     <value>Vireillä</value>
@@ -259,7 +259,7 @@
     <value>Odottavat toimeksiannot</value>
   </data>
   <data name="PercentOfBuffer" xml:space="preserve">
-    <value>%-lta puskuroida</value>
+    <value>%-ia puskurista</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
     <value>Suunnittelija koodi</value>
@@ -271,22 +271,22 @@
     <value>Profiili</value>
   </data>
   <data name="PromiseDate" xml:space="preserve">
-    <value>Lupaus päivämäärä</value>
+    <value>Luvattu pvm</value>
   </data>
   <data name="Quantity" xml:space="preserve">
     <value>Määrä</value>
   </data>
   <data name="Recommended" xml:space="preserve">
-    <value>Suositellut</value>
+    <value>Suositeltu</value>
   </data>
   <data name="RequestDate" xml:space="preserve">
-    <value>Pyynnön päivämäärä</value>
+    <value>Pyydetty pvm</value>
   </data>
   <data name="ReviewRecommendedOrders" xml:space="preserve">
-    <value>Review myydyin tilaukset</value>
+    <value>Tarkista tilaussuositukset</value>
   </data>
   <data name="Revision" xml:space="preserve">
-    <value>Tarkistaminen</value>
+    <value>Versio</value>
   </data>
   <data name="SalesOrderNumber" xml:space="preserve">
     <value>Myyntitilauksen numero</value>
@@ -309,8 +309,14 @@
   <data name="Status" xml:space="preserve">
     <value>Tila</value>
   </data>
+  <data name="Status3" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Status4" xml:space="preserve">
+    <value />
+  </data>
   <data name="TotalOrders" xml:space="preserve">
-    <value>Kaikista tilauksista</value>
+    <value>Kaikki tilaukset</value>
   </data>
   <data name="Unit" xml:space="preserve">
     <value>Yksikkö</value>
@@ -319,13 +325,13 @@
     <value>Varianssi</value>
   </data>
   <data name="VarianceCost" xml:space="preserve">
-    <value>Varianssi kustannukset</value>
+    <value>Varianssikustannukset</value>
   </data>
   <data name="VarianceNotes" xml:space="preserve">
-    <value>Varianssi toteaa</value>
+    <value>Varianssi kommentit</value>
   </data>
   <data name="Vendor" xml:space="preserve">
-    <value>Toimittajan</value>
+    <value>Toimittaja</value>
   </data>
   <data name="VendorId" xml:space="preserve">
     <value>Toimittajatunnus</value>

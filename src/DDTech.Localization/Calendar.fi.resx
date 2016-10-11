@@ -121,16 +121,16 @@
     <value>Oletko varma?</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Ostaa</value>
+    <value>Osto</value>
   </data>
   <data name="BuyCalendarSaved" xml:space="preserve">
-    <value>Ostaa tallennetun kalenterin</value>
+    <value>Ostokalenteri tallennettu</value>
   </data>
   <data name="CalendarStr" xml:space="preserve">
     <value>Kalenteri</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
-    <value>Vahvista poistaminen</value>
+    <value>Vahvista poisto</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Kuvaus</value>
@@ -145,10 +145,10 @@
     <value>Sijainti</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Tehdä</value>
+    <value>Valmistus</value>
   </data>
   <data name="MakeCalendarSaved" xml:space="preserve">
-    <value>Tehdä tallennetun kalenterin</value>
+    <value>Valmistusalenteri tallennettu</value>
   </data>
   <data name="Monday" xml:space="preserve">
     <value>Maanantai</value>
@@ -172,7 +172,7 @@
     <value>Tiistai</value>
   </data>
   <data name="Vendor" xml:space="preserve">
-    <value>Toimittajan</value>
+    <value>Toimittaja</value>
   </data>
   <data name="Wednesday" xml:space="preserve">
     <value>Keskiviikko</value>

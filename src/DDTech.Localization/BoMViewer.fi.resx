@@ -127,7 +127,7 @@
     <value>Puskuroitu</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Ostaa</value>
+    <value>Osto</value>
   </data>
   <data name="collapse all" xml:space="preserve">
     <value>Kutista kaikki</value>
@@ -136,16 +136,16 @@
     <value> päivä(ä)</value>
   </data>
   <data name="Decoupled_LeadTime" xml:space="preserve">
-    <value>Tuotannosta toimitusajan</value>
+    <value>Eriytetty läpimenoaika</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Kuvauksessa/valvonta:</value>
+    <value>Kuvaus:</value>
   </data>
   <data name="expand all" xml:space="preserve">
     <value>Laajenna kaikki</value>
   </data>
   <data name="Lead Time" xml:space="preserve">
-    <value>Toimitusaika:</value>
+    <value>Läpimenoaika:</value>
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Kuvateksti:</value>
@@ -154,7 +154,7 @@
     <value>Pisin jalka</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Tehdä</value>
+    <value>Valmistus</value>
   </data>
   <data name="Max" xml:space="preserve">
     <value>Max</value>
@@ -166,19 +166,19 @@
     <value>NB</value>
   </data>
   <data name="Non Buffered" xml:space="preserve">
-    <value>Ei puskuroida</value>
+    <value>Ei puskuroitu</value>
   </data>
   <data name="NoResultsFound" xml:space="preserve">
     <value>Ei tuloksia</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Osa:</value>
+    <value>Tuote:</value>
   </data>
   <data name="Quantity" xml:space="preserve">
     <value>Määrä:</value>
   </data>
   <data name="R+ Lead Time" xml:space="preserve">
-    <value>R+ Toimitusaika:</value>
+    <value>R+ Läpimenoaika:</value>
   </data>
   <data name="refresh" xml:space="preserve">
     <value>Päivitä</value>
@@ -193,6 +193,6 @@
     <value>Hakutulokset:</value>
   </data>
   <data name="SearchPart" xml:space="preserve">
-    <value>Etsi osa...</value>
+    <value>Etsi tuote...</value>
   </data>
 </root>

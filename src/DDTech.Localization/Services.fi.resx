@@ -118,18 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="KeyNotFound" xml:space="preserve">
-    <value>Avain ei löytynyt</value>
+    <value>Avainta ei löytynyt</value>
   </data>
   <data name="ValueEmptyNotAllowed" xml:space="preserve">
-    <value>Ei voi olla tyhjä</value>
+    <value>Arvo ei voi olla tyhjä</value>
   </data>
   <data name="ValueNullNotAllowed" xml:space="preserve">
-    <value>Arvo ei voi olla null</value>
+    <value>Arvo ei voi olla nolla</value>
   </data>
   <data name="ValueOutOfRange" xml:space="preserve">
     <value>Arvo on sallitun alueen ulkopuolella</value>
   </data>
   <data name="ValueWhitespaceNotAllowed" xml:space="preserve">
-    <value>Arvo ei voi olla välilyöntejä</value>
+    <value>Arvo ei voi olla välilyönti</value>
   </data>
 </root>

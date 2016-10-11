@@ -127,39 +127,39 @@
     <value>Tietojen vieminen</value>
   </data>
   <data name="DemandOrder" xml:space="preserve">
-    <value>Kysynnästä</value>
+    <value>Kysyntä tilaus</value>
   </data>
   <data name="ExportStr" xml:space="preserve">
     <value>Vienti</value>
   </data>
   <data name="ForecastedDemand" xml:space="preserve">
-    <value>Ennustettu kysynnän</value>
+    <value>Ennustettu kysyntä</value>
   </data>
   <data name="HeadersOnly" xml:space="preserve">
     <value>Vain otsikot</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Osa</value>
+    <value>Tuote</value>
   </data>
   <data name="PartAugment" xml:space="preserve">
-    <value>Osa laajentaa</value>
+    <value>Tuotetietojen lisäykset</value>
   </data>
   <data name="PartBufferSizing" xml:space="preserve">
-    <value>Osa puskurin koon</value>
+    <value>Tuotteiden puskurien määritykset</value>
   </data>
   <data name="PartInventory" xml:space="preserve">
-    <value>Osa varaston</value>
+    <value>Tuotteiden varastotilanteet</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Suunniteltu Muutoskerroin</value>
+    <value>Suunniteltu Säätötekijä</value>
   </data>
   <data name="PleaseSelectTables" xml:space="preserve">
     <value>Valitse taulukot vientiin</value>
   </data>
   <data name="SelectTablesToExport" xml:space="preserve">
-    <value>Valitse tiedot-taulut, jotka haluat viedä:</value>
+    <value>Valitse mitkä tiedostot haluat viedä:</value>
   </data>
   <data name="SupplyOrder" xml:space="preserve">
-    <value>Toimitustilauksen</value>
+    <value>Hankintatilaus</value>
   </data>
 </root>

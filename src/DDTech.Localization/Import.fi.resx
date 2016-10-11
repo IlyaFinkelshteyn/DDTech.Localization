@@ -127,7 +127,7 @@
     <value>Peruuta</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
-    <value>Vahvista poistaminen</value>
+    <value>Vahvista poisto</value>
   </data>
   <data name="DataImport" xml:space="preserve">
     <value>Tietojen tuonti</value>
@@ -139,19 +139,19 @@
     <value>Poista kaikki</value>
   </data>
   <data name="DeleteFileAndReupload" xml:space="preserve">
-    <value>Poista tiedosto ja lähettää sen uudelleen</value>
+    <value>Poista tiedosto ja lähetä se uudelleen</value>
   </data>
   <data name="EncounteredNumErrorsWithUploadFormat" xml:space="preserve">
     <value>Kohtasi {0} virhettä. Näytetään ensimmäinen {1} virheitä.</value>
   </data>
   <data name="ErrorsInUpload" xml:space="preserve">
-    <value>Virheitä lataus</value>
+    <value>Virheitä latauksessa</value>
   </data>
   <data name="FileName" xml:space="preserve">
     <value>Tiedostonimi</value>
   </data>
   <data name="FilesDeletedSuccessfully" xml:space="preserve">
-    <value>Tiedostot poistettu</value>
+    <value>Tiedostojen poisto onnistui</value>
   </data>
   <data name="ImportQueue" xml:space="preserve">
     <value>Tuo jono:</value>
@@ -160,46 +160,46 @@
     <value>Tuonti</value>
   </data>
   <data name="InstructionsForUnIdentified" xml:space="preserve">
-    <value>Varmista järjestelmän tietoja Exchange-asetukset ovat oikeat</value>
+    <value>Varmista</value>
   </data>
   <data name="KeyDeletedSuccessfully" xml:space="preserve">
     <value>Poistettu</value>
   </data>
   <data name="NoDataToDisplay" xml:space="preserve">
-    <value>Ei tietoa n├ñytett├ñv├ñksi</value>
+    <value>Ei tietoa näytettäväksi</value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>Okei</value>
+    <value>Ok</value>
   </data>
   <data name="Processing" xml:space="preserve">
-    <value>Käsittely</value>
+    <value>Prosessoi</value>
   </data>
   <data name="PurgePendingExportedOrdersOnImport" xml:space="preserve">
-    <value>Puhallus kunnes/viety tilaukset tuotaessa</value>
+    <value>Älä säilytä odottavia/siirrettyjä tilauksia tietojen tuonnin yhteydessä</value>
   </data>
   <data name="Records" xml:space="preserve">
     <value>Tietueet</value>
   </data>
   <data name="RecordsIgnoredMessageFormat" xml:space="preserve">
-    <value>{0} tietuetta ohitettiin, koska Käytäntömääritys</value>
+    <value>{0} tietuetta ohitettiin johtuen järjestelmämäärityksistä</value>
   </data>
   <data name="RegionSettingsDescribed" xml:space="preserve">
-    <value>Aluekohtaiset asetukset otetaan käyttöön tiedostoja ladata ja ei tuo.</value>
+    <value>Aluekohtaisia asetuksia sovelletaan tiedostojen ulos viennin</value>
   </data>
   <data name="Reset" xml:space="preserve">
-    <value>Palauta</value>
+    <value>Resetoi</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Asetukset</value>
   </data>
   <data name="Size" xml:space="preserve">
-    <value>Kokoa</value>
+    <value>Koko</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Testi</value>
   </data>
   <data name="TestStatus" xml:space="preserve">
-    <value>Test Status</value>
+    <value>Testiin status</value>
   </data>
   <data name="Type" xml:space="preserve">
     <value>Tyyppi</value>
@@ -208,6 +208,6 @@
     <value>Ladattu</value>
   </data>
   <data name="Uploading" xml:space="preserve">
-    <value>Lataaminen</value>
+    <value>Lataa</value>
   </data>
 </root>

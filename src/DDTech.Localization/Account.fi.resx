@@ -119,7 +119,7 @@
   </resheader>
   <data name="ChangeUserPwd_Body" xml:space="preserve">
     <value>&lt;p&gt;&lt;%UserName%&gt;,&lt;/p&gt;
-&lt;p&gt;Salasanaa on äskettäin muutettu. Jos et aloittaa salasanan muuttaminen, ota välittömästi yhteyttä järjestelmänvalvojaan.&lt;/p&gt;
+&lt;p&gt;Salasanaa on äskettäin muutettu. Jos et ole itse muuttanut salasanaa, ota välittömästi yhteyttä järjestelmänvalvojaan.&lt;/p&gt;
 &lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;"&gt;&lt;%SiteURL%&gt;&lt;/a&gt;&lt;/p&gt;</value>
   </data>
   <data name="ChangeUserPwd_Subject" xml:space="preserve">
@@ -150,16 +150,16 @@
     <value>Käyttäjänimi vaaditaan.</value>
   </data>
   <data name="ForgotPassword" xml:space="preserve">
-    <value>Unohditko käyttäjänimesi tai salasanasi?</value>
+    <value>Unohditko Salasanasi?</value>
   </data>
   <data name="ForgotPassword_Confirm" xml:space="preserve">
-    <value>Tarkista sähköpostiisi ohjeet salasanan.</value>
+    <value>Tarkista sähköpostistasi ohjeet salasanan vaihtamiseksi.</value>
   </data>
   <data name="ForgotPassword_Email" xml:space="preserve">
     <value>Mikä on sähköpostiosoitteesi?</value>
   </data>
   <data name="ForgotPassword_Username" xml:space="preserve">
-    <value>Mikä on käyttäjätunnus?</value>
+    <value>Mikä on Käyttäjätunnuksesi?</value>
   </data>
   <data name="LabelKeepLoggedIn" xml:space="preserve">
     <value>Pidä minut sisäänkirjautuneena</value>
@@ -171,10 +171,10 @@
     <value>Käyttäjätunnus:</value>
   </data>
   <data name="LoggedIn" xml:space="preserve">
-    <value>Kirjautunut</value>
+    <value>Kirjautuneena</value>
   </data>
   <data name="LoggedOut" xml:space="preserve">
-    <value>Sinut on kirjattu.</value>
+    <value>Sinut on kirjattu ulos.</value>
   </data>
   <data name="LogIn" xml:space="preserve">
     <value>Kirjaudu sisään</value>
@@ -183,7 +183,7 @@
     <value>Kirjaudu ulos</value>
   </data>
   <data name="Manage_Account_SignedInAs" xml:space="preserve">
-    <value>Tällä hetkellä on kirjautuneena, kuin &lt;b&gt;{0}&lt;/b&gt;.</value>
+    <value>Olet tällä hetkellä kirjautuneena, tunnuksella &lt;b&gt;{0}&lt;/b&gt;.</value>
   </data>
   <data name="Manage_ChangePassword" xml:space="preserve">
     <value>Vaihda salasana</value>
@@ -192,16 +192,16 @@
     <value>Luo salasana</value>
   </data>
   <data name="Manage_CreatePassword_Message" xml:space="preserve">
-    <value>Sinulla ei ole paikallisen käyttäjänimen ja salasanan tämän sivuston. Lisää paikallinen tili, jotta voit kirjautua sisään ilman ulkoinen johdonmukaisuus.</value>
+    <value>Sinulla ei ole paikallista käyttäjänimeä ja salasanaa tälle sivustolle. Lisää paikallinen tili, jotta voit kirjautua sisään ilman ulkoista kirjautumista.</value>
   </data>
   <data name="Manage_Message_ChangePasswordSuccess" xml:space="preserve">
-    <value>Salasana vaihdettu.</value>
+    <value>Salasanasi vaihto onnistui.</value>
   </data>
   <data name="Manage_Message_Error" xml:space="preserve">
-    <value>Ilmeni virhe tehdä muutoksia tiliisi.</value>
+    <value>Tilimuutoksen yhteydessä ilmeni virhe.</value>
   </data>
   <data name="Manage_Message_RemoveLoginSuccess" xml:space="preserve">
-    <value>Olet poistanut ulkoinen johdonmukaisuus.</value>
+    <value>Olet poistanut ulkoisen kirjautumisen.</value>
   </data>
   <data name="Manage_Message_SetPasswordSuccess" xml:space="preserve">
     <value>Olet määrittänyt onnistuneesti salasanan tilillesi.</value>
@@ -213,13 +213,13 @@
     <value>Tilisi</value>
   </data>
   <data name="NewUserPwd_Body" xml:space="preserve">
-    <value>&lt;p&gt;Voit kirjautua sivustoon, seuraava URL-osoite ja käyttäjätunnus:&lt;/p&gt;
+    <value>&lt;p&gt;Voit kirjautua sivustolle käyttämällä seuraavaa URL-osoitetta ja käyttäjätunnusta:&lt;/p&gt;
 &lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;"&gt;&lt;%SiteURL%&gt;&lt;/a&gt;&lt;br&gt;Käyttäjä: &lt;%UserName%&gt;&lt;/p&gt;
-&lt;p&gt;Ennen tiliäsi, voit määrittää salasanan määrittäminen:&lt;/p&gt;
+&lt;p&gt;Ennen kuin ryhdyt käyttämään tiliäsi, käytä tätä linkkiä  salasansi asettamiseksi:&lt;/p&gt;
 &lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;"&gt;&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;&lt;/a&gt;&lt;/p&gt;</value>
   </data>
   <data name="NewUserPwd_Subject" xml:space="preserve">
-    <value>Huomautus uuden RPlus-käyttäjälle</value>
+    <value>Huomautus uudelle RPlus-käyttäjälle</value>
   </data>
   <data name="Password_Confirm" xml:space="preserve">
     <value>Vahvista salasana</value>
@@ -228,13 +228,13 @@
     <value>Nykyinen salasana</value>
   </data>
   <data name="Password_Expired" xml:space="preserve">
-    <value>Salasanasi on vanhentunut. Ennen kuin voit käyttää tätä järjestelmää, Palauta salasana. Tarkista sähköpostiisi ohjeet salasanan.</value>
+    <value>Salasanasi on vanhentunut. Ennen kuin voit käyttää tätä järjestelmää, sinun on vaihdettava salasanasi. Tarkista sähköpostistasi ohjeet salasanan vaihtamiseksi.</value>
   </data>
   <data name="Password_New" xml:space="preserve">
     <value>Uusi salasana</value>
   </data>
   <data name="PasswordPolicy" xml:space="preserve">
-    <value>Tunnussana pitäisi:</value>
+    <value>Salasanan pitäisi:</value>
   </data>
   <data name="PasswordPolicy_MinimumLength" xml:space="preserve">
     <value>oltava vähintään {0} merkkiä</value>
@@ -243,13 +243,13 @@
     <value>sisältää vähintään 1 numero (0-9)</value>
   </data>
   <data name="PasswordPolicy_RequireLowerCase" xml:space="preserve">
-    <value>sisältää vähintään 1 kirjain (-z)</value>
+    <value>sisältää vähintään 1  kirjain pienellä (a-z)</value>
   </data>
   <data name="PasswordPolicy_RequireNonDigitOrLetter" xml:space="preserve">
-    <value>sisältää vähintään 1-symbolin (ei numero tai kirjain a – ö)</value>
+    <value>sisältää vähintään 1-symbolin (ei numero tai kirjain a – z)</value>
   </data>
   <data name="PasswordPolicy_RequireUpperCase" xml:space="preserve">
-    <value>sisältää vähintään 1 suuraakkoset (A-Z)</value>
+    <value>sisältää vähintään 1 kirjain isolla (A-Z)</value>
   </data>
   <data name="PleaseEnterPassword" xml:space="preserve">
     <value>Kirjoita käyttäjänimesi ja salasanasi.</value>
@@ -258,7 +258,7 @@
     <value>Muista minut seuraavalla kerralla.</value>
   </data>
   <data name="RequestPasswordReset" xml:space="preserve">
-    <value>Pyytää salasanan</value>
+    <value>Pyytää salasanan vaihtamista</value>
   </data>
   <data name="ResetPassword" xml:space="preserve">
     <value>Salasanan vaihtaminen</value>
@@ -267,21 +267,21 @@
     <value>Salasanasi on muutettu.</value>
   </data>
   <data name="ResetPassword_GetToken" xml:space="preserve">
-    <value>Napsauttamalla yritä yritä uudelleen.</value>
+    <value>Napsauta tästä ja yritä yritä uudelleen.</value>
   </data>
   <data name="ResetPassword_InvalidToken" xml:space="preserve">
-    <value>Suojauksen tunnussanoma on virheellinen tai ei voi käyttää salasanan vaihtaminen.</value>
+    <value>Suojauksen tunnussanoma on virheellinen tai sitä ei voida käyttää salasanan vaihtamiseen.</value>
   </data>
   <data name="ResetPassword_SetPassword" xml:space="preserve">
     <value>Aseta uusi salasana</value>
   </data>
   <data name="ResetUserPwd_Body" xml:space="preserve">
     <value>&lt;p&gt;&lt;%UserName%&gt;,&lt;/p&gt;
-&lt;p&gt;Tilisi salasana on pyydetty nollattava. Jos et aloittaa nyt kuluva palauttaa, ota välittömästi yhteyttä järjestelmänvalvojaan. Asettaa uuden salasanan tilillesi käyttämällä alla olevaa linkkiä:&lt;/p&gt;
+&lt;p&gt;Tilisi salasanaa on pyydetty nollattavaksi. Jos et itse pyytänyt nollausta, ota välittömästi yhteyttä järjestelmänvalvojaan. Käytä oheista linkkiä tilisi salasanan vaihtamiseksi:&lt;/p&gt;
 &lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;"&gt;&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;&lt;/a&gt;&lt;/p&gt;</value>
   </data>
   <data name="ResetUserPwd_Subject" xml:space="preserve">
-    <value>RPlus salasanan</value>
+    <value>RPlus salasanan vaihtaminen</value>
   </data>
   <data name="SignInToContinue" xml:space="preserve">
     <value>Kirjaudu sisään jatkaaksesi</value>

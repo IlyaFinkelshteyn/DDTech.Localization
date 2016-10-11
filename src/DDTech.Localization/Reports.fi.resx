@@ -121,22 +121,22 @@
     <value>Kaikki</value>
   </data>
   <data name="BufferTrend" xml:space="preserve">
-    <value>Puskurin suuntaus</value>
+    <value>Puskurin trendi</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Ostaa</value>
+    <value>Osto</value>
   </data>
   <data name="CriticalAndHigh" xml:space="preserve">
     <value>Kriittinen ja korkea</value>
   </data>
   <data name="CriticalAndHighTrendByPlanner" xml:space="preserve">
-    <value>Kriittinen ja korkea ulottamalla Planner</value>
+    <value>Trendi - Kriittinen ja korkea per suunnittelija</value>
   </data>
   <data name="DateRange" xml:space="preserve">
     <value>Ajanjakso:</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>päivää</value>
+    <value>päiviä</value>
   </data>
   <data name="Filters" xml:space="preserve">
     <value>Suodattimet</value>
@@ -145,13 +145,13 @@
     <value>Vihreä</value>
   </data>
   <data name="InventoryPlanning" xml:space="preserve">
-    <value>Inventory suunnittelu:</value>
+    <value>Varastosuunnittelu:</value>
   </data>
   <data name="Location" xml:space="preserve">
     <value>Sijainti:</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Tehdä</value>
+    <value>Valmistus</value>
   </data>
   <data name="MaterialType" xml:space="preserve">
     <value>Materiaalin tyyppi:</value>
@@ -160,22 +160,22 @@
     <value>ei mitään</value>
   </data>
   <data name="OnHand" xml:space="preserve">
-    <value>Käsillä</value>
+    <value>Vapaasti toimitettavissa</value>
   </data>
   <data name="OTOG" xml:space="preserve">
     <value>OToG</value>
   </data>
   <data name="OTOGTrendByPlanner" xml:space="preserve">
-    <value>OToG ulottamalla Planner</value>
+    <value>Trendi - OToG per suunnittelija</value>
   </data>
   <data name="OverTopOfGreen" xml:space="preserve">
-    <value>Yli alkuun vihreä</value>
+    <value>Yli vihreän vyöhykkeen</value>
   </data>
   <data name="PartDistribution" xml:space="preserve">
-    <value>Osa jakelu</value>
+    <value>Tuotteiden puskuriprofiilit</value>
   </data>
   <data name="PartType" xml:space="preserve">
-    <value>Osan tyyppi:</value>
+    <value>Tuotteen tyyppi:</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
     <value>Suunnittelija koodi:</value>
@@ -184,22 +184,22 @@
     <value>Punainen</value>
   </data>
   <data name="StockOutWithDemand" xml:space="preserve">
-    <value>Kannan ulos kysynnän</value>
+    <value>Loppu varastosta - tuotteella kuitenkin kysyntää</value>
   </data>
   <data name="SumOfCriticalAndHigh" xml:space="preserve">
-    <value>Kriittinen ja suuri summa</value>
+    <value>Summa - kriittinen ja korkea</value>
   </data>
   <data name="SumOfOTOG" xml:space="preserve">
     <value>Summa OTOG</value>
   </data>
   <data name="TargetInventory" xml:space="preserve">
-    <value>Kohde varaston</value>
+    <value>Tavoitevarasto</value>
   </data>
   <data name="Total" xml:space="preserve">
     <value>Yhteensä</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>viikon</value>
+    <value>viikkoja</value>
   </data>
   <data name="Yellow" xml:space="preserve">
     <value>Keltainen</value>

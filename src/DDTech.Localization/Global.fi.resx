@@ -121,7 +121,7 @@
     <value>Kaikki valitut</value>
   </data>
   <data name="BackgroundProcessing" xml:space="preserve">
-    <value>Taustalla on käynnissä.</value>
+    <value>Taustaprosessi on käynnissä.</value>
   </data>
   <data name="BackgroundProcessing_FeatureDisabled" xml:space="preserve">
     <value>Tämä toiminto ei ole käytössä, kunnes suoritus on valmis.</value>
@@ -190,7 +190,7 @@
     <value>Yleiset asetukset</value>
   </data>
   <data name="Nav_Admin_MaterialRequirements_Title" xml:space="preserve">
-    <value>Aineelliset edellytykset</value>
+    <value>Tuotetarpeet</value>
   </data>
   <data name="Nav_Admin_Settings_Title" xml:space="preserve">
     <value>Asetukset</value>
@@ -202,16 +202,16 @@
     <value>Käyttäjien hallinta</value>
   </data>
   <data name="Nav_Alerts_CurrentSupplyOrderNotes" xml:space="preserve">
-    <value>Nykyisen tarjonnan tilaa Notes</value>
+    <value>Nykyiset hankintatilausten kommentit</value>
   </data>
   <data name="Nav_Alerts_NoSupplyOrderNotes" xml:space="preserve">
-    <value>Ei ole tarjonnan tilaa Notes</value>
+    <value>Ei hankintatilausten kommentteja</value>
   </data>
   <data name="Nav_Alerts_OutstandingSupplyOrderNotes" xml:space="preserve">
-    <value>Erinomainen tarjonta tilaa Notes</value>
+    <value>Erinomaiset hankintatilausten kommentit</value>
   </data>
   <data name="Nav_Alerts_OverdueSupplyOrderNotes" xml:space="preserve">
-    <value>Myöhässä toimituksen tilaa Notes</value>
+    <value>Myöhässä olevien hankintatilausten kommentit</value>
   </data>
   <data name="Nav_Alerts_Title" xml:space="preserve">
     <value>Hälytykset</value>
@@ -226,7 +226,7 @@
     <value>MSA</value>
   </data>
   <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
-    <value>Ennustettu varastosta</value>
+    <value>Ennustetut Stock Outit</value>
   </data>
   <data name="Nav_ApiExplorer" xml:space="preserve">
     <value>API Explorer</value>
@@ -244,7 +244,7 @@
     <value>Tiedot</value>
   </data>
   <data name="Nav_Documentation" xml:space="preserve">
-    <value>Asiakirjat</value>
+    <value>Dokumentointi</value>
   </data>
   <data name="Nav_EditBufferProfile_Title" xml:space="preserve">
     <value>Puskurin profiili</value>
@@ -259,10 +259,10 @@
     <value>Muokkaa</value>
   </data>
   <data name="Nav_EditPAF_Title" xml:space="preserve">
-    <value>Suunniteltu Muutoskerroin</value>
+    <value>Suunniteltu Säätötekijä</value>
   </data>
   <data name="Nav_EditPart_Title" xml:space="preserve">
-    <value>Osa</value>
+    <value>Tuote</value>
   </data>
   <data name="Nav_Group_Admin" xml:space="preserve">
     <value>Hallinto</value>
@@ -271,7 +271,7 @@
     <value>Tiedot</value>
   </data>
   <data name="Nav_Group_Editors" xml:space="preserve">
-    <value>Toimittajat</value>
+    <value>Tiedon muokkaajat</value>
   </data>
   <data name="Nav_Group_Info" xml:space="preserve">
     <value>Tiedot</value>
@@ -292,16 +292,16 @@
     <value>Uusi!</value>
   </data>
   <data name="Nav_Menu_UpdatedBadge" xml:space="preserve">
-    <value>Päivitetään!</value>
+    <value>Päivitetty!</value>
   </data>
   <data name="Nav_PendingOrders_Title" xml:space="preserve">
-    <value>Odottavat toimeksiannot</value>
+    <value>Odottavat tilaukset</value>
   </data>
   <data name="Nav_Planner_Title" xml:space="preserve">
-    <value>Suunnittelutyökalut</value>
+    <value>Suunnittelijan työkalut</value>
   </data>
   <data name="Nav_PlannersDashboard_Title" xml:space="preserve">
-    <value>R + Dashboard</value>
+    <value>R + ohjauspaneeli</value>
   </data>
   <data name="Nav_PlannersWorkbench_All_Title" xml:space="preserve">
     <value>Kaikki</value>
@@ -310,7 +310,7 @@
     <value>Kriittinen</value>
   </data>
   <data name="Nav_PlannersWorkbench_Custom_Title" xml:space="preserve">
-    <value>Custom</value>
+    <value>Rajaukset</value>
   </data>
   <data name="Nav_PlannersWorkbench_Green_Title" xml:space="preserve">
     <value>Matala</value>
@@ -325,34 +325,34 @@
     <value>Korkea (NB)</value>
   </data>
   <data name="Nav_PlannersWorkbench_Title" xml:space="preserve">
-    <value>Workbench</value>
+    <value>Työpöytä</value>
   </data>
   <data name="Nav_PlannersWorkbench_Yellow_Title" xml:space="preserve">
-    <value>Normaali</value>
+    <value>Medium</value>
   </data>
   <data name="Nav_ReadBufferSummary_Title" xml:space="preserve">
-    <value>Puskurin Yhteenveto</value>
+    <value>Puskuri yhteenveto</value>
   </data>
   <data name="Nav_ReadBufferTrend_Title" xml:space="preserve">
-    <value>Puskurin suuntaus</value>
+    <value>Puskurin trendi</value>
   </data>
   <data name="Nav_ReadCritHighPlanner_Title" xml:space="preserve">
-    <value>Kriittinen ja korkea ulottamalla Planner</value>
+    <value>Trendi - Kriittinen ja korkea per suunnittelija</value>
   </data>
   <data name="Nav_ReadOtogPlanner_Title" xml:space="preserve">
-    <value>OToG ulottamalla Planner</value>
+    <value>Trendi OToG per suunnittelija</value>
   </data>
   <data name="Nav_ReadPartActivity_Title" xml:space="preserve">
-    <value>Osa toimintaa</value>
+    <value>Tuotteen aktiviteetit</value>
   </data>
   <data name="Nav_ReadPartDistribution_Title" xml:space="preserve">
-    <value>Osa jakelu</value>
+    <value>Tuotteiden puskuriprofiilit</value>
   </data>
   <data name="Nav_ReadStockOutDemandTrend_Title" xml:space="preserve">
-    <value>Kannan ulos kysynnän</value>
+    <value>Loppu varastosta - tuotteella kuitenkin kysyntää</value>
   </data>
   <data name="Nav_ReadSumCritHigh_Title" xml:space="preserve">
-    <value>Kriittinen ja suuri summa</value>
+    <value>Summa - Kriittinen ja korkea</value>
   </data>
   <data name="Nav_ReadSumOfOtog_Title" xml:space="preserve">
     <value>Summa OTOG</value>
@@ -370,13 +370,13 @@
     <value>Tila</value>
   </data>
   <data name="Nav_StockDeployment_Title" xml:space="preserve">
-    <value>Kaluston käyttöönotto</value>
+    <value>Varasto ohjaus</value>
   </data>
   <data name="Nav_User_Settings_Title" xml:space="preserve">
     <value>Käyttäjäasetukset</value>
   </data>
   <data name="Never" xml:space="preserve">
-    <value>koskaan</value>
+    <value>ei koskaan</value>
   </data>
   <data name="None" xml:space="preserve">
     <value>ei mitään</value>
@@ -385,13 +385,13 @@
     <value>Ei valintaa</value>
   </data>
   <data name="PartActivity_NoActivity" xml:space="preserve">
-    <value>Osa ei ole toimintaa</value>
+    <value>Tuotteella ei ole toimintaa</value>
   </data>
   <data name="PartActivity_NoDemandAllocations" xml:space="preserve">
-    <value>Osa on ei kysynnän kohdistukset</value>
+    <value>Tuotteeseen ei kohdistu kysyntää</value>
   </data>
   <data name="PartActivity_NoSupplyOrders" xml:space="preserve">
-    <value>Osa on ei ole toimitustilauksia</value>
+    <value>Tuotteella ei ole hankintatilauksia</value>
   </data>
   <data name="PartActivity_Tab_AllActivity" xml:space="preserve">
     <value>Kaikki toiminta</value>
@@ -400,7 +400,7 @@
     <value>Kysynnän kohdistukset</value>
   </data>
   <data name="PartActivity_Tab_SupplyOrders" xml:space="preserve">
-    <value>Toimitustilaukset</value>
+    <value>Hankintatilaukset</value>
   </data>
   <data name="QuickActions" xml:space="preserve">
     <value>Nopeisiin toimiin</value>
@@ -415,18 +415,18 @@
     <value>Näytä lisää</value>
   </data>
   <data name="TimeZone_Server_Desc1" xml:space="preserve">
-    <value>Näytetyn kertaa käyttävät määritettyyn saittiin global aika-asetukset</value>
+    <value>Esitetyt aika-tiedot perustuvat Yleisten asetusten aika-asetuksiin</value>
   </data>
   <data name="TimeZone_Server_Desc2" xml:space="preserve">
-    <value>Aika-asetukset määritetään Yleisasetukset-sivulla</value>
+    <value>Aika-asetukset määritetään Yleiset asetukset-sivulla</value>
   </data>
   <data name="TimeZoneType_Browser" xml:space="preserve">
-    <value>Käyttäjän aikavyöhykkeen (selain)</value>
+    <value>Nykyinen käyttäjän aikavyöhyke (selain)</value>
   </data>
   <data name="TimeZoneType_Site" xml:space="preserve">
-    <value>Määritetty alueellisten aikavyöhyke (sivusto)</value>
+    <value>Määritetty alueellinen aikavyöhyke (sivusto)</value>
   </data>
   <data name="TimeZoneType_UTC" xml:space="preserve">
-    <value>Palvelimen aikavyöhykettä (UTC)</value>
+    <value>Palvelimen aikavyöhyke (UTC)</value>
   </data>
 </root>

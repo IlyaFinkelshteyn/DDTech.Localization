@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AverageNumberOfDaysBetweenOrderCycles" xml:space="preserve">
-    <value>montako päivää tilauksen syklien välillä keskimäärin</value>
+    <value>päiviä tilaussyklien välissä keskim.</value>
   </data>
   <data name="BufferProfile" xml:space="preserve">
     <value>Puskurin profiili</value>
@@ -130,37 +130,37 @@
     <value>Kuvaus</value>
   </data>
   <data name="GreenZoneBase" xml:space="preserve">
-    <value>Green Zone Base</value>
+    <value>Vihreä vyöhyke perus</value>
   </data>
   <data name="GreenZoneCalculationMethod" xml:space="preserve">
-    <value>Green Zone laskentamenetelmä</value>
+    <value>Vihreän vyöhykkeen laskentamenetelmä</value>
   </data>
   <data name="InventoryAlertLevel" xml:space="preserve">
-    <value>Varaston ilmoitustaso</value>
+    <value>Varasto hälytyksen taso</value>
   </data>
   <data name="LeadTime" xml:space="preserve">
-    <value>Toimitusaika</value>
+    <value>Läpimenoaika</value>
   </data>
   <data name="Location" xml:space="preserve">
     <value>Sijainti</value>
   </data>
   <data name="NoDataToDisplay" xml:space="preserve">
-    <value>Ei tietoa n├ñytett├ñv├ñksi</value>
+    <value>Ei tietoa näytettäväksi</value>
   </data>
   <data name="OrderCycleDays" xml:space="preserve">
-    <value>Tilaa Cycle päivää</value>
+    <value>Tilaussyksi päiviä</value>
   </data>
   <data name="OrderSpikeHorizon" xml:space="preserve">
-    <value>Jotta piikki Horizon</value>
+    <value>Tilauspiikin horisontti</value>
   </data>
   <data name="OrderSpikeThresholdLevel" xml:space="preserve">
-    <value>Jotta piikki kynnystason</value>
+    <value>Tilauspiikin kynnystaso</value>
   </data>
   <data name="PercentOfTopOfRed" xml:space="preserve">
-    <value>% alkuun punainen</value>
+    <value>Punaisen vyohykkeen yläreuna %</value>
   </data>
   <data name="PercentOfUsageOverLeadTime" xml:space="preserve">
-    <value>% käyttö johtaa ajan</value>
+    <value>Läpimenoajan kulutus% </value>
   </data>
   <data name="PercentRedZoneBase" xml:space="preserve">
     <value>– Punainen vyöhyke perus</value>
@@ -175,7 +175,7 @@
     <value>Profiilin tallennus onnistui</value>
   </data>
   <data name="RedZoneBase" xml:space="preserve">
-    <value>Punainen vyöhyke Base</value>
+    <value>Punainen vyöhyke perus</value>
   </data>
   <data name="SafetyZone" xml:space="preserve">
     <value>Turva-alue</value>
@@ -190,24 +190,24 @@
     <value>Valitse suodatin</value>
   </data>
   <data name="TheRPlusAlertIsEqualToTopOfYellow" xml:space="preserve">
-    <value>R-ilmoitus vastaa Top keltainen</value>
+    <value>R-ilmoitus vastaa keltaisen yläreunaa</value>
   </data>
   <data name="UnsupportedPart" xml:space="preserve">
-    <value>Puskurin tietoja ei tueta tähän</value>
+    <value>Puskurin tietoja ei tueta tämän tyyppisille tuotteille</value>
   </data>
   <data name="UseOrderCycleForGreenZone" xml:space="preserve">
-    <value>Myyntitilaussykliä käytetään vihreä vyöhyke</value>
+    <value>Käytä tilaussykliä vihreän vyöhykkeen määrittämiseksi</value>
   </data>
   <data name="UsePartMinimumOrderQuantityForGreenZone" xml:space="preserve">
-    <value>Vihreä vyöhyke Vähimmäistilausmäärä-osan käyttäminen</value>
+    <value>Käytä vähimmäistilausmäärää (MOQ) vihreän vyöhykkeen määrittämiseksi</value>
   </data>
   <data name="UsePercentOfUsageOverLeadTime" xml:space="preserve">
-    <value>Käyttää % käyttö läpimenoaika</value>
+    <value>Käytä läpimenoajan kulutukseen suhteutettua prosenttia </value>
   </data>
   <data name="UseSystemSpikeHorizonOf" xml:space="preserve">
-    <value>Käytä järjestelmän piikki horisontin</value>
+    <value>Käytä järjestelmän piikki horisontttia</value>
   </data>
   <data name="YellowZoneBase" xml:space="preserve">
-    <value>Keltaisella vyöhykkeellä Base</value>
+    <value>Keltainen vyöhyke perus</value>
   </data>
 </root>

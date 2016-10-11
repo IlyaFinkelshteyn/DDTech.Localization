@@ -118,39 +118,39 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DuplicateLinkCode" xml:space="preserve">
-    <value>Kaksoiskappaleiden LinkCode kohtasi</value>
+    <value>Kohdattiin LinkCoden kaksoiskappale</value>
   </data>
   <data name="DuplicateRecord" xml:space="preserve">
-    <value>Tietueen kaksoiskappaleen</value>
+    <value>Tietueen Kaksoiskappale</value>
   </data>
   <data name="ForecastInvalidDayOfWeek" xml:space="preserve">
-    <value>Arvo täytyy kaatua samana viikon muihin tietueisiin</value>
+    <value>Arvon on osuttava samalle viikonpäivälle muiden tietueiden kanssa</value>
   </data>
   <data name="GreaterThanOrEqualToFormat" xml:space="preserve">
-    <value>{PropertyName} on oltava vähintään {PropertyValue}</value>
+    <value>{OminaisuudenNimi} on oltava vähintään {OminaisuudenArvo}</value>
   </data>
   <data name="InvalidBufferProfile" xml:space="preserve">
-    <value>Arvon on oltava kelvollinen puskurin profiilin</value>
+    <value>Arvon on oltava kelvollinen Puskuri Profiili</value>
   </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
-    <value>Arvon on oltava kelvollinen InventoryMethod</value>
+    <value>Arvon on oltava kelvollinen varastonohjaustapa</value>
   </data>
   <data name="InvalidPaf" xml:space="preserve">
-    <value>Arvon on oltava voimassa suunniteltu säätö tekijä (PAF)</value>
+    <value>Arvon on oltava voimassa oleva Suunniteltu Säätötekijä (PAF)</value>
   </data>
   <data name="LessThanOrEqualToFormat" xml:space="preserve">
-    <value>{PropertyName} on oltava enintään {PropertyValue}</value>
+    <value>{OminaisuudenNimi} on oltava enintään {OminaisuudenArvo}</value>
   </data>
   <data name="LessThanOrEqualToWithDefaultValueFormat" xml:space="preserve">
-    <value>{PropertyName} on oltava enintään {BadValue} ja {oletusarvo} palauttaa</value>
+    <value>{OminaisuudenNimi} on oltava enintään {BadValue} ja se on palautettu {Oletusarvoon}</value>
   </data>
   <data name="MustBeEvenlyDivisbleWithDefaultValueFormat" xml:space="preserve">
-    <value>{PropertyName} on oltava jaollinen luvulla {BadValue} ja {oletusarvo} palauttaa</value>
+    <value>{OminaisuudenNimi} on oltava jaollinen luvulla {BadValue} ja se on palautettu {Oletusarvoon}</value>
   </data>
   <data name="notnullorwhitespace_error" xml:space="preserve">
-    <value>{PropertyName} ei voi olla null tai sisältää välilyöntejä.</value>
+    <value>{OminaisuudenNimi} ei voi olla nolla tai se ei saa sisältää välilyöntejä.</value>
   </data>
   <data name="OutOfRangeWithDefaultValueFormat" xml:space="preserve">
-    <value>{PropertyName} sallitussa alueessa ja on palauttaa {oletusarvo}</value>
+    <value>{OminaisuudenNimi} ei ole sallituissa rajoissa ja se on palautettu {Oletusarvoon}</value>
   </data>
 </root>

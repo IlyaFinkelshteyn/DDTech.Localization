@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Buy" xml:space="preserve">
-    <value>Ostaa</value>
+    <value>Osto</value>
   </data>
   <data name="Comments" xml:space="preserve">
     <value>Kommentit</value>
   </data>
   <data name="DemandOrders" xml:space="preserve">
-    <value>Kysynnän tilaukset</value>
+    <value>Kysyntätilaukset</value>
   </data>
   <data name="DueDate" xml:space="preserve">
     <value>Eräpäivä</value>
@@ -133,25 +133,25 @@
     <value>Tunnus</value>
   </data>
   <data name="InventoryMethod" xml:space="preserve">
-    <value>Luettelointitavan</value>
+    <value>Varasto-ohjaustapa</value>
   </data>
   <data name="LineItem" xml:space="preserve">
-    <value>Rivinimike</value>
+    <value>Rivin tuote</value>
   </data>
   <data name="Location" xml:space="preserve">
     <value>Sijainti</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Tehdä</value>
+    <value>Valmistus</value>
   </data>
   <data name="MaterialType" xml:space="preserve">
     <value>Materiaalin tyyppi</value>
   </data>
   <data name="Notes" xml:space="preserve">
-    <value>Muistiinpanot</value>
+    <value>Kommentit</value>
   </data>
   <data name="OrderDate" xml:space="preserve">
-    <value>Tilauksen päivämäärä</value>
+    <value>Tilauksen pvm</value>
   </data>
   <data name="OrderNumber" xml:space="preserve">
     <value>Tilausnumero</value>
@@ -160,13 +160,13 @@
     <value>Tilauksen tyyppi</value>
   </data>
   <data name="PartNumber" xml:space="preserve">
-    <value>Osan numero</value>
+    <value>Tuotteen numero</value>
   </data>
   <data name="Parts" xml:space="preserve">
-    <value>Osat</value>
+    <value>Tuotteet</value>
   </data>
   <data name="PartType" xml:space="preserve">
-    <value>Osan tyyppi</value>
+    <value>Tuotteen tyyppi</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
     <value>Suunnittelija koodi</value>
@@ -190,6 +190,6 @@
     <value>Tila</value>
   </data>
   <data name="SupplyOrders" xml:space="preserve">
-    <value>Toimitustilaukset</value>
+    <value>Hankintatilaukset</value>
   </data>
 </root>

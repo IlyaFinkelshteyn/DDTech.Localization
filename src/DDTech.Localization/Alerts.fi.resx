@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddANote" xml:space="preserve">
-    <value>Muistiinpanon lisääminen</value>
+    <value>Lisää muistiinpano</value>
   </data>
   <data name="AddAReminder" xml:space="preserve">
-    <value>Muistutuksen lisääminen</value>
+    <value>Lisää muistutus</value>
   </data>
   <data name="AdjustmentFactor" xml:space="preserve">
-    <value>Muutoskerroin</value>
+    <value>Säätötekijä</value>
   </data>
   <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
-    <value>Näytä Legacy ilmoitukset</value>
+    <value>Näytä Legacy ilmoituksissa</value>
   </data>
   <data name="AlertSeverity_Critical" xml:space="preserve">
     <value>Kriittinen</value>
@@ -154,16 +154,16 @@
     <value>Kaikki toiminta</value>
   </data>
   <data name="AvailableStock" xml:space="preserve">
-    <value>Saatavilla varastosta</value>
+    <value>Saatavilla oleva varasto (available stock)</value>
   </data>
   <data name="AvgDailyUsage" xml:space="preserve">
-    <value>AVG päivittäin käyttö:</value>
+    <value>Keskimääräinen päivittäin käyttö - ADU:</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Ostaa</value>
+    <value>Osto</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Peruuta</value>
+    <value>Peruutus</value>
   </data>
   <data name="ClickToViewReminders" xml:space="preserve">
     <value>Näytä muistutukset napsauttamalla tätä</value>
@@ -187,7 +187,7 @@
     <value>Nykyinen varasto - Medium</value>
   </data>
   <data name="Customer" xml:space="preserve">
-    <value>Asiakkaan</value>
+    <value>Asiakas</value>
   </data>
   <data name="CustomerID" xml:space="preserve">
     <value>Asiakkaan tunnus</value>
@@ -196,13 +196,13 @@
     <value>Päivämäärä</value>
   </data>
   <data name="DaysEarly" xml:space="preserve">
-    <value>päivät jo</value>
+    <value>päivä(t) varhennettu</value>
   </data>
   <data name="DaysLate" xml:space="preserve">
-    <value>päivää myöhässä</value>
+    <value>päivä(t) myöhässä</value>
   </data>
   <data name="Demand" xml:space="preserve">
-    <value>Kysynnän</value>
+    <value>Kysyntä</value>
   </data>
   <data name="DemandAllocations" xml:space="preserve">
     <value>Kysynnän kohdistukset</value>
@@ -223,13 +223,13 @@
     <value>Vihreä</value>
   </data>
   <data name="Inventory" xml:space="preserve">
-    <value>Varaston</value>
+    <value>Varasto</value>
   </data>
   <data name="IssuedInventory" xml:space="preserve">
-    <value>Myönnetty varaston</value>
+    <value>Asetettu varasto</value>
   </data>
   <data name="Late" xml:space="preserve">
-    <value>Myöhään</value>
+    <value>Myöhässä</value>
   </data>
   <data name="Line" xml:space="preserve">
     <value>Rivi</value>
@@ -238,25 +238,25 @@
     <value>Ladataan...</value>
   </data>
   <data name="Loc" xml:space="preserve">
-    <value>Ei!</value>
+    <value>Sijainti</value>
   </data>
   <data name="LTMSummary" xml:space="preserve">
-    <value>LTM Yhteenveto</value>
+    <value>Läpimenoaikaohjatut - LTM Yhteenveto</value>
   </data>
   <data name="LTMSummaryAll" xml:space="preserve">
-    <value>LTM Yhteenveto - kaikki</value>
+    <value>Läpimenoaikaohjatut - LTM Yhteenveto - kaikki</value>
   </data>
   <data name="LTMSummaryHigh" xml:space="preserve">
-    <value>LTM Yhteenveto - korkea</value>
+    <value>Läpimenoaikaohjatut - LTM Yhteenveto - korkea</value>
   </data>
   <data name="LTMSummaryLow" xml:space="preserve">
-    <value>LTM Yhteenveto - Low</value>
+    <value>Läpimenoaikaohjatut - LTM Yhteenveto - Matala</value>
   </data>
   <data name="LTMSummaryMedium" xml:space="preserve">
     <value>LTM Yhteenveto - Medium</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Tehdä</value>
+    <value>Valmistus</value>
   </data>
   <data name="MaterialSynchronizationAlert" xml:space="preserve">
     <value>Materiaalin synkronointi-ilmoitus</value>
@@ -265,19 +265,19 @@
     <value>Materiaalin tyyppi</value>
   </data>
   <data name="MSAAll" xml:space="preserve">
-    <value>MSA - kaikki</value>
+    <value>Materiaalin synkronointihälytys - MSA - kaikki</value>
   </data>
   <data name="MSACritical" xml:space="preserve">
-    <value>MSA - kriittinen</value>
+    <value>Materiaalin synkronointihälytys - MSA - kriittinen</value>
   </data>
   <data name="MSAHigh" xml:space="preserve">
-    <value>MSA - korkea</value>
+    <value>Materiaalin synkronointihälytys - MSA - korkea</value>
   </data>
   <data name="NoAlertSelected" xml:space="preserve">
-    <value>Valitse hälytyksen</value>
+    <value>Valitse hälytys</value>
   </data>
   <data name="NoExecutionAlerts" xml:space="preserve">
-    <value>Suorittamisen hälytyksiä</value>
+    <value>Ei toimeenpanohälytyksiä</value>
   </data>
   <data name="None" xml:space="preserve">
     <value>Ei mitään</value>
@@ -286,19 +286,19 @@
     <value>Huomautus</value>
   </data>
   <data name="NotImplementedYet" xml:space="preserve">
-    <value>Ole vielä käyttöön</value>
+    <value>Ei vielä käytössä</value>
   </data>
   <data name="OnHandInventory" xml:space="preserve">
-    <value>Varasto</value>
+    <value>Vapaasti toimitettavissa (On Hand)</value>
   </data>
   <data name="OpenPO" xml:space="preserve">
-    <value>Avoimet OT: T</value>
+    <value>Avoin OT</value>
   </data>
   <data name="OpenSupply" xml:space="preserve">
-    <value>Avaa toimitus</value>
+    <value>Avoimet hankintatilaukset</value>
   </data>
   <data name="OpenWO" xml:space="preserve">
-    <value>Avaa WO</value>
+    <value>Avoin työtilaus (WO)</value>
   </data>
   <data name="OrderDate" xml:space="preserve">
     <value>Tilauksen päivämäärä</value>
@@ -307,19 +307,19 @@
     <value>Tilausnumero</value>
   </data>
   <data name="orders" xml:space="preserve">
-    <value>yhteismäärälle</value>
+    <value>tilaus (tilaukset)</value>
   </data>
   <data name="OrderSpikePriority" xml:space="preserve">
-    <value>Tilauksen piikki prioriteetti</value>
+    <value>Tilauspiikki prioriteetti</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Osa</value>
+    <value>Tuote</value>
   </data>
   <data name="PartID" xml:space="preserve">
-    <value>Osan tunnus</value>
+    <value>Tuotteen tunnus</value>
   </data>
   <data name="PartType" xml:space="preserve">
-    <value>Osan tyyppi</value>
+    <value>Tuotteen tyyppi</value>
   </data>
   <data name="Pending" xml:space="preserve">
     <value>Vireillä</value>
@@ -331,22 +331,22 @@
     <value>Profiili</value>
   </data>
   <data name="ProjectedStockOut" xml:space="preserve">
-    <value>Ennustettu varastosta</value>
+    <value>Ennustettu stock-out</value>
   </data>
   <data name="ProjectedStockOutAll" xml:space="preserve">
-    <value>Ennustetaan kaluston pois - kaikki</value>
+    <value>Ennustettu stock-out - kaikki</value>
   </data>
   <data name="ProjectedStockOutCritical" xml:space="preserve">
-    <value>Ennustettu varastossa Out - kriittinen</value>
+    <value>Ennustettu stock-out - kriittinen</value>
   </data>
   <data name="ProjectedStockOutHigh" xml:space="preserve">
-    <value>Ennustettu varastossa Out - parhaat</value>
+    <value>Ennustettu stock-out - korkea</value>
   </data>
   <data name="ProjectedStockOutMedium" xml:space="preserve">
-    <value>Ennustettu varastossa Out - Medium</value>
+    <value>Ennustettu stock-out - Medium</value>
   </data>
   <data name="PromiseDate" xml:space="preserve">
-    <value>Lupaus päivämäärä</value>
+    <value>Luvattu päivämäärä</value>
   </data>
   <data name="Properties" xml:space="preserve">
     <value>Ominaisuudet</value>
@@ -373,40 +373,40 @@
     <value>Koskee</value>
   </data>
   <data name="rule_CurrentInventory_Critical1" xml:space="preserve">
-    <value>On nykyinen tai erääntyneiden kysyntään, mutta nykyinen varasto</value>
+    <value>On nykyistä tai erääntyttä kysyntää, muttei varastossa</value>
   </data>
   <data name="rule_CurrentInventory_High1" xml:space="preserve">
     <value>Kysyntä ylittää nykyisen varaston</value>
   </data>
   <data name="rule_CurrentInventory_High2" xml:space="preserve">
-    <value>Ei ole nykyinen varasto ja ei ole kysyntää</value>
+    <value>Ei nykyistä varastoa eikä kysyntää</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Tilaa määrä saapua 11 % r johtaa aika</value>
+    <value>Tilauksen saapumiseen vähemmän kuin 11% R+ Läpimenoajasta (R+ LT / DLT)</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Tilaa määrä saapua 33-22 prosenttia r johtaa ajan.</value>
+    <value>Tilauksen saapumiseen vähemmän 22% - 33% R+ Läpimenoajasta (R+ LT / DLT)</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Tilaa määrä saapua välillä 22 prosenttia ja 11 prosenttia r johtaa aika.</value>
+    <value>Tilauksen saapumiseen vähemmän 11% - 22% R+ Läpimenoajasta (R+ LT / DLT)</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
-    <value>On auki kysynnän ja tarjonnan läpimenoaikaan</value>
+    <value>On avointa kysyntää ja tarjontaa läpimenoajan puitteissa</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
-    <value>QOH (nykyinen varasto) &amp;gt; = 0 ja jos käytössä on &amp;lt; = 0 aikana johtaa aikaa horisontin</value>
+    <value>QOH (nykyinen vapaa varasto) &amp;gt; = 0 ja jos rullaava saldo on &amp;lt; = 0 milloin tahansa läpimenoajan horisontissa</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
-    <value>On avannut tarjonnan läpimenoaikaan</value>
+    <value>On avointa kysyntää ja tarjontaa läpimenoajan puitteissa</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
-    <value>QOH (nykyinen varasto) &amp;gt; = 0 ja käynnissä tasapaino on &amp;gt; 0 ja &amp;lt; = % ToR aikana johtaa aikaa horisontin</value>
+    <value>QOH (nykyinen vapaa varasto) &amp;gt; = 0 ja rullaava saldo on &amp;gt; 0 ja &amp;lt; = % ToR milloin tahansa läpimenoajan horisontissa</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
-    <value>On käynnissä negatiivinen aiemmin</value>
+    <value>On menneisyyteen sijoittuva negatiivinen rullaava saldo</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical2" xml:space="preserve">
-    <value>On käynnissä negatiivinen aikana johtaa aikaa horisontin</value>
+    <value>On negatiivinen rullaava saldo mihin tahansa ajankohtaan läpimenoaikahorisontissa </value>
   </data>
   <data name="rule_NotIncludedIn" xml:space="preserve">
     <value>Eivät sisälly</value>
@@ -415,31 +415,31 @@
     <value>EDU-pitää keskuspaikkanaan juokseva saldo, yksi R + Toimitusaika on pienempi tai yhtä suuri kuin nolla</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
-    <value>Nykyistä varastotilannetta on alle prosenttia punaiselle alueelle määritelty varaston varoitustasosta puskurin profiili (tai varoitustasosta Järjestelmäoletus)</value>
+    <value>Nykyinen varastotaso on alle määritetyn hälytystason - punaiselle alueelle määritellyn prosentin (määritetyn oletustason tai varaston puskuriprofiilissa määritellyn varoitustason) </value>
   </data>
   <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
     <value>EDU perustuu käynnissä tasapainottavat yksi R + Toimitusaika on enintään % punaiselle alueelle määritelty varaston varoitustasosta puskurin profiili (tai varoitustasosta Järjestelmäoletus)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
-    <value>Nykyinen varaston määrä on enintään Red Top (ToR)</value>
+    <value>Nykyinen varaston määrä on vähemmän tai yhtä paljon kuin Punaisen yläreuna (Red Top - ToR)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
     <value>EDU-pitää keskuspaikkanaan juokseva saldo, yksi R + Toimitusaika on enintään Red Top (ToR)</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
-    <value>Juokseva saldo</value>
+    <value>Rullaava saldo</value>
   </data>
   <data name="Save" xml:space="preserve">
     <value>Tallenna</value>
   </data>
   <data name="SODemand" xml:space="preserve">
-    <value>Tallennusratkaisujen</value>
+    <value>Hankintatilausten kysyntä</value>
   </data>
   <data name="Source" xml:space="preserve">
     <value>Lähde</value>
   </data>
   <data name="SPIKE" xml:space="preserve">
-    <value>-SPIKE</value>
+    <value>-PIIKKI</value>
   </data>
   <data name="StartDate" xml:space="preserve">
     <value>Alkamispäivä</value>
@@ -447,38 +447,44 @@
   <data name="Status" xml:space="preserve">
     <value>Tila</value>
   </data>
+  <data name="Status3" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Status4" xml:space="preserve">
+    <value />
+  </data>
   <data name="StockOut" xml:space="preserve">
-    <value>VARASTOSTA</value>
+    <value>Loppu varastosta - STOC OUT</value>
   </data>
   <data name="StockOutWithDemand" xml:space="preserve">
-    <value>KANNAN ULOS KYSYNNÄN</value>
+    <value>Loppu varastosta - tuotteella kuitenkin kysyntää</value>
   </data>
   <data name="SupplyOrderNote" xml:space="preserve">
-    <value>Toimittaa järjestys Huomaa</value>
+    <value>Hankintatilauksen muistiinpano</value>
   </data>
   <data name="SupplyOrders" xml:space="preserve">
-    <value>Toimitustilaukset</value>
+    <value>Hankintatilaukset</value>
   </data>
   <data name="TopOfGreen" xml:space="preserve">
-    <value>Top Green</value>
+    <value>Vihreän yläreuna</value>
   </data>
   <data name="TopOfRed" xml:space="preserve">
-    <value>Alkuun punainen</value>
+    <value>Punaisen yläreuna</value>
   </data>
   <data name="TopOfYellow" xml:space="preserve">
-    <value>Top keltainen</value>
+    <value>Keltaisen yläreuna</value>
   </data>
   <data name="Type" xml:space="preserve">
     <value>Tyyppi</value>
   </data>
   <data name="Vendor" xml:space="preserve">
-    <value>Toimittajan</value>
+    <value>Toimittaja</value>
   </data>
   <data name="VendorID" xml:space="preserve">
     <value>Toimittajatunnus</value>
   </data>
   <data name="WODemand" xml:space="preserve">
-    <value>WO kysynnän</value>
+    <value>Työtilauksen kysyntä</value>
   </data>
   <data name="Yellow" xml:space="preserve">
     <value>Keltainen</value>

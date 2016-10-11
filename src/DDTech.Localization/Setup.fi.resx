@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Admin_Confirm" xml:space="preserve">
-    <value>Järjestelmänvalvoja on rekisteröity. Ohjeita salasana on lähetetty sähköpostiosoitteeseen.</value>
+    <value>Järjestelmänvalvoja on rekisteröity. Ohjeet salasanan asettamiseksi on lähetetty määritettyyn sähköpostiosoitteeseen.</value>
   </data>
   <data name="Admin_Message" xml:space="preserve">
-    <value>Ensimmäinen järjestelmänvalvojan on luotava. Tämä käyttäjä voi hallita muita käyttäjiä.</value>
+    <value>Ensimmäiseksi on luotava järjestelmänvalvoja. Tämä käyttäjä voi hallita kaikkia muita käyttäjiä.</value>
   </data>
   <data name="Admin_Title" xml:space="preserve">
-    <value>Järjestelmänvalvojan</value>
+    <value>Järjestelmänvalvoja</value>
   </data>
   <data name="Done_Action_Home" xml:space="preserve">
     <value>Siirry etusivulle</value>
@@ -133,19 +133,19 @@
     <value>Luo uusia käyttäjiä</value>
   </data>
   <data name="Done_Message" xml:space="preserve">
-    <value>RPlus-esiintymän asennus on valmis!</value>
+    <value>RPlus-sovelluksesi asennus on valmis!</value>
   </data>
   <data name="Done_Title" xml:space="preserve">
     <value>Asennus valmis</value>
   </data>
   <data name="Index_Message" xml:space="preserve">
-    <value>Sinun RPlus on melkein valmis, voit käyttää. Meidän tarvitsee vain kerätä muutaman bittiä tietoa, ennen kuin jatkat.</value>
+    <value>Sinun RPlus-sovelluksesi on melkein valmis käytettäväksi. Meidän tarvitsee vain kerätä muutaman tieto, ennen kuin jatkat.</value>
   </data>
   <data name="Index_Title" xml:space="preserve">
-    <value>Ensikertalaisen asetuksista</value>
+    <value>Sovelluksen ensiavauksen asetukset</value>
   </data>
   <data name="License_Message" xml:space="preserve">
-    <value>Tässä tapauksessa RPlus edellyttää hyvin perusteltu anniskeluoikeudet. Lataa yksi jatkaa.</value>
+    <value>Tämä Rplus-sovellus edellyttää voimassaolevaa lisenssiä. Lataa sellainen ennen jatkamista. </value>
   </data>
   <data name="License_Title" xml:space="preserve">
     <value>Lisenssi</value>

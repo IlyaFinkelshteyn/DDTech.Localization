@@ -124,10 +124,10 @@
     <value>Jälkeen</value>
   </data>
   <data name="AfterDeploymentPercentOfTopOfGreen" xml:space="preserve">
-    <value>% Vihreä</value>
+    <value>Vihreän Jälkeen %</value>
   </data>
   <data name="AvailableToDeploy" xml:space="preserve">
-    <value>Saatavilla käyttöön</value>
+    <value>Saatavilla käyttöönotettavaksi</value>
   </data>
   <data name="BeforeDeployment" xml:space="preserve">
     <value>Ennen käyttöönottoa</value>
@@ -136,22 +136,22 @@
     <value>Ennen</value>
   </data>
   <data name="BeforeDeploymentPercentOfTopOfGreen" xml:space="preserve">
-    <value>Ennen % vihreä</value>
+    <value>Vihreän Ennen %</value>
   </data>
   <data name="CurrentWorkOrders" xml:space="preserve">
-    <value>Nykyinen Työtilaukset</value>
+    <value>Nykyiset Työtilaukset</value>
   </data>
   <data name="DefaultExportType" xml:space="preserve">
-    <value>Vienti oletustyyppi</value>
+    <value>Lähetyksen Oletustyyppi</value>
   </data>
   <data name="DemandWindowDays" xml:space="preserve">
-    <value>Vaatia ikkuna (päivää)</value>
+    <value>Kysyntä Ikkuna (päivää)</value>
   </data>
   <data name="DeployedTo" xml:space="preserve">
-    <value>Käyttöön</value>
+    <value>Käytetään </value>
   </data>
   <data name="DeploymentMode" xml:space="preserve">
-    <value>Käyttöönoton tila</value>
+    <value>Käyttöönoton Tila</value>
   </data>
   <data name="DeploymentMode_Direct" xml:space="preserve">
     <value>Suora</value>
@@ -166,7 +166,7 @@
     <value>Kohde</value>
   </data>
   <data name="DestinationDetails" xml:space="preserve">
-    <value>Kohteen tiedot</value>
+    <value>Kohteen Tiedot</value>
   </data>
   <data name="Destinations" xml:space="preserve">
     <value>Kohteet</value>
@@ -175,10 +175,10 @@
     <value>Yksityiskohta</value>
   </data>
   <data name="Disabled" xml:space="preserve">
-    <value>Kaluston käyttöönoton moduuli ei ole käytössä.</value>
+    <value>Varasto moduuli ei ole tällä hetkellä käytössä.</value>
   </data>
   <data name="ExportType" xml:space="preserve">
-    <value>Vienti tyyppi</value>
+    <value>Lähetys Tyyppi</value>
   </data>
   <data name="ExportType_CSV" xml:space="preserve">
     <value>CSV</value>
@@ -187,67 +187,67 @@
     <value>DLXP</value>
   </data>
   <data name="GridDestinationDetails" xml:space="preserve">
-    <value>SDM: Kohteen tiedot</value>
+    <value>SDM: Kohteen Tiedot</value>
   </data>
   <data name="GridDestinationSummary" xml:space="preserve">
     <value>SDM: Kohde Yhteenveto</value>
   </data>
   <data name="GridSources" xml:space="preserve">
-    <value>SDM: lähteet</value>
+    <value>SDM: Lähteet</value>
   </data>
   <data name="Holdback" xml:space="preserve">
-    <value>Holdback</value>
+    <value>Pidettävä</value>
   </data>
   <data name="IncludeIssued" xml:space="preserve">
-    <value>Annettu määrä sisällyttää Holdback</value>
+    <value>Sisällytä Annettu Määrä Pidettävään Varastoon</value>
   </data>
   <data name="IssuedInventory" xml:space="preserve">
-    <value>Myönnetty varaston</value>
+    <value>Asetettu Varasto</value>
   </data>
   <data name="LookAheadDays" xml:space="preserve">
-    <value>Look ahead kalenteripäivää</value>
+    <value>Tulevaisuuteen suuntautuvat kalenteripäivät</value>
   </data>
   <data name="MinimumHoldbackPercentOfRed" xml:space="preserve">
-    <value>Vähintään Holdback</value>
+    <value>Pidettävä Minimimäärä</value>
   </data>
   <data name="NoSourceSelected" xml:space="preserve">
-    <value>Valittuun lähteeseen</value>
+    <value>Lähdettä ei valittu</value>
   </data>
   <data name="OrderMultipleAdjustment" xml:space="preserve">
-    <value>Tilata useita säätö</value>
+    <value>Tilauskerotimen Säätö</value>
   </data>
   <data name="Override" xml:space="preserve">
     <value>Ohita</value>
   </data>
   <data name="QualifiedDemand" xml:space="preserve">
-    <value>Pätevä kysynnän</value>
+    <value>Pätevä Kysyntä</value>
   </data>
   <data name="ResetOverride" xml:space="preserve">
-    <value>Palauta Ohita</value>
+    <value>Poista Käsiohjaus Käytöstä</value>
   </data>
   <data name="Settings_DecimalPlacesForCalculations" xml:space="preserve">
-    <value>Desimaalien käyttöä laskennassa</value>
+    <value>Desimaalien Määrä Laskennassa</value>
   </data>
   <data name="Settings_Disabled" xml:space="preserve">
-    <value>Kaluston käyttöönotto on poistettu käytöstä</value>
+    <value>Varastotietoja ei käytetä</value>
   </data>
   <data name="Settings_ExportFileNameBase" xml:space="preserve">
-    <value>Vientitiedoston nimi</value>
+    <value>Lähetystiedoston Nimi</value>
   </data>
   <data name="Settings_MinimumHoldbackPercentOfRed_Desc" xml:space="preserve">
-    <value>(Vain napa-käyttöön)</value>
+    <value>(Vain Napakeskuksen Käyttöön) </value>
   </data>
   <data name="Settings_SourceOverride" xml:space="preserve">
-    <value>lähde ohitus</value>
+    <value>lähteen käsiohjaus</value>
   </data>
   <data name="Settings_SourceUnitFieldNum" xml:space="preserve">
-    <value>Mukautetun kentän lähteen paikalle.</value>
+    <value>Mukautettu Kenttä Lähteen Sijainnille</value>
   </data>
   <data name="Settings_UsingShared" xml:space="preserve">
-    <value>Jaettu-asetusten avulla</value>
+    <value>Yhteisten asetusten avulla</value>
   </data>
   <data name="SharedSettings" xml:space="preserve">
-    <value>Asetukset</value>
+    <value>Yhteiset Asetukset</value>
   </data>
   <data name="Shortfall" xml:space="preserve">
     <value>Vaje</value>
@@ -259,10 +259,10 @@
     <value>Tietolähteen lisätiedot</value>
   </data>
   <data name="SourceDetails_SelectOne" xml:space="preserve">
-    <value>Valitse lähde.</value>
+    <value>Valitse Lähde.</value>
   </data>
   <data name="SourceLocation" xml:space="preserve">
-    <value>Lähteen sijainti</value>
+    <value>Lähteen Sijainti</value>
   </data>
   <data name="SourceProperties" xml:space="preserve">
     <value>Ominaisuudet</value>
@@ -271,18 +271,18 @@
     <value>Lähteet</value>
   </data>
   <data name="SourceSettings" xml:space="preserve">
-    <value>Asetukset</value>
+    <value>Lähteen Asetukset</value>
   </data>
   <data name="StockDeploymentStr" xml:space="preserve">
-    <value>Kaluston käyttöönotto</value>
+    <value>Varaston Käyttö</value>
   </data>
   <data name="Summary" xml:space="preserve">
     <value>Yhteenveto</value>
   </data>
   <data name="TotalDeployed" xml:space="preserve">
-    <value>Yhteensä käyttöön</value>
+    <value>Käytetään Yhteensä</value>
   </data>
   <data name="TotalDeployedToBuffers" xml:space="preserve">
-    <value>Käyttöön puskurit</value>
+    <value>Käytetään Puskureihin</value>
   </data>
 </root>

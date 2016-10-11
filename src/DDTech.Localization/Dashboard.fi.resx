@@ -130,10 +130,10 @@
     <value>Näyttö:</value>
   </data>
   <data name="ExecutionAlerts" xml:space="preserve">
-    <value>Suorittamisen ilmoitukset</value>
+    <value>Toimeenpano ilmoitukset</value>
   </data>
   <data name="LeadTimeManaged" xml:space="preserve">
-    <value>Toimitusajan onnistui</value>
+    <value>Läpimenoaika ohjattu</value>
   </data>
   <data name="Location" xml:space="preserve">
     <value>Sijainti:</value>
@@ -142,13 +142,13 @@
     <value>Materiaalin synkronointi</value>
   </data>
   <data name="NonBufferedPriorities" xml:space="preserve">
-    <value>NonBuffered painopisteet</value>
+    <value>Puskuroimattomien (NB) prioriteetit</value>
   </data>
   <data name="none" xml:space="preserve">
     <value>ei mitään</value>
   </data>
   <data name="NoReminders" xml:space="preserve">
-    <value>Ei Reminder(s)</value>
+    <value>Ei muistutuksia</value>
   </data>
   <data name="Outstanding" xml:space="preserve">
     <value>Erinomainen</value>
@@ -160,16 +160,16 @@
     <value>Suunnittelija koodi:</value>
   </data>
   <data name="PlanningPriorities" xml:space="preserve">
-    <value>Ensisijaiset</value>
+    <value>Suunnittelun prioriteetit</value>
   </data>
   <data name="ProjectedStockOut" xml:space="preserve">
-    <value>Ennustettu varastosta</value>
+    <value>Ennustettu Stock Out</value>
   </data>
   <data name="Reminders" xml:space="preserve">
-    <value>Reminder(s)</value>
+    <value>Muistutukset</value>
   </data>
   <data name="RPlusDashboard" xml:space="preserve">
-    <value>Täydennys + Dashboard</value>
+    <value>Replenishment + Ohjauspaneeli</value>
   </data>
   <data name="Save" xml:space="preserve">
     <value>Tallenna</value>
