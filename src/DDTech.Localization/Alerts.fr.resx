@@ -412,7 +412,7 @@
     <value>Non inclus dans</value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
-    <value>EDU base solde en cours d’exécution à partir d’un R + délai est inférieur à zéro</value>
+    <value>Le stock projeté sur la base du besoin moy. Jour retenu est inférieur 0 dans l'horizon du délai R+</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Le stock actuel est inférieur au % de zone rouge, tel que défini par le niveau d’alerte de stock dans le profil de buffer (ou le niveau par défaut système)</value>
