@@ -412,7 +412,7 @@
     <value>Dahil edilmeyen</value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
-    <value>EDU dışarı geçerli bakiyeyi R + sağlama süresi veya sıfıra eşit olan birine dayalı</value>
+    <value>EDU dışarı geçerli bakiyeyi bir R + tedarik süresi olduğu küçüktür sıfır tabanlı</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Geçerli stok düzeyi % kırmızı bölgenin stok uyarı düzeyi arabellek profil (veya sistem varsayılan uyarı düzeyi için) tarafından tanımlanan daha azdır</value>

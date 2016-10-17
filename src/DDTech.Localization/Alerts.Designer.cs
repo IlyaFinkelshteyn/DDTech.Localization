@@ -943,7 +943,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to EDU based running balance out to one R+ Lead Time is less than or equal to zero.
+        ///   Looks up a localized string similar to EDU based running balance out to one R+ Lead Time is less than zero.
         /// </summary>
         public static string rule_ProjectedStockOut_Critical2 {
             get {

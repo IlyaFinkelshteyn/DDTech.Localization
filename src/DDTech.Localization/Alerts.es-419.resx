@@ -412,7 +412,7 @@
     <value>No incluido en</value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
-    <value>EDU en base balance corriente hacia fuera a una QUE R + plazo de ejecución es menor o igual a cero</value>
+    <value>EDU en base balance corriente hacia fuera a una R + plazo de ejecución es menor que cero</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Nivel de inventario actual es menor que % de zona roja según lo definido por el nivel de alerta de inventario en Perfil de buffer (o por defecto del sistema para el nivel de alerta)</value>

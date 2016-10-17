@@ -412,7 +412,7 @@
     <value>Nem szerepel</value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
-    <value>EDU alapján folyó egyenleg ki egy R + átfutási idő kisebb vagy azzal egyenlő értékre</value>
+    <value>EDU alapján folyó egyenleg ki egy R + átfutási idő nullánál kisebb</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Aktuális készletszintet, kisebb, mint %-a vörös zóna meghatározott készletszint riasztási puffer profil (vagy a rendszer alapértelmezett riasztási szint)</value>
