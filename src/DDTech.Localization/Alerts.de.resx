@@ -412,7 +412,7 @@
     <value>Nicht enthalten in</value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
-    <value>EDU basierte laufenden Saldo, um ein R + führen mal kleiner oder gleich Null ist</value>
+    <value>EDU basierte laufenden Saldo aus einer R + Beschaffungszeit ist kleiner als Null</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Aktueller Lagerbestand ist weniger als % der roten Zone definiert durch Inventar Warnstufe in Puffer Profil (oder Systemvorschlag für Warnstufe)</value>

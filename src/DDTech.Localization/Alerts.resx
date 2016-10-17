@@ -412,7 +412,7 @@
     <value>Not included in</value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
-    <value>EDU based running balance out to one R+ Lead Time is less than or equal to zero</value>
+    <value>EDU based running balance out to one R+ Lead Time is less than zero</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Current Inventory Level is less than or equal to % of red zone as defined by inventory alert level in buffer profile (or system default for alert level)</value>

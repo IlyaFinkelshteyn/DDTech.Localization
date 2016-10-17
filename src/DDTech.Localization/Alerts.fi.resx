@@ -412,7 +412,7 @@
     <value>Eivät sisälly</value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
-    <value>EDU-pitää keskuspaikkanaan juokseva saldo, yksi R + Toimitusaika on pienempi tai yhtä suuri kuin nolla</value>
+    <value>EDU-pitää keskuspaikkanaan juokseva saldo, yksi R + Toimitusaika on pienempi kuin nolla</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Nykyinen varastotaso on alle määritetyn hälytystason - punaiselle alueelle määritellyn prosentin (määritetyn oletustason tai varaston puskuriprofiilissa määritellyn varoitustason) </value>
