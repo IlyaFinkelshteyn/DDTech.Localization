@@ -157,31 +157,31 @@
     <value>Ignorer la demande des NB en dehors de l'horizon de traitement</value>
   </data>
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
-    <value>Importé demande de NB pièces qui doivent être effectués au-delà de la (partie délai + demande fenêtre) ne seront pas importés dans R +. Ce paramètre n’a aucun effet si planification des besoins matières est activée.</value>
+    <value>La demande des articles non stockés (NB), qui est au-delà du délai de l'article + l'horizon de la demande, ne sera pas importée dans R+. Ce paramétrage n'a aucun effet si le calcul des besoins (MRP) est activé.</value>
   </data>
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Délimiteur</value>
   </data>
   <data name="Settings_DemandOrderBufferedProcessingWindowSalesOrder" xml:space="preserve">
-    <value>Fenêtre de traitement dans la mémoire tampon (SO)</value>
+    <value>Horizon de traitement des articles avec buffer (commande de vente)</value>
   </data>
   <data name="Settings_DemandOrderBufferedProcessingWindowWorkOrder" xml:space="preserve">
-    <value>Fenêtre de traitement dans la mémoire tampon (WO)</value>
+    <value>Horizon de traitement des articles avec buffer (OF)</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
     <value>Horizon de traitement de la demande pour les articles non stockées </value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
-    <value>Non-Buffered (NB) de traitement de fenêtre (SO)</value>
+    <value>Horizon de traitement des articles sans buffer (commande de vente)</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
-    <value>Non-Buffered (NB) de traitement de fenêtre (WO)</value>
+    <value>Horizon de traitement des articles sans buffer (OF)</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Horizon de demande (jours)</value>
   </data>
   <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
-    <value>Ces paramètres seront limitera à quelle distance avant R + comprendra demande de pièces. Valeurs configurées sont ajoutés à la R + délai d’exécution pour faire correspondre les pièces. Si l’est réglé sur '5' et une partie a un délai de production de R + 5 jours, R + ne tient pas compte de la demande jusqu'à ce que la date actuelle est dans les 10 jours ouvrables de la demande date d’échéance. Si la valeur '0', R + n’inclut que dûment actuel et passé la demande. Si la valeur « -1' (désactivé), R + n’inclura pas n’importe quelle demande.</value>
+    <value>Ce paramètre limitera l'horizon de prise en compte de la demande pour les articles. Les valeurs seront ajoutées au délai R+ de l'article. Ex pour un article NB: paramètre mis à 5 (jours), l'article a un délai R+ de 5. R+ ne prendra en compte que la demande dans les 10 jours à compter de la date du jour. Si la valeur est '0', R + ne prend en compte que la demande passée et celle du jour. Si la valeur est '-1' (désactivé), aucune demande ne sera prise en compte.</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Format numérique attendu</value>
@@ -241,7 +241,7 @@
     <value>Inclure les pics dans le flux disponible</value>
   </data>
   <data name="Settings_IsHighAccuracyPSO" xml:space="preserve">
-    <value>Comprennent l’approvisionnement ouvert en Stock projetée alerte</value>
+    <value>Inclure les commandes en cours dans les alertes de stock projeté</value>
   </data>
   <data name="Settings_LocalTimeZone" xml:space="preserve">
     <value>Fuseau horaire local</value>

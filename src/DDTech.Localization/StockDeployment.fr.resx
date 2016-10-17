@@ -145,7 +145,7 @@
     <value>Type d'exportation par défaut</value>
   </data>
   <data name="DemandWindowDays" xml:space="preserve">
-    <value>Fenêtre de demande (jours)</value>
+    <value>Horizon de demande (jours)</value>
   </data>
   <data name="DeployedTo" xml:space="preserve">
     <value>Déployé au</value>

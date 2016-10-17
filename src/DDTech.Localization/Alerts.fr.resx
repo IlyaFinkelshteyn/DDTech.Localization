@@ -412,19 +412,19 @@
     <value>Non inclus dans</value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
-    <value>EDU base solde en cours d’exécution à partir d’un QUE R + Lead Time est inférieur ou égal à zéro</value>
+    <value>Le stock projeté sur la base du besoin moy. Jour retenu est inférieur ou égal à 0 dans l'horizon du délai R+</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
-    <value>Le stock actuel est inférieur à % de zone rouge, tel que défini par le niveau d’alerte de stock dans le profil de buffer (ou le niveau par défaut système)</value>
+    <value>Le stock actuel est inférieur au % de zone rouge, tel que défini par le niveau d’alerte de stock dans le profil de buffer (ou le niveau par défaut système)</value>
   </data>
   <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
-    <value>EDU basé course solde à partir d’un R + Lead Time est inférieure ou égale à % de zone rouge tel que défini par le niveau d’alerte l’inventaire dans le profil de tampon (ou système par défaut pour le niveau d’alerte)</value>
+    <value>Le stock projeté sur la base du besoin moy. Jour retenu est inférieur ou égal au % de zone rouge tel que défini par le niveau d’alerte de stock dans le profil de buffer (ou le niveau par défaut système)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
     <value>Le stock actuel est inférieur ou égal au top du rouge (ToR)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
-    <value>EDU base solde en cours d’exécution à partir d’un QUE R + Lead Time est inférieur ou égal au dessus du rouge (ToR)</value>
+    <value>Le stock projeté sur la base du besoin moy. Jour retenu est inférieur ou égal au top du rouge (ToR)</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Stock projeté</value>

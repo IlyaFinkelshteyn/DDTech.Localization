@@ -241,7 +241,7 @@
     <value>Numéro de commande</value>
   </data>
   <data name="OrderType" xml:space="preserve">
-    <value>Statut cde</value>
+    <value>Type</value>
   </data>
   <data name="OToG" xml:space="preserve">
     <value>EToV</value>
@@ -307,7 +307,7 @@
     <value>Date de Début</value>
   </data>
   <data name="Status" xml:space="preserve">
-    <value>Statut</value>
+    <value>Statut cde</value>
   </data>
   <data name="Status3" xml:space="preserve">
     <value>Statut 3</value>
