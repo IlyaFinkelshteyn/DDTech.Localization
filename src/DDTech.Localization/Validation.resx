@@ -153,4 +153,13 @@
   <data name="OutOfRangeWithDefaultValueFormat" xml:space="preserve">
     <value>'{PropertyName}' out of range and has been reset to '{DefaultValue}'</value>
   </data>
+  <data name="InvalidCdaf" xml:space="preserve">
+    <value>Value must contain valid Cycle Day Adjustment Factors (CDAF)</value>
+  </data>
+  <data name="InvalidCdafDateRange" xml:space="preserve">
+    <value>Cycle Day Adjustment Factor (CDAF) date range must be less than {days} days</value>
+  </data>
+  <data name="InvalidCdafDatesOverlap" xml:space="preserve">
+    <value>Cycle Day Adjustment Factors (CDAF) for a part cannot overlap date ranges</value>
+  </data>
 </root>

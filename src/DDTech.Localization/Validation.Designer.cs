@@ -106,6 +106,33 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Value must contain valid Cycle Day Adjustment Factors (CDAF).
+        /// </summary>
+        public static string InvalidCdaf {
+            get {
+                return ResourceManager.GetString("InvalidCdaf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cycle Day Adjustment Factor (CDAF) date range must be less than {days} days.
+        /// </summary>
+        public static string InvalidCdafDateRange {
+            get {
+                return ResourceManager.GetString("InvalidCdafDateRange", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cycle Day Adjustment Factors (CDAF) for a part cannot overlap date ranges.
+        /// </summary>
+        public static string InvalidCdafDatesOverlap {
+            get {
+                return ResourceManager.GetString("InvalidCdafDatesOverlap", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Value must be a valid InventoryMethod.
         /// </summary>
         public static string InvalidInventoryMethod {
