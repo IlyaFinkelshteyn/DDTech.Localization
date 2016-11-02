@@ -115,7 +115,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cycle Day Adjustment Factor (CDAF) date range must be less than {days} days.
+        ///   Looks up a localized string similar to Cycle Day Adjustment Factor (CDAF) date range must be less than &apos;{PropertyValue}&apos; days.
         /// </summary>
         public static string InvalidCdafDateRange {
             get {

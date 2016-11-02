@@ -123,6 +123,9 @@
   <data name="BufferProfile" xml:space="preserve">
     <value>Arabellek profili</value>
   </data>
+  <data name="CycleDayAdjustmentFactor" xml:space="preserve">
+    <value>Döngüsü gün ayarlama çarpanı</value>
+  </data>
   <data name="DataExport" xml:space="preserve">
     <value>Veri verme</value>
   </data>
