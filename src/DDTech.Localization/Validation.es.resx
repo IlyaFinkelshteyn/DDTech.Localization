@@ -132,6 +132,15 @@
   <data name="InvalidBufferProfile" xml:space="preserve">
     <value>El valor debe ser un perfil válido de búfer</value>
   </data>
+  <data name="InvalidCdaf" xml:space="preserve">
+    <value>Valor debe contener válido ciclo día ajuste de factores (CDAF)</value>
+  </data>
+  <data name="InvalidCdafDateRange" xml:space="preserve">
+    <value>Rango de fechas de ciclo día ajuste Factor (CDAF) debe ser menor que días '{PropertyValue}'</value>
+  </data>
+  <data name="InvalidCdafDatesOverlap" xml:space="preserve">
+    <value>Factores de ajuste de día de ciclo (CDAF) para una parte no pueden solaparse los rangos de fechas</value>
+  </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
     <value>El alor debe ser un InventoryMethod válido</value>
   </data>
@@ -145,12 +154,12 @@
     <value>'{PropertyName}' debe ser menor o igual a '{BadValue}' y se ha reajustado a '{DefaultValue}'</value>
   </data>
   <data name="MustBeEvenlyDivisbleWithDefaultValueFormat" xml:space="preserve">
-    <value>{PropertyName}' debe ser divisible por '{BadValue}' y se ha reajustado a '{DefaultValue}'</value>
+    <value>'{PropertyName}' debe ser divisible por '{BadValue}' y se ha reajustado a '{DefaultValue}'</value>
   </data>
   <data name="notnullorwhitespace_error" xml:space="preserve">
-    <value>{PropertyName}' no debe ser null ni contener espacios en blanco.</value>
+    <value>'{PropertyName}' no debe ser null ni contener espacios en blanco.</value>
   </data>
   <data name="OutOfRangeWithDefaultValueFormat" xml:space="preserve">
-    <value>{PropertyName}' fuera de rango y ha sido reajustado a '{DefaultValue}'</value>
+    <value>'{PropertyName}' fuera de rango y ha sido reajustado a '{DefaultValue}'</value>
   </data>
 </root>

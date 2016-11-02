@@ -123,6 +123,9 @@
   <data name="BufferProfile" xml:space="preserve">
     <value>버퍼프로파일</value>
   </data>
+  <data name="CycleDayAdjustmentFactor" xml:space="preserve">
+    <value>주기 하루 조정률</value>
+  </data>
   <data name="DataExport" xml:space="preserve">
     <value>데이터 다운로드</value>
   </data>

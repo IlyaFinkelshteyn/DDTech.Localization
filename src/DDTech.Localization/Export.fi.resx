@@ -123,6 +123,9 @@
   <data name="BufferProfile" xml:space="preserve">
     <value>Puskurin profiili</value>
   </data>
+  <data name="CycleDayAdjustmentFactor" xml:space="preserve">
+    <value>Syklin päivä Muutoskerroin</value>
+  </data>
   <data name="DataExport" xml:space="preserve">
     <value>Tietojen vieminen</value>
   </data>

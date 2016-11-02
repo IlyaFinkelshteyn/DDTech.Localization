@@ -132,6 +132,15 @@
   <data name="InvalidBufferProfile" xml:space="preserve">
     <value>Arvon on oltava kelvollinen Puskuri Profiili</value>
   </data>
+  <data name="InvalidCdaf" xml:space="preserve">
+    <value>Arvon on oltava kelvollinen sykli päivä säätö tekijät (CDAF)</value>
+  </data>
+  <data name="InvalidCdafDateRange" xml:space="preserve">
+    <value>Syklin päivä säätö tekijä (CDAF) päivämääräalue on oltava pienempi kuin '{PropertyValue}' päivää</value>
+  </data>
+  <data name="InvalidCdafDatesOverlap" xml:space="preserve">
+    <value>Syklin päivä säätö tekijät (CDAF) osaa ei voi olla päällekkäinen päivämäärävälit</value>
+  </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
     <value>Arvon on oltava kelvollinen varastonohjaustapa</value>
   </data>

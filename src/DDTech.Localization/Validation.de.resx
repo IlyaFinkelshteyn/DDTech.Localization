@@ -132,6 +132,15 @@
   <data name="InvalidBufferProfile" xml:space="preserve">
     <value>Wert muss ein gültiges Puffer-Profil</value>
   </data>
+  <data name="InvalidCdaf" xml:space="preserve">
+    <value>Wert muss gültige Zyklus Tag Anpassung Faktoren (CDAF) enthalten.</value>
+  </data>
+  <data name="InvalidCdafDateRange" xml:space="preserve">
+    <value>Datumsbereich Zyklus Tag Anpassung Faktor (CDAF) muß kleiner als '{PropertyValue}' Tage</value>
+  </data>
+  <data name="InvalidCdafDatesOverlap" xml:space="preserve">
+    <value>Zyklus Tag Anpassung Faktoren (CDAF) für einen Teil dürfen sich nicht überlappen Datumsbereiche</value>
+  </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
     <value>Wert muss eine gültige InventoryMethod</value>
   </data>

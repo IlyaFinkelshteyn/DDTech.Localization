@@ -123,6 +123,9 @@
   <data name="BufferProfile" xml:space="preserve">
     <value>Puffer-Profil</value>
   </data>
+  <data name="CycleDayAdjustmentFactor" xml:space="preserve">
+    <value>Zyklus-Tag-Korrekturfaktor</value>
+  </data>
   <data name="DataExport" xml:space="preserve">
     <value>Datenexport</value>
   </data>
