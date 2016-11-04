@@ -144,6 +144,9 @@
   <data name="CurrentPAFIs" xml:space="preserve">
     <value>Текущий PAF:</value>
   </data>
+  <data name="CycleDayAdjustmentFactor" xml:space="preserve">
+    <value>Коэффициент корректировки день цикла</value>
+  </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Дни</value>
   </data>

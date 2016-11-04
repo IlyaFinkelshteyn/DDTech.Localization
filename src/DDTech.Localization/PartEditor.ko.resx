@@ -144,6 +144,9 @@
   <data name="CurrentPAFIs" xml:space="preserve">
     <value>현 PAF</value>
   </data>
+  <data name="CycleDayAdjustmentFactor" xml:space="preserve">
+    <value>주기 하루 조정률</value>
+  </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>재고일수</value>
   </data>

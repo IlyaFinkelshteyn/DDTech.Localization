@@ -144,6 +144,9 @@
   <data name="CurrentPAFIs" xml:space="preserve">
     <value>Aktuelle PAF ist</value>
   </data>
+  <data name="CycleDayAdjustmentFactor" xml:space="preserve">
+    <value>Zyklus-Tag-Korrekturfaktor</value>
+  </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Tage Verbrauch</value>
   </data>

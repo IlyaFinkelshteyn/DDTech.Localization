@@ -142,6 +142,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Cycle Day Adjustment Factor.
+        /// </summary>
+        public static string CycleDayAdjustmentFactor {
+            get {
+                return ResourceManager.GetString("CycleDayAdjustmentFactor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Days Consumption.
         /// </summary>
         public static string DaysConsumption {
