@@ -138,6 +138,12 @@
   <data name="DisplayLang_en" xml:space="preserve">
     <value>Englisch</value>
   </data>
+  <data name="DisplayLang_en_uk" xml:space="preserve">
+    <value>Englisch (UK)</value>
+  </data>
+  <data name="DisplayLang_en_us" xml:space="preserve">
+    <value>Englisch (USA)</value>
+  </data>
   <data name="DisplayLang_es" xml:space="preserve">
     <value>Spanisch</value>
   </data>

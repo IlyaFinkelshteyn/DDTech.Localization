@@ -8,14 +8,14 @@ namespace DDTech.Localization
 {
     public static class CultureHelper
     {
-
         // Include ONLY cultures you are implementing
         public static readonly List<string> SupportedCultures = new List<string> {
             "en",  // First is the default: English NEUTRAL
-            "de", // German Neutral
+            "en-UK", // English (UK)
+            "de", // German NEUTRAL
             "es", // Spanish NEUTRAL
             "es-419", // Spanish (Latin America and Caribbean region)
-            "fi", // Finnish Neutral
+            "fi", // Finnish NEUTRAL
             "fr", // French NEUTRAL
             "hu", // Hungarian NEUTRAL
             "ko", // Korean NEUTRAL

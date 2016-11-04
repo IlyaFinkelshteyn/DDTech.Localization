@@ -123,6 +123,12 @@
   <data name="DisplayLang_en" xml:space="preserve">
     <value>English</value>
   </data>
+  <data name="DisplayLang_en_uk" xml:space="preserve">
+    <value>English (UK)</value>
+  </data>
+  <data name="DisplayLang_en_us" xml:space="preserve">
+    <value>English (US)</value>
+  </data>
   <data name="DisplayLang_es" xml:space="preserve">
     <value>Spanish</value>
   </data>

@@ -138,6 +138,12 @@
   <data name="DisplayLang_en" xml:space="preserve">
     <value>İngilizce</value>
   </data>
+  <data name="DisplayLang_en_uk" xml:space="preserve">
+    <value>İngilizce (Birleşik Krallık)</value>
+  </data>
+  <data name="DisplayLang_en_us" xml:space="preserve">
+    <value>İngilizce (ABD)</value>
+  </data>
   <data name="DisplayLang_es" xml:space="preserve">
     <value>İspanyolca</value>
   </data>

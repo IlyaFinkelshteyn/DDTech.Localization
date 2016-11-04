@@ -138,6 +138,12 @@
   <data name="DisplayLang_en" xml:space="preserve">
     <value>английский</value>
   </data>
+  <data name="DisplayLang_en_uk" xml:space="preserve">
+    <value>Английский (Великобритания)</value>
+  </data>
+  <data name="DisplayLang_en_us" xml:space="preserve">
+    <value>Английский (США)</value>
+  </data>
   <data name="DisplayLang_es" xml:space="preserve">
     <value>испанский</value>
   </data>
@@ -229,7 +235,7 @@
     <value>MSA</value>
   </data>
   <data name="Nav_AlertsMSASummary_Title" xml:space="preserve">
-    <value>MSA</value>
+    <value>СУТОЧНЫЕ УЧАСТНИКОВ МИССИИ</value>
   </data>
   <data name="Nav_AlertsProjectedStockOut_Title" xml:space="preserve">
     <value>Прогнозируемый аут-оф-сток (PSO)</value>
