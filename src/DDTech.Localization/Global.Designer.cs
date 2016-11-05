@@ -126,18 +126,9 @@ namespace DDTech.Localization {
         /// <summary>
         ///   Looks up a localized string similar to English (UK).
         /// </summary>
-        public static string DisplayLang_en_uk {
+        public static string DisplayLang_en_gb {
             get {
-                return ResourceManager.GetString("DisplayLang_en_uk", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to English (US).
-        /// </summary>
-        public static string DisplayLang_en_us {
-            get {
-                return ResourceManager.GetString("DisplayLang_en_us", resourceCulture);
+                return ResourceManager.GetString("DisplayLang_en_gb", resourceCulture);
             }
         }
         
