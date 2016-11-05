@@ -11,7 +11,7 @@ namespace DDTech.Localization
         // Include ONLY cultures you are implementing
         public static readonly List<string> SupportedCultures = new List<string> {
             "en",  // First is the default: English NEUTRAL
-            "en-UK", // English (UK)
+            "en-GB", // English (UK)
             "de", // German NEUTRAL
             "es", // Spanish NEUTRAL
             "es-419", // Spanish (Latin America and Caribbean region)
