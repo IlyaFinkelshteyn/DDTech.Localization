@@ -150,6 +150,9 @@
   <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
     <value>{CDAFDaysCoverage} días</value>
   </data>
+  <data name="CycleDayAdjustmentFactorToolTip" xml:space="preserve">
+    <value>Recuerde, sólo la fecha de inicio de la CDAF será tirada hacia adelante por R + plazo para probar para la efectividad.</value>
+  </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Días de Consumo</value>
   </data>

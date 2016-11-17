@@ -150,6 +150,9 @@
   <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
     <value>{CDAFDaysCoverage} gün</value>
   </data>
+  <data name="CycleDayAdjustmentFactorToolTip" xml:space="preserve">
+    <value>Unutma, CDAF, yalnızca başlangıç tarihi ileri R + tedarik süresi tarafından için etkinliğini test etmek için çekilmiş olacak.</value>
+  </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Gün tüketimi</value>
   </data>

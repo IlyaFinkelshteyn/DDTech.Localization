@@ -150,6 +150,9 @@
   <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
     <value>{CDAFDaysCoverage} nap</value>
   </data>
+  <data name="CycleDayAdjustmentFactorToolTip" xml:space="preserve">
+    <value>Ne feledje, hogy csak a CDAF kezdő dátum fogja húzni előre by R + átfutási idő annak érdekében, hogy teszteljék a hatékonyságát.</value>
+  </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Nappal fogyasztás</value>
   </data>
