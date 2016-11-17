@@ -345,4 +345,7 @@
   <data name="CycleDayAdjustmentFactor" xml:space="preserve">
     <value>Cycle Day Adjustment Factor</value>
   </data>
+  <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
+    <value>{CDAFDaysCoverage} days</value>
+  </data>
 </root>

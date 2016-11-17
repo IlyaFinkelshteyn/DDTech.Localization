@@ -147,6 +147,9 @@
   <data name="CycleDayAdjustmentFactor" xml:space="preserve">
     <value>Коэффициент корректировки день цикла</value>
   </data>
+  <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
+    <value>{CDAFDaysCoverage} дней</value>
+  </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Дни</value>
   </data>
