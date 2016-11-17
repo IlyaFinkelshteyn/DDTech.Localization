@@ -160,6 +160,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Remember, only the Start Date of the CDAF will be pulled forward by R+ Lead Time in order to test for effectivity..
+        /// </summary>
+        public static string CycleDayAdjustmentFactorToolTip {
+            get {
+                return ResourceManager.GetString("CycleDayAdjustmentFactorToolTip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Days Consumption.
         /// </summary>
         public static string DaysConsumption {
