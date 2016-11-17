@@ -151,6 +151,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {CDAFDaysCoverage} days.
+        /// </summary>
+        public static string CycleDayAdjustmentFactorDaysCoverage {
+            get {
+                return ResourceManager.GetString("CycleDayAdjustmentFactorDaysCoverage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Days Consumption.
         /// </summary>
         public static string DaysConsumption {

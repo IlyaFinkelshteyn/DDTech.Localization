@@ -147,6 +147,9 @@
   <data name="CycleDayAdjustmentFactor" xml:space="preserve">
     <value>Zyklus-Tag-Korrekturfaktor</value>
   </data>
+  <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
+    <value>{CDAFDaysCoverage} Tage</value>
+  </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Tage Verbrauch</value>
   </data>

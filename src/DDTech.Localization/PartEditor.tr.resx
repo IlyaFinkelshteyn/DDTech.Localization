@@ -147,6 +147,9 @@
   <data name="CycleDayAdjustmentFactor" xml:space="preserve">
     <value>Döngüsü gün ayarlama çarpanı</value>
   </data>
+  <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
+    <value>{CDAFDaysCoverage} gün</value>
+  </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Gün tüketimi</value>
   </data>
