@@ -147,6 +147,12 @@
   <data name="CycleDayAdjustmentFactor" xml:space="preserve">
     <value>Cycle Day Adjustment Factor</value>
   </data>
+  <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
+    <value>{CDAFDaysCoverage} days</value>
+  </data>
+  <data name="CycleDayAdjustmentFactorToolTip" xml:space="preserve">
+    <value>Remember, only the Start Date of the CDAF will be pulled forward by R+ Lead Time in order to test for effectivity.</value>
+  </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Days Consumption</value>
   </data>

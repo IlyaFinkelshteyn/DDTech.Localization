@@ -150,6 +150,9 @@
   <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
     <value>{CDAFDaysCoverage} 일</value>
   </data>
+  <data name="CycleDayAdjustmentFactorToolTip" xml:space="preserve">
+    <value>만 시작 날짜는 CDAF 오게 될 것입니다 앞으로 R + 리드 타임에 의해 유효성을 시험 하기 위하여, 기억 하십시오.</value>
+  </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>재고일수</value>
   </data>
