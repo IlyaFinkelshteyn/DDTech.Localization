@@ -138,9 +138,6 @@
   <data name="InvalidCdafDateRange" xml:space="preserve">
     <value>Cycle Day Düzeltme Faktörü (CDAF) tarih aralığı '{PropertyValue}' günden az olmalıdır</value>
   </data>
-  <data name="InvalidCdafDatesOverlap" xml:space="preserve">
-    <value>Bir bölümü için döngüsü gün düzeltme faktörleri (CDAF) tarih aralıklarını gelemez</value>
-  </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
     <value>Değer geçerli bir InventoryMethod olmalıdır</value>
   </data>

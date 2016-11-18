@@ -138,9 +138,6 @@
   <data name="InvalidCdafDateRange" xml:space="preserve">
     <value>Rango de fechas de ciclo día ajuste Factor (CDAF) debe ser menor que días '{PropertyValue}'</value>
   </data>
-  <data name="InvalidCdafDatesOverlap" xml:space="preserve">
-    <value>Factores de ajuste de día de ciclo (CDAF) para una parte no pueden solaparse los rangos de fechas</value>
-  </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
     <value>El alor debe ser un InventoryMethod válido</value>
   </data>
