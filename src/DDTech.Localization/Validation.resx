@@ -159,7 +159,4 @@
   <data name="InvalidCdafDateRange" xml:space="preserve">
     <value>Cycle Day Adjustment Factor (CDAF) date range must be less than '{PropertyValue}' days</value>
   </data>
-  <data name="InvalidCdafDatesOverlap" xml:space="preserve">
-    <value>Cycle Day Adjustment Factors (CDAF) for a part cannot overlap date ranges</value>
-  </data>
 </root>

@@ -138,9 +138,6 @@
   <data name="InvalidCdafDateRange" xml:space="preserve">
     <value>Диапазон день цикла Фактор перестройки (CDAF) дата должна быть меньше, чем '{PropertyValue}' дней</value>
   </data>
-  <data name="InvalidCdafDatesOverlap" xml:space="preserve">
-    <value>Цикла день корректировки факторов (ЦДВС) для части не может перекрывать диапазоны дат</value>
-  </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
     <value>Значение должно быть допустимым InventoryMethod</value>
   </data>

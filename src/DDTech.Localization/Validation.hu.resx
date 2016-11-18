@@ -138,9 +138,6 @@
   <data name="InvalidCdafDateRange" xml:space="preserve">
     <value>Ciklus Day korrekciós tényező (CDAF) adattartomány kisebbnek kell lennie, mint a '{PropertyValue}' napok</value>
   </data>
-  <data name="InvalidCdafDatesOverlap" xml:space="preserve">
-    <value>Ciklus Day korrekciós tényezők (CDAF) egy része nem nyúlhat dátumtartományokat</value>
-  </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
     <value>Az értéknek kell lennie egy érvényes InventoryMethod</value>
   </data>

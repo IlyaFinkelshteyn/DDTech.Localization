@@ -138,9 +138,6 @@
   <data name="InvalidCdafDateRange" xml:space="preserve">
     <value>사이클의 날 조정 계수 (CDAF) 날짜 범위는 '{PropertyValue}' 일보다 작아야합니다</value>
   </data>
-  <data name="InvalidCdafDatesOverlap" xml:space="preserve">
-    <value>주기 하루 조정 요인 (CDAF) 부분에 대 한 날짜 범위를 겹칠 수 없습니다.</value>
-  </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
     <value>값을 유효한 InventoryMethod 이어야 합니다.</value>
   </data>

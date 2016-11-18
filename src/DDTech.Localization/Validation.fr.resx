@@ -138,9 +138,6 @@
   <data name="InvalidCdafDateRange" xml:space="preserve">
     <value>Plage de dates pour le facteur de rajustement de jour (CDAF) cycle doit être inférieure à « {PropertyValue}  »</value>
   </data>
-  <data name="InvalidCdafDatesOverlap" xml:space="preserve">
-    <value>Facteurs de réglage jour cycle (CDAF) pour une partie ne peut pas superposer les plages de dates</value>
-  </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
     <value>La valeur doit correspondre à un paramètre de stock existant</value>
   </data>
