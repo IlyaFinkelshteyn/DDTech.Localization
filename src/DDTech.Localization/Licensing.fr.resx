@@ -151,7 +151,7 @@
     <value>Pas de modules supplémentaires achetés</value>
   </data>
   <data name="OnlyLICFiles" xml:space="preserve">
-    <value>Seuls les fichiers .lic peuvent être transférés</value>
+    <value>Seuls les fichiers .lic peuvent être chargés</value>
   </data>
   <data name="PurchasedModules" xml:space="preserve">
     <value>Modules achetés</value>

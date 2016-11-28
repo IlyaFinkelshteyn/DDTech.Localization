@@ -142,7 +142,7 @@
     <value>Supprimer le fichier et le re-charger</value>
   </data>
   <data name="EncounteredNumErrorsWithUploadFormat" xml:space="preserve">
-    <value>{0} erreurs survenues. Avec les premières erreurs de {1}.</value>
+    <value>{0} erreurs survenues. {1} premières erreurs</value>
   </data>
   <data name="ErrorsInUpload" xml:space="preserve">
     <value>Erreurs de chargement</value>

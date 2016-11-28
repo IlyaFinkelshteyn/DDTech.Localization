@@ -292,7 +292,7 @@
     <value>Derniers __days__ Jours</value>
   </data>
   <data name="LastNWeeks" xml:space="preserve">
-    <value>__weeks__ dernières semaines.</value>
+    <value>Dernières __weeks__ semaines</value>
   </data>
   <data name="Late" xml:space="preserve">
     <value>Retard</value>
@@ -358,7 +358,7 @@
     <value>Échéance</value>
   </data>
   <data name="OrderNotes" xml:space="preserve">
-    <value>Notes de l'ordre : </value>
+    <value>Notes de la commande : </value>
   </data>
   <data name="OrderNumber" xml:space="preserve">
     <value>Numéro de commande</value>
@@ -367,7 +367,7 @@
     <value>Politique de lotissement</value>
   </data>
   <data name="OrderQuantity" xml:space="preserve">
-    <value>Quantité d'ordre</value>
+    <value>Quantité de la commande</value>
   </data>
   <data name="OutSourcedCost" xml:space="preserve">
     <value>Coût de sous-traitance</value>
@@ -493,13 +493,13 @@
     <value>Besoin sur OF</value>
   </data>
   <data name="Workbench_ApproveOrder_Button_Approve" xml:space="preserve">
-    <value>Approuver les ordres</value>
+    <value>Approuver les commandes</value>
   </data>
   <data name="Workbench_ApproveOrder_Title" xml:space="preserve">
-    <value>Approuver les ordres recommandées</value>
+    <value>Approuver les suggestions de commande</value>
   </data>
   <data name="Workbench_ApproveOrders" xml:space="preserve">
-    <value>Approuver les commandes</value>
+    <value>Approuver la ou les commande(s)</value>
   </data>
   <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
     <value>Êtes-vous sûr de vouloir continuer ?</value>

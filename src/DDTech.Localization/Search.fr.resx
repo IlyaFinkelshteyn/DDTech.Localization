@@ -127,7 +127,7 @@
     <value>Demandes</value>
   </data>
   <data name="DueDate" xml:space="preserve">
-    <value>Date Due</value>
+    <value>Échéance</value>
   </data>
   <data name="Id" xml:space="preserve">
     <value>ID</value>
@@ -151,7 +151,7 @@
     <value>Notes</value>
   </data>
   <data name="OrderDate" xml:space="preserve">
-    <value>Date de l'ordre</value>
+    <value>Date de la commande</value>
   </data>
   <data name="OrderNumber" xml:space="preserve">
     <value>Numéro de Commande</value>

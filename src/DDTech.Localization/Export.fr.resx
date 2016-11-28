@@ -124,7 +124,7 @@
     <value>Profil de buffer</value>
   </data>
   <data name="CycleDayAdjustmentFactor" xml:space="preserve">
-    <value>Facteur d’ajustement jour cycle</value>
+    <value>Facteur d’ajustement de cycle (jour)</value>
   </data>
   <data name="DataExport" xml:space="preserve">
     <value>Exporter les données</value>

@@ -133,16 +133,16 @@
     <value>Critique</value>
   </data>
   <data name="AlertSeverity_High" xml:space="preserve">
-    <value>Haute</value>
+    <value>Haut</value>
   </data>
   <data name="AlertSeverity_Low" xml:space="preserve">
     <value>Faible</value>
   </data>
   <data name="AlertSeverity_Lowest" xml:space="preserve">
-    <value>Le plus bas</value>
+    <value>Le plus faible</value>
   </data>
   <data name="AlertSeverity_Medium" xml:space="preserve">
-    <value>Médium</value>
+    <value>Moyen</value>
   </data>
   <data name="AlertSeverity_None" xml:space="preserve">
     <value>Aucun</value>
@@ -271,7 +271,7 @@
     <value>Alerte de synchronisation article - critique</value>
   </data>
   <data name="MSAHigh" xml:space="preserve">
-    <value>Alerte de synchronisation article - haute</value>
+    <value>Alerte de synchronisation article - haut</value>
   </data>
   <data name="NoAlertSelected" xml:space="preserve">
     <value>Veuillez sélectionner une alerte</value>
@@ -418,13 +418,13 @@
     <value>Le stock actuel est inférieur au % de zone rouge, tel que défini par le niveau d’alerte de stock dans le profil de buffer (ou le niveau par défaut système)</value>
   </data>
   <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
-    <value>Le stock projeté sur la base du besoin moy. Jour retenu est inférieur ou égal au % de zone rouge tel que défini par le niveau d’alerte de stock dans le profil de buffer (ou le niveau par défaut système)</value>
+    <value>Le stock projeté sur la base du besoin moy. Jour retenu (dans l'horizon du délai R+) est inférieur ou égal au % de zone rouge tel que défini par le niveau d’alerte de stock dans le profil de buffer (ou le niveau par défaut système)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
     <value>Le stock actuel est inférieur ou égal au top du rouge (ToR)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
-    <value>Le stock projeté sur la base du besoin moy. Jour retenu est inférieur ou égal au top du rouge (ToR)</value>
+    <value>Le stock projeté sur la base du besoin moy. Jour retenu (dans l'horizon du délai R+) est inférieur ou égal au top du rouge (ToR)</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Stock projeté</value>
@@ -457,7 +457,7 @@
     <value>RUPTURE</value>
   </data>
   <data name="StockOutWithDemand" xml:space="preserve">
-    <value>RUTURE AVEC BESOIN</value>
+    <value>RUPTURE AVEC BESOIN</value>
   </data>
   <data name="SupplyOrderNote" xml:space="preserve">
     <value>Note sur l'ordre d'appro</value>

@@ -124,7 +124,7 @@
     <value>Profil du buffer</value>
   </data>
   <data name="CreateChildAllocationsOnPendingOrderCreation" xml:space="preserve">
-    <value>Créer des besoins enfant sur les ordres créés</value>
+    <value>Créer des besoins enfant sur les commandes en attente générées</value>
   </data>
   <data name="CreateChildAllocationsOnSupplyOrderImport" xml:space="preserve">
     <value>Créer des besoins enfant sur les ordres d'approvisionnement importés</value>
@@ -160,7 +160,7 @@
     <value>Prévision</value>
   </data>
   <data name="HistoryCaptureLog_Btn" xml:space="preserve">
-    <value>Journal d’historique de capture</value>
+    <value>Journal de capture d’historique</value>
   </data>
   <data name="LastUpdated" xml:space="preserve">
     <value>Dernière mise à jour</value>
