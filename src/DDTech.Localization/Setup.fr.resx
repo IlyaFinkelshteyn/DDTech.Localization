@@ -139,13 +139,13 @@
     <value>Programme d’installation terminé</value>
   </data>
   <data name="Index_Message" xml:space="preserve">
-    <value>Votre instance de RPlus est presque prête à utiliser. Nous avons seulement besoin de recueillir quelques informations supplémentaires avant de continuer.</value>
+    <value>Votre instance RPlus est presque prête à utiliser. Nous avons seulement besoin de recueillir quelques informations supplémentaires avant de continuer.</value>
   </data>
   <data name="Index_Title" xml:space="preserve">
     <value>Première installation</value>
   </data>
   <data name="License_Message" xml:space="preserve">
-    <value>Cette instance de RPlus nécessite une licence valide. Merci d'en charger une pour continuer.</value>
+    <value>Cette instance RPlus nécessite une licence valide. Merci d'en charger une pour continuer.</value>
   </data>
   <data name="License_Title" xml:space="preserve">
     <value>Licence</value>

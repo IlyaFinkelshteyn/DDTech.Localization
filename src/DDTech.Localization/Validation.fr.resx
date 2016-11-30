@@ -133,10 +133,10 @@
     <value>La valeur doit correspondre à un profil de buffer existant</value>
   </data>
   <data name="InvalidCdaf" xml:space="preserve">
-    <value>La valeur doit contenir des facteurs d'ajustement de  cycle (jour) valide (FAC)</value>
+    <value>La valeur doit correspondre à des ajustements de nombre de jours existants</value>
   </data>
   <data name="InvalidCdafDateRange" xml:space="preserve">
-    <value>La plage de périodes pour le facteur d'ajustement de cycle (FAC) doit être inférieure à « {PropertyValue}  »</value>
+    <value>La plage de dates pour l'ajustement du nombre de jours doit être inférieure à « {PropertyValue}  »</value>
   </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
     <value>La valeur doit correspondre à un paramètre de stock existant</value>

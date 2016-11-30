@@ -145,13 +145,13 @@
     <value>FAP actuel de</value>
   </data>
   <data name="CycleDayAdjustmentFactor" xml:space="preserve">
-    <value>Facteur d’ajustement jour cycle</value>
+    <value>Ajustement du nombre de jours</value>
   </data>
   <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
     <value>{CDAFDaysCoverage} jours</value>
   </data>
   <data name="CycleDayAdjustmentFactorToolTip" xml:space="preserve">
-    <value>N’oubliez pas, seulement la Date de début de la CDAF sera tirée vers l’avant par R + délai afin de vérifier l’effectivité.</value>
+    <value>N’oubliez pas, seule la date de début de l'ajustement du nbre de jours (AJ) sera prise en compte avec le délai R+ pour en vérifier la validité</value>
   </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Jours de conso</value>

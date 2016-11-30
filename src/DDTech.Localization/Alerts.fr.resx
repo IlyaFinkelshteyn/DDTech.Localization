@@ -265,13 +265,13 @@
     <value>Type de Matière</value>
   </data>
   <data name="MSAAll" xml:space="preserve">
-    <value>Alerte de synchronisation article - tous</value>
+    <value>Alerte de synchronisation - tous</value>
   </data>
   <data name="MSACritical" xml:space="preserve">
-    <value>Alerte de synchronisation article - critique</value>
+    <value>Alerte de synchronisation - critique</value>
   </data>
   <data name="MSAHigh" xml:space="preserve">
-    <value>Alerte de synchronisation article - haut</value>
+    <value>Alerte de synchronisation - haut</value>
   </data>
   <data name="NoAlertSelected" xml:space="preserve">
     <value>Veuillez sélectionner une alerte</value>
@@ -418,13 +418,13 @@
     <value>Le stock actuel est inférieur au % de zone rouge, tel que défini par le niveau d’alerte de stock dans le profil de buffer (ou le niveau par défaut système)</value>
   </data>
   <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
-    <value>Le stock projeté sur la base du besoin moy. Jour retenu (dans l'horizon du délai R+) est inférieur ou égal au % de zone rouge tel que défini par le niveau d’alerte de stock dans le profil de buffer (ou le niveau par défaut système)</value>
+    <value>Le stock projeté (dans l'horizon du délai R+) sur la base du besoin moy. Jour retenu est inférieur ou égal au % de zone rouge tel que défini par le niveau d’alerte de stock dans le profil de buffer (ou le niveau par défaut système)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
     <value>Le stock actuel est inférieur ou égal au top du rouge (ToR)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
-    <value>Le stock projeté sur la base du besoin moy. Jour retenu (dans l'horizon du délai R+) est inférieur ou égal au top du rouge (ToR)</value>
+    <value>Le stock projeté (dans l'horizon du délai R+) sur la base du besoin moy. Jour retenu est inférieur ou égal au top du rouge (ToR)</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Stock projeté</value>

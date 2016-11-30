@@ -192,7 +192,7 @@
     <value>Créer le mot de passe</value>
   </data>
   <data name="Manage_CreatePassword_Message" xml:space="preserve">
-    <value>Vous n'avez pas un nom d'utilisateur/mot de passe local pour ce site. Ajouter un compte local, et vous pourrez vous connecter sans un login externe.</value>
+    <value>Vous n'avez pas un nom d'utilisateur/mot de passe local pour ce site. Ajoutez un compte local, et vous pourrez vous connecter sans un login externe.</value>
   </data>
   <data name="Manage_Message_ChangePasswordSuccess" xml:space="preserve">
     <value>Votre mot de passe a été modifié avec succès.</value>

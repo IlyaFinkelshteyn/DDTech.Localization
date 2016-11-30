@@ -169,7 +169,7 @@
     <value>Horizon de traitement des articles avec buffer (OF)</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
-    <value>Horizon de traitement de la demande pour les articles non stockées </value>
+    <value>Horizon de traitement de la demande pour les articles non stockés </value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
     <value>Horizon de traitement des articles sans buffer (commande de vente)</value>
@@ -268,10 +268,10 @@
     <value>Ces options permettront à R + de créer automatiquement les commandes d'approvisionnement au cours du calcul des besoins pour satisfaire la demande et affecteront uniquement les articles inclus dans des nomenclatures.</value>
   </data>
   <data name="Settings_Mrp_mrpFeatures2" xml:space="preserve">
-    <value>Au cours du calcul de besoins, ces paramètres déterminent sur quel horizon R+ essayera de créer des commandes. Ces valeurs sont ajoutées au délai R+ de l'article. Par exemple si le paramètre est '5' et le délai R+ de l'article est de 5 jours, R+ ne créera pas de commande tant que la date d'aujourd'hui est à moins de 10 jours ouvrables de l'échéance du besoin.</value>
+    <value>Au cours du calcul des besoins, ces paramètres déterminent sur quel horizon R+ essayera de créer des commandes. Ces valeurs sont ajoutées au délai R+ de l'article. Par exemple si le paramètre est '5' et le délai R+ de l'article est de 5 jours, R+ ne créera pas de commande tant que la date d'aujourd'hui est à moins de 10 jours ouvrables de l'échéance du besoin.</value>
   </data>
   <data name="Settings_Mrp_mrpNettingFull" xml:space="preserve">
-    <value>R + va automatiquement effectuer un calcul des besoins pour toute commande de demande importée (Commandes de vente et OF). Les données de demande importées ne doivent pas contenir les demandes des articles enfants (articles de niveau inférieur)</value>
+    <value>R + va automatiquement effectuer un calcul des besoins pour toute ligne de demande importée (Commandes de vente et OF). Les données de demande importées ne doivent pas contenir les demandes des articles enfants (articles de niveau inférieur)</value>
   </data>
   <data name="Settings_Mrp_mrpNettingNetChange" xml:space="preserve">
     <value>Le calcul des besoins ne sera effectué que lors de la création manuelle de commandes ou l'approbation des propositions. R+ suppose que tous les ordres importés ont déjà fait l'objet d'un calcul des besoins dans votre système MRP avant importation.</value>
@@ -391,7 +391,7 @@
     <value>Longueur minimale ?</value>
   </data>
   <data name="Settings_User_Password" xml:space="preserve">
-    <value>Changer mot de passe</value>
+    <value>Changer le mot de passe</value>
   </data>
   <data name="Settings_User_PasswordComplexity" xml:space="preserve">
     <value>Complexité du mot de passe</value>

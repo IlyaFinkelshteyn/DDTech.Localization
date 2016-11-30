@@ -151,7 +151,7 @@
     <value>Notes</value>
   </data>
   <data name="OrderDate" xml:space="preserve">
-    <value>Date de la commande</value>
+    <value>Date de l'ordre</value>
   </data>
   <data name="OrderNumber" xml:space="preserve">
     <value>Numéro de Commande</value>

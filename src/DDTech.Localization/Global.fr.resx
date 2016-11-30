@@ -214,7 +214,7 @@
     <value>Aucune note</value>
   </data>
   <data name="Nav_Alerts_OutstandingSupplyOrderNotes" xml:space="preserve">
-    <value>Notes en cours</value>
+    <value>Notes à venir</value>
   </data>
   <data name="Nav_Alerts_OverdueSupplyOrderNotes" xml:space="preserve">
     <value>Notes en retard</value>

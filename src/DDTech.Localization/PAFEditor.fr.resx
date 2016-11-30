@@ -211,7 +211,7 @@
     <value>(Tout Sélectionner)</value>
   </data>
   <data name="SelectFilter" xml:space="preserve">
-    <value>Sélectionner Filtre</value>
+    <value>Sélection du filtre</value>
   </data>
   <data name="Sep" xml:space="preserve">
     <value>Sept</value>
