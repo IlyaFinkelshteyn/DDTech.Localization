@@ -289,10 +289,10 @@
     <value>Gestion de Stock</value>
   </data>
   <data name="LastNDays" xml:space="preserve">
-    <value>Derniers __days__ Jours</value>
+    <value>Derniers __Jours__ Jours</value>
   </data>
   <data name="LastNWeeks" xml:space="preserve">
-    <value>Dernières __weeks__ semaines</value>
+    <value>Dernières __semaines__ semaines</value>
   </data>
   <data name="Late" xml:space="preserve">
     <value>Retard</value>
