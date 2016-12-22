@@ -432,4 +432,7 @@
   <data name="Nav_Documentation" xml:space="preserve">
     <value>Documentation</value>
   </data>
+  <data name="DisplayLang_pt_pt" xml:space="preserve">
+    <value>Portuguese (Portugal)</value>
+  </data>
 </root>

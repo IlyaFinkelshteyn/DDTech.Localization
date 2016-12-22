@@ -159,6 +159,9 @@
   <data name="DisplayLang_ko" xml:space="preserve">
     <value>한국어</value>
   </data>
+  <data name="DisplayLang_pt_pt" xml:space="preserve">
+    <value>포르투갈어 (포르투갈)</value>
+  </data>
   <data name="DisplayLang_ru" xml:space="preserve">
     <value>러시아어</value>
   </data>

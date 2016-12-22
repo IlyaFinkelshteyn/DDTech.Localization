@@ -159,6 +159,9 @@
   <data name="DisplayLang_ko" xml:space="preserve">
     <value>Kore dili</value>
   </data>
+  <data name="DisplayLang_pt_pt" xml:space="preserve">
+    <value>Portekizce (Portekiz)</value>
+  </data>
   <data name="DisplayLang_ru" xml:space="preserve">
     <value>Rusça</value>
   </data>

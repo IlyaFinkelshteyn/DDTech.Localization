@@ -187,6 +187,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Portuguese (Portugal).
+        /// </summary>
+        public static string DisplayLang_pt_pt {
+            get {
+                return ResourceManager.GetString("DisplayLang_pt_pt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Russian.
         /// </summary>
         public static string DisplayLang_ru {
