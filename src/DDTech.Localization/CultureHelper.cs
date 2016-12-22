@@ -19,6 +19,7 @@ namespace DDTech.Localization
             "fr", // French NEUTRAL
             "hu", // Hungarian NEUTRAL
             "ko", // Korean NEUTRAL
+            "pt-PT", //  Portuguese Portugal
             "tr", // Turkish NEUTRAL
             "ru" // Russian NEUTRAL
         }

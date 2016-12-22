@@ -35,7 +35,7 @@
   <PropertyGroup>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile Condition="Exists('..\DDTech.Localization.snk')">..\DDTech.Localization.snk</AssemblyOriginatorKeyFile>
-  	<AssemblyOriginatorKeyFile Condition="Exists('..\..\setup\certs\AssemblySNK\DDTech.snk')">..\..\setup\certs\AssemblySNK\DDTech.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile Condition="Exists('..\..\setup\certs\AssemblySNK\DDTech.snk')">..\..\setup\certs\AssemblySNK\DDTech.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -87,6 +87,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Account.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="Account.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Account.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="Account.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -136,6 +141,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Admin.ko.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Admin.pt-PT.resx</DependentUpon>
     </Compile>
     <Compile Include="Admin.ru.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -187,6 +197,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Alerts.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="Alerts.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Alerts.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="Alerts.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -236,6 +251,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>BoMViewer.ko.resx</DependentUpon>
+    </Compile>
+    <Compile Include="BoMViewer.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BoMViewer.pt-PT.resx</DependentUpon>
     </Compile>
     <Compile Include="BoMViewer.ru.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -287,6 +307,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>BufferProfileEditor.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="BufferProfileEditor.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BufferProfileEditor.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="BufferProfileEditor.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -337,6 +362,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Calendar.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="Calendar.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Calendar.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="Calendar.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -386,6 +416,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Common.ko.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Common.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Common.pt-PT.resx</DependentUpon>
     </Compile>
     <Compile Include="Common.ru.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -438,6 +473,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Dashboard.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="Dashboard.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Dashboard.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="Dashboard.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -487,6 +527,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Export.ko.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Export.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Export.pt-PT.resx</DependentUpon>
     </Compile>
     <Compile Include="Export.ru.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -538,6 +583,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Global.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="Global.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Global.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="Global.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -587,6 +637,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Home.ko.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Home.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Home.pt-PT.resx</DependentUpon>
     </Compile>
     <Compile Include="Home.ru.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -638,6 +693,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Import.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="Import.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Import.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="Import.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -687,6 +747,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Licensing.ko.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Licensing.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Licensing.pt-PT.resx</DependentUpon>
     </Compile>
     <Compile Include="Licensing.ru.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -738,6 +803,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Menu.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="Menu.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Menu.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="Menu.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -787,6 +857,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ObjectModel.ko.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ObjectModel.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ObjectModel.pt-PT.resx</DependentUpon>
     </Compile>
     <Compile Include="ObjectModel.ru.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -838,6 +913,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>PAFEditor.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="PAFEditor.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PAFEditor.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="PAFEditor.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -888,6 +968,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>PartEditor.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="PartEditor.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PartEditor.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="PartEditor.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -937,6 +1022,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>PendingOrders.ko.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PendingOrders.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PendingOrders.pt-PT.resx</DependentUpon>
     </Compile>
     <Compile Include="PendingOrders.ru.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -989,6 +1079,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Reports.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="Reports.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reports.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="Reports.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -1039,6 +1134,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Search.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="Search.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Search.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="Search.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -1083,6 +1183,11 @@
       <DependentUpon>Services.ko.resx</DependentUpon>
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Services.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Services.pt-PT.resx</DependentUpon>
     </Compile>
     <Compile Include="Services.tr.Designer.cs">
       <DependentUpon>Services.tr.resx</DependentUpon>
@@ -1139,6 +1244,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Setup.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="Setup.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Setup.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="Setup.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -1188,6 +1298,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Status.ko.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Status.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Status.pt-PT.resx</DependentUpon>
     </Compile>
     <Compile Include="Status.ru.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -1239,6 +1354,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>StockDeployment.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="StockDeployment.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StockDeployment.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="StockDeployment.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -1288,6 +1408,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Validation.ko.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Validation.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Validation.pt-PT.resx</DependentUpon>
     </Compile>
     <Compile Include="Validation.ru.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -1339,6 +1464,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Workbench.ko.resx</DependentUpon>
     </Compile>
+    <Compile Include="Workbench.pt-PT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Workbench.pt-PT.resx</DependentUpon>
+    </Compile>
     <Compile Include="Workbench.ru.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -1378,6 +1508,10 @@
     <EmbeddedResource Include="Account.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Account.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Account.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Account.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Account.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -1419,6 +1553,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Admin.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Admin.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Admin.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Admin.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Admin.Designer.cs</LastGenOutput>
@@ -1458,6 +1596,10 @@
     <EmbeddedResource Include="Alerts.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Alerts.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alerts.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Alerts.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Alerts.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -1499,6 +1641,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>BoMViewer.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="BoMViewer.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>BoMViewer.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="BoMViewer.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>BoMViewer.Designer.cs</LastGenOutput>
@@ -1538,6 +1684,10 @@
     <EmbeddedResource Include="BufferProfileEditor.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>BufferProfileEditor.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BufferProfileEditor.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>BufferProfileEditor.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="BufferProfileEditor.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -1579,6 +1729,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Calendar.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Calendar.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Calendar.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Calendar.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Calendar.Designer.cs</LastGenOutput>
@@ -1618,6 +1772,10 @@
     <EmbeddedResource Include="Common.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Common.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Common.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Common.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -1659,6 +1817,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Dashboard.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Dashboard.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Dashboard.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Dashboard.Designer.cs</LastGenOutput>
@@ -1698,6 +1860,10 @@
     <EmbeddedResource Include="Export.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Export.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Export.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Export.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Export.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -1739,6 +1905,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Global.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Global.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Global.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Global.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Global.Designer.cs</LastGenOutput>
@@ -1778,6 +1948,10 @@
     <EmbeddedResource Include="Home.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Home.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Home.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Home.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -1819,6 +1993,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Import.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Import.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Import.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Import.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Import.Designer.cs</LastGenOutput>
@@ -1858,6 +2036,10 @@
     <EmbeddedResource Include="Licensing.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Licensing.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Licensing.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Licensing.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Licensing.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -1899,6 +2081,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Menu.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Menu.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Menu.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Menu.Designer.cs</LastGenOutput>
@@ -1938,6 +2124,10 @@
     <EmbeddedResource Include="ObjectModel.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ObjectModel.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectModel.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ObjectModel.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="ObjectModel.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -1979,6 +2169,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>PAFEditor.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="PAFEditor.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>PAFEditor.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="PAFEditor.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>PAFEditor.Designer.cs</LastGenOutput>
@@ -2018,6 +2212,10 @@
     <EmbeddedResource Include="PartEditor.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>PartEditor.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PartEditor.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>PartEditor.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="PartEditor.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -2059,6 +2257,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>PendingOrders.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="PendingOrders.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>PendingOrders.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="PendingOrders.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>PendingOrders.Designer.cs</LastGenOutput>
@@ -2098,6 +2300,10 @@
     <EmbeddedResource Include="Reports.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Reports.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Reports.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -2139,6 +2345,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Search.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Search.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Search.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Search.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Search.Designer.cs</LastGenOutput>
@@ -2178,6 +2388,10 @@
     <EmbeddedResource Include="Services.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Services.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Services.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Services.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Services.tr.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -2219,6 +2433,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Setup.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Setup.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Setup.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Setup.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Setup.Designer.cs</LastGenOutput>
@@ -2258,6 +2476,10 @@
     <EmbeddedResource Include="Status.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Status.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Status.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Status.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Status.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -2299,6 +2521,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>StockDeployment.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="StockDeployment.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>StockDeployment.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="StockDeployment.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>StockDeployment.Designer.cs</LastGenOutput>
@@ -2339,6 +2565,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Validation.ko.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Validation.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Validation.pt-PT.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Validation.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Validation.Designer.cs</LastGenOutput>
@@ -2378,6 +2608,10 @@
     <EmbeddedResource Include="Workbench.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Workbench.ko.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Workbench.pt-PT.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Workbench.pt-PT.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Workbench.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>

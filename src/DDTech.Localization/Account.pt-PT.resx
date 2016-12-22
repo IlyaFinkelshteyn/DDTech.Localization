@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ChangeUserPwd_Body" xml:space="preserve">
+    <value>&lt;p&gt;&lt;%UserName%&gt;,&lt;/p&gt;
+&lt;p&gt;Sua senha foi alterada recentemente. Se você não iniciou essa alteração de senha, deve contactar imediatamente o administrador do sistema.&lt;/p&gt;
+&lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;"&gt;&lt;%SiteURL%&gt;&lt;/a&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="ChangeUserPwd_Subject" xml:space="preserve">
+    <value>Alteração de senha RPlus</value>
+  </data>
+  <data name="EmailAddress" xml:space="preserve">
+    <value>Endereço de email</value>
+  </data>
+  <data name="Error_CannotResetPassword" xml:space="preserve">
+    <value>Houve um erro de redefinir sua senha.</value>
+  </data>
+  <data name="Error_FailedEmail" xml:space="preserve">
+    <value>Erro ao enviar o e-mail.</value>
+  </data>
+  <data name="Error_FailedLogin" xml:space="preserve">
+    <value>Sua tentativa de logon não foi bem sucedida. Por favor, tente novamente.</value>
+  </data>
+  <data name="Error_PasswordRequired" xml:space="preserve">
+    <value>Senha é necessária.</value>
+  </data>
+  <data name="Error_UnknownUser" xml:space="preserve">
+    <value>Usuário desconhecido</value>
+  </data>
+  <data name="Error_UserDisabled" xml:space="preserve">
+    <value>Sua conta é desativada</value>
+  </data>
+  <data name="Error_UserNameRequired" xml:space="preserve">
+    <value>Nome de usuário é necessária.</value>
+  </data>
+  <data name="ForgotPassword" xml:space="preserve">
+    <value>Você esqueceu sua senha?</value>
+  </data>
+  <data name="ForgotPassword_Confirm" xml:space="preserve">
+    <value>Por favor, verifique seu e-mail para obter instruções redefinir sua senha.</value>
+  </data>
+  <data name="ForgotPassword_Username" xml:space="preserve">
+    <value>Qual é o seu nome de usuário?</value>
+  </data>
+  <data name="LabelKeepLoggedIn" xml:space="preserve">
+    <value>Manter-me ligado</value>
+  </data>
+  <data name="LabelPassword" xml:space="preserve">
+    <value>Senha:</value>
+  </data>
+  <data name="LabelUserName" xml:space="preserve">
+    <value>Nome de usuário:</value>
+  </data>
+  <data name="LoggedIn" xml:space="preserve">
+    <value>Logado</value>
+  </data>
+  <data name="LoggedOut" xml:space="preserve">
+    <value>Você foi desconectado para fora.</value>
+  </data>
+  <data name="LogIn" xml:space="preserve">
+    <value>Iniciar sessão</value>
+  </data>
+  <data name="LogOut" xml:space="preserve">
+    <value>Efetuar logout</value>
+  </data>
+  <data name="Manage_Account_SignedInAs" xml:space="preserve">
+    <value>Atualmente são registou como &lt;b&gt;{0}&lt;/b&gt;.</value>
+  </data>
+  <data name="Manage_ChangePassword" xml:space="preserve">
+    <value>Alterar senha</value>
+  </data>
+  <data name="Manage_CreatePassword" xml:space="preserve">
+    <value>Criar senha</value>
+  </data>
+  <data name="Manage_CreatePassword_Message" xml:space="preserve">
+    <value>Você não tem um local username e senha para este site. Adicione uma conta local, assim você pode logar sem um login externo.</value>
+  </data>
+  <data name="Manage_Message_ChangePasswordSuccess" xml:space="preserve">
+    <value>Sua senha foi alterada com sucesso.</value>
+  </data>
+  <data name="Manage_Message_Error" xml:space="preserve">
+    <value>Houve um erro ao fazer alterações à sua conta.</value>
+  </data>
+  <data name="Manage_Message_RemoveLoginSuccess" xml:space="preserve">
+    <value>Você removeu um login externo.</value>
+  </data>
+  <data name="Manage_Message_SetPasswordSuccess" xml:space="preserve">
+    <value>Com êxito, você definiu uma senha para sua conta.</value>
+  </data>
+  <data name="Manage_SetPassword" xml:space="preserve">
+    <value>Definir senha</value>
+  </data>
+  <data name="Manage_YourAccount" xml:space="preserve">
+    <value>Sua conta</value>
+  </data>
+  <data name="NewUserPwd_Body" xml:space="preserve">
+    <value>&lt;p&gt;Você pode entrar o site usando o seguinte url e nome de usuário:&lt;/p&gt;
+&lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;"&gt;&lt;%SiteURL%&gt;&lt;/a&gt;&lt;br&gt;Usuário: &lt;%UserName%&gt;&lt;/p&gt;
+&lt;p&gt;Antes de acessar sua conta, por favor use este link para definir uma senha:&lt;/p&gt;
+&lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;"&gt;&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;&lt;/a&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="NewUserPwd_Subject" xml:space="preserve">
+    <value>Nova notificação de usuário RPlus</value>
+  </data>
+  <data name="Password_Confirm" xml:space="preserve">
+    <value>Confirmar senha</value>
+  </data>
+  <data name="Password_Current" xml:space="preserve">
+    <value>Senha atual</value>
+  </data>
+  <data name="Password_Expired" xml:space="preserve">
+    <value>Sua senha expirou. Antes que você pode acessar este sistema, você deve redefinir sua senha. Por favor, verifique seu e-mail para obter instruções redefinir sua senha.</value>
+  </data>
+  <data name="Password_New" xml:space="preserve">
+    <value>Nova senha</value>
+  </data>
+  <data name="PasswordPolicy" xml:space="preserve">
+    <value>As senhas devem:</value>
+  </data>
+  <data name="PasswordPolicy_MinimumLength" xml:space="preserve">
+    <value>ser pelo menos {0} caracteres</value>
+  </data>
+  <data name="PasswordPolicy_RequireDigit" xml:space="preserve">
+    <value>conter pelo menos 1 dígito (0-9)</value>
+  </data>
+  <data name="PasswordPolicy_RequireLowerCase" xml:space="preserve">
+    <value>conter pelo menos 1 letra minúscula (a-z)</value>
+  </data>
+  <data name="PasswordPolicy_RequireNonDigitOrLetter" xml:space="preserve">
+    <value>conter pelo menos 1 símbolo (não um dígito ou letra a-z)</value>
+  </data>
+  <data name="PasswordPolicy_RequireUpperCase" xml:space="preserve">
+    <value>conter pelo menos 1 letra maiuscula (A-Z)</value>
+  </data>
+  <data name="PleaseEnterPassword" xml:space="preserve">
+    <value>Por favor, digite seu nome de usuário e senha.</value>
+  </data>
+  <data name="RememberMe" xml:space="preserve">
+    <value>Lembro-me da próxima vez.</value>
+  </data>
+  <data name="RequestPasswordReset" xml:space="preserve">
+    <value>Pedido de redefinição de senha</value>
+  </data>
+  <data name="ResetPassword" xml:space="preserve">
+    <value>Redefinir sua senha</value>
+  </data>
+  <data name="ResetPassword_Confirm" xml:space="preserve">
+    <value>Sua senha foi alterada e você ter sido conectado. Você pode agora usar reabastecimento +.</value>
+  </data>
+  <data name="ResetPassword_GetToken" xml:space="preserve">
+    <value>Clique aqui para tentar para tentar novamente.</value>
+  </data>
+  <data name="ResetPassword_InvalidToken" xml:space="preserve">
+    <value>O token de segurança é inválido ou não pode ser usado para redefinir sua senha.</value>
+  </data>
+  <data name="ResetPassword_SetPassword" xml:space="preserve">
+    <value>Definir nova senha</value>
+  </data>
+  <data name="ResetUserPwd_Body" xml:space="preserve">
+    <value>&lt;p&gt;&lt;%UserName%&gt;,&lt;/p&gt;
+&lt;p&gt;A senha da conta foi solicitada deve ser redefinida. Se você não iniciou este reset, deve contactar imediatamente o administrador do sistema. Por favor, use o link a seguir para definir uma nova senha para sua conta:&lt;/p&gt;
+&lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;"&gt;&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;&lt;/a&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="ResetUserPwd_Subject" xml:space="preserve">
+    <value>Redefinição de senha RPlus</value>
+  </data>
+  <data name="SignInToContinue" xml:space="preserve">
+    <value>Login para continuar</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Nome de usuário</value>
+  </data>
+</root>

@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Common_Description" xml:space="preserve">
+    <value>Descrição</value>
+  </data>
+  <data name="Common_Late" xml:space="preserve">
+    <value>Tarde</value>
+  </data>
+  <data name="Common_MaterialType" xml:space="preserve">
+    <value>Tipo de material</value>
+  </data>
+  <data name="Common_Notes" xml:space="preserve">
+    <value>Comentários</value>
+  </data>
+  <data name="Common_OrderType" xml:space="preserve">
+    <value>Tipo de ordem</value>
+  </data>
+  <data name="Common_PartType" xml:space="preserve">
+    <value>Tipo de parte</value>
+  </data>
+  <data name="Common_PlannerCode" xml:space="preserve">
+    <value>Planejador de</value>
+  </data>
+  <data name="Common_PriorityCode" xml:space="preserve">
+    <value>Prioridade</value>
+  </data>
+  <data name="Common_Profile" xml:space="preserve">
+    <value>Perfil de reserva</value>
+  </data>
+  <data name="Common_Quantity" xml:space="preserve">
+    <value>Qty</value>
+  </data>
+  <data name="Common_Source" xml:space="preserve">
+    <value>Fonte</value>
+  </data>
+  <data name="Common_Status" xml:space="preserve">
+    <value>Estatuto</value>
+  </data>
+  <data name="Common_UnitOfMeasure" xml:space="preserve">
+    <value>Unidade de medida</value>
+  </data>
+  <data name="Common_Vendor" xml:space="preserve">
+    <value>Fornecedor</value>
+  </data>
+  <data name="Common_VendorId" xml:space="preserve">
+    <value>ID do fornecedor</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Order_Customer" xml:space="preserve">
+    <value>Ao cliente</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Order_LinkCode" xml:space="preserve">
+    <value>Código do link</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Order_OrderId" xml:space="preserve">
+    <value>ID da encomenda</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Order_OrderNumber" xml:space="preserve">
+    <value>Número de ordem</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Order_RecommendedOrderQty" xml:space="preserve">
+    <value>Recomendado Qty da ordem</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_OrderKey_OrderNumber" xml:space="preserve">
+    <value>Número de ordem</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_AverageDailyUsage" xml:space="preserve">
+    <value>Utilização diária média</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_EffectiveDailyUsage" xml:space="preserve">
+    <value>Uso diário eficaz</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_FixedLeadTime" xml:space="preserve">
+    <value>Fixa o prazo de execução</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_ForecastedDailyUsage" xml:space="preserve">
+    <value>Uso diário previsto</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Date" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_DueDate" xml:space="preserve">
+    <value>Data de vencimento</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_IsInventory" xml:space="preserve">
+    <value>É o inventário</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Line" xml:space="preserve">
+    <value>Linha</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderCreationDate" xml:space="preserve">
+    <value>Data do pedido</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderSpikePriority" xml:space="preserve">
+    <value>Ordem prioridade de Spike</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderType" xml:space="preserve">
+    <value>Estatuto</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_PromiseDate" xml:space="preserve">
+    <value>Data da promessa</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_QualifiedDemandOrder" xml:space="preserve">
+    <value>Ordem de demanda qualificada</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_ReminderStatus" xml:space="preserve">
+    <value>Status de lembrete</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_RequestDate" xml:space="preserve">
+    <value>Data do pedido</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_RunningQuantity" xml:space="preserve">
+    <value>Executando o equilíbrio</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_RunningTotalAdjustment" xml:space="preserve">
+    <value>Executando o ajuste Total</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_StartDate" xml:space="preserve">
+    <value>Data de início</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_ThirdParty" xml:space="preserve">
+    <value>Fornecedor</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_ThirdPartyId" xml:space="preserve">
+    <value>ID do fornecedor</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Type" xml:space="preserve">
+    <value>Tipo</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AdjustmentFactor" xml:space="preserve">
+    <value>Fator de ajuste</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertDescription" xml:space="preserve">
+    <value>Descrição do alerta</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertPriority" xml:space="preserve">
+    <value>Prioridade de alerta</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertSeverity" xml:space="preserve">
+    <value>Severidade do alerta</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertStatus" xml:space="preserve">
+    <value>Estado de alerta</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AlertType" xml:space="preserve">
+    <value>Tipo de alerta</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStock" xml:space="preserve">
+    <value>Estoque disponível</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStockPercentage" xml:space="preserve">
+    <value>% do Buffer</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_CurrentInventoryStatus" xml:space="preserve">
+    <value>Status de CI</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_DemandAllocations" xml:space="preserve">
+    <value>Alocações de demanda</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_DueDate" xml:space="preserve">
+    <value>Data de vencimento</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_GreenZoneSize" xml:space="preserve">
+    <value>Tamanho do Buffer de zona verde</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryMethod" xml:space="preserve">
+    <value>Método de inventário</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryQty" xml:space="preserve">
+    <value>Qtde de inventário</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_IssuedQty" xml:space="preserve">
+    <value>Qty emitido</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_LeadTimeStatus" xml:space="preserve">
+    <value>LTM Status</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_LTMTotalOrders" xml:space="preserve">
+    <value>LTM ordens Total</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_MaterialSynchronizationDate" xml:space="preserve">
+    <value>MSA data</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_MaterialSynchronizationStatus" xml:space="preserve">
+    <value>Status MSA</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OnHandQty" xml:space="preserve">
+    <value>Na mão</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMaximumQty" xml:space="preserve">
+    <value>Ordem máxima</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMinimumQty" xml:space="preserve">
+    <value>Ordem mínima</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMultipleQty" xml:space="preserve">
+    <value>Múltiplo de ordem</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderSpikeAlert" xml:space="preserve">
+    <value>Pico</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_PercentageOfTopOfRed" xml:space="preserve">
+    <value>% Superior do vermelho</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_PlannedAdjustmentFactor" xml:space="preserve">
+    <value>Nome do fator de ajuste</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_PlannedAdjustmentFactorValue" xml:space="preserve">
+    <value>Valor do fator de ajuste</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_ProjectedStockOutBufferPercent" xml:space="preserve">
+    <value>PSO % do Buffer</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_ProjectedStockOutStatus" xml:space="preserve">
+    <value>Status PSO</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_PromiseDate" xml:space="preserve">
+    <value>Data da promessa</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_Quantity" xml:space="preserve">
+    <value>Reordenar Qty</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_RedZoneBase" xml:space="preserve">
+    <value>Tamanho do Buffer de Red Zone</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_ReminderStatus" xml:space="preserve">
+    <value>Notas de fim</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_ReorderPoint" xml:space="preserve">
+    <value>R + alerta</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_RPlusLeadTime" xml:space="preserve">
+    <value>Prazo de execução de RPlus</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_StockOutDate" xml:space="preserve">
+    <value>Cotações Data:</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_SupplyOrders" xml:space="preserve">
+    <value>Ordens de fornecimento</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TargetedInventory" xml:space="preserve">
+    <value>Alvo de inventário</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfGreen" xml:space="preserve">
+    <value>ToG</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfRed" xml:space="preserve">
+    <value>UOs</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfYellow" xml:space="preserve">
+    <value>Brinquedo</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_YellowZoneSize" xml:space="preserve">
+    <value>Tamanho do Buffer de zona amarela</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartKey_Location" xml:space="preserve">
+    <value>Localização</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartKey_PartNumber" xml:space="preserve">
+    <value>Número da peça</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartKey_Revision" xml:space="preserve">
+    <value>Rev</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_CreatedByUser" xml:space="preserve">
+    <value>Criado por</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_ExtendedCost" xml:space="preserve">
+    <value>Custo estendido</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_InventoryPlanning" xml:space="preserve">
+    <value>Planejamento de estoque</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_LineItem" xml:space="preserve">
+    <value>Item de linha</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_PercOfBuffer" xml:space="preserve">
+    <value>% do Buffer</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_SalesOrderNumber" xml:space="preserve">
+    <value>Número de ordem de venda</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_UnitCost" xml:space="preserve">
+    <value>Custo unitário</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_Variance" xml:space="preserve">
+    <value>Variação</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_VarianceCost" xml:space="preserve">
+    <value>Variação de custo</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PendingOrder_VarianceNotes" xml:space="preserve">
+    <value>Anotações de variância</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_RecommendedOrder_SuppressOrderQtyRules" xml:space="preserve">
+    <value>Suprimir a ordem Qty regras</value>
+  </data>
+  <data name="Demand" xml:space="preserve">
+    <value>Demanda</value>
+  </data>
+  <data name="DemandOrder" xml:space="preserve">
+    <value>Ordem de demanda</value>
+  </data>
+  <data name="Supply" xml:space="preserve">
+    <value>Abastecimento de</value>
+  </data>
+  <data name="SupplyOrder" xml:space="preserve">
+    <value>Ordem de fornecimento</value>
+  </data>
+</root>
