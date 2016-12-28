@@ -177,6 +177,9 @@
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
     <value>Non-Buffered (NB) feldolgozás ablak (WO)</value>
   </data>
+  <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
+    <value>Ezek a beállítások korlátozni fogja, milyen messze előre R + magában foglalja a kereslet a nem pufferelt alkatrészek. Konfigurált értékek adódnak hozzá a megfelelő részek R + átfutási idő. Ha készlet-hoz "5", és egy része még egy R + átfutási idő 5 nap, R + nem figyelembe veszi a kereslet addig, amíg az aktuális dátumot a kereslet követő 10 munkanapon belül fizetési határidő.</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Igény szerint rendelés ablakban</value>
   </data>

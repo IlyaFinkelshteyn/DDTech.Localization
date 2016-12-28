@@ -241,6 +241,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to These settings will limit how far forward R+ will include demand for non-buffered parts. Configured values are added to the R+ lead time for matching parts. If set to &apos;5&apos;, and a part has an R+ lead time of 5 days, R+ will not account for demand until the current date is within 10 working days of the demand due date..
+        /// </summary>
+        public static string Settings_DemandOrderNBWindow_Description {
+            get {
+                return ResourceManager.GetString("Settings_DemandOrderNBWindow_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Demand Order Window.
         /// </summary>
         public static string Settings_DemandOrderWindow {

@@ -177,6 +177,9 @@
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
     <value>Non-Buffered (NB) procesamiento de ventana (WO)</value>
   </data>
+  <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
+    <value>Esta configuración limita cuánto adelante R + se incluyen demanda de piezas no tamponado. Valores configurados se agregan a los R + plazos para igualar las piezas. Si en '5' y una parte tienen un plazo de ejecución de R + de 5 días, R + no representarán la demanda hasta la fecha actual es en 10 días hábiles siguientes a la demanda de fecha de vencimiento.</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Ventana de orden de la demanda</value>
   </data>

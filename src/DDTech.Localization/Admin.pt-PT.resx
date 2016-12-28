@@ -177,6 +177,9 @@
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
     <value>Janela de processamento não-armazenada em buffer (NB) (WO)</value>
   </data>
+  <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
+    <value>Essas configurações irão limitar quanto para a frente R + incluirá demanda para as peças não-armazenada em buffer. Valores configurados são adicionados para o lead time de R + para combinar as peças. Se definido como '5' e uma parte tem um R + prazo de 5 dias, R + não corresponderá a demanda até a data atual é dentro de 10 dias úteis da demanda data de vencimento.</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Janela de ordem de demanda</value>
   </data>

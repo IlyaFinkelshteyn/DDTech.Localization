@@ -177,6 +177,9 @@
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
     <value>Non-Buffered (NB) käsittely ikkunassa (WO)</value>
   </data>
+  <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
+    <value>Nämä asetukset rajoittaa edistystä R + sisältää kysyntä ei-puskuroituun osat. Konfiguroitujen lisätään R + Toimitusaika vastaavia osia. Jos asetettu "5", ja osa on r-Toimitusaika 5 päivää R + eivät ota huomioon kysynnän kunnes nykyinen päivämäärä on 10 työpäivän kysynnän eräpäivä.</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Kysynnän aikaikkuna (päivää)</value>
   </data>

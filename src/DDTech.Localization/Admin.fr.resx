@@ -177,6 +177,9 @@
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
     <value>Horizon de traitement des articles sans buffer (OF)</value>
   </data>
+  <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
+    <value>Ces paramètres seront limitera à quelle distance avant R + comprendra demande de pièces sans tampon. Valeurs configurées sont ajoutés à la R + délai d’exécution pour faire correspondre les pièces. Si l’est réglé sur '5' et une partie a un délai de production de R + 5 jours, R + ne tient pas compte de la demande jusqu'à ce que la date actuelle est dans les 10 jours ouvrables de la demande date d’échéance.</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Horizon de demande (jours)</value>
   </data>

@@ -177,6 +177,9 @@
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
     <value>Non-Buffered (NB), обработки окна (WO)</value>
   </data>
+  <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
+    <value>Эти параметры будут ограничивать, насколько далеко вперед R + будет включать спрос на части без буферизации. Настроенные значения добавляются к R + свинца время для соответствующих частей. Если значение '5' и часть имеет время R + 5 дней, R + не будут учтены потребности до текущей даты в течение 10 рабочих дней спроса Дата.</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Окно заказов на отгрузку (дни)</value>
   </data>
