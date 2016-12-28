@@ -177,6 +177,9 @@
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
     <value>Non-Buffered (NB) pencere (WO) işleme</value>
   </data>
+  <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
+    <value>Bu ayarları ne kadar ileri R + sigara tamponlanmış parçalar için talep yer alacak sınırı olacaktır. Yapılandırılmış değerleri parçalar eşleştirmek için R + sağlama süresine eklenir. Ayarlamak '5' ve bir bölümü bir R + sağlama süresi var 10 gün içerisinde talebin geçerli tarihtir kadar 5 gün, R + için talep hesap olacaktır değil son tarih.</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>İsteğe bağlı Siparişi penceresini</value>
   </data>

@@ -177,6 +177,9 @@
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
     <value>Non-Buffered (NB) Verarbeitung Fenster (WO)</value>
   </data>
+  <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
+    <value>Diese Einstellungen werden wie weit nach vorne gehören R + Nachfrage nach nicht-gepufferte Teile beschränken. Konfigurierten Werte werden zur R + Lieferzeit für passende Teile hinzugefügt. Wenn '5', und ein Teil einer R + Vorbereitungs-und Anlaufzeit hat 5 Tage R + wird nicht entfallen auf Nachfrage bis das aktuelle Datum innerhalb von 10 Werktagen der Nachfrage ist Fälligkeitsdatum.</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Nachfrage-Order-Fenster</value>
   </data>

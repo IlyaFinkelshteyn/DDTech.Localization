@@ -177,6 +177,9 @@
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
     <value>Non-Buffered (NB) Processing Window (WO)</value>
   </data>
+  <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
+    <value>These settings will limit how far forward R+ will include demand for non-buffered parts. Configured values are added to the R+ lead time for matching parts. If set to '5', and a part has an R+ lead time of 5 days, R+ will not account for demand until the current date is within 10 working days of the demand due date.</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Demand Order Window</value>
   </data>

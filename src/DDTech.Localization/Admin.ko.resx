@@ -177,6 +177,9 @@
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
     <value>Non-Buffered (NB) 창 (WO) 처리</value>
   </data>
+  <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
+    <value>이러한 설정은 얼마나 멀리 앞으로 R + 포함 됩니다 버퍼링 되지 않은 부분에 대 한 수요를 제한 합니다. 구성 된 값은 일치 하는 부품에 대 한 R + 리드 타임에 추가 됩니다. 만약 설정 '5', 그리고 일부는 R + 리드 타임 5 일, R + 것입니다 고려 하지 수요에 대 한 현재 날짜가 10 일 이내에 수요의 때까지 기한.</value>
+  </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>수요 순서 창</value>
   </data>
