@@ -144,6 +144,15 @@
   <data name="CurrentPAFIs" xml:space="preserve">
     <value>FAP actual es</value>
   </data>
+  <data name="CycleDayAdjustmentFactor" xml:space="preserve">
+    <value>Factor de ajuste de ciclo día</value>
+  </data>
+  <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
+    <value>{CDAFDaysCoverage} días</value>
+  </data>
+  <data name="CycleDayAdjustmentFactorToolTip" xml:space="preserve">
+    <value>Recuerde, sólo la fecha de inicio de la CDAF será tirada hacia adelante por R + plazo para probar para la efectividad.</value>
+  </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Días de consumo</value>
   </data>

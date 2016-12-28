@@ -132,6 +132,12 @@
   <data name="InvalidBufferProfile" xml:space="preserve">
     <value>Valor debe ser un perfil válido de búfer</value>
   </data>
+  <data name="InvalidCdaf" xml:space="preserve">
+    <value>Valor debe contener válido ciclo día ajuste de factores (CDAF)</value>
+  </data>
+  <data name="InvalidCdafDateRange" xml:space="preserve">
+    <value>Rango de fechas de ciclo día ajuste Factor (CDAF) debe ser menor que '{PropertyValue}' días</value>
+  </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
     <value>Valor debe ser un InventoryMethod válido</value>
   </data>
