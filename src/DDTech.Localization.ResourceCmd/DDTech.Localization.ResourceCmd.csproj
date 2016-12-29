@@ -41,7 +41,7 @@
     <StartupObject>DDTech.Localization.ResourceCmd.Program</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile Condition="Exists('..\DDTech.Localization.snk')">..\DDTech.Localization.snk</AssemblyOriginatorKeyFile>
     <AssemblyOriginatorKeyFile Condition="Exists('..\..\setup\certs\AssemblySNK\DDTech.snk')">..\..\setup\certs\AssemblySNK\DDTech.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
