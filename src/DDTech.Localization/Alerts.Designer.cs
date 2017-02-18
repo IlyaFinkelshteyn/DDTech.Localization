@@ -1006,6 +1006,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to -Select Alert Type-.
+        /// </summary>
+        public static string SelectAlertType {
+            get {
+                return ResourceManager.GetString("SelectAlertType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to SO Demand.
         /// </summary>
         public static string SODemand {

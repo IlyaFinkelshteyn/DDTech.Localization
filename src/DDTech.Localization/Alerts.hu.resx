@@ -432,6 +432,9 @@
   <data name="Save" xml:space="preserve">
     <value>Mentés</value>
   </data>
+  <data name="SelectAlertType" xml:space="preserve">
+    <value>-Válassza ki a figyelmeztetés típusa-</value>
+  </data>
   <data name="SODemand" xml:space="preserve">
     <value>ÍGY a kereslet</value>
   </data>

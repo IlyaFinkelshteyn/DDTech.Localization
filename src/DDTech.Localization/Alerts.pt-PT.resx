@@ -432,6 +432,9 @@
   <data name="Save" xml:space="preserve">
     <value>Salvar</value>
   </data>
+  <data name="SelectAlertType" xml:space="preserve">
+    <value>-Selecione tipo de alerta-</value>
+  </data>
   <data name="SODemand" xml:space="preserve">
     <value>ENTÃO procura</value>
   </data>

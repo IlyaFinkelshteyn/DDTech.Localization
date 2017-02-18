@@ -435,6 +435,9 @@
   <data name="Save" xml:space="preserve">
     <value>Сохранить</value>
   </data>
+  <data name="SelectAlertType" xml:space="preserve">
+    <value>-Выберите оповещения типа-</value>
+  </data>
   <data name="SODemand" xml:space="preserve">
     <value>Заказ покупателя</value>
   </data>

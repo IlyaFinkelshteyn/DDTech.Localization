@@ -432,6 +432,9 @@
   <data name="Save" xml:space="preserve">
     <value>저장</value>
   </data>
+  <data name="SelectAlertType" xml:space="preserve">
+    <value>-경고 선택 유형-</value>
+  </data>
   <data name="SODemand" xml:space="preserve">
     <value>SO 수요</value>
   </data>
