@@ -178,13 +178,13 @@
     <value>Horizon de traitement des articles sans buffer (OF)</value>
   </data>
   <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
-    <value>Ces paramètres seront limitera à quelle distance avant R + comprendra demande de pièces sans tampon. Valeurs configurées sont ajoutés à la R + délai d’exécution pour faire correspondre les pièces. Si l’est réglé sur '5' et une partie a un délai de production de R + 5 jours, R + ne tient pas compte de la demande jusqu'à ce que la date actuelle est dans les 10 jours ouvrables de la demande date d’échéance.</value>
+    <value>Ce paramètre limitera l'horizon de prise en compte de la demande pour les articles NB. Les valeurs seront ajoutées au délai R+ de l'article. Ex: paramètre mis à 5 (jours), l'article a un délai R+ de 5. R+ ne prendra en compte que la demande dans les 10 jours à compter de la date du jour. Si la valeur est '0', R + ne prend en compte que la demande dans l'horizon du délai de l'article. </value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Horizon de demande (jours)</value>
   </data>
   <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
-    <value>Ce paramètre limitera l'horizon de prise en compte de la demande pour les articles. Les valeurs seront ajoutées au délai R+ de l'article. Ex pour un article NB: paramètre mis à 5 (jours), l'article a un délai R+ de 5. R+ ne prendra en compte que la demande dans les 10 jours à compter de la date du jour. Si la valeur est '0', R + ne prend en compte que la demande passée et celle du jour. Si la valeur est '-1' (désactivé), aucune demande ne sera prise en compte.</value>
+    <value>Ce paramètre limitera l'horizon de prise en compte de la demande pour les articles avec buffer. Ex: paramètre mis à 5 (jours), c'est la demande des 5 prochains jours qui sera prise en compte dans l'équation de flux disponible. Si la valeur est '0', R + ne prend en compte que la demande passée et celle du jour. Si la valeur est '-1' (désactivé), aucune demande ne sera prise en compte.</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Format numérique attendu</value>
