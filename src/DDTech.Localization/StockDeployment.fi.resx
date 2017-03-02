@@ -235,7 +235,7 @@
     <value>Lähetystiedoston Nimi</value>
   </data>
   <data name="Settings_MinimumHoldbackPercentOfRed_Desc" xml:space="preserve">
-    <value>(Vain Napakeskuksen Käyttöön) </value>
+    <value>(Koskee vain R+ jakeluhubi-ratkaisun ollessa käytössä) </value>
   </data>
   <data name="Settings_SourceOverride" xml:space="preserve">
     <value>lähteen käsiohjaus</value>

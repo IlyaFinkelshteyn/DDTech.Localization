@@ -145,13 +145,13 @@
     <value>Nykyinen PAF on</value>
   </data>
   <data name="CycleDayAdjustmentFactor" xml:space="preserve">
-    <value>Syklin päivä Muutoskerroin</value>
+    <value>Jaksopäivä Muutoskerroin</value>
   </data>
   <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
     <value>{CDAFDaysCoverage} päivää</value>
   </data>
   <data name="CycleDayAdjustmentFactorToolTip" xml:space="preserve">
-    <value>Muista, vain aloittaa päivämäärän CDAF on vedetty eteenpäin mennessä r johtaa testatakseen vaikuttavuutta.</value>
+    <value>Huom! Kun Jaksopäivä Muutoskerrointa (CDAF) sovelletaan</value>
   </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Päivän kulutus</value>

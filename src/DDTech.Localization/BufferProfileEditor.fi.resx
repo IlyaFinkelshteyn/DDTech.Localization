@@ -205,7 +205,7 @@
     <value>Käytä läpimenoajan kulutukseen suhteutettua prosenttia </value>
   </data>
   <data name="UseSystemSpikeHorizonOf" xml:space="preserve">
-    <value>Käytä järjestelmän piikki horisontttia</value>
+    <value>Käytä järjestelmän piikkihorisonttia</value>
   </data>
   <data name="YellowZoneBase" xml:space="preserve">
     <value>Keltainen vyöhyke perus</value>

@@ -142,7 +142,7 @@
     <value>Sinun RPlus-sovelluksesi on melkein valmis käytettäväksi. Meidän tarvitsee vain kerätä muutaman tieto, ennen kuin jatkat.</value>
   </data>
   <data name="Index_Title" xml:space="preserve">
-    <value>Sovelluksen ensiavauksen asetukset</value>
+    <value>Sovelluksen alku-asetukset</value>
   </data>
   <data name="License_Message" xml:space="preserve">
     <value>Tämä Rplus-sovellus edellyttää voimassaolevaa lisenssiä. Lataa sellainen ennen jatkamista. </value>

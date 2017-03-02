@@ -382,37 +382,37 @@
     <value>Ei nykyistä varastoa eikä kysyntää</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Tilauksen saapumiseen vähemmän kuin 11% R+ Läpimenoajasta (R+ LT / DLT)</value>
+    <value>Tilauksen saapumiseen vähemmän kuin 11% R+ läpimenoajasta (R+ LT / DLT)</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Tilauksen saapumiseen vähemmän 22% - 33% R+ Läpimenoajasta (R+ LT / DLT)</value>
+    <value>Tilauksen saapumiseen vähemmän 22% - 33% R+ läpimenoajasta (R+ LT / DLT)</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Tilauksen saapumiseen vähemmän 11% - 22% R+ Läpimenoajasta (R+ LT / DLT)</value>
+    <value>Tilauksen saapumiseen vähemmän 11% - 22% R+ läpimenoajasta (R+ LT / DLT)</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
-    <value>On avointa kysyntää ja tarjontaa läpimenoajan puitteissa</value>
+    <value>On avointa hankintaa ja kysyntää läpimenoajan puitteissa</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
-    <value>QOH (nykyinen vapaa varasto) &amp;gt; = 0 ja jos rullaava saldo on &amp;lt; = 0 milloin tahansa läpimenoajan horisontissa</value>
+    <value>QOH (nykyinen vapaasti toimitettavissa oleva varasto) &amp;gt; = 0 ja jos rullaava saldo on &amp;lt; = 0 milloin tahansa läpimenoajan horisontissa</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
     <value>On avointa kysyntää ja tarjontaa läpimenoajan puitteissa</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
-    <value>QOH (nykyinen vapaa varasto) &amp;gt; = 0 ja rullaava saldo on &amp;gt; 0 ja &amp;lt; = % ToR milloin tahansa läpimenoajan horisontissa</value>
+    <value>QOH (nykyinen vapaasti toimitettavissa oleva varasto) &amp;gt; = 0 ja rullaava saldo on &amp;gt; 0 ja &amp;lt; = % ToR milloin tahansa läpimenoajan horisontissa</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
     <value>On menneisyyteen sijoittuva negatiivinen rullaava saldo</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical2" xml:space="preserve">
-    <value>On negatiivinen rullaava saldo mihin tahansa ajankohtaan läpimenoaikahorisontissa </value>
+    <value>On negatiivista rullaavaa saldoa missä tahansa läpimenoaikahorisontin ajankohdassa</value>
   </data>
   <data name="rule_NotIncludedIn" xml:space="preserve">
     <value>Eivät sisälly</value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
-    <value>EDU-pitää keskuspaikkanaan juokseva saldo, yksi R + Toimitusaika on pienempi kuin nolla</value>
+    <value>EDU-pohjainen rullaava saldo on negatiivinen yhden R + Toimitusajan puitteissa</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Nykyinen varastotaso on alle määritetyn hälytystason - punaiselle alueelle määritellyn prosentin (määritetyn oletustason tai varaston puskuriprofiilissa määritellyn varoitustason) </value>
@@ -424,7 +424,7 @@
     <value>Nykyinen varaston määrä on vähemmän tai yhtä paljon kuin Punaisen yläreuna (Red Top - ToR)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
-    <value>EDU-pitää keskuspaikkanaan juokseva saldo, yksi R + Toimitusaika on enintään Red Top (ToR)</value>
+    <value>EDU-pohjainen rullaava saldo on enintään Top of Red (ToR) yhden R + Toimitusajan puitteissa</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Rullaava saldo</value>
@@ -433,7 +433,7 @@
     <value>Tallenna</value>
   </data>
   <data name="SelectAlertType" xml:space="preserve">
-    <value>-Valitse ilmoituksen tyyppi-</value>
+    <value>-Valitse Hälytyksen tyyppi-</value>
   </data>
   <data name="SODemand" xml:space="preserve">
     <value>Hankintatilausten kysyntä</value>

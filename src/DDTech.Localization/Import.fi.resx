@@ -142,7 +142,7 @@
     <value>Poista tiedosto ja lähetä se uudelleen</value>
   </data>
   <data name="EncounteredNumErrorsWithUploadFormat" xml:space="preserve">
-    <value>Kohtasi {0} virhettä. Näytetään ensimmäinen {1} virheitä.</value>
+    <value>Kohtasi {0} virhettä. Näytetään ensimmäiset {1} virhettä.</value>
   </data>
   <data name="ErrorsInUpload" xml:space="preserve">
     <value>Virheitä latauksessa</value>
@@ -181,10 +181,10 @@
     <value>Tietueet</value>
   </data>
   <data name="RecordsIgnoredMessageFormat" xml:space="preserve">
-    <value>{0} tietuetta ohitettiin johtuen järjestelmämäärityksistä</value>
+    <value>{0} tietuetta ohitettiin järjestelmämäärityksistä johtuen</value>
   </data>
   <data name="RegionSettingsDescribed" xml:space="preserve">
-    <value>Aluekohtaisia asetuksia sovelletaan tiedostojen ulos viennin</value>
+    <value>Aluekohtaisia asetuksia sovelletaan tiedostojen ulos viennissä (upload)</value>
   </data>
   <data name="Reset" xml:space="preserve">
     <value>Resetoi</value>

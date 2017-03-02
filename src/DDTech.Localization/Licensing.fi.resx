@@ -142,7 +142,7 @@
     <value>R-tilauksesi on voimassa ikuisesti</value>
   </data>
   <data name="LicenseValidUntil" xml:space="preserve">
-    <value>R-tilauksesi on voimassaolo </value>
+    <value>R-tilauksesi on voimassa tähän asti</value>
   </data>
   <data name="NewLicenseUploaded" xml:space="preserve">
     <value>Uusi R+ lisenssi ladattu</value>

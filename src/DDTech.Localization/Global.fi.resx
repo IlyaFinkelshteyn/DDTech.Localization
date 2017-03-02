@@ -139,13 +139,13 @@
     <value>englanti</value>
   </data>
   <data name="DisplayLang_en_gb" xml:space="preserve">
-    <value>Englanti (UK)</value>
+    <value>englanti (UK)</value>
   </data>
   <data name="DisplayLang_es" xml:space="preserve">
     <value>espanja</value>
   </data>
   <data name="DisplayLang_es_419" xml:space="preserve">
-    <value>Espanja (Latinalainen Amerikka)</value>
+    <value>espanja (Latinalainen Amerikka)</value>
   </data>
   <data name="DisplayLang_fi" xml:space="preserve">
     <value>suomi</value>
@@ -160,7 +160,7 @@
     <value>korea</value>
   </data>
   <data name="DisplayLang_pt_pt" xml:space="preserve">
-    <value>Portugali (Portugali)</value>
+    <value>portugali (Portugali)</value>
   </data>
   <data name="DisplayLang_ru" xml:space="preserve">
     <value>venäjä</value>
@@ -334,7 +334,7 @@
     <value>Työpöytä</value>
   </data>
   <data name="Nav_PlannersWorkbench_Yellow_Title" xml:space="preserve">
-    <value>Normaali</value>
+    <value>Keskikokoinen</value>
   </data>
   <data name="Nav_ReadBufferSummary_Title" xml:space="preserve">
     <value>Puskuri yhteenveto</value>

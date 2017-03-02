@@ -154,7 +154,7 @@
     <value>Tilauspiikin aikahorisontin oletustaso</value>
   </data>
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
-    <value>Ohita prosessointiikkunan ulkopuolinen NB kysyntä </value>
+    <value>Ohita prosessointi-ikkunan ulkopuolinen ei-puskuroitu (NB) kysyntä </value>
   </data>
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
     <value>Tuotu kysyntä NB osat, jotka johtuvat kuin (osa läpimenoaika + kysynnän ikkuna) ei tuoda R +. Tämä asetus ei vaikuta jos tarvelaskennan on käytössä.</value>
@@ -163,25 +163,25 @@
     <value>Erotin</value>
   </data>
   <data name="Settings_DemandOrderBufferedProcessingWindowSalesOrder" xml:space="preserve">
-    <value>Puskuroitu käsittely ikkunassa (SO)</value>
+    <value>Puskuroitu käsittely-ikkuna (SO)</value>
   </data>
   <data name="Settings_DemandOrderBufferedProcessingWindowWorkOrder" xml:space="preserve">
-    <value>Puskuroitu käsittely ikkunassa (WO)</value>
+    <value>Puskuroitu käsittely-ikkuna (WO)</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
-    <value>Kysynnän tilauksen käsittely-ikkunassa ei-puskuroituun osat</value>
+    <value>Kysyntä-tilausten käsittely-ikkuna ei-puskuroiduille (NB) tuotteille</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
-    <value>Non-Buffered (NB) käsittely ikkunassa, (SO)</value>
+    <value>Ei-puskuroitujen (NB) käsittely-ikkuna, (SO)</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
-    <value>Non-Buffered (NB) käsittely ikkunassa (WO)</value>
+    <value>Ei-puskuroitujen (NB) käsittely-ikkuna (WO)</value>
   </data>
   <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
     <value>Nämä asetukset rajoittaa edistystä R + sisältää kysyntä ei-puskuroituun osat. Konfiguroitujen lisätään R + Toimitusaika vastaavia osia. Jos asetettu "5", ja osa on r-Toimitusaika 5 päivää R + eivät ota huomioon kysynnän kunnes nykyinen päivämäärä on 10 työpäivän kysynnän eräpäivä.</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
-    <value>Kysynnän aikaikkuna (päivää)</value>
+    <value>Kysynnän aikaikkuna (päiviä)</value>
   </data>
   <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
     <value>Nämä asetukset rajoittaa edistystä R + sisältää kysyntä osat. Konfiguroitujen lisätään R + Toimitusaika vastaavia osia. Jos asetettu "5", ja osa on r-Toimitusaika 5 päivää R + eivät ota huomioon kysynnän kunnes nykyinen päivämäärä on 10 työpäivän kysynnän eräpäivä. Jos arvoksi "0", R + sisältää vain nykyisen ja erääntyneiden kysyntää. Jos asetettu "1" (ei käytössä), r ei sisällä vaatimusta.</value>
@@ -211,7 +211,7 @@
     <value>Ennustettu kysyntä ja ennustettu päivittäinen kulutus (FDU)</value>
   </data>
   <data name="Settings_Global_ImportExportDataExchange" xml:space="preserve">
-    <value>Järjestelmän tietojen vaihtoa (tuonti &amp; vienti)</value>
+    <value>Järjestelmän TietonVaihto (tuonti &amp; vienti) (system Data Exhange))</value>
   </data>
   <data name="Settings_Global_RecommendationsAndAlerts" xml:space="preserve">
     <value>Suosituksia ja hälytykset</value>
@@ -238,13 +238,13 @@
     <value>Historiaa säilytetään (päiviä)</value>
   </data>
   <data name="Settings_ImportedDemand" xml:space="preserve">
-    <value>Tuodut kysynnän</value>
+    <value>Tiedonsiirrossa tuotu kysyntä</value>
   </data>
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Piikit sisällytetään saatavilla olevaan varastoon (available stock)</value>
   </data>
   <data name="Settings_IsHighAccuracyPSO" xml:space="preserve">
-    <value>Ovat avoinna tarjonnan ennustetaan varastossa varoitusta.</value>
+    <value>Sisällytetään Avoimet Hankintatilaukset Ennustettuun Ei-varastossa hälytykseen.</value>
   </data>
   <data name="Settings_LocalTimeZone" xml:space="preserve">
     <value>Paikallinen aikavyöhyke</value>
@@ -256,7 +256,7 @@
     <value>Suorita MRP Tarvelaskenta datapäivitysten jälkeen? (Täysi MRP)</value>
   </data>
   <data name="Settings_Mrp_DoMaterialRequirementsNettingWhenCreatingOrders" xml:space="preserve">
-    <value>Suorittaa MRP tarvelaskennan uusia tilauksia luotaessa? (MRP-nettomuutos)</value>
+    <value>Suorita MRP tarvelaskenta uusia tilauksia luotaessa? (MRP-nettomuutos)</value>
   </data>
   <data name="Settings_Mrp_EnableAutoCreateMinMaxSupplyOrders" xml:space="preserve">
     <value>Luo automaattisesti ostotilaukset Min/Maks ohjattaville tuotteille?</value>
@@ -307,7 +307,7 @@
     <value>Materiaalitarpeiden suunnittelu</value>
   </data>
   <data name="Settings_Nav_Processing" xml:space="preserve">
-    <value>Käsittely</value>
+    <value>Käsittelyssä</value>
   </data>
   <data name="Settings_Nav_Sitewide" xml:space="preserve">
     <value>Koko sivuston kattava</value>
@@ -346,7 +346,7 @@
     <value>Haluatko tallentaa muutokset?</value>
   </data>
   <data name="Settings_SaveChangesDetail" xml:space="preserve">
-    <value>Jos et tallenna</value>
+    <value>Muutokset menetetään, mikäli et tallenna tietoja.</value>
   </data>
   <data name="Settings_SecuritySettings" xml:space="preserve">
     <value>Suojausasetukset</value>
