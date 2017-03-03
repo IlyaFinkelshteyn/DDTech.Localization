@@ -12,6 +12,7 @@ using CommandLine;
 using CsvHelper;
 using DDTech.Common.Extensions;
 using DDTech.Tools.LocalizationHelper;
+using CsvHelper.Configuration;
 
 namespace DDTech.Localization.ResourceCmd
 {
@@ -32,6 +33,9 @@ namespace DDTech.Localization.ResourceCmd
 
         [Option('i', "input", HelpText = "Input File")]
         public string InputFile { get; set; }
+
+        [Option('s', "sep", HelpText = "CSV Record Separator")]
+        public string CsvDelimiter { get; set; }
 
         [Option('r', "read", HelpText = "Input files to be processed")]
         public IEnumerable<string> InputFiles { get; set; }
@@ -230,7 +234,13 @@ namespace DDTech.Localization.ResourceCmd
             var handbackMappings = new Dictionary<string, Dictionary<string, LocalizedString>>();
             using (var textReader = File.OpenText(inputFilePath))
             {
-                var csv = new CsvReader(textReader);
+                CsvConfiguration config = null;
+                if (!string.IsNullOrEmpty(options.CsvDelimiter))
+                {
+                    config = new CsvConfiguration() { Delimiter = options.CsvDelimiter };
+                }
+
+                var csv = new CsvReader(textReader, config);
                 var handbackRecords = csv.GetRecords<LocalizedString>().ToList();
                 foreach(var obj in handbackRecords)
                 {
