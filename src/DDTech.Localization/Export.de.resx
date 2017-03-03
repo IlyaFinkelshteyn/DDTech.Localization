@@ -121,48 +121,48 @@
     <value>Stückliste</value>
   </data>
   <data name="BufferProfile" xml:space="preserve">
-    <value>Puffer-Profil</value>
+    <value>Pufferprofil</value>
   </data>
   <data name="CycleDayAdjustmentFactor" xml:space="preserve">
-    <value>Zyklus-Tag-Korrekturfaktor</value>
+    <value>Zyklus-Tag-Anapssungsfaktor</value>
   </data>
   <data name="DataExport" xml:space="preserve">
     <value>Datenexport</value>
   </data>
   <data name="DemandOrder" xml:space="preserve">
-    <value>Nachfrage bestellen</value>
+    <value>Bedarfsauftrag</value>
   </data>
   <data name="ExportStr" xml:space="preserve">
     <value>Export</value>
   </data>
   <data name="ForecastedDemand" xml:space="preserve">
-    <value>Prognostizierten Nachfrage</value>
+    <value>Prognostizierte Nachfrage</value>
   </data>
   <data name="HeadersOnly" xml:space="preserve">
     <value>Nur Kopfzeilen</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Teil</value>
+    <value>Artikel</value>
   </data>
   <data name="PartAugment" xml:space="preserve">
-    <value>Teil Augment</value>
+    <value>Artikel Augment</value>
   </data>
   <data name="PartBufferSizing" xml:space="preserve">
-    <value>Teil Puffer Sizing</value>
+    <value>Artikelpuffer dimensionieren</value>
   </data>
   <data name="PartInventory" xml:space="preserve">
-    <value>Teil-Inventar</value>
+    <value>Artikelbestand</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Geplante Korrekturfaktor</value>
+    <value>Geplanter Anpassungsfaktor</value>
   </data>
   <data name="PleaseSelectTables" xml:space="preserve">
-    <value>Wählen Sie die Tabellen für den export</value>
+    <value>Bitte zu exportierende Tabellen auswählen</value>
   </data>
   <data name="SelectTablesToExport" xml:space="preserve">
-    <value>Wählen Sie welche Datentabellen exportieren:</value>
+    <value>Zu exportierende Datentabellen auswählen:</value>
   </data>
   <data name="SupplyOrder" xml:space="preserve">
-    <value>Beschaffungsauftrag</value>
+    <value>Versorgungsauftrag</value>
   </data>
 </root>

@@ -118,49 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AverageNumberOfDaysBetweenOrderCycles" xml:space="preserve">
-    <value>durchschnittliche Anzahl der Tage zwischen Bestellung Zyklen</value>
+    <value>durchschnittliche Anzahl der Tage zwischen Auftragszyklen</value>
   </data>
   <data name="BufferProfile" xml:space="preserve">
-    <value>Puffer-Profil</value>
+    <value>Pufferprofil</value>
   </data>
   <data name="BufferProfiles" xml:space="preserve">
-    <value>Puffer-profile</value>
+    <value>Pufferprofile</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Beschreibung</value>
   </data>
   <data name="GreenZoneBase" xml:space="preserve">
-    <value>Green Zone-Base</value>
+    <value>Basis der Grünen Zone</value>
   </data>
   <data name="GreenZoneCalculationMethod" xml:space="preserve">
-    <value>Green Zone Berechnungsmethode:</value>
+    <value>Berechnungsmethode der Grünen Zone</value>
   </data>
   <data name="InventoryAlertLevel" xml:space="preserve">
-    <value>Inventar-Warnstufe</value>
+    <value>Lagerbestandswarnschwelle</value>
   </data>
   <data name="LeadTime" xml:space="preserve">
-    <value>Vorlaufzeit</value>
+    <value>Durchlaufzeit</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Lage</value>
+    <value>Standort</value>
   </data>
   <data name="NoDataToDisplay" xml:space="preserve">
     <value>Keine anzuzeigenden Daten</value>
   </data>
   <data name="OrderCycleDays" xml:space="preserve">
-    <value>Zyklustage zu bestellen</value>
+    <value>Auftragszyklustage</value>
   </data>
   <data name="OrderSpikeHorizon" xml:space="preserve">
-    <value>Bestellung-Spike-Horizont</value>
+    <value>Bestellspitzenhorizont</value>
   </data>
   <data name="OrderSpikeThresholdLevel" xml:space="preserve">
-    <value>Bestellung-Spike-Schwellenwert</value>
+    <value>Bestellspitzenschwellenwert</value>
   </data>
   <data name="PercentOfTopOfRed" xml:space="preserve">
-    <value>% der Top rot</value>
+    <value>% der Spitze der Roten Zone</value>
   </data>
   <data name="PercentOfUsageOverLeadTime" xml:space="preserve">
-    <value>% der Nutzung über Vorlaufzeit</value>
+    <value>% des Verbrauchs während der Durchlaufzeit</value>
   </data>
   <data name="PercentRedZoneBase" xml:space="preserve">
     <value>% Red Zone Base</value>
@@ -175,39 +175,39 @@
     <value>Profil erfolgreich gespeichert</value>
   </data>
   <data name="RedZoneBase" xml:space="preserve">
-    <value>Rote Zone Base</value>
+    <value>Basis der Roten Zone</value>
   </data>
   <data name="SafetyZone" xml:space="preserve">
-    <value>Sicherheits-Zone</value>
+    <value>Sicherheitszone</value>
   </data>
   <data name="Save" xml:space="preserve">
     <value>Speichern</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
-    <value>(Alle auswählen)</value>
+    <value>(Alles auswählen)</value>
   </data>
   <data name="SelectFilter" xml:space="preserve">
-    <value>Wählen Sie Filter</value>
+    <value>Filter wählen</value>
   </data>
   <data name="TheRPlusAlertIsEqualToTopOfYellow" xml:space="preserve">
-    <value>Die R+ Warnung ist gleich oben gelb</value>
+    <value>Die R+ Warnung entspricht der Spitze der Gelben Zone</value>
   </data>
   <data name="UnsupportedPart" xml:space="preserve">
-    <value>Puffer-Informationen sind für diese Teiletyp nicht unterstützt.</value>
+    <value>Puffer-Informationen werden für diesen Artikeltyp nicht unterstützt.</value>
   </data>
   <data name="UseOrderCycleForGreenZone" xml:space="preserve">
-    <value>Bestellung-Zyklus für grüne Zone verwenden</value>
+    <value>Auftragszyklus für Grüne Zone verwenden</value>
   </data>
   <data name="UsePartMinimumOrderQuantityForGreenZone" xml:space="preserve">
-    <value>Verwendung Teil Mindestbestellmenge für grüne zone</value>
+    <value>Mindestbestellmenge oder -losgröße des Artikels für Grüne Zone verwenden</value>
   </data>
   <data name="UsePercentOfUsageOverLeadTime" xml:space="preserve">
-    <value>Verwenden Sie % der Nutzung über Vorlaufzeit</value>
+    <value>Prozent des Verbrauchs während der Durchlaufzeit verwenden</value>
   </data>
   <data name="UseSystemSpikeHorizonOf" xml:space="preserve">
-    <value>Verwenden Sie System-Spike-Horizont der</value>
+    <value>Systemeinstellung für Bestellspitzenhorizont verwenden</value>
   </data>
   <data name="YellowZoneBase" xml:space="preserve">
-    <value>Gelbe Zone Base</value>
+    <value>Basis der Gelben Zone</value>
   </data>
 </root>

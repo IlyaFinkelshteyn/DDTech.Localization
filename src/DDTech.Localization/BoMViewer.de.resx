@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Assigned Location" xml:space="preserve">
-    <value>Zugewiesenen Ort:</value>
+    <value>Zugewiesener Ort:</value>
   </data>
   <data name="BillOfMaterials:" xml:space="preserve">
     <value>Stückliste:</value>
@@ -136,25 +136,25 @@
     <value> Tag(en)</value>
   </data>
   <data name="Decoupled_LeadTime" xml:space="preserve">
-    <value>Entkoppelt die Lieferzeit</value>
+    <value>Entkoppelte Durchlaufzeit</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Beschreibung:</value>
   </data>
   <data name="expand all" xml:space="preserve">
-    <value>Erweitern Sie alle</value>
+    <value>Alle erweitern</value>
   </data>
   <data name="Lead Time" xml:space="preserve">
-    <value>Vorlaufzeit:</value>
+    <value>Durchlaufzeit:</value>
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Legende:</value>
   </data>
   <data name="Longest Leg" xml:space="preserve">
-    <value>Längste Bein</value>
+    <value>Längster Pfad</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Machen</value>
+    <value>Fertigen</value>
   </data>
   <data name="Max" xml:space="preserve">
     <value>Max</value>
@@ -172,27 +172,27 @@
     <value>Keine Ergebnisse gefunden</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Teil:</value>
+    <value>Artikel:</value>
   </data>
   <data name="Quantity" xml:space="preserve">
     <value>Menge:</value>
   </data>
   <data name="R+ Lead Time" xml:space="preserve">
-    <value>R+ Lieferzeit:</value>
+    <value>R+ Durchlaufzeit:</value>
   </data>
   <data name="refresh" xml:space="preserve">
     <value>Aktualisieren</value>
   </data>
   <data name="rev" xml:space="preserve">
-    <value>Ausgabe</value>
+    <value>Version</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Suche</value>
+    <value>Suchen</value>
   </data>
   <data name="Search Results" xml:space="preserve">
     <value>Suchergebnisse:</value>
   </data>
   <data name="SearchPart" xml:space="preserve">
-    <value>Suche Teil...</value>
+    <value>Artikel suchen...</value>
   </data>
 </root>

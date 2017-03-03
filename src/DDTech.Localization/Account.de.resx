@@ -129,10 +129,10 @@
     <value>E-Mail-Adresse</value>
   </data>
   <data name="Error_CannotResetPassword" xml:space="preserve">
-    <value>Es war ein Fehler Zurücksetzen des Passworts.</value>
+    <value>Beim Zurücksetzen Ihres Passworts ist ein Fehler aufgetreten.</value>
   </data>
   <data name="Error_FailedEmail" xml:space="preserve">
-    <value>Fehler beim Senden der e-Mails.</value>
+    <value>Fehler beim Senden der E-Mail.</value>
   </data>
   <data name="Error_FailedLogin" xml:space="preserve">
     <value>Ihr Login-Versuch war nicht erfolgreich. Bitte versuchen Sie es erneut.</value>
@@ -150,10 +150,10 @@
     <value>Benutzername ist erforderlich.</value>
   </data>
   <data name="ForgotPassword" xml:space="preserve">
-    <value>Haben Sie Ihren Benutzernamen oder Ihr Passwort vergessen?</value>
+    <value>Haben Sie Ihr Passwort vergessen?</value>
   </data>
   <data name="ForgotPassword_Confirm" xml:space="preserve">
-    <value>Bitte überprüfen Sie Ihre e-Mail erhalten Sie Anweisungen zum Zurücksetzen Ihres Passworts.</value>
+    <value>Bitte überprüfen Sie Ihre E-Mails, Sie erhalten Anweisungen zum Zurücksetzen Ihres Passworts.</value>
   </data>
   <data name="ForgotPassword_Email" xml:space="preserve">
     <value>Was ist Ihre E-Mail-Adresse?</value>
@@ -162,25 +162,25 @@
     <value>Wie lautet Ihr Benutzername?</value>
   </data>
   <data name="LabelKeepLoggedIn" xml:space="preserve">
-    <value>Bleiben Sie Ich möchte eingeloggt</value>
+    <value>Ich möchte angemeldet bleiben.</value>
   </data>
   <data name="LabelPassword" xml:space="preserve">
-    <value>Passwort:</value>
+    <value>Kennwort:</value>
   </data>
   <data name="LabelUserName" xml:space="preserve">
     <value>Benutzername:</value>
   </data>
   <data name="LoggedIn" xml:space="preserve">
-    <value>Eingeloggt</value>
+    <value>Angemeldet</value>
   </data>
   <data name="LoggedOut" xml:space="preserve">
-    <value>Sie haben sich abgemeldet wurde.</value>
+    <value>Sie wurden abgemeldet.</value>
   </data>
   <data name="LogIn" xml:space="preserve">
     <value>Anmelden</value>
   </data>
   <data name="LogOut" xml:space="preserve">
-    <value>Melden Sie sich</value>
+    <value>Abmelden</value>
   </data>
   <data name="Manage_Account_SignedInAs" xml:space="preserve">
     <value>Sie sind derzeit angemeldet als &lt;b&gt;{0}&lt;/b&gt;.</value>
@@ -192,13 +192,13 @@
     <value>Passwort erstellen</value>
   </data>
   <data name="Manage_CreatePassword_Message" xml:space="preserve">
-    <value>Sie müssen kein lokaler Benutzername/Passwort für diese Seite. Fügen Sie ein lokales Konto, damit Sie sich ohne ein externes Login anmelden können.</value>
+    <value>Sie haben keinen lokalen Benutzername/Passwort für diese Seite. Fügen Sie ein lokales Konto hinzu, damit Sie sich ohne externen Login anmelden können.</value>
   </data>
   <data name="Manage_Message_ChangePasswordSuccess" xml:space="preserve">
     <value>Ihr Passwort wurde erfolgreich geändert.</value>
   </data>
   <data name="Manage_Message_Error" xml:space="preserve">
-    <value>Es ist ein Fehler aufgetreten beim Vornehmen von Änderungen an Ihrem Konto.</value>
+    <value>Beim Vornehmen von Änderungen an Ihrem Konto ist ein Fehler aufgetreten.</value>
   </data>
   <data name="Manage_Message_RemoveLoginSuccess" xml:space="preserve">
     <value>Sie haben ein externes Login entfernt.</value>
@@ -219,7 +219,7 @@
 &lt;p&gt;&lt;a href="&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;"&gt;&lt;%SiteURL%&gt;Account/ResetPassword?userid=&lt;%UserId%&gt;&amp;token=&lt;%token%&gt;&lt;/a&gt;&lt;/p&gt;</value>
   </data>
   <data name="NewUserPwd_Subject" xml:space="preserve">
-    <value>Neue Benutzer und Datenschutz RPlus</value>
+    <value>Neuer Rplus Benutzer</value>
   </data>
   <data name="Password_Confirm" xml:space="preserve">
     <value>Kennwort bestätigen</value>
@@ -228,7 +228,7 @@
     <value>Aktuelles Kennwort</value>
   </data>
   <data name="Password_Expired" xml:space="preserve">
-    <value>Ihr Kennwort ist abgelaufen. Bevor Sie dieses System zugreifen können, müssen Sie Ihr Passwort zurücksetzen. Bitte überprüfen Sie Ihre e-Mail erhalten Sie Anweisungen zum Zurücksetzen Ihres Passworts.</value>
+    <value>Ihr Kennwort ist abgelaufen. Bevor Sie auf dieses System zugreifen können, müssen Sie Ihr Kennwort zurücksetzen. Bitte überprüfen Sie Ihre E-Mails,  Sie finden dort Anweisungen zum Zurücksetzen Ihres Passworts.</value>
   </data>
   <data name="Password_New" xml:space="preserve">
     <value>Neues Passwort</value>
@@ -240,37 +240,37 @@
     <value>mindestens {0} Zeichen</value>
   </data>
   <data name="PasswordPolicy_RequireDigit" xml:space="preserve">
-    <value>enthalten Sie mindestens 1 Ziffer (0-9)</value>
+    <value>mindestens eine Ziffer (0-9) enthalten </value>
   </data>
   <data name="PasswordPolicy_RequireLowerCase" xml:space="preserve">
-    <value>enthalten Sie mindestens 1 Kleinbuchstaben (a-Z)</value>
+    <value>mindestens einen Kleinbuchstaben (a-z) enthalten </value>
   </data>
   <data name="PasswordPolicy_RequireNonDigitOrLetter" xml:space="preserve">
-    <value>enthalten mindestens 1 Symbol (keine Ziffer oder Buchstabe a-Z)</value>
+    <value>mindestens ein Symbol (keine Ziffer oder Buchstabe a-Z) enthalten </value>
   </data>
   <data name="PasswordPolicy_RequireUpperCase" xml:space="preserve">
-    <value>enthalten Sie mindestens 1 Großbuchstaben (A-Z)</value>
+    <value>mindestens einen Großbuchstaben (A-Z) enthalten</value>
   </data>
   <data name="PleaseEnterPassword" xml:space="preserve">
-    <value>Bitte geben Sie Ihren Benutzernamen und Passwort.</value>
+    <value>Bitte geben Sie Ihren Benutzernamen und Passwort an.</value>
   </data>
   <data name="RememberMe" xml:space="preserve">
-    <value>Merken Sie das nächste Mal.</value>
+    <value>Beim nächsten Mal automatisch anmelden.</value>
   </data>
   <data name="RequestPasswordReset" xml:space="preserve">
-    <value>Anforderung Passwort zurücksetzen</value>
+    <value>Fordern Sie eine Rücksetzung Ihres Kennworts an.</value>
   </data>
   <data name="ResetPassword" xml:space="preserve">
-    <value>Zurücksetzen des Kennworts</value>
+    <value>Kenwort zurücksetzen</value>
   </data>
   <data name="ResetPassword_Confirm" xml:space="preserve">
-    <value>Ihr Passwort wurde geändert.</value>
+    <value>Ihr Kennwort wurde geändert und Sie wurden angemeldet. Sie können jetzt R+ verwenden.</value>
   </data>
   <data name="ResetPassword_GetToken" xml:space="preserve">
-    <value>Klicken Sie hier, um versuchen zu versuchen wieder.</value>
+    <value>Klicken Sie hier, um es erneut zu versuchen.</value>
   </data>
   <data name="ResetPassword_InvalidToken" xml:space="preserve">
-    <value>Das Token ist ungültig oder kann nicht verwendet werden, um Ihr Passwort zurückzusetzen.</value>
+    <value>Der Sicherheitstoken ist ungültig oder kann nicht verwendet werden, um Ihr Passwort zurückzusetzen.</value>
   </data>
   <data name="ResetPassword_SetPassword" xml:space="preserve">
     <value>Neues Kennwort festlegen</value>
@@ -284,7 +284,7 @@
     <value>RPlus Passwort zurücksetzen</value>
   </data>
   <data name="SignInToContinue" xml:space="preserve">
-    <value>Melden Sie sich an weiter</value>
+    <value>Melden Sie sich an, um weiterhin auf das System zuzugreifen</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Benutzername</value>

@@ -133,10 +133,10 @@
     <value>Benutzername</value>
   </data>
   <data name="Settings_AllowLeadTimeCompression" xml:space="preserve">
-    <value>Vorbereitungs-und Anlaufzeit Komprimierung zulassen</value>
+    <value>Komprimierung der Durchlaufzeit zulassen</value>
   </data>
   <data name="Settings_BaselineFormattingRegion" xml:space="preserve">
-    <value>Grundlegende Formatierung Region</value>
+    <value>Region für Formatierung</value>
   </data>
   <data name="Settings_Close_Btn" xml:space="preserve">
     <value>Schließen</value>
@@ -145,55 +145,55 @@
     <value>Datumsformat</value>
   </data>
   <data name="Settings_DefaultInventoryAlertLevel" xml:space="preserve">
-    <value>Standard-Inventar-Warnstufe</value>
+    <value>Standardwarnschwelle Bestandsniveau</value>
   </data>
   <data name="Settings_DefaultOrderSpikeAlertLevel" xml:space="preserve">
-    <value>Standard-Reihenfolge-Spike-Warnstufe</value>
+    <value>Standardwarnschwelle Bedarfsspitzen</value>
   </data>
   <data name="Settings_DefaultOrderSpikeHorizonLevel" xml:space="preserve">
-    <value>Standard Order Spike-Horizont-Ebene</value>
+    <value>Standardhorizont Bedarfsspitzen</value>
   </data>
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
-    <value>Ignorieren Sie NB-Nachfrage außerhalb Verarbeitung Fenster</value>
+    <value>Bedarfe für NB-Material (nicht gepuffert) außerhalb des Verarbeitungsfensters ignorieren</value>
   </data>
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
-    <value>Nachfrage nach NB Parts, die darüber hinaus sollen importiert die (Teil Vorbereitungs-und Anlaufzeit + Nachfrage Fenster) wird nicht in R + importiert werden. Diese Einstellung wird wirkungslos, wenn die Materialbedarfsplanung aktiviert ist.</value>
+    <value>Importierte Bedarfe für NB-Material (nicht gepuffert), die später als (Durchlaufzeit des Materials + Bedarfshorizont) fällig sind, werden nicht nach R+ importiert. Diese Einstellung wird ignoriert, wenn die Materialbedarfsplanung (MRP) aktiviert ist.</value>
   </data>
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Trennzeichen</value>
   </data>
   <data name="Settings_DemandOrderBufferedProcessingWindowSalesOrder" xml:space="preserve">
-    <value>Gepufferte Verarbeitung Fenster (SO)</value>
+    <value>Gepuffertes Verarbeitungsfenster (Kudnenauftrag)</value>
   </data>
   <data name="Settings_DemandOrderBufferedProcessingWindowWorkOrder" xml:space="preserve">
-    <value>Gepufferte Verarbeitung Fenster (WO)</value>
+    <value>Gepuffertes Verarbeitungsfenster (Arbeiitsauftrag)</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
-    <value>Anfrage Bestellung Verarbeitungsfenster für nicht gepuffert Teile</value>
+    <value>Verarbeitungsfenster für ungepuffert Artikel</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
-    <value>Non-Buffered (NB) Verarbeitung Fenster (SO)</value>
+    <value>Verarbeitungsfenster für ungepufferte (NB) Artikel (Kundenaufträge)</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowWorkOrder" xml:space="preserve">
-    <value>Non-Buffered (NB) Verarbeitung Fenster (WO)</value>
+    <value>Verarbeitungsfenster für ungepufferte (NB) Artikel (Arbeitsaufträge)</value>
   </data>
   <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
-    <value>Diese Einstellungen werden wie weit nach vorne gehören R + Nachfrage nach nicht-gepufferte Teile beschränken. Konfigurierten Werte werden zur R + Lieferzeit für passende Teile hinzugefügt. Wenn '5', und ein Teil einer R + Vorbereitungs-und Anlaufzeit hat 5 Tage R + wird nicht entfallen auf Nachfrage bis das aktuelle Datum innerhalb von 10 Werktagen der Nachfrage ist Fälligkeitsdatum.</value>
+    <value>Diese Einstellungen begrenzen, wie weit voraus R+ Bedarfe für nichtgepufferte Artikel berücksichtigt. Die konfigurierten Werte werden zur R+ Durchlaufzeit für passende Artikel hinzugefügt. Ist der Wert '5' und hat ein Artikel eine R+ Durchlaufzeit von 5 Tagen, wird R+ keine Bedarfe berücksichtigen, bis das aktuelle Datum innerhalb von 10 Werktagen zum Fälligkeitstermin des Bedarfes liegt.</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
-    <value>Nachfrage-Order-Fenster</value>
+    <value>Kundenauftragsfenster</value>
   </data>
   <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
-    <value>Diese Einstellungen werden begrenzen wie weit nach vorne gehören R + Nachfrage nach teilen. Konfigurierten Werte werden zur R + Lieferzeit für passende Teile hinzugefügt. Wenn '5', und ein Teil einer R + Vorbereitungs-und Anlaufzeit hat 5 Tage R + wird nicht entfallen auf Nachfrage bis das aktuelle Datum innerhalb von 10 Werktagen der Nachfrage ist Fälligkeitsdatum. Wenn auf '0' gesetzt, R + nur aktuelle und frühere Fälligkeit beinhalten wird Nachfrage. Wenn auf "-1" (deaktiviert), R + jede Nachfrage nicht enthalten soll.</value>
+    <value>Diese Einstellungen begrenzen, wie weit voraus R+ Bedarfe für nichtgepufferte Artikel berücksichtigt. Die konfigurierten Werte werden zur R+ Durchlaufzeit für passende Artikel hinzugefügt. Ist der Wert '5' und hat ein Artikel eine R+ Durchlaufzeit von 5 Tagen, wird R+ keine Bedarfe berücksichtigen, bis das aktuelle Datum innerhalb von 10 Werktagen zum Fälligkeitstermin des Bedarfes liegt. Ist der Wert '0', berücksichtigt R+ nur aktuelle und überfällige Bedarfe. Ist der Wert '-1' wird R+ keine Bedarfe berücksichtigen.</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Numerisches Format erwartet</value>
   </data>
   <data name="Settings_ExternalApiAccess" xml:space="preserve">
-    <value>Externe API-Zugriff</value>
+    <value>Externer API-Zugriff</value>
   </data>
   <data name="Settings_ForecastedDemandLookAhead" xml:space="preserve">
-    <value>Wochen der prognostizierten Nachfrage</value>
+    <value>Wochen prognostizierter Bedarf</value>
   </data>
   <data name="Settings_Global_BuffersAndOrderProcessing" xml:space="preserve">
     <value>Puffer und Auftragsabwicklung</value>
@@ -208,7 +208,7 @@
     <value>Feld</value>
   </data>
   <data name="Settings_Global_ForecastedDemand" xml:space="preserve">
-    <value>Prognostizierten Nachfrage und prognostizierten täglichen Verbrauch (FDU)</value>
+    <value>Prognostizierter Bedarf und prognostizierter Tagesverbrauch (FDU)</value>
   </data>
   <data name="Settings_Global_ImportExportDataExchange" xml:space="preserve">
     <value>System-Datenaustausch (Import &amp; Export)</value>
@@ -223,7 +223,7 @@
     <value>Spalte</value>
   </data>
   <data name="Settings_Grids_DecimalPrecision_Label" xml:space="preserve">
-    <value>Dezimalpräzision</value>
+    <value>Dezimalgenauigkeit</value>
   </data>
   <data name="Settings_Grids_DefaultPrecisionFormat" xml:space="preserve">
     <value>Standard ({0})</value>
@@ -232,61 +232,61 @@
     <value>Keine</value>
   </data>
   <data name="Settings_HistoryCapture" xml:space="preserve">
-    <value>Geschichte-Capture</value>
+    <value>Verlaufsaufzeichnung</value>
   </data>
   <data name="Settings_HistoryCaptureDaysToKeep" xml:space="preserve">
-    <value>Tage der Geschichte zu pflegen</value>
+    <value>Anzahl der aufzuzeichenden Tage</value>
   </data>
   <data name="Settings_ImportedDemand" xml:space="preserve">
-    <value>Importierte Nachfrage</value>
+    <value>Importierter Bedarf</value>
   </data>
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
-    <value>Sind Spikes in lieferbar</value>
+    <value>Spitzen im verfügbaren Bestand berücksichtigen</value>
   </data>
   <data name="Settings_IsHighAccuracyPSO" xml:space="preserve">
-    <value>Sind offene Versorgung im projizierten bestand Warnsignal</value>
+    <value>Offene Versorgung (Bestellbestand) bei projizierter Lagerbestandswarnung berücksichtigen</value>
   </data>
   <data name="Settings_LocalTimeZone" xml:space="preserve">
     <value>Lokale Zeitzone</value>
   </data>
   <data name="Settings_Mrp_Disabled" xml:space="preserve">
-    <value>MRP Berechnungen sind deaktiviert</value>
+    <value>MRP-Berechnungen sind deaktiviert</value>
   </data>
   <data name="Settings_Mrp_DoMaterialRequirementsNettingAfterImport" xml:space="preserve">
-    <value>Führen Sie die MRP Netting, nach dem Import? (Volle WWS)</value>
+    <value>MRP-Netting nach dem Import ausführen? (Voller MRP-Lauf)</value>
   </data>
   <data name="Settings_Mrp_DoMaterialRequirementsNettingWhenCreatingOrders" xml:space="preserve">
-    <value>Ausführen MRP Netting, wenn neue Aufträge erstellen? (Net-Change-MRP)</value>
+    <value>MRP-Netting nach dem Anlegen neuer Aufträge ausführen? (MRP-Lauf nur über Änderungen)</value>
   </data>
   <data name="Settings_Mrp_EnableAutoCreateMinMaxSupplyOrders" xml:space="preserve">
-    <value>Erstellen automatisch Beschaffungsaufträgen für Min/Max-Teile?</value>
+    <value>Beschaffungsaufträge für Min/Max-Material automatisch anlegen?</value>
   </data>
   <data name="Settings_Mrp_EnableAutoCreateNonBufferedSupplyOrders" xml:space="preserve">
-    <value>Erstellen automatisch Beschaffungsaufträgen für Non-Buffered Teile?</value>
+    <value>Beschaffungsaufträge für NB-Material (nicht gepuffert) automatisch anlegen?</value>
   </data>
   <data name="Settings_Mrp_EnableMaterialRequirementsPlanning" xml:space="preserve">
-    <value>Aktivieren der Bedarfsplanung</value>
+    <value>Materialbedarfsplanung (MRP) aktivieren?</value>
   </data>
   <data name="Settings_Mrp_mrpFeatures1" xml:space="preserve">
-    <value>Diese Optionen können R+ liefern Bestellungen automatisch während MRP Netting um offene Nachfrage zu erstellen und wirkt sich nur Teile in einer Stückliste.</value>
+    <value>Bei diesen Optionen erstellt R+ während des MRP-Laufes automatisch Bestellungen, um den offenen Bedarf zu befriedigen, dies wirkt sich nur auf Material in einer Stückliste aus.</value>
   </data>
   <data name="Settings_Mrp_mrpFeatures2" xml:space="preserve">
     <value>Während MRP Netting werden diese Einstellungen begrenzen wie weit vorn R+ versucht Bestellungen erstellen. Diese Werte werden des Teils R+ Vorlaufzeit hinzugefügt. z.B. wenn legen Sie auf '5', und ein Teil einer R+ Vorlaufzeit hat 5 Tage R+ nicht schafft eine Bestellung bis zum aktuelle Datum innerhalb von zehn Arbeitstagen nach der Nachfrage ist fällig am.</value>
   </data>
   <data name="Settings_Mrp_mrpNettingFull" xml:space="preserve">
-    <value>R+ wird automatisch Netting-Bedarfsplanung für alle importierten Nachfrage-Bestellungen (Bestellungen und Aufträge) tun. Importierte Nachfrage Datensätze sollten keine untergeordnete Anforderung enthalten.</value>
+    <value>R+ wird automatisch ein MRP-Netting für alle importierten Bedarfe (Kundenbestellungen und Arbeitsaufträge) durchführen. Importierte Bedarfsdatensätze dürfen keine Bedarfe für untergeordnete Artikel (Sekundärbedarfe) enthalten.</value>
   </data>
   <data name="Settings_Mrp_mrpNettingNetChange" xml:space="preserve">
-    <value>R+ wird nur MRP Netting durchführen, wenn Bestellungen manuell erstellen oder Genehmigung Aufträge empfohlen. R+ nehmen an, dass alle importierten Nachfrage Aufträge haben bereits durch Ihre MRP-System-vor dem Importieren verrechnet wurde.</value>
+    <value>R+ wird ein MRP-Netting nur durchführen, wenn Aufträge manuell erstellt oder Auftragsempfehlungen akzeptiert worden sind. R+ nimmt an, dass alle importierten Bedarfe durch Ihr MRP-Systembereits vor dem Importieren verrechnet wurden.</value>
   </data>
   <data name="Settings_Mrp_mrpNettingSuggestion1" xml:space="preserve">
-    <value>Wenn 'MRP Netting nach dem Import' ist ausgewählt, wir schlagen vor, auch aktivieren 'MRP Netting beim Auftragseingang erstellen'. Dies gewährleistet konsistentes Verhalten.</value>
+    <value>Wenn Sie 'MRP-Netting nach Import' aktivieren, empfehlen wir, auch 'MRP-Netting nach dem Anlegen neuer Aufträge' zu aktivieren. Dies gewährleistet konsistentes Verhalten.</value>
   </data>
   <data name="Settings_Mrp_SalesOrderDemandProcessingWindow" xml:space="preserve">
-    <value>Nachfrage Verarbeitung Fenster für Kundenaufträge</value>
+    <value>Fenster zur Bedarfsverarbeitung für Kundenaufträge</value>
   </data>
   <data name="Settings_Mrp_WorkOrderDemandProcessingWindow" xml:space="preserve">
-    <value>Nachfrage Verarbeitung Fenster für Arbeitsaufträge</value>
+    <value>Fenster zur Bedarfsverarbeitung für Arbeitsaufträge</value>
   </data>
   <data name="Settings_Nav_ApiTokens" xml:space="preserve">
     <value>API-Token</value>
@@ -295,7 +295,7 @@
     <value>Datum/Uhrzeit-Format</value>
   </data>
   <data name="Settings_Nav_GlobalFilter" xml:space="preserve">
-    <value>Globale Teil-Filter</value>
+    <value>Globaler Artikelfilter</value>
   </data>
   <data name="Settings_Nav_GlobalSettings" xml:space="preserve">
     <value>Globale Einstellungen</value>
@@ -304,7 +304,7 @@
     <value>Raster</value>
   </data>
   <data name="Settings_Nav_MaterialRequirements" xml:space="preserve">
-    <value>Bedarfsplanung</value>
+    <value>Materialbedarfsplanung</value>
   </data>
   <data name="Settings_Nav_Processing" xml:space="preserve">
     <value>Verarbeitung</value>
@@ -319,31 +319,31 @@
     <value>Benutzerverwaltung</value>
   </data>
   <data name="Settings_PasswordComplexity" xml:space="preserve">
-    <value>Kennwortkomplexitätsvoraussetzungen</value>
+    <value>Anforderungen an die Kennwortkomplexität</value>
   </data>
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
-    <value>Bitte wählen Sie ein format</value>
+    <value>Bitte wählen Sie ein Format</value>
   </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
-    <value>Projizierte dezentrales Lager Lieferzeit Horizont</value>
+    <value>Horizont für projizierten Nullbestand</value>
   </data>
   <data name="Settings_PurchaseOrder" xml:space="preserve">
-    <value>CD bestellen</value>
+    <value>Lieferantenbestellung</value>
   </data>
   <data name="Settings_Reset_Btn" xml:space="preserve">
     <value>Zurücksetzen</value>
   </data>
   <data name="Settings_RoundBufferValuesToOne" xml:space="preserve">
-    <value>Runde Puffer Werte zu einem</value>
+    <value>Pufferwerte auf Eins runden</value>
   </data>
   <data name="Settings_SalesOrder" xml:space="preserve">
     <value>Kundenauftrag</value>
   </data>
   <data name="Settings_SaveChanges_Btn" xml:space="preserve">
-    <value>Speichern Sie die Änderungen</value>
+    <value>Änderungen speichern</value>
   </data>
   <data name="Settings_SaveChangesConfirmation" xml:space="preserve">
-    <value>Möchten Sie die Änderungen speichern?</value>
+    <value>Möchten Sie Ihre Änderungen speichern?</value>
   </data>
   <data name="Settings_SaveChangesDetail" xml:space="preserve">
     <value>Wenn Sie nicht speichern, gehen Ihre Änderungen verloren.</value>
@@ -358,37 +358,37 @@
     <value>Datumsformat</value>
   </data>
   <data name="Settings_User_DateFormat_NoneFound" xml:space="preserve">
-    <value>Kein Date-Spalten gefunden</value>
+    <value>Kein Datumsspalten gefunden</value>
   </data>
   <data name="Settings_User_DateFormat_Title" xml:space="preserve">
-    <value>Wählen Sie Datum/Zeitformat</value>
+    <value>Wählen Sie das Datum/Zeitformat</value>
   </data>
   <data name="Settings_User_DecimalPrecision" xml:space="preserve">
-    <value>Dezimalpräzision</value>
+    <value>Dezimalgenauigkeit</value>
   </data>
   <data name="Settings_User_DecimalPrecision_Title" xml:space="preserve">
-    <value>Wählen Sie Präzision</value>
+    <value>Genauigkeit auswählen</value>
   </data>
   <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
-    <value>Erlauben Sie Benutzern, "Remember Me" verwenden?</value>
+    <value>Sollen  Benutzer, "Autmatische Anmeldung" verwenden dürfen?</value>
   </data>
   <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
     <value>nur Benutzername</value>
   </data>
   <data name="Settings_User_LogoutAfter" xml:space="preserve">
-    <value>Logout Benutzer automatisch nach einem Zeitraum der Inaktivität? (Stunden)</value>
+    <value>Benutzer bei Inaktivität automatisch abmelden? (nach wie viel Stunden)</value>
   </data>
   <data name="Settings_User_LogoutAfter_RememberMe" xml:space="preserve">
-    <value>"Remember Me" können Benutzer eingeloggt bleiben.</value>
+    <value>Benutzer können über die "automatische Anmeldung" eingeloggt bleiben.</value>
   </data>
   <data name="Settings_User_LogoutAll" xml:space="preserve">
-    <value>Erzwingen Sie alle Benutzer wieder anmelden?</value>
+    <value>Alle Benutzer zwingen, sie neu anzumelden?</value>
   </data>
   <data name="Settings_User_LogoutAll_Action" xml:space="preserve">
-    <value>Logout alle Benutzer</value>
+    <value>Abmeldung aller Benutzer</value>
   </data>
   <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
-    <value>Dadurch werden auch alle Benutzer, einschließlich der aktuellen Benutzers, um Anmeldung wieder erfordern. Möchten Sie fortfahren?</value>
+    <value>Alle Benutzer, einschließlich des aktuellen Benutzers, müssen sich wieder anmelden. Möchten Sie fortfahren?</value>
   </data>
   <data name="Settings_User_MinimumLength" xml:space="preserve">
     <value>Minimale Länge?</value>
@@ -397,52 +397,52 @@
     <value>Passwort ändern</value>
   </data>
   <data name="Settings_User_PasswordComplexity" xml:space="preserve">
-    <value>Die Kennwortkomplexität</value>
+    <value>Kennwortkomplexität</value>
   </data>
   <data name="Settings_User_PasswordMaxAgeDays" xml:space="preserve">
-    <value>Passwort Max Age (in Tagen)</value>
+    <value>Maximales Alter des Kennworts (in Tagen)</value>
   </data>
   <data name="Settings_User_RequireDigit" xml:space="preserve">
-    <value>Benötigt mindestens 1 Ziffer? (0-9)</value>
+    <value>Mindestens eine Ziffer verlangen? (0-9)</value>
   </data>
   <data name="Settings_User_RequireLowerCase" xml:space="preserve">
-    <value>Benötigt mindestens 1 Kleinbuchstaben? (a-Z)</value>
+    <value>Mindestens einen Kleinbuchstaben verlangen? (a-z)</value>
   </data>
   <data name="Settings_User_RequireNonDigitLetter" xml:space="preserve">
-    <value>Erfordern eine keine Buchstaben oder Ziffer?</value>
+    <value>Mindestens ein Nicht-Buchstaben-Zeichen oder Ziffer verlangen?</value>
   </data>
   <data name="Settings_User_RequireNonDigitLetter_Title" xml:space="preserve">
-    <value>Beliebiges Zeichen nicht in die Bereiche von 0-9, a-Z oder A-Z. Beispiele:!, %, *, $</value>
+    <value>Beliebiges Zeichen anders als 0-9, a-z oder A-Z. Beispiele: !, %, *, $</value>
   </data>
   <data name="Settings_User_RequireUpperCase" xml:space="preserve">
-    <value>Benötigt mindestens 1 Großbuchstaben? (A-Z)</value>
+    <value>Mindestens einen Großbuchstaben verlangen? (A-Z)</value>
   </data>
   <data name="Settings_User_UnknownGrid" xml:space="preserve">
-    <value>Unbekannte Grid</value>
+    <value>Unbekanntes Raster</value>
   </data>
   <data name="Settings_UserDefined1" xml:space="preserve">
-    <value>UserDefined1</value>
+    <value>BenutzerDefiniert1</value>
   </data>
   <data name="Settings_UserDefined2" xml:space="preserve">
-    <value>UserDefined2</value>
+    <value>BenutzerDefiniert2</value>
   </data>
   <data name="Settings_UserDefined3" xml:space="preserve">
-    <value>UserDefined3</value>
+    <value>BenutzerDefiniert3</value>
   </data>
   <data name="Settings_UserDefined4" xml:space="preserve">
-    <value>UserDefined4</value>
+    <value>BenutzerDefiniert4</value>
   </data>
   <data name="Settings_UserDefined5" xml:space="preserve">
-    <value>UserDefined5</value>
+    <value>BenutzerDefiniert5</value>
   </data>
   <data name="Settings_UserDefined6" xml:space="preserve">
-    <value>UserDefined6</value>
+    <value>BenutzerDefiniert6</value>
   </data>
   <data name="Settings_UserDefined7" xml:space="preserve">
-    <value>UserDefined7</value>
+    <value>BenutzerDefiniert7</value>
   </data>
   <data name="Settings_UserDefined8" xml:space="preserve">
-    <value>UserDefined8</value>
+    <value>BenutzerDefiniert8</value>
   </data>
   <data name="Settings_WorkOrder" xml:space="preserve">
     <value>Arbeitsauftrag</value>

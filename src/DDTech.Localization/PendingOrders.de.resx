@@ -121,37 +121,37 @@
     <value>Alle</value>
   </data>
   <data name="AreYouSure" xml:space="preserve">
-    <value>Bist du sicher?</value>
+    <value>Sind Sie sicher?</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Kaufen</value>
+    <value>Beschaffen</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Abbrechen</value>
   </data>
   <data name="Commit" xml:space="preserve">
-    <value>Begehen</value>
+    <value>Festlegen</value>
   </data>
   <data name="CommitAllPendingOrders" xml:space="preserve">
-    <value>Alle ausstehende Bestellungen verpflichten</value>
+    <value>Alle ausstehende Bestellungen festlegen</value>
   </data>
   <data name="CommitSelectedPendingOrders" xml:space="preserve">
-    <value>Verpflichten, die noch nicht erledigten Aufträge ausgewählt</value>
+    <value>Ausgewählte ausstehende Aufträge festlegen</value>
   </data>
   <data name="Committed" xml:space="preserve">
-    <value>Verpflichtet</value>
+    <value>Festgelegt</value>
   </data>
   <data name="ConfirmCommitOrders" xml:space="preserve">
-    <value>Sind Sie sicher, dass Sie diese Bestellungen verpflichten möchten?</value>
+    <value>Sind Sie sicher, dass Sie diese Bestellungen festlegen möchten?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Löschen bestätigen</value>
   </data>
   <data name="ConfirmDeleteOrders" xml:space="preserve">
-    <value>Bist du sicher, dass Sie diese Aufträge löschen möchten?</value>
+    <value>Sind Sie sicher, dass Sie diese Aufträge löschen möchten?</value>
   </data>
   <data name="Critical" xml:space="preserve">
-    <value>Kritische</value>
+    <value>Kritisch</value>
   </data>
   <data name="Customer" xml:space="preserve">
     <value>Kunde</value>
@@ -169,7 +169,7 @@
     <value>Beschreibung</value>
   </data>
   <data name="DownloadAllPendingOrders" xml:space="preserve">
-    <value>Laden Sie alle ausstehende Bestellungen (kein Commit)</value>
+    <value>Alle ausstehenden Bestellungen herunterlagen (keine Festlegung)</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Export</value>
@@ -181,16 +181,16 @@
     <value>Exportiert</value>
   </data>
   <data name="ExportSelectedOrders" xml:space="preserve">
-    <value>Export von ausgewählten Bestellungen</value>
+    <value>Ausgewählte Aufträge exportieren</value>
   </data>
   <data name="ExtendedCost" xml:space="preserve">
-    <value>Erweiterten Kosten</value>
+    <value>Erweiterte Kosten</value>
   </data>
   <data name="GoTopage" xml:space="preserve">
     <value>Gehe zu Seite:</value>
   </data>
   <data name="High" xml:space="preserve">
-    <value>Hohe</value>
+    <value>Hoch</value>
   </data>
   <data name="Late" xml:space="preserve">
     <value>Spät</value>
@@ -202,7 +202,7 @@
     <value>Link-Code</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Lage</value>
+    <value>Standort</value>
   </data>
   <data name="Low" xml:space="preserve">
     <value>Low</value>
@@ -223,7 +223,7 @@
     <value>keine</value>
   </data>
   <data name="NoPendingOrders" xml:space="preserve">
-    <value>Es gibt keine ausstehenden Bestellungen</value>
+    <value>Es gibt keine ausstehenden Aufträge</value>
   </data>
   <data name="Notes" xml:space="preserve">
     <value>Notizen</value>
@@ -235,10 +235,10 @@
     <value>Okay</value>
   </data>
   <data name="Order" xml:space="preserve">
-    <value>Bestellung</value>
+    <value>Auftrag</value>
   </data>
   <data name="OrderNumber" xml:space="preserve">
-    <value>Bestell-Nr.</value>
+    <value>Auftragsnr.</value>
   </data>
   <data name="OrderType" xml:space="preserve">
     <value>Auftragsart</value>
@@ -247,19 +247,19 @@
     <value>OToG</value>
   </data>
   <data name="PartNumber" xml:space="preserve">
-    <value>Teilenummer</value>
+    <value>Artikelnummer</value>
   </data>
   <data name="PartType" xml:space="preserve">
-    <value>Teiletyp</value>
+    <value>Artikeltyp</value>
   </data>
   <data name="Pending" xml:space="preserve">
-    <value>Ausstehende</value>
+    <value>Ausstehend</value>
   </data>
   <data name="PendingOrdersStr" xml:space="preserve">
-    <value>Offene Bestellungen</value>
+    <value>Ausstehende Aufträge</value>
   </data>
   <data name="PercentOfBuffer" xml:space="preserve">
-    <value>% Puffer</value>
+    <value>% des Puffers</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
     <value>Planer-Code</value>
@@ -271,7 +271,7 @@
     <value>Profil</value>
   </data>
   <data name="PromiseDate" xml:space="preserve">
-    <value>Versprechen Datum</value>
+    <value>Zugesagter Termin</value>
   </data>
   <data name="Quantity" xml:space="preserve">
     <value>Menge</value>
@@ -283,7 +283,7 @@
     <value>Datum der Anfrage</value>
   </data>
   <data name="ReviewRecommendedOrders" xml:space="preserve">
-    <value>Bericht empfiehlt Bestellungen</value>
+    <value>Emfpohlene Aufträge überprüfen</value>
   </data>
   <data name="Revision" xml:space="preserve">
     <value>Revision</value>
@@ -310,7 +310,7 @@
     <value>Status</value>
   </data>
   <data name="TotalOrders" xml:space="preserve">
-    <value>Gesamten Bestellungen</value>
+    <value>Alle Aufträge</value>
   </data>
   <data name="Unit" xml:space="preserve">
     <value>Einheit</value>
@@ -322,12 +322,12 @@
     <value>Varianz-Kosten</value>
   </data>
   <data name="VarianceNotes" xml:space="preserve">
-    <value>Varianz-Notes</value>
+    <value>Varianz-Notizen</value>
   </data>
   <data name="Vendor" xml:space="preserve">
-    <value>Hersteller</value>
+    <value>Lieferant</value>
   </data>
   <data name="VendorId" xml:space="preserve">
-    <value>Hersteller-Id</value>
+    <value>Lieferanten-ID</value>
   </data>
 </root>

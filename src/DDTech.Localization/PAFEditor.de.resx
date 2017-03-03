@@ -124,13 +124,13 @@
     <value>Korrekturfaktor hinzufügen</value>
   </data>
   <data name="AddFactor" xml:space="preserve">
-    <value>Fügen Sie Faktor</value>
+    <value>Faktor hinzufügen</value>
   </data>
   <data name="Apr" xml:space="preserve">
     <value>Apr</value>
   </data>
   <data name="AreYouSure" xml:space="preserve">
-    <value>Bist du sicher?</value>
+    <value>Sind Sie sicher?</value>
   </data>
   <data name="Aug" xml:space="preserve">
     <value>Aug</value>
@@ -154,7 +154,7 @@
     <value>Beschreibung</value>
   </data>
   <data name="EnterName" xml:space="preserve">
-    <value>Geben Sie Namen</value>
+    <value>Namen eingeben</value>
   </data>
   <data name="Feb" xml:space="preserve">
     <value>Feb</value>
@@ -169,10 +169,10 @@
     <value>Juni</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Lage</value>
+    <value>Standort</value>
   </data>
   <data name="Location:" xml:space="preserve">
-    <value>Lage:</value>
+    <value>Standort:</value>
   </data>
   <data name="Mar" xml:space="preserve">
     <value>März</value>
@@ -208,10 +208,10 @@
     <value>Erfolgreich gespeichert</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
-    <value>(Alle auswählen)</value>
+    <value>(Alles auswählen)</value>
   </data>
   <data name="SelectFilter" xml:space="preserve">
-    <value>Wählen Sie Filter</value>
+    <value>Filter wählen</value>
   </data>
   <data name="Sep" xml:space="preserve">
     <value>Sept</value>

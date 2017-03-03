@@ -121,16 +121,16 @@
     <value>Stückliste</value>
   </data>
   <data name="BufferProfile" xml:space="preserve">
-    <value>Puffer-Profil</value>
+    <value>Pufferprofil</value>
   </data>
   <data name="CreateChildAllocationsOnPendingOrderCreation" xml:space="preserve">
-    <value>Erstellen Sie untergeordnete Zuweisungen auf ausstehende Auftragserstellung</value>
+    <value>Beim Erstellen ausstehender Aufträge Sekundärbedarfe zuweisen</value>
   </data>
   <data name="CreateChildAllocationsOnSupplyOrderImport" xml:space="preserve">
-    <value>Erstellen Sie untergeordnete Zuweisungen auf Supply Order Import</value>
+    <value>Beim Importieren von Versirgungsaufträgen Sekundärbedarfe zuweisen</value>
   </data>
   <data name="CurrentLocalTime" xml:space="preserve">
-    <value>Aktuelle Uhrzeit vor Ort</value>
+    <value>Aktuelle lokale Uhrzeit</value>
   </data>
   <data name="CurrentTimeZone" xml:space="preserve">
     <value>Aktuelle Zeitzone</value>
@@ -139,28 +139,28 @@
     <value>Datensatz-Statistik</value>
   </data>
   <data name="DefaultInventoryAlertLevel" xml:space="preserve">
-    <value>Standard Inventar Warnstufe</value>
+    <value>Standardwarnschwelle Bestandsniveau</value>
   </data>
   <data name="DefaultOrderSpikeAlertLevel" xml:space="preserve">
-    <value>Standard Reihenfolge Spike Warnstufe</value>
+    <value>Standardwarnschwelle Bedarfsspitzen</value>
   </data>
   <data name="DefaultOrderSpikeHorizonLevel" xml:space="preserve">
-    <value>Standard-Order-Spike-Horizont-Ebene</value>
+    <value>Standardhorizont Bedarfsspitzen</value>
   </data>
   <data name="DemandOrder" xml:space="preserve">
-    <value>Nachfrage bestellen</value>
+    <value>Bedarfsauftrag</value>
   </data>
   <data name="DemandOrderWindowForSalesOrders" xml:space="preserve">
-    <value>Nachfrage Bestellfenster für Aufträge</value>
+    <value>Bedarfsfenster für Kundenaufträge</value>
   </data>
   <data name="DemandOrderWindowForWorkOrders" xml:space="preserve">
-    <value>Nachfrage Bestellfenster für Arbeitsaufträge</value>
+    <value>Bedarfsfenster für Arbeitsaufträge</value>
   </data>
   <data name="ForecastedDemand" xml:space="preserve">
-    <value>Prognostizierten Nachfrage</value>
+    <value>Prognostizierte Nachfrage</value>
   </data>
   <data name="HistoryCaptureLog_Btn" xml:space="preserve">
-    <value>Capture Verlaufsprotokoll</value>
+    <value>Verlaufsprotokoll</value>
   </data>
   <data name="LastUpdated" xml:space="preserve">
     <value>Letzte Aktualisierung</value>
@@ -169,37 +169,37 @@
     <value>Lokale Zeitzoneninformationen</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Teil</value>
+    <value>Artikel</value>
   </data>
   <data name="PartAugment" xml:space="preserve">
-    <value>Teil Augment</value>
+    <value>Artikel Augment</value>
   </data>
   <data name="PartBufferSizing" xml:space="preserve">
-    <value>Teil Puffer Sizing</value>
+    <value>Artikelpuffer dimensionieren</value>
   </data>
   <data name="PartInventory" xml:space="preserve">
-    <value>Teil-Inventar</value>
+    <value>Artikelbestand</value>
   </data>
   <data name="PerformanceMetrics" xml:space="preserve">
-    <value>Performance-Kennzahlen</value>
+    <value>Leistungskennzahlen</value>
   </data>
   <data name="PlannedAdjustmentFactor" xml:space="preserve">
-    <value>Geplante Korrekturfaktor</value>
+    <value>Geplanter Anpassungsfaktor</value>
   </data>
   <data name="ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
-    <value>Projizierte Lager heraus die Lieferzeit Horizont</value>
+    <value>Horizont für projizierten Nullbestand</value>
   </data>
   <data name="RoundBufferValuesToOne" xml:space="preserve">
-    <value>Runde Puffer Werte zu einem</value>
+    <value>Pufferwerte auf Eins runden</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Einstellungen</value>
   </data>
   <data name="SiteStatus" xml:space="preserve">
-    <value>Website-Status</value>
+    <value>Site-Status</value>
   </data>
   <data name="SupplyOrder" xml:space="preserve">
-    <value>Beschaffungsauftrag</value>
+    <value>Versorgungsauftrag</value>
   </data>
   <data name="UserDefined1" xml:space="preserve">
     <value>Benutzerdefiniert 1</value>
@@ -223,7 +223,7 @@
     <value>Benutzerdefiniert 7</value>
   </data>
   <data name="UserDefined8" xml:space="preserve">
-    <value>Benutzerdefinierte 8</value>
+    <value>Benutzerdefiniert 8</value>
   </data>
   <data name="ViewAdditionalStatusDetails" xml:space="preserve">
     <value>Weitere Status-Details anzeigen</value>

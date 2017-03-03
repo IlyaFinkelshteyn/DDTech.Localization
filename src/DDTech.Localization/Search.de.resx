@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Buy" xml:space="preserve">
-    <value>Kaufen</value>
+    <value>Beschaffen</value>
   </data>
   <data name="Comments" xml:space="preserve">
     <value>Kommentare</value>
   </data>
   <data name="DemandOrders" xml:space="preserve">
-    <value>Nachfrage-Bestellungen</value>
+    <value>Bedarfs-Auftrag</value>
   </data>
   <data name="DueDate" xml:space="preserve">
     <value>Fälligkeitsdatum</value>
@@ -133,16 +133,16 @@
     <value>ID</value>
   </data>
   <data name="InventoryMethod" xml:space="preserve">
-    <value>Inventurmethode</value>
+    <value>Bestandsmethode</value>
   </data>
   <data name="LineItem" xml:space="preserve">
     <value>Einzelposten</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Lage</value>
+    <value>Standort</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Machen</value>
+    <value>Fertigen</value>
   </data>
   <data name="MaterialType" xml:space="preserve">
     <value>Materialart</value>
@@ -151,28 +151,28 @@
     <value>Notizen</value>
   </data>
   <data name="OrderDate" xml:space="preserve">
-    <value>Bestelldatum</value>
+    <value>Auftragsdatum</value>
   </data>
   <data name="OrderNumber" xml:space="preserve">
-    <value>Bestell-Nr.</value>
+    <value>Auftragsnr.</value>
   </data>
   <data name="OrderType" xml:space="preserve">
     <value>Auftragsart</value>
   </data>
   <data name="PartNumber" xml:space="preserve">
-    <value>Teilenummer</value>
+    <value>Artikelnummer</value>
   </data>
   <data name="Parts" xml:space="preserve">
-    <value>Teile</value>
+    <value>Artikel</value>
   </data>
   <data name="PartType" xml:space="preserve">
-    <value>Teiletyp</value>
+    <value>Artikeltyp</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
     <value>Planer-Code</value>
   </data>
   <data name="PromiseDate" xml:space="preserve">
-    <value>Versprechen Datum</value>
+    <value>Zugesagter Termin</value>
   </data>
   <data name="Quantity" xml:space="preserve">
     <value>Menge</value>
@@ -181,15 +181,15 @@
     <value>Datum der Anfrage</value>
   </data>
   <data name="SearchDot" xml:space="preserve">
-    <value>Suche...</value>
+    <value>Suchen...</value>
   </data>
   <data name="SearchStr" xml:space="preserve">
-    <value>Suche</value>
+    <value>Suchen</value>
   </data>
   <data name="Status" xml:space="preserve">
     <value>Status</value>
   </data>
   <data name="SupplyOrders" xml:space="preserve">
-    <value>Beschaffungsaufträgen</value>
+    <value>Versorgungsaufträge</value>
   </data>
 </root>

@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddFiles" xml:space="preserve">
-    <value>Hinzufügen von Dateien</value>
+    <value>Dateien hinzufügen</value>
   </data>
   <data name="AllfilesOK" xml:space="preserve">
-    <value>Alle Dateien OK</value>
+    <value>Alle Dateien in Ordnung</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Abbrechen</value>
@@ -136,16 +136,16 @@
     <value>Löschen</value>
   </data>
   <data name="DeleteAll" xml:space="preserve">
-    <value>Löschen Sie alle</value>
+    <value>Alles löschen</value>
   </data>
   <data name="DeleteFileAndReupload" xml:space="preserve">
-    <value>Datei löschen und re-upload</value>
+    <value>Datei löschen und erneut laden</value>
   </data>
   <data name="EncounteredNumErrorsWithUploadFormat" xml:space="preserve">
-    <value>Aufgetretene Fehler {0}. Zeigt die erste {1} Fehler.</value>
+    <value>Aufgetretene Fehler {0}. Anzeige der ersten {1} Fehler.</value>
   </data>
   <data name="ErrorsInUpload" xml:space="preserve">
-    <value>Fehler bei Upload</value>
+    <value>Fehler beim Laden</value>
   </data>
   <data name="FileName" xml:space="preserve">
     <value>Dateiname</value>
@@ -154,13 +154,13 @@
     <value>Dateien erfolgreich gelöscht</value>
   </data>
   <data name="ImportQueue" xml:space="preserve">
-    <value>Importieren Sie die Warteschlange:</value>
+    <value>Import-Warteschlange:</value>
   </data>
   <data name="ImportStr" xml:space="preserve">
     <value>Import</value>
   </data>
   <data name="InstructionsForUnIdentified" xml:space="preserve">
-    <value>Bitte stellen Sie sicher, dass Ihr System Data Exchange-Einstellungen korrekt sind</value>
+    <value>Bitte stellen Sie sicher, dass Ihre Datenaustauscheinstellungen auf Systemebene korrekt sind.</value>
   </data>
   <data name="KeyDeletedSuccessfully" xml:space="preserve">
     <value>Erfolgreich gelöscht</value>
@@ -175,16 +175,16 @@
     <value>Verarbeitung</value>
   </data>
   <data name="PurgePendingExportedOrdersOnImport" xml:space="preserve">
-    <value>Ausstehende/exportiert Bestellungen bei der Einfuhr zu löschen</value>
+    <value>Ausstehende/exportierte Bestellungen beim Import löschen</value>
   </data>
   <data name="Records" xml:space="preserve">
     <value>Datensätze</value>
   </data>
   <data name="RecordsIgnoredMessageFormat" xml:space="preserve">
-    <value>{0} Datensätze wurden aufgrund der Richtlinienkonfiguration ignoriert.</value>
+    <value>{0} Datensätze wurden aufgrund der eingestellten Richtlinien ignoriert.</value>
   </data>
   <data name="RegionSettingsDescribed" xml:space="preserve">
-    <value>Regionale Einstellungen gelten für Dateien hochladen und nicht importieren.</value>
+    <value>Regionale Einstellungen werden beim Hochladen der Dateien angewendet und nicht beim Import.</value>
   </data>
   <data name="Reset" xml:space="preserve">
     <value>Zurücksetzen</value>
@@ -202,12 +202,12 @@
     <value>Teststatus</value>
   </data>
   <data name="Type" xml:space="preserve">
-    <value>Typ</value>
+    <value>Art</value>
   </data>
   <data name="Uploaded" xml:space="preserve">
     <value>Hochgeladen</value>
   </data>
   <data name="Uploading" xml:space="preserve">
-    <value>Hochladen</value>
+    <value>Lädt hoch</value>
   </data>
 </root>

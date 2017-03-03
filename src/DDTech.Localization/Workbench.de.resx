@@ -154,7 +154,7 @@
     <value>9 Wochen</value>
   </data>
   <data name="AcceptSelectedOrders" xml:space="preserve">
-    <value>Annahme von ausgewählten Bestellungen</value>
+    <value>Ausgewählte Aufträge akzeptieren</value>
   </data>
   <data name="ADU" xml:space="preserve">
     <value>ADU</value>
@@ -163,10 +163,10 @@
     <value>Alle Aktivitäten</value>
   </data>
   <data name="Apply" xml:space="preserve">
-    <value>Gelten</value>
+    <value>Anwenden</value>
   </data>
   <data name="AssignedLocation" xml:space="preserve">
-    <value>Zugewiesenen Ort:</value>
+    <value>Zugewiesener Ort:</value>
   </data>
   <data name="BillOfMaterials" xml:space="preserve">
     <value>Stückliste</value>
@@ -178,16 +178,16 @@
     <value>Puffergröße</value>
   </data>
   <data name="BufferSizing" xml:space="preserve">
-    <value>Puffer-Sizing</value>
+    <value>Dimensionierung der Puffer</value>
   </data>
   <data name="BufferTrend" xml:space="preserve">
-    <value>Puffer-Trend</value>
+    <value>Puffertrend</value>
   </data>
   <data name="BufferValuesIncompatibleWithChart" xml:space="preserve">
-    <value>Puffer Werte mit Darstellung Diagramm unvereinbar.</value>
+    <value>Pufferwerte nicht kompatibel mit der Diagrammdarstellung</value>
   </data>
   <data name="Button_CreateCustomOrder" xml:space="preserve">
-    <value>Erstellen von benutzerdefinierten Reihenfolge</value>
+    <value>Benutzerdefinierten Auftrag erstellen</value>
   </data>
   <data name="ClearSelection" xml:space="preserve">
     <value>Auswahl löschen</value>
@@ -199,16 +199,16 @@
     <value>Spalte</value>
   </data>
   <data name="ColumnDisplaySettings" xml:space="preserve">
-    <value>Spalte-Anzeigeeinstellungen</value>
+    <value>Anzeigeeinstellungen für Spalten</value>
   </data>
   <data name="Committed" xml:space="preserve">
-    <value>Verpflichtet</value>
+    <value>Festgelegt</value>
   </data>
   <data name="CreateOrder" xml:space="preserve">
-    <value>Ordnung schaffen</value>
+    <value>Auftrag erstellen</value>
   </data>
   <data name="CurrentPAFIs" xml:space="preserve">
-    <value>Aktuelle PAF ist:</value>
+    <value>Der aktuelle PAF ist:</value>
   </data>
   <data name="CurrentView" xml:space="preserve">
     <value>Aktuelle Ansicht</value>
@@ -235,7 +235,7 @@
     <value> spät Tag(en)</value>
   </data>
   <data name="DemandAllocations" xml:space="preserve">
-    <value>Nachfrage-Zuweisungen</value>
+    <value>Bedarfszuweisungen</value>
   </data>
   <data name="DescriptionLabel" xml:space="preserve">
     <value>Beschreibung</value>
@@ -250,16 +250,16 @@
     <value>Fälligkeitsdatum</value>
   </data>
   <data name="ExpandAll" xml:space="preserve">
-    <value>Erweitern Sie alle</value>
+    <value>Alle erweitern</value>
   </data>
   <data name="ExpectedAvgInventory" xml:space="preserve">
-    <value>Erwartete Avg-Inventar</value>
+    <value>Erwarteter Durchschnittsbestand</value>
   </data>
   <data name="Exported" xml:space="preserve">
     <value>Exportiert</value>
   </data>
   <data name="ExportPage" xml:space="preserve">
-    <value>Export-Seite</value>
+    <value>Exportseite</value>
   </data>
   <data name="Filter" xml:space="preserve">
     <value>Filter</value>
@@ -268,7 +268,7 @@
     <value>Filter:</value>
   </data>
   <data name="FixedLeadTime" xml:space="preserve">
-    <value>Feste Lieferzeit</value>
+    <value>Feste Durchlaufzeit</value>
   </data>
   <data name="GoToPage" xml:space="preserve">
     <value>Gehe zu Seite:</value>
@@ -283,7 +283,7 @@
     <value>ID</value>
   </data>
   <data name="Inventory" xml:space="preserve">
-    <value>Inventar</value>
+    <value>Bestand</value>
   </data>
   <data name="InventoryManagement" xml:space="preserve">
     <value>Bestandsführung</value>
@@ -298,25 +298,25 @@
     <value>Spät</value>
   </data>
   <data name="LeadTime" xml:space="preserve">
-    <value>Vorlaufzeit</value>
+    <value>Durchlaufzeit</value>
   </data>
   <data name="LeadTimeCompression" xml:space="preserve">
-    <value>Zeitplan-Anpassung von {0} Tage wegen Zeitkomprimierung führen.</value>
+    <value>Zeitplan-Anpassung von {0} Tage aufgrund der Durchlaufzeitverkürzung</value>
   </data>
   <data name="Legend" xml:space="preserve">
     <value>Legende:</value>
   </data>
   <data name="LocationFilter" xml:space="preserve">
-    <value>Lagerortfilter</value>
+    <value>Standortfilter</value>
   </data>
   <data name="LongestLeg" xml:space="preserve">
-    <value>Längste Bein</value>
+    <value>Längster Pfad</value>
   </data>
   <data name="Material" xml:space="preserve">
     <value>Material</value>
   </data>
   <data name="MaterialFilter" xml:space="preserve">
-    <value>Materiell Filter</value>
+    <value>Materialfilter</value>
   </data>
   <data name="Max" xml:space="preserve">
     <value>Max</value>
@@ -328,13 +328,13 @@
     <value>Min/Max</value>
   </data>
   <data name="NBAndLTMPartsNoSizingValues" xml:space="preserve">
-    <value>Non-buffered und Lead Time Managed-Teile haben keine Größenanpassung-Werte.</value>
+    <value>Ungepufferte und durchlaufzeotgesteuerte Artikel haben keine Dimensionierungswerte.</value>
   </data>
   <data name="NonBuffered" xml:space="preserve">
     <value>Ungepufferter</value>
   </data>
   <data name="NotEnoughHistoryForChart" xml:space="preserve">
-    <value>Dieser Teil muss nicht genügend Verlaufsdaten zum Generieren einer Analytics-Diagramms</value>
+    <value>Dieser Artikel verfügt nicht über genügend Verlaufsdaten, um ein Analytik-Diagramm zu erstellen.</value>
   </data>
   <data name="Notes" xml:space="preserve">
     <value>Notizen</value>
@@ -343,52 +343,52 @@
     <value> von </value>
   </data>
   <data name="OnHandInventory" xml:space="preserve">
-    <value>Auf Lagerbestand</value>
+    <value>Lagerbestand</value>
   </data>
   <data name="OpenPO" xml:space="preserve">
-    <value>Offene PO</value>
+    <value>Offene Lieferantenbestellung</value>
   </data>
   <data name="OpenWO" xml:space="preserve">
-    <value>Offene WO</value>
+    <value>Offene Arbeitsaufträge</value>
   </data>
   <data name="OrderCycleOverride" xml:space="preserve">
-    <value>Bestellung-Zyklus-Override</value>
+    <value>Überschreiben des Auftragszyklus</value>
   </data>
   <data name="OrderDueDate" xml:space="preserve">
-    <value>Bestellen Sie Due Date</value>
+    <value>Fälligkeitstermin des Auftrags</value>
   </data>
   <data name="OrderNotes" xml:space="preserve">
-    <value>Reihenfolge Hinweise:</value>
+    <value>Auftragsnotizen:</value>
   </data>
   <data name="OrderNumber" xml:space="preserve">
-    <value>Bestell-Nr.</value>
+    <value>Auftragsnr.</value>
   </data>
   <data name="OrderPolicy" xml:space="preserve">
-    <value>Bestellung-Politik</value>
+    <value>Auftragsregeln</value>
   </data>
   <data name="OrderQuantity" xml:space="preserve">
-    <value>Bestellmenge</value>
+    <value>Auftragsmenge</value>
   </data>
   <data name="OutSourcedCost" xml:space="preserve">
-    <value>Aus der Region Kosten</value>
+    <value>Kosten bei Fremdvergabe</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Teil</value>
+    <value>Artikel</value>
   </data>
   <data name="PartActivity" xml:space="preserve">
-    <value>Teil-Aktivität</value>
+    <value>Artikelaktivität</value>
   </data>
   <data name="PartAnalytics" xml:space="preserve">
-    <value>Teil-Analytics</value>
+    <value>Artikelanalytik</value>
   </data>
   <data name="PartDetail" xml:space="preserve">
-    <value>Webpart-Eigenschaften</value>
+    <value>Artikeleigenschaften</value>
   </data>
   <data name="PartTypeFilter" xml:space="preserve">
-    <value>Teil-Typ-Filter</value>
+    <value>Artikeltypfilter</value>
   </data>
   <data name="Pending" xml:space="preserve">
-    <value>Ausstehende</value>
+    <value>Ausstehend</value>
   </data>
   <data name="Pinned" xml:space="preserve">
     <value>Fixiert</value>
@@ -400,22 +400,22 @@
     <value>Planer:</value>
   </data>
   <data name="PlannersWorkBench" xml:space="preserve">
-    <value>Planer-Werkbank</value>
+    <value>Planer-Arbeitsbereich</value>
   </data>
   <data name="Priority:" xml:space="preserve">
     <value>Priorität:</value>
   </data>
   <data name="PriorityFilter" xml:space="preserve">
-    <value>Filter mit Priorität</value>
+    <value>Prioritätsfilter</value>
   </data>
   <data name="PromiseDate" xml:space="preserve">
-    <value>Versprechen Datum</value>
+    <value>Zugesagter Termin</value>
   </data>
   <data name="Quantity" xml:space="preserve">
     <value>Menge</value>
   </data>
   <data name="RawMaterialCost" xml:space="preserve">
-    <value>Rohstoffkosten</value>
+    <value>Rohmaterialkosten</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Rot</value>
@@ -424,25 +424,25 @@
     <value>Rote Zone</value>
   </data>
   <data name="ReorderQty" xml:space="preserve">
-    <value>Neu ordnen Anz an</value>
+    <value>Bestellmenge</value>
   </data>
   <data name="RequestDate" xml:space="preserve">
     <value>Datum der Anfrage</value>
   </data>
   <data name="RPlusLeadTime" xml:space="preserve">
-    <value>R+ Lieferzeit</value>
+    <value>R+ Druchlaufzeit</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
-    <value>Laufenden Kontostands</value>
+    <value>Laufender Saldo</value>
   </data>
   <data name="SelectPriorityCode" xml:space="preserve">
-    <value>Wählen Sie Prioritätscode</value>
+    <value>Prioritätscode auswählen</value>
   </data>
   <data name="ShowRows" xml:space="preserve">
     <value>Zeigen Sie Zeilen:</value>
   </data>
   <data name="SODemand" xml:space="preserve">
-    <value>Also Nachfrage</value>
+    <value>Kundenbedarfe</value>
   </data>
   <data name="Source" xml:space="preserve">
     <value>Quelle</value>
@@ -451,88 +451,88 @@
     <value>Startdatum</value>
   </data>
   <data name="StartOver" xml:space="preserve">
-    <value>anfangen</value>
+    <value>Erneut beginnen</value>
   </data>
   <data name="Status" xml:space="preserve">
     <value>Status</value>
   </data>
   <data name="SubmitOrder" xml:space="preserve">
-    <value>Bestellung absenden</value>
+    <value>Auftrag absenden</value>
   </data>
   <data name="SupplyOrders" xml:space="preserve">
-    <value>Beschaffungsaufträgen</value>
+    <value>Versorgungsaufträge</value>
   </data>
   <data name="TopOfZone" xml:space="preserve">
-    <value>Des zulässigen Bereiches</value>
+    <value>Spitze der Zone</value>
   </data>
   <data name="Type" xml:space="preserve">
-    <value>Typ</value>
+    <value>Art</value>
   </data>
   <data name="UDF" xml:space="preserve">
     <value>UDF</value>
   </data>
   <data name="UnfilteredExport" xml:space="preserve">
-    <value>Ungefilterte Export</value>
+    <value>Ungefilterter Export</value>
   </data>
   <data name="Units" xml:space="preserve">
     <value>Einheiten</value>
   </data>
   <data name="Vendor" xml:space="preserve">
-    <value>Hersteller</value>
+    <value>Lieferant</value>
   </data>
   <data name="WODemand" xml:space="preserve">
-    <value>WO Nachfrage</value>
+    <value>Arbeitsauftragsbedarf</value>
   </data>
   <data name="Workbench_ApproveOrder_Button_Approve" xml:space="preserve">
-    <value>Bestellungen zu genehmigen</value>
+    <value>Aufträge genehmigen</value>
   </data>
   <data name="Workbench_ApproveOrder_Title" xml:space="preserve">
     <value>Empfohlene Aufträge zu genehmigen</value>
   </data>
   <data name="Workbench_ApproveOrders" xml:space="preserve">
-    <value>Bestellung(en) zu genehmigen</value>
+    <value>Aufträge genehmigen</value>
   </data>
   <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
     <value>Sind Sie sicher, dass Sie fortfahren möchten?</value>
   </data>
   <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
-    <value>"Bitte Bestellmenge eingeben"</value>
+    <value>"Bitte Auftragsmenge eingeben"</value>
   </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
-    <value>Quanity ist größer als der empfohlene Wert</value>
+    <value>Menge ist größer als der empfohlene Wert</value>
   </data>
   <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
-    <value>Exportieren von Daten</value>
+    <value>Daten exportieren</value>
   </data>
   <data name="Workbench_Menu_Group_Help" xml:space="preserve">
     <value>Hilfe</value>
   </data>
   <data name="Workbench_Menu_ViewInLegacyWorkbench" xml:space="preserve">
-    <value>Ansicht im Legacy-Workbench</value>
+    <value>Ansicht im Legacy-Arbeitsplatz</value>
   </data>
   <data name="Workbench_NoBillOfMaterial" xml:space="preserve">
-    <value>Teil hat keine Stückliste</value>
+    <value>Artikel hat keine Stückliste</value>
   </data>
   <data name="Workbench_NoMatchingPartsFound" xml:space="preserve">
-    <value>Keine passenden Teile gefunden</value>
+    <value>Keine passenden Artikel gefunden</value>
   </data>
   <data name="Workbench_NoNotes" xml:space="preserve">
-    <value>Teil hat keine Notizen</value>
+    <value>Artikel hat keine Notizen</value>
   </data>
   <data name="Workbench_NoPartDetails" xml:space="preserve">
-    <value>Teil hat keine Details</value>
+    <value>Artikel hat keine Details</value>
   </data>
   <data name="Workbench_PartAnalytics_AvailableRanges" xml:space="preserve">
     <value>Verfügbare Bereiche</value>
   </data>
   <data name="Workbench_PartAnalytics_CurrentRange" xml:space="preserve">
-    <value>Strombereich</value>
+    <value>Actueller Bereich</value>
   </data>
   <data name="Workbench_PartAnalytics_NonBufferedPartsUnsupported" xml:space="preserve">
-    <value>Teile nicht gepuffert werden nicht unterstützt</value>
+    <value>Ungepufferte Artikel werden nicht unterstützt</value>
   </data>
   <data name="Workbench_PartAnalytics_NotEnoughHistory" xml:space="preserve">
-    <value>Nicht genügend Geschichte Diagramm anzeigen</value>
+    <value>Nicht genügend Vergangenheistwerte um Diagramm anzuzeigen</value>
   </data>
   <data name="Workbench_PartDetail_Tab_Analytics" xml:space="preserve">
     <value>Analytik</value>
@@ -541,7 +541,7 @@
     <value>Stückliste</value>
   </data>
   <data name="Workbench_PartDetail_Tab_BufferSizing" xml:space="preserve">
-    <value>Puffer-Sizing</value>
+    <value>Dimensionierung der Puffer</value>
   </data>
   <data name="Workbench_PartDetail_Tab_Notes" xml:space="preserve">
     <value>Notizen</value>
@@ -553,16 +553,16 @@
     <value>Bestandsführung</value>
   </data>
   <data name="Workbench_PartProperties_Title" xml:space="preserve">
-    <value>Webpart-Eigenschaften</value>
+    <value>Artikeleigenschaften</value>
   </data>
   <data name="Workbench_PartProperties_UDFTitle" xml:space="preserve">
     <value>Benutzerdefinierte Felder</value>
   </data>
   <data name="Workbench_PleaseSelectPart" xml:space="preserve">
-    <value>Bitte wählen Sie einen Teil</value>
+    <value>Bitte wählen Sie einen Artikel</value>
   </data>
   <data name="Workbench_RecommendationsMarkedForApproval" xml:space="preserve">
-    <value>Recommendation(s) zur Genehmigung gekennzeichnet</value>
+    <value>Zur Bestätigung ausgewählte Empfehlungen </value>
   </data>
   <data name="Workbench_ResetFilters_Title" xml:space="preserve">
     <value>Zurücksetzen {0} aktive Filter und Sortierungen?</value>
@@ -577,6 +577,6 @@
     <value>Sie können auch</value>
   </data>
   <data name="ZoneSize" xml:space="preserve">
-    <value>Zone-Größe</value>
+    <value>Zonen-Größe</value>
   </data>
 </root>

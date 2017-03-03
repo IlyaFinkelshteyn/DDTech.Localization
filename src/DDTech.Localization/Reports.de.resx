@@ -121,16 +121,16 @@
     <value>Alle</value>
   </data>
   <data name="BufferTrend" xml:space="preserve">
-    <value>Puffer-Trend</value>
+    <value>Puffertrend</value>
   </data>
   <data name="Buy" xml:space="preserve">
-    <value>Kaufen</value>
+    <value>Beschaffen</value>
   </data>
   <data name="CriticalAndHigh" xml:space="preserve">
-    <value>Kritische und hohe</value>
+    <value>Kritisch und hoch</value>
   </data>
   <data name="CriticalAndHighTrendByPlanner" xml:space="preserve">
-    <value>Kritische und hohe Trend von Planer</value>
+    <value>Kritischer und hoher Trend je Planer</value>
   </data>
   <data name="DateRange" xml:space="preserve">
     <value>Datumsbereich:</value>
@@ -148,7 +148,7 @@
     <value>Bestandsplanung:</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Lage:</value>
+    <value>Standort:</value>
   </data>
   <data name="Make" xml:space="preserve">
     <value>Machen</value>
@@ -160,22 +160,22 @@
     <value>keine</value>
   </data>
   <data name="OnHand" xml:space="preserve">
-    <value>Auf der Seite</value>
+    <value>Lagerbestand</value>
   </data>
   <data name="OTOG" xml:space="preserve">
     <value>OToG</value>
   </data>
   <data name="OTOGTrendByPlanner" xml:space="preserve">
-    <value>OToG Trend von Planer</value>
+    <value>OToG Trend je Planer</value>
   </data>
   <data name="OverTopOfGreen" xml:space="preserve">
-    <value>Über Top grün</value>
+    <value>Over Top of Green</value>
   </data>
   <data name="PartDistribution" xml:space="preserve">
-    <value>Teil-Verteilung</value>
+    <value>Artikelverteilung</value>
   </data>
   <data name="PartType" xml:space="preserve">
-    <value>Typ:</value>
+    <value>Artikeltyp:</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
     <value>Planer-Code:</value>
@@ -184,16 +184,16 @@
     <value>Rot</value>
   </data>
   <data name="StockOutWithDemand" xml:space="preserve">
-    <value>Lager aus mit der Nachfrage</value>
+    <value>Nullbestand mit Bedarf</value>
   </data>
   <data name="SumOfCriticalAndHigh" xml:space="preserve">
-    <value>Summe der kritischen und hohe</value>
+    <value>Summe von kritisch und hoch</value>
   </data>
   <data name="SumOfOTOG" xml:space="preserve">
-    <value>Summe der OTOG</value>
+    <value>Summe von OTOG</value>
   </data>
   <data name="TargetInventory" xml:space="preserve">
-    <value>Ziel-Inventar</value>
+    <value>Zielbestand</value>
   </data>
   <data name="Total" xml:space="preserve">
     <value>Gesamt</value>

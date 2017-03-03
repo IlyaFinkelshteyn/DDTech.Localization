@@ -136,13 +136,13 @@
     <value>Anmelden</value>
   </data>
   <data name="LogOut" xml:space="preserve">
-    <value>Melden Sie sich</value>
+    <value>Abmelden</value>
   </data>
   <data name="Planner" xml:space="preserve">
     <value>Planer</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Suche...</value>
+    <value>Suchen...</value>
   </data>
   <data name="View" xml:space="preserve">
     <value>Ansicht</value>

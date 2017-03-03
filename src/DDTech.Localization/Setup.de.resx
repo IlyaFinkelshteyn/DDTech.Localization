@@ -118,42 +118,42 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Admin_Confirm" xml:space="preserve">
-    <value>Ihr Administrator wurde registriert. Anweisungen, um ein Kennwort festgelegt haben an die angegebene e-Mail-Adresse gesendet.</value>
+    <value>Ihr Administrator wurde registriert. Anweisungen, um ein Kennwort zu erstellen, wurden an die angegebene e-Mail-Adresse gesendet.</value>
   </data>
   <data name="Admin_Message" xml:space="preserve">
-    <value>Sie müssen zuerst Ihre ersten Administrator erstellen. Diese Benutzer werden in der Lage, andere Benutzer zu verwalten.</value>
+    <value>Sie müssen zuerst Ihre ersten Administrator erstellen. Diese Benutzer kann dann andere Benutzer verwalten.</value>
   </data>
   <data name="Admin_Title" xml:space="preserve">
     <value>Administrator</value>
   </data>
   <data name="Done_Action_Home" xml:space="preserve">
-    <value>Gehen Sie zur Startseite</value>
+    <value>Gehe zur Startseite</value>
   </data>
   <data name="Done_Action_Users" xml:space="preserve">
-    <value>Zusätzliche Benutzer erstellen</value>
+    <value>Zusätzliche Benutzer anlegen</value>
   </data>
   <data name="Done_Message" xml:space="preserve">
-    <value>Einrichtung Ihrer RPlus Instance ist abgeschlossen!</value>
+    <value>Setup Ihrer Rplus-Instanz ist abgeschlossen!</value>
   </data>
   <data name="Done_Title" xml:space="preserve">
-    <value>Komplette Einrichtung</value>
+    <value>Setup abgeschlossen</value>
   </data>
   <data name="Index_Message" xml:space="preserve">
-    <value>Die Instanz von RPlus ist fast fertig für Sie zu nutzen. Wir müssen nur ein paar Bits an Informationen zu sammeln, bevor Sie fortfahren.</value>
+    <value>Ihre Instanz von RPlus ist fast bereit. Wir müssen nur einige Informationen sammeln, bevor Sie fortfahren.</value>
   </data>
   <data name="Index_Title" xml:space="preserve">
     <value>Ersteinrichtung</value>
   </data>
   <data name="License_Message" xml:space="preserve">
-    <value>Diese Instanz von RPlus erfordert eine gültige Lizenz. Bitte laden Sie ein, weiter.</value>
+    <value>Diese Instanz von RPlus erfordert eine gültige Lizenz. Bitte laden Sie eine um weiterzuarbeiten.</value>
   </data>
   <data name="License_Title" xml:space="preserve">
     <value>Lizenz</value>
   </data>
   <data name="Next" xml:space="preserve">
-    <value>Nächste</value>
+    <value>Weiter</value>
   </data>
   <data name="Previous" xml:space="preserve">
-    <value>Vorherigen</value>
+    <value>Vorherig</value>
   </data>
 </root>

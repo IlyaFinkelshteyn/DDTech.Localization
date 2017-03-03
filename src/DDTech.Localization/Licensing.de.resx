@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CustomerName" xml:space="preserve">
-    <value>Name des Kunden</value>
+    <value>Kundenname</value>
   </data>
   <data name="Email" xml:space="preserve">
     <value>E-Mail</value>
@@ -145,18 +145,18 @@
     <value>Ihr R+ Abonnement ist gültig bis</value>
   </data>
   <data name="NewLicenseUploaded" xml:space="preserve">
-    <value>Neue R+ Lizenz erfolgreich hochgeladen</value>
+    <value>Neue R+ Lizenz erfolgreich geladen</value>
   </data>
   <data name="NoModulesPurchased" xml:space="preserve">
-    <value>Keine zusätzlichen Module gekauft</value>
+    <value>Keine zusätzlichen Module erworben</value>
   </data>
   <data name="OnlyLICFiles" xml:space="preserve">
-    <value>Nur .lic Dateien können hochgeladen werden</value>
+    <value>Nur Dateien vom Typ .lic können hochgeladen werden</value>
   </data>
   <data name="PurchasedModules" xml:space="preserve">
-    <value>Gekaufte Module</value>
+    <value>Erworbene Module</value>
   </data>
   <data name="UploadNewLicense" xml:space="preserve">
-    <value>Hochladen von neuen R+ Lizenz</value>
+    <value>Neue R+ Lizenz laden</value>
   </data>
 </root>

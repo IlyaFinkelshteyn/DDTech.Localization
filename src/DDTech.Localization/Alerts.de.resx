@@ -121,16 +121,16 @@
     <value>Hinzufügen einer Notiz</value>
   </data>
   <data name="AddAReminder" xml:space="preserve">
-    <value>Hinzufügen einer Erinnerung</value>
+    <value>Erinnerung hinzufügen</value>
   </data>
   <data name="AdjustmentFactor" xml:space="preserve">
-    <value>Korrekturfaktor</value>
+    <value>Anpassungsfaktor</value>
   </data>
   <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
-    <value>Ansicht in Legacy-Warnungen</value>
+    <value>Als Legacy-Warnung anzeigen</value>
   </data>
   <data name="AlertSeverity_Critical" xml:space="preserve">
-    <value>Kritischen</value>
+    <value>Kritisch</value>
   </data>
   <data name="AlertSeverity_High" xml:space="preserve">
     <value>Hoch</value>
@@ -154,10 +154,10 @@
     <value>Alle Aktivitäten</value>
   </data>
   <data name="AvailableStock" xml:space="preserve">
-    <value>Lieferbar</value>
+    <value>Verfübarer Bestand</value>
   </data>
   <data name="AvgDailyUsage" xml:space="preserve">
-    <value>AVG tägliche Verwendung</value>
+    <value>Durchschnittlicher Tagesverbrauch</value>
   </data>
   <data name="Buy" xml:space="preserve">
     <value>Kaufen</value>
@@ -166,25 +166,25 @@
     <value>Abbrechen</value>
   </data>
   <data name="ClickToViewReminders" xml:space="preserve">
-    <value>Klicken zur Ansicht der Erinnerungen</value>
+    <value>Klicken, um Erinnerungen anzuzeigen</value>
   </data>
   <data name="Committed" xml:space="preserve">
-    <value>Verpflichtet</value>
+    <value>Festgelegt</value>
   </data>
   <data name="CurrentInventory" xml:space="preserve">
-    <value>Aktuellen Lagerbestand</value>
+    <value>Aktueller Lagerbestand</value>
   </data>
   <data name="CurrentInventoryAll" xml:space="preserve">
-    <value>Aktuelle Lager - alle</value>
+    <value>Aktueller Lagerbestand - alle</value>
   </data>
   <data name="CurrentInventoryCritical" xml:space="preserve">
     <value>Aktuellen Lagerbestand - kritische</value>
   </data>
   <data name="CurrentInventoryHigh" xml:space="preserve">
-    <value>Aktuellen Lagerbestand - High</value>
+    <value>Aktuellen Lagerbestand - hohe</value>
   </data>
   <data name="CurrentInventoryMedium" xml:space="preserve">
-    <value>Aktuellen Lagerbestand - Medium</value>
+    <value>Aktuellen Lagerbestand - mittlere</value>
   </data>
   <data name="Customer" xml:space="preserve">
     <value>Kunde</value>
@@ -196,16 +196,16 @@
     <value>Datum</value>
   </data>
   <data name="DaysEarly" xml:space="preserve">
-    <value> früh Tag(en)</value>
+    <value>Tag(e) zu früh</value>
   </data>
   <data name="DaysLate" xml:space="preserve">
-    <value> spät Tag(en)</value>
+    <value>Tag(e) zu spät</value>
   </data>
   <data name="Demand" xml:space="preserve">
-    <value>Nachfrage</value>
+    <value>Bedarf</value>
   </data>
   <data name="DemandAllocations" xml:space="preserve">
-    <value>Nachfrage-Zuweisungen</value>
+    <value>Bedarfszuweisungen</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Beschreibung</value>
@@ -217,16 +217,16 @@
     <value>Exportiert</value>
   </data>
   <data name="FollowUp" xml:space="preserve">
-    <value>Zur Nachverfolgung</value>
+    <value>Nachverfolgung</value>
   </data>
   <data name="Green" xml:space="preserve">
     <value>Green</value>
   </data>
   <data name="Inventory" xml:space="preserve">
-    <value>Inventar</value>
+    <value>Bestand</value>
   </data>
   <data name="IssuedInventory" xml:space="preserve">
-    <value>Ausgestellte Warenbestand</value>
+    <value>Ausgegebener Bestand</value>
   </data>
   <data name="Late" xml:space="preserve">
     <value>Spät</value>
@@ -247,82 +247,82 @@
     <value>LTM-Zusammenfassung - alle</value>
   </data>
   <data name="LTMSummaryHigh" xml:space="preserve">
-    <value>LTM-Zusammenfassung - High</value>
+    <value>LTM-Zusammenfassung - hohe</value>
   </data>
   <data name="LTMSummaryLow" xml:space="preserve">
-    <value>LTM-Zusammenfassung - Low</value>
+    <value>LTM-Zusammenfassung - niedrige</value>
   </data>
   <data name="LTMSummaryMedium" xml:space="preserve">
-    <value>LTM-Zusammenfassung - Medium</value>
+    <value>LTM-Zusammenfassung - mittlere</value>
   </data>
   <data name="Make" xml:space="preserve">
-    <value>Machen</value>
+    <value>Fertigen</value>
   </data>
   <data name="MaterialSynchronizationAlert" xml:space="preserve">
-    <value>Materiell Synchronisierung Warnung</value>
+    <value>Materialsynchronisierungswarnung</value>
   </data>
   <data name="MaterialType" xml:space="preserve">
     <value>Materialart</value>
   </data>
   <data name="MSAAll" xml:space="preserve">
-    <value>MSA - alle</value>
+    <value>Materialsynchronisierungswarnung - alle</value>
   </data>
   <data name="MSACritical" xml:space="preserve">
-    <value>MSA - kritische</value>
+    <value>Materialsynchronisierungswarnung - kritische</value>
   </data>
   <data name="MSAHigh" xml:space="preserve">
-    <value>MSA - High</value>
+    <value>Materialsynchronisierungswarnung - hohe</value>
   </data>
   <data name="NoAlertSelected" xml:space="preserve">
     <value>Bitte wählen Sie eine Warnung</value>
   </data>
   <data name="NoExecutionAlerts" xml:space="preserve">
-    <value>Keine Ausführung Warnungen</value>
+    <value>Keine Ausführungswarnungen</value>
   </data>
   <data name="None" xml:space="preserve">
     <value>Keine</value>
   </data>
   <data name="Note" xml:space="preserve">
-    <value>Hinweis</value>
+    <value>Notiz</value>
   </data>
   <data name="NotImplementedYet" xml:space="preserve">
-    <value>Noch implementiert nicht</value>
+    <value>Noch nicht implementiert </value>
   </data>
   <data name="OnHandInventory" xml:space="preserve">
-    <value>Auf Lagerbestand</value>
+    <value>Lagerbestand</value>
   </data>
   <data name="OpenPO" xml:space="preserve">
-    <value>Offene PO</value>
+    <value>Offene Lieferantenbestellung</value>
   </data>
   <data name="OpenSupply" xml:space="preserve">
-    <value>Offene Versorgung</value>
+    <value>Offene Versorgungsaufträge</value>
   </data>
   <data name="OpenWO" xml:space="preserve">
-    <value>Offene WO</value>
+    <value>Offene Arbeitsaufträge</value>
   </data>
   <data name="OrderDate" xml:space="preserve">
-    <value>Bestelldatum</value>
+    <value>Auftragsdatum</value>
   </data>
   <data name="OrderNumber" xml:space="preserve">
-    <value>Bestell-Nr.</value>
+    <value>Auftragsnr.</value>
   </data>
   <data name="orders" xml:space="preserve">
-    <value>Bestellung(en)</value>
+    <value>Aufträge</value>
   </data>
   <data name="OrderSpikePriority" xml:space="preserve">
-    <value>Bestellung Spike Priorität</value>
+    <value>Bestellspitzenpriorität</value>
   </data>
   <data name="Part" xml:space="preserve">
-    <value>Teil</value>
+    <value>Artikel</value>
   </data>
   <data name="PartID" xml:space="preserve">
-    <value>Teil-ID</value>
+    <value>Artikel-ID</value>
   </data>
   <data name="PartType" xml:space="preserve">
-    <value>Teiletyp</value>
+    <value>Artikeltyp</value>
   </data>
   <data name="Pending" xml:space="preserve">
-    <value>Ausstehende</value>
+    <value>Ausstehend</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
     <value>Planer-Code</value>
@@ -331,22 +331,22 @@
     <value>Profil</value>
   </data>
   <data name="ProjectedStockOut" xml:space="preserve">
-    <value>Projizierte Lager heraus</value>
+    <value>Projizierter Nullbestand</value>
   </data>
   <data name="ProjectedStockOutAll" xml:space="preserve">
-    <value>Projiziert hat Out - alle</value>
+    <value>Projizierter Nullbestand - alle</value>
   </data>
   <data name="ProjectedStockOutCritical" xml:space="preserve">
-    <value>Projiziert hat Out - kritische</value>
+    <value>Projizierter Nullbestand - kritisch</value>
   </data>
   <data name="ProjectedStockOutHigh" xml:space="preserve">
-    <value>Projiziert hat Out - hoch</value>
+    <value>Projizierter Nullbestand - hoch</value>
   </data>
   <data name="ProjectedStockOutMedium" xml:space="preserve">
-    <value>Projiziert hat Out - Medium</value>
+    <value>Projizierter Nullbestand - mittel</value>
   </data>
   <data name="PromiseDate" xml:space="preserve">
-    <value>Versprechen Datum</value>
+    <value>Zugesagter Termin</value>
   </data>
   <data name="Properties" xml:space="preserve">
     <value>Eigenschaften</value>
@@ -367,67 +367,67 @@
     <value>Rev</value>
   </data>
   <data name="RPlusAlert" xml:space="preserve">
-    <value>R+ Alarm</value>
+    <value>R+ Warnung</value>
   </data>
   <data name="rule_AppliesTo" xml:space="preserve">
     <value>Gilt für</value>
   </data>
   <data name="rule_CurrentInventory_Critical1" xml:space="preserve">
-    <value>Hat Strom oder überfällig Nachfrage, aber keine aktuellen Lagerbestand</value>
+    <value>Hat aktuellen oder überfälligen Bedarf, aber keinen Lagerbestand</value>
   </data>
   <data name="rule_CurrentInventory_High1" xml:space="preserve">
-    <value>Aktuellen Lagerbestand übersteigt die Nachfrage</value>
+    <value>Bedarf übersteigt aktuellen Lagerbestand</value>
   </data>
   <data name="rule_CurrentInventory_High2" xml:space="preserve">
-    <value>Keine aktuellen Bestand, und es gibt keine Nachfrage</value>
+    <value>Kein Lagerbestand, und es gibt keinen Bedarf</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>Bestellen Sie aufgrund in weniger als 11 % der R + führen Zeit ankommen</value>
+    <value>Auftrag soll in weniger als 11 % der R+ Durchlaufzeit ankommen.</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>Bestellen Sie wegen zwischen 33 % und 22 % der R + führen Zeit anreisen möchten.</value>
+    <value>Auftrag soll zwischen 33% und 22% der R+ Durchlaufzeit ankommen.</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>Bestellen Sie wegen zwischen 22 % und 11 % der R + führen Zeit anreisen möchten.</value>
+    <value>Auftrag soll zwischen 11% und 11% der R+ Durchlaufzeit ankommen.</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
-    <value>Hat offene Angebot und Nachfrage innerhalb von Vorbereitungs-und Anlaufzeit</value>
+    <value>Hat offene Bestellungen und Bedarf innerhalb der Durchlaufzeit</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
-    <value>Koh (aktuell auf Lagerbestand) &amp;gt; = 0 und laufenden Saldo ist &amp;lt; = 0 jederzeit während der Zeithorizont führen</value>
+    <value />
   </data>
   <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
-    <value>Hat offene Angebot/Nachfrage innerhalb von Vorbereitungs-und Anlaufzeit</value>
+    <value>Hat offene Aufträge/Bedarfe innerhalb der Durchlaufzeit</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
-    <value>Koh (aktuell auf Lagerbestand) &amp;gt; = 0 und laufenden Saldo &amp;gt; 0 und &amp;lt; = % ToR jederzeit während der Zeithorizont führen</value>
+    <value />
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
-    <value>Hat negative laufenden Saldo in der Vergangenheit</value>
+    <value>Hat negativen laufenden Saldo in der Vergangenheit</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical2" xml:space="preserve">
-    <value>Hat negative laufenden Saldo jederzeit während der Zeithorizont führen</value>
+    <value>Hat negativen laufenden Saldo während des gesamten Durchlaufzeithorizonts</value>
   </data>
   <data name="rule_NotIncludedIn" xml:space="preserve">
     <value>Nicht enthalten in</value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
-    <value>EDU basierte laufenden Saldo aus einer R + Beschaffungszeit ist kleiner als Null</value>
+    <value>Der EDU-basierte laufende Saldo innerhalb einer R+ Durchlaufzeit ist kleiner als Null</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
-    <value>Aktueller Lagerbestand ist weniger als % der roten Zone definiert durch Inventar Warnstufe in Puffer Profil (oder Systemvorschlag für Warnstufe)</value>
+    <value>Aktueller Lagerbestand ist kleiner oder gleich als % der roten Zone wie durch die Lagerbestandswarnungsschwelle im Pufferprofil (oder Systemvorschlag für Warnschwelle) defniniert.</value>
   </data>
   <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
-    <value>EDU Basis läuft, R + führen einmal ausgleichen kleiner oder gleich % der roten Zone definiert durch Inventar Warnstufe in Puffer Profil (oder Systemvorschlag für Warnstufe)</value>
+    <value>EDU-basierter laufender Saldo innerhalb einer R+ Druchlaufzeit ist kleiner oder gleich als % der roten Zone wie durch die Lagerbestandswarnungsschwelle im Pufferprofil (oder Systemvorschlag für Warnschwelle) defniniert.</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
-    <value>Aktueller Lagerbestand ist kleiner als oder gleich Top rot (ToR)</value>
+    <value>Aktueller Lagerbestand ist kleiner als oder gleich der Spitze der Roten Zone (ToR)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
-    <value>EDU basierte laufenden Saldo, um ein R + Beschaffungszeit kleiner als oder gleich Top rot (ToR ist)</value>
+    <value>Der EDU-basierte laufende Saldo innerhalb einer R+ Durchlaufzeit ist kleiner oder gleich der Spitze der Roten Zone (ToR)</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
-    <value>Laufenden Kontostands</value>
+    <value>Laufender Saldo</value>
   </data>
   <data name="Save" xml:space="preserve">
     <value>Speichern</value>
@@ -436,7 +436,7 @@
     <value>-Wählen Sie Alarm Typ-</value>
   </data>
   <data name="SODemand" xml:space="preserve">
-    <value>Also Nachfrage</value>
+    <value>Kundenbedarfe</value>
   </data>
   <data name="Source" xml:space="preserve">
     <value>Quelle</value>
@@ -451,37 +451,37 @@
     <value>Status</value>
   </data>
   <data name="StockOut" xml:space="preserve">
-    <value>LAGER AUS</value>
+    <value>NULLBESTAND</value>
   </data>
   <data name="StockOutWithDemand" xml:space="preserve">
-    <value>LAGER AUS MIT DER NACHFRAGE</value>
+    <value>NULLBESTAND MIT BEDARF</value>
   </data>
   <data name="SupplyOrderNote" xml:space="preserve">
-    <value>Versorgung Bestellhinweis</value>
+    <value>Notiz zu Versorgungsauftrag</value>
   </data>
   <data name="SupplyOrders" xml:space="preserve">
-    <value>Beschaffungsaufträgen</value>
+    <value>Versorgungsaufträge</value>
   </data>
   <data name="TopOfGreen" xml:space="preserve">
-    <value>Oberen Rand grün</value>
+    <value>Spitze der Grünen Zone</value>
   </data>
   <data name="TopOfRed" xml:space="preserve">
-    <value>Top rot</value>
+    <value>Spitze der Roten Zone</value>
   </data>
   <data name="TopOfYellow" xml:space="preserve">
-    <value>Top gelb</value>
+    <value>Spitze der Gelben Zone</value>
   </data>
   <data name="Type" xml:space="preserve">
-    <value>Typ</value>
+    <value>Art</value>
   </data>
   <data name="Vendor" xml:space="preserve">
-    <value>Hersteller</value>
+    <value>Lieferant</value>
   </data>
   <data name="VendorID" xml:space="preserve">
-    <value>Hersteller-ID</value>
+    <value>Lieferanten-ID</value>
   </data>
   <data name="WODemand" xml:space="preserve">
-    <value>WO Nachfrage</value>
+    <value>Arbeitsauftragsbedarf</value>
   </data>
   <data name="Yellow" xml:space="preserve">
     <value>Gelb</value>

@@ -124,22 +124,22 @@
     <value>Abbrechen</value>
   </data>
   <data name="CurrentInventory" xml:space="preserve">
-    <value>Aktuellen Lagerbestand</value>
+    <value>Aktueller Lagerbestand</value>
   </data>
   <data name="Display" xml:space="preserve">
     <value>Anzeige:</value>
   </data>
   <data name="ExecutionAlerts" xml:space="preserve">
-    <value>Ausführung-Warnungen</value>
+    <value>Ausführungswarnungen</value>
   </data>
   <data name="LeadTimeManaged" xml:space="preserve">
-    <value>Verwaltet die Lieferzeit</value>
+    <value>Durchlaufzeitverwaltet</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Lage:</value>
+    <value>Standort:</value>
   </data>
   <data name="MaterialSynchronization" xml:space="preserve">
-    <value>Materiell Synchronisation</value>
+    <value>Materialsynchronisation</value>
   </data>
   <data name="NonBufferedPriorities" xml:space="preserve">
     <value>Ungepufferte Prioritäten</value>
@@ -148,10 +148,10 @@
     <value>keine</value>
   </data>
   <data name="NoReminders" xml:space="preserve">
-    <value>Keine Reminder(s)</value>
+    <value>Keine Erinnerung(en)</value>
   </data>
   <data name="Outstanding" xml:space="preserve">
-    <value>Hervorragende</value>
+    <value>Offen</value>
   </data>
   <data name="Overdue" xml:space="preserve">
     <value>Überfällig</value>
@@ -160,16 +160,16 @@
     <value>Planer-Code:</value>
   </data>
   <data name="PlanningPriorities" xml:space="preserve">
-    <value>Planung Prioritäten</value>
+    <value>Planungsprioritäten</value>
   </data>
   <data name="ProjectedStockOut" xml:space="preserve">
-    <value>Projizierte Lager heraus</value>
+    <value>Projizierter Nullbestand</value>
   </data>
   <data name="Reminders" xml:space="preserve">
-    <value>Reminder(s)</value>
+    <value>Erinnerung(en)</value>
   </data>
   <data name="RPlusDashboard" xml:space="preserve">
-    <value>Nachschub + Dashboard</value>
+    <value>Replenishment+ Dashboard</value>
   </data>
   <data name="Save" xml:space="preserve">
     <value>Speichern</value>

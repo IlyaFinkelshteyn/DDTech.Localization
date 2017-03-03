@@ -118,45 +118,45 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DuplicateLinkCode" xml:space="preserve">
-    <value>Doppelte LinkCode begegnet</value>
+    <value>Doppelten LinkCode gefunden</value>
   </data>
   <data name="DuplicateRecord" xml:space="preserve">
     <value>Datensatz duplizieren</value>
   </data>
   <data name="ForecastInvalidDayOfWeek" xml:space="preserve">
-    <value>Wert muss am gleichen Tag der Woche von anderen Datensätzen fallen.</value>
+    <value>Wert muss auf den gleichen Wochentag wie andere Datensätze fallen.</value>
   </data>
   <data name="GreaterThanOrEqualToFormat" xml:space="preserve">
-    <value>"{PropertyName}" muss größer als oder gleich "{PropertyValue}"</value>
+    <value>"{PropertyName}" muss größer als oder gleich "{PropertyValue}" sein</value>
   </data>
   <data name="InvalidBufferProfile" xml:space="preserve">
-    <value>Wert muss ein gültiges Puffer-Profil</value>
+    <value>Wert muss ein gültiges Pufferprofil sein</value>
   </data>
   <data name="InvalidCdaf" xml:space="preserve">
-    <value>Wert muss gültige Zyklus Tag Anpassung Faktoren (CDAF) enthalten.</value>
+    <value>Wert muss gültige Auftragszyklus-Anpassungsfaktor (CDAF) enthalten.</value>
   </data>
   <data name="InvalidCdafDateRange" xml:space="preserve">
-    <value>Datumsbereich Zyklus Tag Anpassung Faktor (CDAF) muß kleiner als '{PropertyValue}' Tage</value>
+    <value>Der Bereich des Zyklustaganpassungsfaktors (CDAF) muß kleiner sein als '{PropertyValue}' Tage</value>
   </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
-    <value>Wert muss eine gültige InventoryMethod</value>
+    <value>Wert muss eine gültige Bestandsmethode sein</value>
   </data>
   <data name="InvalidPaf" xml:space="preserve">
-    <value>Wert muss eine gültige geplant Anpassung Faktor (PAF)</value>
+    <value>Wert muss eine gültige geplanter Anpassungsfaktor (PAF) sein</value>
   </data>
   <data name="LessThanOrEqualToFormat" xml:space="preserve">
-    <value>"{PropertyName}" muss kleiner als oder gleich "{PropertyValue}"</value>
+    <value>"{PropertyName}" muss kleiner als oder gleich "{PropertyValue}" sein</value>
   </data>
   <data name="LessThanOrEqualToWithDefaultValueFormat" xml:space="preserve">
-    <value>"{PropertyName}" muss kleiner als oder gleich "{BadValue}" und wurde auf "{DefaultValue}" zurückgesetzt</value>
+    <value>"{PropertyName}" muss kleiner als oder gleich "{BadValue}" sein und wurde auf "{DefaultValue}" zurückgesetzt</value>
   </data>
   <data name="MustBeEvenlyDivisbleWithDefaultValueFormat" xml:space="preserve">
-    <value>"{PropertyName}" muss durch "{BadValue}" teilbar und wurde auf "{DefaultValue}" zurückgesetzt</value>
+    <value>"{PropertyName}" muss durch "{BadValue}" teilbar sein und wurde auf "{DefaultValue}" zurückgesetzt</value>
   </data>
   <data name="notnullorwhitespace_error" xml:space="preserve">
-    <value>'{PropertyName}' sollte nicht null sein oder Leerzeichen enthalten.</value>
+    <value>{PropertyName}' sollte nicht null sein oder Leerzeichen enthalten.</value>
   </data>
   <data name="OutOfRangeWithDefaultValueFormat" xml:space="preserve">
-    <value>"{PropertyName}" aus der Reihe und wurde auf "{DefaultValue}" zurückgesetzt</value>
+    <value>"{PropertyName}" ausserhalb des zulässigen Bereichs und wurde auf "{DefaultValue}" zurückgesetzt</value>
   </data>
 </root>
