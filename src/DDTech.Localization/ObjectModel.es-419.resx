@@ -195,6 +195,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Date" xml:space="preserve">
     <value>Fecha</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_DemandOrderType" xml:space="preserve">
+    <value>Tipo</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_DueDate" xml:space="preserve">
     <value>Fecha de vencimiento</value>
   </data>
@@ -248,6 +251,12 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Status" xml:space="preserve">
     <value>Estado</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_SupplyOrderStatus" xml:space="preserve">
+    <value>Estado</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_SupplyOrderType" xml:space="preserve">
+    <value>Tipo</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_ThirdParty" xml:space="preserve">
     <value>Proveedor</value>
