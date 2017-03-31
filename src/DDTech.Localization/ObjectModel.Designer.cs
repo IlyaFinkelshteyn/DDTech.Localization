@@ -295,6 +295,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Type.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartActivity_DemandOrderType {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartActivity_DemandOrderType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Due Date.
         /// </summary>
         public static string DDTech_RPlus_DTO_Engine_PartActivity_DueDate {
@@ -408,6 +417,24 @@ namespace DDTech.Localization {
         public static string DDTech_RPlus_DTO_Engine_PartActivity_StartDate {
             get {
                 return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartActivity_StartDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Status.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartActivity_SupplyOrderStatus {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartActivity_SupplyOrderStatus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Type.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartActivity_SupplyOrderType {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartActivity_SupplyOrderType", resourceCulture);
             }
         }
         
