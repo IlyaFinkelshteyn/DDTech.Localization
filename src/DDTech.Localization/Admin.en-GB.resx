@@ -195,6 +195,9 @@
   <data name="Settings_ForecastedDemandLookAhead" xml:space="preserve">
     <value>Weeks Of Forecasted Demand</value>
   </data>
+  <data name="Settings_Global_AllowedImportFields" xml:space="preserve">
+    <value>Allowed Import Fields</value>
+  </data>
   <data name="Settings_Global_BuffersAndOrderProcessing" xml:space="preserve">
     <value>Buffers and Order Processing</value>
   </data>
@@ -290,6 +293,9 @@
   </data>
   <data name="Settings_Nav_ApiTokens" xml:space="preserve">
     <value>API Tokens</value>
+  </data>
+  <data name="Settings_Nav_DataManagement" xml:space="preserve">
+    <value>Data Management</value>
   </data>
   <data name="Settings_Nav_DateTime" xml:space="preserve">
     <value>Date/Time Format</value>

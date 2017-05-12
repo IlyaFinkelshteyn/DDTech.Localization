@@ -195,6 +195,9 @@
   <data name="Settings_ForecastedDemandLookAhead" xml:space="preserve">
     <value>Semanas de previsão de demanda</value>
   </data>
+  <data name="Settings_Global_AllowedImportFields" xml:space="preserve">
+    <value>Permitida a importação de campos</value>
+  </data>
   <data name="Settings_Global_BuffersAndOrderProcessing" xml:space="preserve">
     <value>Buffers e processamento de pedidos</value>
   </data>
@@ -290,6 +293,9 @@
   </data>
   <data name="Settings_Nav_ApiTokens" xml:space="preserve">
     <value>Tokens de API</value>
+  </data>
+  <data name="Settings_Nav_DataManagement" xml:space="preserve">
+    <value>Gerenciamento de dados</value>
   </data>
   <data name="Settings_Nav_DateTime" xml:space="preserve">
     <value>Formato de data/hora</value>

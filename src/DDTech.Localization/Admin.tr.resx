@@ -195,6 +195,9 @@
   <data name="Settings_ForecastedDemandLookAhead" xml:space="preserve">
     <value>Hafta talep tahmini</value>
   </data>
+  <data name="Settings_Global_AllowedImportFields" xml:space="preserve">
+    <value>İçe aktarma alanlarını izin</value>
+  </data>
   <data name="Settings_Global_BuffersAndOrderProcessing" xml:space="preserve">
     <value>Arabellekleri ve sipariş işleme</value>
   </data>
@@ -290,6 +293,9 @@
   </data>
   <data name="Settings_Nav_ApiTokens" xml:space="preserve">
     <value>API belirteçleri</value>
+  </data>
+  <data name="Settings_Nav_DataManagement" xml:space="preserve">
+    <value>Veri yönetimi</value>
   </data>
   <data name="Settings_Nav_DateTime" xml:space="preserve">
     <value>Tarih/Saat biçimi</value>

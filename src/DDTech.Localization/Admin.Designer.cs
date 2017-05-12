@@ -295,6 +295,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Allowed Import Fields.
+        /// </summary>
+        public static string Settings_Global_AllowedImportFields {
+            get {
+                return ResourceManager.GetString("Settings_Global_AllowedImportFields", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Buffers and Order Processing.
         /// </summary>
         public static string Settings_Global_BuffersAndOrderProcessing {
@@ -579,6 +588,15 @@ namespace DDTech.Localization {
         public static string Settings_Nav_ApiTokens {
             get {
                 return ResourceManager.GetString("Settings_Nav_ApiTokens", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Data Management.
+        /// </summary>
+        public static string Settings_Nav_DataManagement {
+            get {
+                return ResourceManager.GetString("Settings_Nav_DataManagement", resourceCulture);
             }
         }
         
