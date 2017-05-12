@@ -1213,7 +1213,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Order quantity may be adjusted to satifsy the configured order policy for this part.
+        ///   Looks up a localized string similar to Quantity may be adjusted to satifsy the configured order policy.
         /// </summary>
         public static string Workbench_CustomOrder_AdditionalOrdersToSatisfyPolicy {
             get {
@@ -1249,16 +1249,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Order quantity is larger than the allowed order minimum for this part.
-        /// </summary>
-        public static string Workbench_CustomOrder_QuantityLargerThanOrderMinimum {
-            get {
-                return ResourceManager.GetString("Workbench_CustomOrder_QuantityLargerThanOrderMinimum", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Quanity is larger than the recommended value.
+        ///   Looks up a localized string similar to Quantity is larger than the recommended value.
         /// </summary>
         public static string Workbench_CustomOrder_QuantityLargerThanRecommended {
             get {
@@ -1267,7 +1258,16 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Order quantity is not evenly divisible by the order multiplier for this part.
+        ///   Looks up a localized string similar to Quantity must exceed the order minimum.
+        /// </summary>
+        public static string Workbench_CustomOrder_QuantityMustExceedOrderMinimum {
+            get {
+                return ResourceManager.GetString("Workbench_CustomOrder_QuantityMustExceedOrderMinimum", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Quantity is not evenly divisible by the order multiplier.
         /// </summary>
         public static string Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple {
             get {

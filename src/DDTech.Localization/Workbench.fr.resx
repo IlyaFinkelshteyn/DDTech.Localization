@@ -502,7 +502,7 @@
     <value>Approuver la ou les commande(s)</value>
   </data>
   <data name="Workbench_CustomOrder_AdditionalOrdersToSatisfyPolicy" xml:space="preserve">
-    <value>Quantité d’ordre peut être ajusté pour satifsy la politique de commande configurée pour cette partie</value>
+    <value>Quantité peut être ajusté pour satifsy la politique de commande configurée</value>
   </data>
   <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
     <value>Êtes-vous sûr de vouloir continuer ?</value>
@@ -513,14 +513,14 @@
   <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
     <value>« Veuillez entrer la quantité »</value>
   </data>
-  <data name="Workbench_CustomOrder_QuantityLargerThanOrderMinimum" xml:space="preserve">
-    <value>Quantité d’ordre est plus grande que l’ordonnance autorisée minimale pour cette partie</value>
-  </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
-    <value>La quantité est supérieure à la valeur recommandée</value>
+    <value>Quantité est supérieure à la valeur recommandée</value>
+  </data>
+  <data name="Workbench_CustomOrder_QuantityMustExceedOrderMinimum" xml:space="preserve">
+    <value>Quantité doit dépasser le minimum de commande</value>
   </data>
   <data name="Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple" xml:space="preserve">
-    <value>Quantité d’ordre n’est pas divisible par le multiplicateur de l’ordre pour cette partie</value>
+    <value>Quantité n’est pas divisible par le multiplicateur de l’ordre</value>
   </data>
   <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
     <value>Exporter les données</value>
