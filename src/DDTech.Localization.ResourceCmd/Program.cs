@@ -584,19 +584,18 @@ namespace DDTech.Localization.ResourceCmd
 
         private static void EnsureAuthToken()
         {
-            AdmAccessToken admToken;
-            //Get Client Id and Client Secret from https://datamarket.azure.com/developer/applications/
-            //Refer obtaining AccessToken (http://msdn.microsoft.com/en-us/library/hh454950.aspx) 
-            AdmAuthentication admAuth = new AdmAuthentication("ddtech-localizationhelper-1", "Q3D2Y90emP7XDdJysRTB3A9d8tJDFFiUBHuPr5JGTQk=");
+            // "ddt-localizationhelper" Key from "Cognitive Services" subscription on http://portal.azure.com
+            const string SubscriptionKey = "10a8fcad3e664c0094581325c27daf6f";   
+
             try
             {
-                admToken = admAuth.GetAccessToken();
+                var azureAuthToken = new AzureAuthToken(SubscriptionKey);
 
                 // Create a header with the access_token property of the returned token
-                s_authToken = "Bearer " + admToken.access_token;
+                s_authToken = azureAuthToken.GetAccessToken();
 
                 // Add expiration, minus a reasonable buffer for long requests
-                s_authExpireDate = DateTime.UtcNow.AddSeconds(int.Parse(admToken.expires_in) - 5);
+                s_authExpireDate = DateTime.UtcNow.AddSeconds(7200 - 5);
             }
             catch (WebException e)
             {
