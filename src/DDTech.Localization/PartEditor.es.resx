@@ -151,7 +151,7 @@
     <value>{CDAFDaysCoverage} días</value>
   </data>
   <data name="CycleDayAdjustmentFactorToolTip" xml:space="preserve">
-    <value>Recuerde, sólo la fecha de inicio de la CDAF será tirada hacia adelante por R + plazo para probar para la efectividad.</value>
+    <value>Recuerde, sólo la fecha de inicio del FACD se adelantará por el R+Lead time</value>
   </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Días de Consumo</value>
@@ -160,7 +160,7 @@
     <value>LT Desacoplado</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Descripción</value>
+    <value>Descripción:</value>
   </data>
   <data name="EffectiveDailyUsage" xml:space="preserve">
     <value>Consumo Diario Efectivo</value>
@@ -307,28 +307,28 @@
     <value>Tope de Zona</value>
   </data>
   <data name="UDF1" xml:space="preserve">
-    <value>Def-Usuario 1</value>
+    <value>Campo editable 1</value>
   </data>
   <data name="UDF2" xml:space="preserve">
-    <value>Def-Usuario 2</value>
+    <value>Campo editable 2</value>
   </data>
   <data name="UDF3" xml:space="preserve">
-    <value>Def-Usuario 3</value>
+    <value>Campo editable 3</value>
   </data>
   <data name="UDF4" xml:space="preserve">
-    <value>Def-Usuario 4</value>
+    <value>Campo editable 4</value>
   </data>
   <data name="UDF5" xml:space="preserve">
-    <value>Def-Usuario 5</value>
+    <value>Campo editable 5</value>
   </data>
   <data name="UDF6" xml:space="preserve">
-    <value>Def-Usuario 6</value>
+    <value>Campo editable 6</value>
   </data>
   <data name="UDF7" xml:space="preserve">
-    <value>Def-Usuario 7</value>
+    <value>Campo editable 7</value>
   </data>
   <data name="UDF8" xml:space="preserve">
-    <value>Def-Usuario 8</value>
+    <value>Campo editable 8</value>
   </data>
   <data name="UnitOfMeasure" xml:space="preserve">
     <value>Ud.de Medida</value>

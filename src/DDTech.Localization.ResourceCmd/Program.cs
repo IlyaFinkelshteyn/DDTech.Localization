@@ -234,10 +234,10 @@ namespace DDTech.Localization.ResourceCmd
             var handbackMappings = new Dictionary<string, Dictionary<string, LocalizedString>>();
             using (var textReader = File.OpenText(inputFilePath))
             {
-                CsvConfiguration config = null;
+                CsvConfiguration config = new CsvConfiguration();
                 if (!string.IsNullOrEmpty(options.CsvDelimiter))
                 {
-                    config = new CsvConfiguration() { Delimiter = options.CsvDelimiter };
+                    config.Delimiter = options.CsvDelimiter;
                 }
 
                 var csv = new CsvReader(textReader, config);

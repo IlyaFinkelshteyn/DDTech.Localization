@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AfterDeployment" xml:space="preserve">
-    <value>Despu‚s del envío</value>
+    <value>Después del envío</value>
   </data>
   <data name="AfterDeploymentAvailabeStock" xml:space="preserve">
-    <value>Despu‚s</value>
+    <value>Después</value>
   </data>
   <data name="AfterDeploymentPercentOfTopOfGreen" xml:space="preserve">
-    <value>Despu‚s % de verde</value>
+    <value>Después % de verde</value>
   </data>
   <data name="AvailableToDeploy" xml:space="preserve">
     <value>Disponibles para envío</value>
@@ -202,7 +202,7 @@
     <value>Incluyen la cantidad en curso como retenida</value>
   </data>
   <data name="IssuedInventory" xml:space="preserve">
-    <value>Inventario publicado</value>
+    <value>Inventario en curso</value>
   </data>
   <data name="LookAheadDays" xml:space="preserve">
     <value>Días a futuro</value>
@@ -250,7 +250,7 @@
     <value>Configuración común</value>
   </data>
   <data name="Shortfall" xml:space="preserve">
-    <value>D‚ficit</value>
+    <value>Déficit</value>
   </data>
   <data name="Source" xml:space="preserve">
     <value>Origen</value>

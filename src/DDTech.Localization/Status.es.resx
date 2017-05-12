@@ -163,7 +163,7 @@
     <value>Registro de captura de histórico</value>
   </data>
   <data name="LastUpdated" xml:space="preserve">
-    <value>éltima Actualización</value>
+    <value>Última Actualización</value>
   </data>
   <data name="LocalTimeZoneInfo" xml:space="preserve">
     <value>Información de zona horaria local</value>
@@ -202,28 +202,28 @@
     <value>Aprovisionamiento</value>
   </data>
   <data name="UserDefined1" xml:space="preserve">
-    <value>DefUsuario1</value>
+    <value>Campo editable 1</value>
   </data>
   <data name="UserDefined2" xml:space="preserve">
-    <value>Defusuario2</value>
+    <value>Campo editable 2</value>
   </data>
   <data name="UserDefined3" xml:space="preserve">
-    <value>Defusuario3</value>
+    <value>Campo editable 3</value>
   </data>
   <data name="UserDefined4" xml:space="preserve">
-    <value>Defusuario4</value>
+    <value>Campo editable 4</value>
   </data>
   <data name="UserDefined5" xml:space="preserve">
-    <value>Defusuario5</value>
+    <value>Campo editable 5</value>
   </data>
   <data name="UserDefined6" xml:space="preserve">
-    <value>Defusuario6</value>
+    <value>Campo editable 6</value>
   </data>
   <data name="UserDefined7" xml:space="preserve">
-    <value>Defusuario7</value>
+    <value>Campo editable 7</value>
   </data>
   <data name="UserDefined8" xml:space="preserve">
-    <value>Defusuario8</value>
+    <value>Campo editable 8</value>
   </data>
   <data name="ViewAdditionalStatusDetails" xml:space="preserve">
     <value>Ver detalles adicionales</value>

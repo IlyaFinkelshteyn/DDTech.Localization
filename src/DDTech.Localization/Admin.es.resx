@@ -154,7 +154,7 @@
     <value>Horizonte de búsqueda de Pedidos Pico - General</value>
   </data>
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow" xml:space="preserve">
-    <value>Ignorar demanda de NBs más alláá del 'Horizonte de Demanda' establecido.</value>
+    <value>Ignorar demanda de NBs más allá del 'Horizonte de Demanda' establecido.</value>
   </data>
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
     <value>Importados demanda de piezas NB que van más allá de la (parte tiempo de entrega + la demanda ventana) no se podrá importar en R +. Esta configuración no tendrá efecto si la planificación de requisitos de Material está habilitada.</value>
@@ -163,13 +163,13 @@
     <value>Separador Columnas CSV</value>
   </data>
   <data name="Settings_DemandOrderBufferedProcessingWindowSalesOrder" xml:space="preserve">
-    <value>Ventana de procesamiento tamponada (SO)</value>
+    <value>Ventana de procesamiento (SO)</value>
   </data>
   <data name="Settings_DemandOrderBufferedProcessingWindowWorkOrder" xml:space="preserve">
-    <value>Ventana de procesamiento tamponada (WO)</value>
+    <value>Ventana de procesamiento (WO)</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindow" xml:space="preserve">
-    <value>Ventana de procesamiento de orden de demanda para piezas no tamponado</value>
+    <value>Ventana de procesamiento de orden de demanda para piezas NB</value>
   </data>
   <data name="Settings_DemandOrderNBProcessingWindowSalesOrder" xml:space="preserve">
     <value>Non-Buffered (NB) procesamiento de ventana (SO)</value>
@@ -244,7 +244,7 @@
     <value>Incluir Pedido Pico en Cálculos </value>
   </data>
   <data name="Settings_IsHighAccuracyPSO" xml:space="preserve">
-    <value>Incluyen fuente abierta en la acción proyectada alerta</value>
+    <value>Incluir las Órdenes de aprovisonamiento abiertas</value>
   </data>
   <data name="Settings_LocalTimeZone" xml:space="preserve">
     <value>Zona Horaria Local</value>
@@ -370,10 +370,10 @@
     <value>Seleccione la precisión</value>
   </data>
   <data name="Settings_User_LoginCanRemeber" xml:space="preserve">
-    <value>¿Permiten a los usuarios utilizar "Recuerda Me"?</value>
+    <value>¿Permitir a los usuarios utilizar "Recuerda Me"?</value>
   </data>
   <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
-    <value>nombre de usuario sólo</value>
+    <value>Nombre de usuario sólo</value>
   </data>
   <data name="Settings_User_LogoutAfter" xml:space="preserve">
     <value>¿Usuarios de sesión automáticamente después de un período de inactividad? (horas)</value>
