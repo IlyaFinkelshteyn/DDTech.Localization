@@ -493,7 +493,7 @@
     <value>Jóváhagyja a rendelés (ek)</value>
   </data>
   <data name="Workbench_CustomOrder_AdditionalOrdersToSatisfyPolicy" xml:space="preserve">
-    <value>Rendelési mennyiség lehet beállítani, hogy satifsy ezt a részét a konfigurált rendelési politika</value>
+    <value>Lehet beállítani, hogy satifsy a konfigurált rendelési politika</value>
   </data>
   <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
     <value>Biztosan folytatni kívánja?</value>
@@ -504,14 +504,14 @@
   <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
     <value>"Legyen szíves belép a rendelési mennyiség"</value>
   </data>
-  <data name="Workbench_CustomOrder_QuantityLargerThanOrderMinimum" xml:space="preserve">
-    <value>Rendelési mennyiség nagyobb, mint a megengedett, hogy legalább az ebben a részben az</value>
-  </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
     <value>Mennyiség nagyobb, mint az ajánlott érték</value>
   </data>
+  <data name="Workbench_CustomOrder_QuantityMustExceedOrderMinimum" xml:space="preserve">
+    <value>Haladhatja meg a rendelés minimális</value>
+  </data>
   <data name="Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple" xml:space="preserve">
-    <value>Rendelési mennyiség nincs egyenletesen osztható-e a rendelés szorzó az ebben a részben</value>
+    <value>Mennyiség, nem egyenletesen osztható-e a rendelés szorzó</value>
   </data>
   <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
     <value>Adatok exportálása</value>

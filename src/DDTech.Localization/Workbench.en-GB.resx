@@ -510,6 +510,9 @@
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
     <value>Quanity is larger than the recommended value</value>
   </data>
+  <data name="Workbench_CustomOrder_QuantityMustExceedOrderMinimum" xml:space="preserve">
+    <value>Quantity must exceed the order minimum</value>
+  </data>
   <data name="Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple" xml:space="preserve">
     <value>Order quantity is not evenly divisible by the order multiplier for this part</value>
   </data>
