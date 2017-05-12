@@ -175,7 +175,7 @@
     <value>Distribución de Artículos</value>
   </data>
   <data name="PartType" xml:space="preserve">
-    <value>Tipo µrticulo:</value>
+    <value>Tipo árticulo:</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
     <value>Cód. Planner:</value>
@@ -187,7 +187,7 @@
     <value>Rotura con Demanda</value>
   </data>
   <data name="SumOfCriticalAndHigh" xml:space="preserve">
-    <value>Total de Criticos y Altos</value>
+    <value>Total de Críticos y Altos</value>
   </data>
   <data name="SumOfOTOG" xml:space="preserve">
     <value>Total con EXCESO</value>

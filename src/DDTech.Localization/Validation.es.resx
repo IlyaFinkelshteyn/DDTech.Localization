@@ -139,7 +139,7 @@
     <value>Rango de fechas de ciclo día ajuste Factor (CDAF) debe ser menor que días '{PropertyValue}'</value>
   </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
-    <value>El alor debe ser un InventoryMethod válido</value>
+    <value>El valor debe ser un InventoryMethod válido</value>
   </data>
   <data name="InvalidPaf" xml:space="preserve">
     <value>El valor debe ser un Factor de ajuste de planeado válido (PAF)</value>

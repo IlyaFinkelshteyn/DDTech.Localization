@@ -133,7 +133,7 @@
     <value>Zona Verde - Base</value>
   </data>
   <data name="GreenZoneCalculationMethod" xml:space="preserve">
-    <value>M‚todo de cálculo de Zona Verde</value>
+    <value>Método de cálculo de Zona Verde</value>
   </data>
   <data name="InventoryAlertLevel" xml:space="preserve">
     <value>Umbral para Alerta de Stock</value>

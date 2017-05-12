@@ -304,7 +304,7 @@
     <value>Tamaño Zona Verde</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryMethod" xml:space="preserve">
-    <value>M‚todo de Inventario</value>
+    <value>Método de Inventario</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryQty" xml:space="preserve">
     <value>Stock</value>

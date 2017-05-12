@@ -289,16 +289,16 @@
     <value>Tipo de Buffer</value>
   </data>
   <data name="LastNDays" xml:space="preserve">
-    <value>éltimos __días__ Días</value>
+    <value>Últimos __days__ Días</value>
   </data>
   <data name="LastNWeeks" xml:space="preserve">
-    <value>éltimas __semanas__ Semanas</value>
+    <value>Últimas __weeks__ Semanas</value>
   </data>
   <data name="Late" xml:space="preserve">
     <value>Retraso</value>
   </data>
   <data name="LeadTime" xml:space="preserve">
-    <value>Plazo de ejecución</value>
+    <value>Lead Time</value>
   </data>
   <data name="LeadTimeCompression" xml:space="preserve">
     <value>Reducción de Lead Time de {0} días debido a que hay stocks intermedios NB</value>
@@ -595,7 +595,7 @@
     <value>Zona Amarilla</value>
   </data>
   <data name="YouCanAlso" xml:space="preserve">
-    <value>tambi‚n se puede</value>
+    <value>también se puede</value>
   </data>
   <data name="ZoneSize" xml:space="preserve">
     <value>Tamaño de Zona</value>

@@ -412,19 +412,19 @@
     <value>No incluido en</value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
-    <value>EDU en base balance corriente hacia fuera a una R + plazo de ejecución es menor que cero</value>
+    <value>El balance de Stock esperado es menor que cero dentro del Lead Time. La fecha equivale al día que rompe</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
-    <value>Stock actual es menor que el % de zona roja definido como el Umbral para Alerta de Inventario (En el Perfil de Buffer o valor General)</value>
+    <value>Stock actual es menor que el % de zona roja definido como Umbral para alertas de inventario. (En el perfil de buffer o valor general)</value>
   </data>
   <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
-    <value>EDU en equilibrar a un R + plazo de ejecución es menor o igual al % de zona roja según lo definido por el nivel de alerta de inventario en Perfil de buffer (o por defecto del sistema para el nivel de alerta)</value>
+    <value>El balance de Stock esperado es menor que el % definido como Umbral para alertas de inventario. La fecha equivale al primer día que entra en la zona roja</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
     <value>El Stock Actual es menor o igual al Tope de Rojo (ToR)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
-    <value>EDU en base balance corriente hacia fuera a una QUE R + plazo de ejecución es menor o igual a la parte superior de la Red (ToR)</value>
+    <value>El balance de Stock esperado es menor que el ToR y mayor que el % definido como Umbral de inventario. La fecha equivale al primer día que entra en la zona roja</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Stock Esperado</value>
