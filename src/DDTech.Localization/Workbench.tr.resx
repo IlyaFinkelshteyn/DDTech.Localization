@@ -492,14 +492,26 @@
   <data name="Workbench_ApproveOrders" xml:space="preserve">
     <value>Sipariş onaylamak</value>
   </data>
+  <data name="Workbench_CustomOrder_AdditionalOrdersToSatisfyPolicy" xml:space="preserve">
+    <value>Sipariş miktarı-ebilmek var olmak satifsy için yapılandırılmış sipariş ilkesi bu bölümü için ayarlanabilir</value>
+  </data>
   <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
     <value>Devam etmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="Workbench_CustomOrder_InvalidSelection" xml:space="preserve">
+    <value>Geçersiz seçim</value>
   </data>
   <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
     <value>"Sipariş miktarı giriniz"</value>
   </data>
+  <data name="Workbench_CustomOrder_QuantityLargerThanOrderMinimum" xml:space="preserve">
+    <value>Sipariş miktarı bu bölümü için izin verilen minimum siparişi büyüktür</value>
+  </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
     <value>Quanity önerilen değerden büyüktür</value>
+  </data>
+  <data name="Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple" xml:space="preserve">
+    <value>Sipariş miktarı bu bölümü için sipariş çarpanı tarafından kalansız değil</value>
   </data>
   <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
     <value>Verileri verme</value>

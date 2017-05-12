@@ -492,14 +492,26 @@
   <data name="Workbench_ApproveOrders" xml:space="preserve">
     <value>Aprovar as encomendas</value>
   </data>
+  <data name="Workbench_CustomOrder_AdditionalOrdersToSatisfyPolicy" xml:space="preserve">
+    <value>Quantidade de ordem pode ser ajustado para satifsy a política de ordem configurado para esta parte</value>
+  </data>
   <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
     <value>Tem certeza que deseja continuar?</value>
+  </data>
+  <data name="Workbench_CustomOrder_InvalidSelection" xml:space="preserve">
+    <value>Seleção inválida</value>
   </data>
   <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
     <value>"Por favor insira a quantidade da ordem"</value>
   </data>
+  <data name="Workbench_CustomOrder_QuantityLargerThanOrderMinimum" xml:space="preserve">
+    <value>Quantidade da ordem é maior do que o permitido ordem mínima para esta parte</value>
+  </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
     <value>Quanity é maior do que o valor recomendado</value>
+  </data>
+  <data name="Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple" xml:space="preserve">
+    <value>Quantidade de ordem não é divisível pelo multiplicador de ordem para esta parte</value>
   </data>
   <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
     <value>Exportar dados</value>

@@ -1213,11 +1213,29 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Order quantity may be adjusted to satifsy the configured order policy for this part.
+        /// </summary>
+        public static string Workbench_CustomOrder_AdditionalOrdersToSatisfyPolicy {
+            get {
+                return ResourceManager.GetString("Workbench_CustomOrder_AdditionalOrdersToSatisfyPolicy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Are you sure you want to continue?.
         /// </summary>
         public static string Workbench_CustomOrder_ConfirmContinue {
             get {
                 return ResourceManager.GetString("Workbench_CustomOrder_ConfirmContinue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Invalid selection.
+        /// </summary>
+        public static string Workbench_CustomOrder_InvalidSelection {
+            get {
+                return ResourceManager.GetString("Workbench_CustomOrder_InvalidSelection", resourceCulture);
             }
         }
         
@@ -1231,11 +1249,29 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Order quantity is larger than the allowed order minimum for this part.
+        /// </summary>
+        public static string Workbench_CustomOrder_QuantityLargerThanOrderMinimum {
+            get {
+                return ResourceManager.GetString("Workbench_CustomOrder_QuantityLargerThanOrderMinimum", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Quanity is larger than the recommended value.
         /// </summary>
         public static string Workbench_CustomOrder_QuantityLargerThanRecommended {
             get {
                 return ResourceManager.GetString("Workbench_CustomOrder_QuantityLargerThanRecommended", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Order quantity is not evenly divisible by the order multiplier for this part.
+        /// </summary>
+        public static string Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple {
+            get {
+                return ResourceManager.GetString("Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple", resourceCulture);
             }
         }
         

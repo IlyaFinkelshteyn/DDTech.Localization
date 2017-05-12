@@ -501,14 +501,26 @@
   <data name="Workbench_ApproveOrders" xml:space="preserve">
     <value>Approve Order(s)</value>
   </data>
+  <data name="Workbench_CustomOrder_AdditionalOrdersToSatisfyPolicy" xml:space="preserve">
+    <value>Order quantity may be adjusted to satifsy the configured order policy for this part</value>
+  </data>
   <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
     <value>Are you sure you want to continue?</value>
+  </data>
+  <data name="Workbench_CustomOrder_InvalidSelection" xml:space="preserve">
+    <value>Invalid selection</value>
   </data>
   <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
     <value>"Please enter order quantity"</value>
   </data>
+  <data name="Workbench_CustomOrder_QuantityLargerThanOrderMinimum" xml:space="preserve">
+    <value>Order quantity is larger than the allowed order minimum for this part</value>
+  </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
     <value>Quanity is larger than the recommended value</value>
+  </data>
+  <data name="Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple" xml:space="preserve">
+    <value>Order quantity is not evenly divisible by the order multiplier for this part</value>
   </data>
   <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
     <value>Export Data</value>

@@ -298,7 +298,7 @@
     <value>Запаздывание </value>
   </data>
   <data name="LeadTime" xml:space="preserve">
-    <value>Lead Time</value>
+    <value>Время упреждения</value>
   </data>
   <data name="LeadTimeCompression" xml:space="preserve">
     <value>Изменение графика на {0} дней в связи с cжатием Lead Time</value>
@@ -430,7 +430,7 @@
     <value>Требуемая дата</value>
   </data>
   <data name="RPlusLeadTime" xml:space="preserve">
-    <value>R+ Lead Time</value>
+    <value>R + время</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Текущий остаток</value>
@@ -501,14 +501,26 @@
   <data name="Workbench_ApproveOrders" xml:space="preserve">
     <value>Подтвердить заказ (-ы)</value>
   </data>
+  <data name="Workbench_CustomOrder_AdditionalOrdersToSatisfyPolicy" xml:space="preserve">
+    <value>Заказ может быть скорректирована с соотношение настроенный порядок политики для этой части</value>
+  </data>
   <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
     <value>Вы уверены</value>
+  </data>
+  <data name="Workbench_CustomOrder_InvalidSelection" xml:space="preserve">
+    <value>Недопустимый выбор</value>
   </data>
   <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
     <value>«Пожалуйста</value>
   </data>
+  <data name="Workbench_CustomOrder_QuantityLargerThanOrderMinimum" xml:space="preserve">
+    <value>Количество заказов больше, чем допустимый минимальный заказ для этой части</value>
+  </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
     <value>Количество превышает рекомендуемое значение</value>
+  </data>
+  <data name="Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple" xml:space="preserve">
+    <value>Объем заказа не делится на заказ множитель для этой части</value>
   </data>
   <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
     <value>Экспорт данных</value>

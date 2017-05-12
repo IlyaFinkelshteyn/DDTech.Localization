@@ -492,14 +492,26 @@
   <data name="Workbench_ApproveOrders" xml:space="preserve">
     <value>Aufträge genehmigen</value>
   </data>
+  <data name="Workbench_CustomOrder_AdditionalOrdersToSatisfyPolicy" xml:space="preserve">
+    <value>Bestellmenge möglicherweise die konfigurierten Bestellverfahren für diesen Teil an Satifsy angepasst</value>
+  </data>
   <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
     <value>Sind Sie sicher, dass Sie fortfahren möchten?</value>
+  </data>
+  <data name="Workbench_CustomOrder_InvalidSelection" xml:space="preserve">
+    <value>Ungültige Auswahl</value>
   </data>
   <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
     <value>"Bitte Auftragsmenge eingeben"</value>
   </data>
+  <data name="Workbench_CustomOrder_QuantityLargerThanOrderMinimum" xml:space="preserve">
+    <value>Bestellmenge ist größer als die minimale zulässige damit dieser Teil</value>
+  </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
     <value>Menge ist größer als der empfohlene Wert</value>
+  </data>
+  <data name="Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple" xml:space="preserve">
+    <value>Bestellmenge ist nicht teilbar durch den Auftrag-Multiplikator für diesen Teil</value>
   </data>
   <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
     <value>Daten exportieren</value>

@@ -498,14 +498,26 @@
   <data name="Workbench_ApproveOrders" xml:space="preserve">
     <value>Hyväksy Tilaukset</value>
   </data>
+  <data name="Workbench_CustomOrder_AdditionalOrdersToSatisfyPolicy" xml:space="preserve">
+    <value>Tilausmäärä voidaan säätää satifsy määritetty tilauksen tapa tämän osan</value>
+  </data>
   <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
     <value>Haluatko varmasti jatkaa?</value>
+  </data>
+  <data name="Workbench_CustomOrder_InvalidSelection" xml:space="preserve">
+    <value>Valinta ei kelpaa</value>
   </data>
   <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
     <value>"Anna tilausmäärä"</value>
   </data>
+  <data name="Workbench_CustomOrder_QuantityLargerThanOrderMinimum" xml:space="preserve">
+    <value>Määrä on suurempi kuin sallittu Minimitilaus tämän osan</value>
+  </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
     <value>Määrä on suositeltua arvoa suurempi</value>
+  </data>
+  <data name="Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple" xml:space="preserve">
+    <value>Tilausmäärä ei ole jaollinen järjestyksessä kerroin tämän osan</value>
   </data>
   <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
     <value>Lähetä tiedot</value>
