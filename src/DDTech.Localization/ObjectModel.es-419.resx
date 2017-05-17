@@ -180,6 +180,9 @@
   <data name="DDTech_RPlus_DTO_Engine_OrderKey_OrderNumber" xml:space="preserve">
     <value>Número de pedido</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_AlertHorizon" xml:space="preserve">
+    <value>Horizonte de alerta</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_AverageDailyUsage" xml:space="preserve">
     <value>Consumo promedio diario</value>
   </data>

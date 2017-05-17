@@ -180,6 +180,9 @@
   <data name="DDTech_RPlus_DTO_Engine_OrderKey_OrderNumber" xml:space="preserve">
     <value>Rendelési szám</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_AlertHorizon" xml:space="preserve">
+    <value>Riasztási Horizon</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_AverageDailyUsage" xml:space="preserve">
     <value>Átlagos napi használat</value>
   </data>
