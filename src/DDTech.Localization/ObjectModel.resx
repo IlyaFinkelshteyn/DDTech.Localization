@@ -432,4 +432,7 @@
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_SupplyOrderType" xml:space="preserve">
     <value>Type</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_AlertHorizon" xml:space="preserve">
+    <value>Alert Horizon</value>
+  </data>
 </root>

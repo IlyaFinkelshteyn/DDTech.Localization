@@ -180,6 +180,9 @@
   <data name="DDTech_RPlus_DTO_Engine_OrderKey_OrderNumber" xml:space="preserve">
     <value>Numéro de commande</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_AlertHorizon" xml:space="preserve">
+    <value>Alerte Horizon</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_AverageDailyUsage" xml:space="preserve">
     <value>CMJ</value>
   </data>

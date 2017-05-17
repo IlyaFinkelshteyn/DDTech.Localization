@@ -250,6 +250,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Alert Horizon.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_Part_AlertHorizon {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_Part_AlertHorizon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Average Daily Use.
         /// </summary>
         public static string DDTech_RPlus_DTO_Engine_Part_AverageDailyUsage {

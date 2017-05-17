@@ -180,6 +180,9 @@
   <data name="DDTech_RPlus_DTO_Engine_OrderKey_OrderNumber" xml:space="preserve">
     <value>오더번호 </value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_Part_AlertHorizon" xml:space="preserve">
+    <value>경고 수평선</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_AverageDailyUsage" xml:space="preserve">
     <value>일평균사용량</value>
   </data>
