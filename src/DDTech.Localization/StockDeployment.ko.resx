@@ -199,7 +199,7 @@
     <value>Holdback</value>
   </data>
   <data name="IncludeIssued" xml:space="preserve">
-    <value>홀드백에 출고된 수량 포함</value>
+    <value>Holdback에 출고된 수량 포함</value>
   </data>
   <data name="IssuedInventory" xml:space="preserve">
     <value>출하 재고</value>
@@ -217,13 +217,13 @@
     <value>오더 배수 조정</value>
   </data>
   <data name="Override" xml:space="preserve">
-    <value>수동보충</value>
+    <value>Override</value>
   </data>
   <data name="QualifiedDemand" xml:space="preserve">
     <value>적격한(Qualified) 수요</value>
   </data>
   <data name="ResetOverride" xml:space="preserve">
-    <value>수동보충 재설정</value>
+    <value>Override 재설정</value>
   </data>
   <data name="Settings_DecimalPlacesForCalculations" xml:space="preserve">
     <value>계산에 사용할 소수 자릿수</value>

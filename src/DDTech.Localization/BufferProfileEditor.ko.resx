@@ -169,7 +169,7 @@
     <value>프로파일</value>
   </data>
   <data name="ProfileDefinition" xml:space="preserve">
-    <value>프로파일정의</value>
+    <value>프로파일 정의</value>
   </data>
   <data name="ProfileSavedSuccessfully" xml:space="preserve">
     <value>프로파일 저장 완료</value>

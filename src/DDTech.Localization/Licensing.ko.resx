@@ -121,7 +121,7 @@
     <value>고객 이름</value>
   </data>
   <data name="Email" xml:space="preserve">
-    <value>전자 메일</value>
+    <value>E-Mail</value>
   </data>
   <data name="Expires" xml:space="preserve">
     <value>만료</value>

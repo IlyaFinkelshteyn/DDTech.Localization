@@ -130,19 +130,19 @@
     <value>취소</value>
   </data>
   <data name="Commit" xml:space="preserve">
-    <value>커밋</value>
+    <value>실행</value>
   </data>
   <data name="CommitAllPendingOrders" xml:space="preserve">
-    <value>모든 보류 중인 주문 커밋</value>
+    <value>모든 미확정 오더 실행</value>
   </data>
   <data name="CommitSelectedPendingOrders" xml:space="preserve">
-    <value>커밋 명령 보류 선택</value>
+    <value>선택된 미확정 오더 실행 </value>
   </data>
   <data name="Committed" xml:space="preserve">
-    <value>확정</value>
+    <value>실행됨 </value>
   </data>
   <data name="ConfirmCommitOrders" xml:space="preserve">
-    <value>당신은 커밋 이러한 주문 하 시겠습니까?</value>
+    <value>이 오더들을 실행하겠습니까?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>삭제 확인</value>
@@ -169,7 +169,7 @@
     <value>명세 </value>
   </data>
   <data name="DownloadAllPendingOrders" xml:space="preserve">
-    <value>모든 보류 중인 주문 (커밋) 다운로드</value>
+    <value>모든 미확정 오더 다운로드</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>내보내기</value>
@@ -178,7 +178,7 @@
     <value>모든 오더 내보내기</value>
   </data>
   <data name="Exported" xml:space="preserve">
-    <value>선택된 오더 내보내기 </value>
+    <value>Exported</value>
   </data>
   <data name="ExportSelectedOrders" xml:space="preserve">
     <value>선택 오더 내보내기</value>
@@ -223,7 +223,7 @@
     <value>없음</value>
   </data>
   <data name="NoPendingOrders" xml:space="preserve">
-    <value>미확정(Pending) 오더가 없습니다.</value>
+    <value>미확정(Pending) 오더 없슴 </value>
   </data>
   <data name="Notes" xml:space="preserve">
     <value>Notes</value>
@@ -232,7 +232,7 @@
     <value> of </value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>괜찮았던 것</value>
+    <value>OK</value>
   </data>
   <data name="Order" xml:space="preserve">
     <value>오더</value>

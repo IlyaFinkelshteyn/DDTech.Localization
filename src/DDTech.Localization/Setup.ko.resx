@@ -127,25 +127,25 @@
     <value>관리자</value>
   </data>
   <data name="Done_Action_Home" xml:space="preserve">
-    <value>홈페이지에가 서</value>
+    <value>홈으로 가기 </value>
   </data>
   <data name="Done_Action_Users" xml:space="preserve">
-    <value>추가 사용자를 만들려면</value>
+    <value>사용자 추가</value>
   </data>
   <data name="Done_Message" xml:space="preserve">
-    <value>RPlus 인스턴스의 설치가 완료 되 면!</value>
+    <value>RPlus 인스턴스 셋업 완료!</value>
   </data>
   <data name="Done_Title" xml:space="preserve">
-    <value>설치 완료</value>
+    <value>셋업 완료</value>
   </data>
   <data name="Index_Message" xml:space="preserve">
-    <value>RPlus의 인스턴스를 사용할 준비가 거의 되었습니다. 계속하기 전에 몇 가지 정보를 수집해야 합니다.</value>
+    <value>Rplus 인스턴스를 사용할 준비가 거의 되었습니다. 계속하기 전에 몇 가지 정보를 수집해야 합니다.</value>
   </data>
   <data name="Index_Title" xml:space="preserve">
     <value>처음 설치</value>
   </data>
   <data name="License_Message" xml:space="preserve">
-    <value>이 인스턴스의 RPlus에는 유효한 라이센스가 필요합니다. 계속 하려면 하나를 업로드 하시기 바랍니다.</value>
+    <value>이  Rplus 인스턴스에는 유효한 라이센스가 필요합니다. 계속 하려면 업로드 하시기 바랍니다.</value>
   </data>
   <data name="License_Title" xml:space="preserve">
     <value>라이센스</value>

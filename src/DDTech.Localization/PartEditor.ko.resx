@@ -130,7 +130,7 @@
     <value>일평균사용량</value>
   </data>
   <data name="BufferSizing" xml:space="preserve">
-    <value>버퍼크기 설정</value>
+    <value>버퍼크기  </value>
   </data>
   <data name="BufferValuesIncompatibleWithRenderingChart" xml:space="preserve">
     <value>버퍼 값이 랜더링 챠트와 불일치</value>
@@ -157,7 +157,7 @@
     <value>재고일수</value>
   </data>
   <data name="DecoupledLeadTime" xml:space="preserve">
-    <value>Decoupled lead time</value>
+    <value>Decoupled  </value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>명세:</value>
@@ -178,13 +178,13 @@
     <value>고정 리드타임</value>
   </data>
   <data name="ForecastedDailyUsage" xml:space="preserve">
-    <value>일사용 예측량</value>
+    <value>예측된 일사용량 </value>
   </data>
   <data name="Green" xml:space="preserve">
     <value>Green</value>
   </data>
   <data name="InventoryManagement" xml:space="preserve">
-    <value>재고관리유형</value>
+    <value>재고관리  </value>
   </data>
   <data name="Location" xml:space="preserve">
     <value>Location</value>

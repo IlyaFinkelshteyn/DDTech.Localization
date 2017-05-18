@@ -121,13 +121,13 @@
     <value>키를 찾을 수 없습니다</value>
   </data>
   <data name="ValueEmptyNotAllowed" xml:space="preserve">
-    <value>값은 비어 있을 수 없습니다.</value>
+    <value>값이 null 일 수 없습니다.</value>
   </data>
   <data name="ValueNullNotAllowed" xml:space="preserve">
     <value>값이 null 일 수 없습니다.</value>
   </data>
   <data name="ValueOutOfRange" xml:space="preserve">
-    <value>값이 허용 범위</value>
+    <value>허용 범위 밖의 값 </value>
   </data>
   <data name="ValueWhitespaceNotAllowed" xml:space="preserve">
     <value>값이 공백이 될 수 없습니다.</value>

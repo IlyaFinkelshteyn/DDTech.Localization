@@ -130,7 +130,7 @@
     <value>열</value>
   </data>
   <data name="ConfiguredTimeZone" xml:space="preserve">
-    <value>구성 된 표준 시간대</value>
+    <value>구성된 표준 시간대</value>
   </data>
   <data name="DisplayLang_de" xml:space="preserve">
     <value>독일어</value>
@@ -190,7 +190,7 @@
     <value>About</value>
   </data>
   <data name="Nav_Account_Manage_Title" xml:space="preserve">
-    <value>사용자 사용자 ID</value>
+    <value>사용자 ID</value>
   </data>
   <data name="Nav_Admin_GlobalSettings_Title" xml:space="preserve">
     <value>글로벌 설정</value>
@@ -211,10 +211,10 @@
     <value>사용자 관리</value>
   </data>
   <data name="Nav_Alerts_CurrentSupplyOrderNotes" xml:space="preserve">
-    <value>현재 공급오더 노트</value>
+    <value>현 공급오더 노트</value>
   </data>
   <data name="Nav_Alerts_NoSupplyOrderNotes" xml:space="preserve">
-    <value>공급오더 노트</value>
+    <value>공급오더 노트 없음</value>
   </data>
   <data name="Nav_Alerts_OutstandingSupplyOrderNotes" xml:space="preserve">
     <value>Outstanding 공급오더 노트</value>
@@ -310,7 +310,7 @@
     <value>미확정오더</value>
   </data>
   <data name="Nav_Planner_Title" xml:space="preserve">
-    <value>계획 도구</value>
+    <value>계획담당자 도구</value>
   </data>
   <data name="Nav_PlannersDashboard_Title" xml:space="preserve">
     <value>R+ 대시보드</value>
@@ -358,10 +358,10 @@
     <value>품목 활동내역</value>
   </data>
   <data name="Nav_ReadPartDistribution_Title" xml:space="preserve">
-    <value>버퍼프로파일별 분포</value>
+    <value>버퍼프로파일별 품목분포</value>
   </data>
   <data name="Nav_ReadStockOutDemandTrend_Title" xml:space="preserve">
-    <value>수요가 있는 품절 </value>
+    <value>수요에 의한 품절 </value>
   </data>
   <data name="Nav_ReadSumCritHigh_Title" xml:space="preserve">
     <value>Critical &amp; High 합계</value>
@@ -427,10 +427,10 @@
     <value>더 보기</value>
   </data>
   <data name="TimeZone_Server_Desc1" xml:space="preserve">
-    <value>표시되는 시간은 Global setting에서 설정된 시간이 사용됩니다.</value>
+    <value>표시된 시간은 Global setting에 설정된 시간이 사용됩니다.</value>
   </data>
   <data name="TimeZone_Server_Desc2" xml:space="preserve">
-    <value>시간 설정은 전역 설정 페이지에서 설정합니다.</value>
+    <value>시간 설정은 글로벌 설정 페이지에서 설정합니다.</value>
   </data>
   <data name="TimeZoneType_Browser" xml:space="preserve">
     <value>현재 사용자 시간대 (브라우저)</value>
