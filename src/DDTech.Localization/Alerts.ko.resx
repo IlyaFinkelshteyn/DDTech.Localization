@@ -370,58 +370,58 @@
     <value>R+ Alert:</value>
   </data>
   <data name="rule_AppliesTo" xml:space="preserve">
-    <value>에 적용 됩니다.</value>
+    <value>적용 </value>
   </data>
   <data name="rule_CurrentInventory_Critical1" xml:space="preserve">
-    <value>전류 또는 연체 수요, 하지만 현재 재고 없음</value>
+    <value>과거 또는 현재 수요가 있으나, 재고는 없음 </value>
   </data>
   <data name="rule_CurrentInventory_High1" xml:space="preserve">
-    <value>수요 초과 현재 재고</value>
+    <value>수요가 현재고 보다 많음 </value>
   </data>
   <data name="rule_CurrentInventory_High2" xml:space="preserve">
-    <value>아니 현재 재고 수요 그리고</value>
+    <value>수요는 없지만, 현재 재고가 0</value>
   </data>
   <data name="rule_LTM_High1" xml:space="preserve">
-    <value>R + 리드 타임의 11% 미만에 도착 하기 때문에 주문</value>
+    <value>오더 납기일까지 남은 기간이  R+ 리드 타임의 11% 미만</value>
   </data>
   <data name="rule_LTM_Low1" xml:space="preserve">
-    <value>33%와 22 %R + 리드 타임의 사이 도착 인해 주문.</value>
+    <value>오더 납기일까지 남은 기간이  R+ 리드 타임의 22% ~33%</value>
   </data>
   <data name="rule_LTM_Medium1" xml:space="preserve">
-    <value>R + 리드 타임의 11%와 22% 사이 도착 인해 주문.</value>
+    <value>오더 납기일까지 남은 기간이  R+ 리드 타임의 11% ~22%</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical1" xml:space="preserve">
-    <value>리드 타임 내의 수요와 공급 오픈가</value>
+    <value>리드타임 내에 Demand/Supply가  있음 </value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
-    <value>QOH (현재 재고량에) &amp;gt; = 0이 고 실행 균형 인지 &amp;lt; = 0 리드 시간 수평선 동안 언제 든 지</value>
+    <value>현재고(QOH)&gt;=0 이면서 리드타임 구간 내에서 Running Balance &lt;= 0 </value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
-    <value>오픈 리드 타임 내의 수요/공급</value>
+    <value>리드타임 내에 Demand/Supply가  있음 </value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
-    <value>QOH (현재 재고량에) &amp;gt; = 0 실행 균형 이며 &amp;gt; 0와 &amp;lt; = % 토르 리드 시간 수평선 동안 언제 든 지</value>
+    <value>현재고(QOH)&gt;=0, 리드타임 구간내에서  0&lt;Running Balnace&lt;= % ToR </value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
-    <value>과거에 부정적인 실행 균형을 했다</value>
+    <value>현재 이전 running balance가 음수 </value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical2" xml:space="preserve">
-    <value>리드 시간 지평선 동안 언제 든 지 부정적인 실행 잔액은</value>
+    <value>리드타임 구간 동안에 running balance가 음수 </value>
   </data>
   <data name="rule_NotIncludedIn" xml:space="preserve">
-    <value>에 포함 되지 않습니다.</value>
+    <value>포함되지 않음 </value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
     <value>에 듀 R + 리드 타임 0 보다 작은 하나에 밖으로 실행 균형을 기반으로</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
-    <value>현재 재고 수준 보다 작으면 위험 영역의 % 버퍼 프로필 (또는 경고 수준에 대 한 시스템 기본값) 재고 경고 수준에 의해 정의 된</value>
+    <value>현재고 수준이 버퍼 프로화일(또는 시스템 기본)에 정의된 재고 경고 수준(ToR %) 이하임 </value>
   </data>
   <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
     <value>기반으로 하는 듀 R + 리드 시간을 밖으로 균형 보다 작거나 빨간색 영역의 % 버퍼 프로필 (또는 경고 수준에 대 한 시스템 기본값) 재고 경고 수준에 의해 정의 된 대로 실행</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
-    <value>현재 재고 수준 레드 맨 (ToR) 보다 작거나</value>
+    <value>현재고 수준이 ToR 이하임 </value>
   </data>
   <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
     <value>에 듀 R + 리드 타임 레드의 상단 (ToR) 보다 작거나 하나를 밖으로 실행 균형을 기반으로</value>

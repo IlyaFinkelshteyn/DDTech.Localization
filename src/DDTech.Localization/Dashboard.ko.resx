@@ -148,16 +148,16 @@
     <value>없음</value>
   </data>
   <data name="NoReminders" xml:space="preserve">
-    <value>없음 Reminder(s)</value>
+    <value>No Reminder(s)</value>
   </data>
   <data name="Outstanding" xml:space="preserve">
-    <value>뛰어난</value>
+    <value>Outstanding</value>
   </data>
   <data name="Overdue" xml:space="preserve">
-    <value>연체</value>
+    <value>Overdue</value>
   </data>
   <data name="PlannerCode" xml:space="preserve">
-    <value>플래너자:</value>
+    <value>계획 담당자:</value>
   </data>
   <data name="PlanningPriorities" xml:space="preserve">
     <value>계획우선순위</value>

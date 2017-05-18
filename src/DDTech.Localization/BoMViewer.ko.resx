@@ -169,7 +169,7 @@
     <value>Non Buffered</value>
   </data>
   <data name="NoResultsFound" xml:space="preserve">
-    <value>결과 없슴</value>
+    <value>No Results Found</value>
   </data>
   <data name="Part" xml:space="preserve">
     <value>품목:</value>

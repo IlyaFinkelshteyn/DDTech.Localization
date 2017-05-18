@@ -124,10 +124,10 @@
     <value>버퍼프로파일</value>
   </data>
   <data name="CreateChildAllocationsOnPendingOrderCreation" xml:space="preserve">
-    <value>미확정(Pending) 오더 생성시 자품목 할당 </value>
+    <value>미확정(Pending) 오더 생성시 자품목 할당 생성</value>
   </data>
   <data name="CreateChildAllocationsOnSupplyOrderImport" xml:space="preserve">
-    <value>공급오더 들여오기(import)시 자품목 할당 </value>
+    <value>공급오더 들여오기(import)시 자품목 할당 생성</value>
   </data>
   <data name="CurrentLocalTime" xml:space="preserve">
     <value>현지 현재 시간</value>
@@ -175,7 +175,7 @@
     <value>Part Augment</value>
   </data>
   <data name="PartBufferSizing" xml:space="preserve">
-    <value>품목버퍼크기 설정</value>
+    <value>품목버퍼크기  </value>
   </data>
   <data name="PartInventory" xml:space="preserve">
     <value>품목 재고</value>

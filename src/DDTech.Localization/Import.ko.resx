@@ -181,7 +181,7 @@
     <value>레코드</value>
   </data>
   <data name="RecordsIgnoredMessageFormat" xml:space="preserve">
-    <value>{0} 레코드 정책 구성으로 인해 무시 했다</value>
+    <value>정책에 의해 {0} 레코드는 무시되었다</value>
   </data>
   <data name="RegionSettingsDescribed" xml:space="preserve">
     <value>국가별 설정이 파일 upload(not import)에 적용되었습니다.</value>

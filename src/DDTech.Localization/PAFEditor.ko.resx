@@ -193,7 +193,7 @@
     <value>10월</value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>괜찮았던 것</value>
+    <value>OK</value>
   </data>
   <data name="PAFDeletedSuccessfully" xml:space="preserve">
     <value>PAF 삭제 완료</value>

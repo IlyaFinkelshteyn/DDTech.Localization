@@ -304,7 +304,7 @@
     <value>리드타임 단축으로 {0} 스케쥴 조정  </value>
   </data>
   <data name="Legend" xml:space="preserve">
-    <value>범례:</value>
+    <value>Legend:</value>
   </data>
   <data name="LocationFilter" xml:space="preserve">
     <value>Location 필터</value>
@@ -514,7 +514,7 @@
     <value>"오더 수량을 입력하세요"</value>
   </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
-    <value>수량 권장된 값 보다 크면</value>
+    <value>수량이 권고량 보다 큽니다.</value>
   </data>
   <data name="Workbench_CustomOrder_QuantityMustExceedOrderMinimum" xml:space="preserve">
     <value>수량 주문 최소를 초과 해야 한다</value>

@@ -130,7 +130,7 @@
     <value>데이터 다운로드</value>
   </data>
   <data name="DemandOrder" xml:space="preserve">
-    <value>수요 오더</value>
+    <value>Demand Order</value>
   </data>
   <data name="ExportStr" xml:space="preserve">
     <value>내보내기</value>
@@ -160,7 +160,7 @@
     <value>내보낼 테이블 선택</value>
   </data>
   <data name="SelectTablesToExport" xml:space="preserve">
-    <value>내보낼 데이터 선택:</value>
+    <value>내보낼 데이터 테이블 선택:</value>
   </data>
   <data name="SupplyOrder" xml:space="preserve">
     <value>공급 오더</value>
