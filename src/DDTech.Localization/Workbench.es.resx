@@ -117,42 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="120Days" xml:space="preserve">
-    <value>120 Días</value>
-  </data>
-  <data name="13Weeks" xml:space="preserve">
-    <value>13 Semanas</value>
-  </data>
-  <data name="150Days" xml:space="preserve">
-    <value>150 Días</value>
-  </data>
-  <data name="15Days" xml:space="preserve">
-    <value>15 Días</value>
-  </data>
-  <data name="17Weeks" xml:space="preserve">
-    <value>17 Semanas</value>
-  </data>
-  <data name="180Days" xml:space="preserve">
-    <value>180 Días</value>
-  </data>
-  <data name="22Weeks" xml:space="preserve">
-    <value>22 Semanas</value>
-  </data>
-  <data name="26Weeks" xml:space="preserve">
-    <value>26 Semanas</value>
-  </data>
-  <data name="30Days" xml:space="preserve">
-    <value>30 días</value>
-  </data>
-  <data name="60Days" xml:space="preserve">
-    <value>60 días</value>
-  </data>
-  <data name="90Days" xml:space="preserve">
-    <value>90 Días</value>
-  </data>
-  <data name="9Weeks" xml:space="preserve">
-    <value>9 Semanas</value>
-  </data>
   <data name="AcceptSelectedOrders" xml:space="preserve">
     <value>Aceptar Órdenes Seleccionadas</value>
   </data>

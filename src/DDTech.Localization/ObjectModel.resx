@@ -435,4 +435,52 @@
   <data name="DDTech_RPlus_DTO_Engine_Part_AlertHorizon" xml:space="preserve">
     <value>Alert Horizon</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_DateUploadedUtc" xml:space="preserve">
+    <value>Date Uploaded</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_DateValidatedUtc" xml:space="preserve">
+    <value>Date Validated</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_FileName" xml:space="preserve">
+    <value>File Name</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_IgnoreCount" xml:space="preserve">
+    <value>Ignored</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ObjectType" xml:space="preserve">
+    <value>Record Type</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ProcessedCount" xml:space="preserve">
+    <value>Processed</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_RecordCount" xml:space="preserve">
+    <value>Records</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_Status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ValidatedByRPlusVersion" xml:space="preserve">
+    <value>R+ Validation Version</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_DateCompletedUtc" xml:space="preserve">
+    <value>Date Completed</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_Status" xml:space="preserve">
+    <value>Job Status</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalParsingErrors" xml:space="preserve">
+    <value>Parsing Errors</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationErrors" xml:space="preserve">
+    <value>Validation Errors</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationInfo" xml:space="preserve">
+    <value>Validation Information</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationWarnings" xml:space="preserve">
+    <value>Validation Warnings</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_UserName" xml:space="preserve">
+    <value>User Name</value>
+  </data>
 </root>

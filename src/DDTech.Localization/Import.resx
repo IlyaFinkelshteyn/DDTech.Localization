@@ -210,4 +210,49 @@
   <data name="EncounteredNumErrorsWithUploadFormat" xml:space="preserve">
     <value>Encountered {0} errors. Showing the first {1} errors.</value>
   </data>
+  <data name="Import_Button_Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Import_Button_Validate" xml:space="preserve">
+    <value>Validate</value>
+  </data>
+  <data name="Import_Nav_BulkEdit" xml:space="preserve">
+    <value>Bulk Edit</value>
+  </data>
+  <data name="Import_Nav_Completed" xml:space="preserve">
+    <value>Completed</value>
+  </data>
+  <data name="Import_Nav_Errors" xml:space="preserve">
+    <value>Errors</value>
+  </data>
+  <data name="Import_Nav_Failed" xml:space="preserve">
+    <value>Failed</value>
+  </data>
+  <data name="Import_Nav_NewUpload" xml:space="preserve">
+    <value>New Upload</value>
+  </data>
+  <data name="Import_Nav_Succeeded" xml:space="preserve">
+    <value>Succeeded</value>
+  </data>
+  <data name="Import_Nav_Summary" xml:space="preserve">
+    <value>Summary</value>
+  </data>
+  <data name="Import_Tabs_Files" xml:space="preserve">
+    <value>Files</value>
+  </data>
+  <data name="Import_Tabs_Validation" xml:space="preserve">
+    <value>Validation</value>
+  </data>
+  <data name="Import_Validation_Info" xml:space="preserve">
+    <value>Additional Information</value>
+  </data>
+  <data name="Import_Validation_ParsingErrors" xml:space="preserve">
+    <value>Parsing Errors</value>
+  </data>
+  <data name="Import_Validation_ValidationErrors" xml:space="preserve">
+    <value>Validation Errors</value>
+  </data>
+  <data name="Import_Validation_Warnings" xml:space="preserve">
+    <value>Validation Warnings</value>
+  </data>
 </root>

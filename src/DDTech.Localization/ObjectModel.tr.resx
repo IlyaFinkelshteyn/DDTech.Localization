@@ -162,6 +162,54 @@
   <data name="Common_VendorId" xml:space="preserve">
     <value>Satıcı kimliği</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_DateCompletedUtc" xml:space="preserve">
+    <value>Başlama/Bitiş tarihi</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_Status" xml:space="preserve">
+    <value>İş durumu</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalParsingErrors" xml:space="preserve">
+    <value>Ayrıştırma hataları</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationErrors" xml:space="preserve">
+    <value>Doğrulama hataları</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationInfo" xml:space="preserve">
+    <value>Doğrulama bilgileri</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationWarnings" xml:space="preserve">
+    <value>Doğrulama uyarıları</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_UserName" xml:space="preserve">
+    <value>Kullanıcı adı</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_DateUploadedUtc" xml:space="preserve">
+    <value>Karşıya tarihi</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_DateValidatedUtc" xml:space="preserve">
+    <value>Doğrulanmış tarihi</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_FileName" xml:space="preserve">
+    <value>Dosya adı</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_IgnoreCount" xml:space="preserve">
+    <value>Göz ardı</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ObjectType" xml:space="preserve">
+    <value>Kayıt türü</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ProcessedCount" xml:space="preserve">
+    <value>İşlenen</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_RecordCount" xml:space="preserve">
+    <value>Kayıtları</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_Status" xml:space="preserve">
+    <value>Durumu</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ValidatedByRPlusVersion" xml:space="preserve">
+    <value>R + doğrulama sürümü</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_Customer" xml:space="preserve">
     <value>Müşteri</value>
   </data>

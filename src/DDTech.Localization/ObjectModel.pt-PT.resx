@@ -162,6 +162,54 @@
   <data name="Common_VendorId" xml:space="preserve">
     <value>ID do fornecedor</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_DateCompletedUtc" xml:space="preserve">
+    <value>Data concluída</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_Status" xml:space="preserve">
+    <value>Status do trabalho</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalParsingErrors" xml:space="preserve">
+    <value>Erros de análise</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationErrors" xml:space="preserve">
+    <value>Erros de validação</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationInfo" xml:space="preserve">
+    <value>Informações sobre a validação</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationWarnings" xml:space="preserve">
+    <value>Avisos de validação</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_UserName" xml:space="preserve">
+    <value>Nome de usuário</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_DateUploadedUtc" xml:space="preserve">
+    <value>Data de upload</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_DateValidatedUtc" xml:space="preserve">
+    <value>Data validada</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_FileName" xml:space="preserve">
+    <value>Nome do arquivo</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_IgnoreCount" xml:space="preserve">
+    <value>Ignorado</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ObjectType" xml:space="preserve">
+    <value>Tipo de registro</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ProcessedCount" xml:space="preserve">
+    <value>Processado</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_RecordCount" xml:space="preserve">
+    <value>Registros</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_Status" xml:space="preserve">
+    <value>Estatuto</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ValidatedByRPlusVersion" xml:space="preserve">
+    <value>R + versão de validação</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_Customer" xml:space="preserve">
     <value>Ao cliente</value>
   </data>

@@ -162,6 +162,54 @@
   <data name="Common_VendorId" xml:space="preserve">
     <value>공급처 ID</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_DateCompletedUtc" xml:space="preserve">
+    <value>완료 날짜</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_Status" xml:space="preserve">
+    <value>작업 상태</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalParsingErrors" xml:space="preserve">
+    <value>구문 분석 오류</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationErrors" xml:space="preserve">
+    <value>유효성 검사 오류</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationInfo" xml:space="preserve">
+    <value>유효성 검사 정보</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationWarnings" xml:space="preserve">
+    <value>유효성 검사 경고</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_UserName" xml:space="preserve">
+    <value>사용자 이름</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_DateUploadedUtc" xml:space="preserve">
+    <value>업로드 날짜</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_DateValidatedUtc" xml:space="preserve">
+    <value>날짜 확인</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_FileName" xml:space="preserve">
+    <value>파일 이름</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_IgnoreCount" xml:space="preserve">
+    <value>무시</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ObjectType" xml:space="preserve">
+    <value>레코드 종류</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ProcessedCount" xml:space="preserve">
+    <value>처리</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_RecordCount" xml:space="preserve">
+    <value>레코드</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_Status" xml:space="preserve">
+    <value>상태</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ValidatedByRPlusVersion" xml:space="preserve">
+    <value>R + 유효성 검사 버전</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_Customer" xml:space="preserve">
     <value>고객</value>
   </data>
@@ -406,7 +454,7 @@
     <value>REV</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_CreatedByUser" xml:space="preserve">
-    <value>Created By</value>
+    <value>에 의해 만들어진</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PendingOrder_ExtendedCost" xml:space="preserve">
     <value>금액</value>
@@ -436,7 +484,7 @@
     <value>차이 Notes  </value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_RecommendedOrder_SuppressOrderQtyRules" xml:space="preserve">
-    <value>Suppress Order Qty Rules</value>
+    <value>주문 수량 규칙을 억제</value>
   </data>
   <data name="Demand" xml:space="preserve">
     <value>수요</value>

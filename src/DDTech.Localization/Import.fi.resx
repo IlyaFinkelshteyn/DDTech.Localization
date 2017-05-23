@@ -153,6 +153,51 @@
   <data name="FilesDeletedSuccessfully" xml:space="preserve">
     <value>Tiedostojen poisto onnistui</value>
   </data>
+  <data name="Import_Button_Save" xml:space="preserve">
+    <value>Tallenna</value>
+  </data>
+  <data name="Import_Button_Validate" xml:space="preserve">
+    <value>Vahvista</value>
+  </data>
+  <data name="Import_Nav_BulkEdit" xml:space="preserve">
+    <value>Joukkomuokkauksen</value>
+  </data>
+  <data name="Import_Nav_Completed" xml:space="preserve">
+    <value>Valmis</value>
+  </data>
+  <data name="Import_Nav_Errors" xml:space="preserve">
+    <value>Virheitä</value>
+  </data>
+  <data name="Import_Nav_Failed" xml:space="preserve">
+    <value>Epäonnistui</value>
+  </data>
+  <data name="Import_Nav_NewUpload" xml:space="preserve">
+    <value>Uusi Upload</value>
+  </data>
+  <data name="Import_Nav_Succeeded" xml:space="preserve">
+    <value>Onnistunut</value>
+  </data>
+  <data name="Import_Nav_Summary" xml:space="preserve">
+    <value>Yhteenveto</value>
+  </data>
+  <data name="Import_Tabs_Files" xml:space="preserve">
+    <value>Tiedostot</value>
+  </data>
+  <data name="Import_Tabs_Validation" xml:space="preserve">
+    <value>Validointi</value>
+  </data>
+  <data name="Import_Validation_Info" xml:space="preserve">
+    <value>Lisätietoja</value>
+  </data>
+  <data name="Import_Validation_ParsingErrors" xml:space="preserve">
+    <value>Jäsennysvirheitä</value>
+  </data>
+  <data name="Import_Validation_ValidationErrors" xml:space="preserve">
+    <value>Vahvistusvirheet</value>
+  </data>
+  <data name="Import_Validation_Warnings" xml:space="preserve">
+    <value>Tarkistusvaroitukset</value>
+  </data>
   <data name="ImportQueue" xml:space="preserve">
     <value>Tuo jono:</value>
   </data>

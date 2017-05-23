@@ -439,11 +439,29 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Data Management.
+        /// </summary>
+        public static string Nav_DataMgmt_FullTitle {
+            get {
+                return ResourceManager.GetString("Nav_DataMgmt_FullTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Data Import.
         /// </summary>
         public static string Nav_DataMgmt_Import_Title {
             get {
                 return ResourceManager.GetString("Nav_DataMgmt_Import_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Import Management.
+        /// </summary>
+        public static string Nav_DataMgmt_ImportMgmt_Title {
+            get {
+                return ResourceManager.GetString("Nav_DataMgmt_ImportMgmt_Title", resourceCulture);
             }
         }
         

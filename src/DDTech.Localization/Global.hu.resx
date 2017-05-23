@@ -243,8 +243,14 @@
   <data name="Nav_DataMgmt_Export_Title" xml:space="preserve">
     <value>Adatok exportálása</value>
   </data>
+  <data name="Nav_DataMgmt_FullTitle" xml:space="preserve">
+    <value>Adatkezelés</value>
+  </data>
   <data name="Nav_DataMgmt_Import_Title" xml:space="preserve">
     <value>Adatok importálása</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Title" xml:space="preserve">
+    <value>Import kezelése</value>
   </data>
   <data name="Nav_DataMgmt_Title" xml:space="preserve">
     <value>Adatok</value>

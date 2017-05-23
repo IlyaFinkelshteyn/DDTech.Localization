@@ -162,6 +162,54 @@
   <data name="Common_VendorId" xml:space="preserve">
     <value>Toimittajatunnus</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_DateCompletedUtc" xml:space="preserve">
+    <value>Suorittamisesta</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_Status" xml:space="preserve">
+    <value>Työn tila</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalParsingErrors" xml:space="preserve">
+    <value>Jäsennysvirheitä</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationErrors" xml:space="preserve">
+    <value>Vahvistusvirheet</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationInfo" xml:space="preserve">
+    <value>Oikeellisuustarkistuksen tietoja</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_TotalValidationWarnings" xml:space="preserve">
+    <value>Tarkistusvaroitukset</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_UserName" xml:space="preserve">
+    <value>Käyttäjänimi</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_DateUploadedUtc" xml:space="preserve">
+    <value>Päivämäärä ladattu</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_DateValidatedUtc" xml:space="preserve">
+    <value>Vahvistettu päivämäärä</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_FileName" xml:space="preserve">
+    <value>Tiedostonimi</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_IgnoreCount" xml:space="preserve">
+    <value>Huomiotta</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ObjectType" xml:space="preserve">
+    <value>Tietuetyyppi</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ProcessedCount" xml:space="preserve">
+    <value>Käsitellään</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_RecordCount" xml:space="preserve">
+    <value>Tietueet</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_Status" xml:space="preserve">
+    <value>Tila</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_ImportItem_ValidatedByRPlusVersion" xml:space="preserve">
+    <value>R + validointi versio</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_Customer" xml:space="preserve">
     <value>Asiakas</value>
   </data>

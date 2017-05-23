@@ -243,8 +243,14 @@
   <data name="Nav_DataMgmt_Export_Title" xml:space="preserve">
     <value>Tietojen vieminen</value>
   </data>
+  <data name="Nav_DataMgmt_FullTitle" xml:space="preserve">
+    <value>Tietojen hallinta</value>
+  </data>
   <data name="Nav_DataMgmt_Import_Title" xml:space="preserve">
     <value>Tietojen tuonti</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Title" xml:space="preserve">
+    <value>Tuonnin hallinta</value>
   </data>
   <data name="Nav_DataMgmt_Title" xml:space="preserve">
     <value>Tiedot</value>

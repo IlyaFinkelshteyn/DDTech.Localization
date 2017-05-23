@@ -169,6 +169,141 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Save.
+        /// </summary>
+        public static string Import_Button_Save {
+            get {
+                return ResourceManager.GetString("Import_Button_Save", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Validate.
+        /// </summary>
+        public static string Import_Button_Validate {
+            get {
+                return ResourceManager.GetString("Import_Button_Validate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bulk Edit.
+        /// </summary>
+        public static string Import_Nav_BulkEdit {
+            get {
+                return ResourceManager.GetString("Import_Nav_BulkEdit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Completed.
+        /// </summary>
+        public static string Import_Nav_Completed {
+            get {
+                return ResourceManager.GetString("Import_Nav_Completed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Errors.
+        /// </summary>
+        public static string Import_Nav_Errors {
+            get {
+                return ResourceManager.GetString("Import_Nav_Errors", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Failed.
+        /// </summary>
+        public static string Import_Nav_Failed {
+            get {
+                return ResourceManager.GetString("Import_Nav_Failed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New Upload.
+        /// </summary>
+        public static string Import_Nav_NewUpload {
+            get {
+                return ResourceManager.GetString("Import_Nav_NewUpload", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Succeeded.
+        /// </summary>
+        public static string Import_Nav_Succeeded {
+            get {
+                return ResourceManager.GetString("Import_Nav_Succeeded", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Summary.
+        /// </summary>
+        public static string Import_Nav_Summary {
+            get {
+                return ResourceManager.GetString("Import_Nav_Summary", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Files.
+        /// </summary>
+        public static string Import_Tabs_Files {
+            get {
+                return ResourceManager.GetString("Import_Tabs_Files", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Validation.
+        /// </summary>
+        public static string Import_Tabs_Validation {
+            get {
+                return ResourceManager.GetString("Import_Tabs_Validation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Additional Information.
+        /// </summary>
+        public static string Import_Validation_Info {
+            get {
+                return ResourceManager.GetString("Import_Validation_Info", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parsing Errors.
+        /// </summary>
+        public static string Import_Validation_ParsingErrors {
+            get {
+                return ResourceManager.GetString("Import_Validation_ParsingErrors", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Validation Errors.
+        /// </summary>
+        public static string Import_Validation_ValidationErrors {
+            get {
+                return ResourceManager.GetString("Import_Validation_ValidationErrors", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Validation Warnings.
+        /// </summary>
+        public static string Import_Validation_Warnings {
+            get {
+                return ResourceManager.GetString("Import_Validation_Warnings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Import Queue:.
         /// </summary>
         public static string ImportQueue {
