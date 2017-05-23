@@ -232,6 +232,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Processing.
+        /// </summary>
+        public static string Import_Nav_Processing {
+            get {
+                return ResourceManager.GetString("Import_Nav_Processing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Succeeded.
         /// </summary>
         public static string Import_Nav_Succeeded {
