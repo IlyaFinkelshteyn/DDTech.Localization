@@ -435,4 +435,10 @@
   <data name="DisplayLang_pt_pt" xml:space="preserve">
     <value>Portuguese (Portugal)</value>
   </data>
+  <data name="Nav_DataMgmt_FullTitle" xml:space="preserve">
+    <value>Data Management</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Title" xml:space="preserve">
+    <value>Import Management</value>
+  </data>
 </root>

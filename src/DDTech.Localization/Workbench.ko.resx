@@ -117,42 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="120Days" xml:space="preserve">
-    <value>120일</value>
-  </data>
-  <data name="13Weeks" xml:space="preserve">
-    <value>13주</value>
-  </data>
-  <data name="150Days" xml:space="preserve">
-    <value>150일</value>
-  </data>
-  <data name="15Days" xml:space="preserve">
-    <value>15일</value>
-  </data>
-  <data name="17Weeks" xml:space="preserve">
-    <value>17주</value>
-  </data>
-  <data name="180Days" xml:space="preserve">
-    <value>180일</value>
-  </data>
-  <data name="22Weeks" xml:space="preserve">
-    <value>22주</value>
-  </data>
-  <data name="26Weeks" xml:space="preserve">
-    <value>26주</value>
-  </data>
-  <data name="30Days" xml:space="preserve">
-    <value>30일</value>
-  </data>
-  <data name="60Days" xml:space="preserve">
-    <value>60일</value>
-  </data>
-  <data name="90Days" xml:space="preserve">
-    <value>90일</value>
-  </data>
-  <data name="9Weeks" xml:space="preserve">
-    <value>9주</value>
-  </data>
   <data name="AcceptSelectedOrders" xml:space="preserve">
     <value>선택 오더 수락</value>
   </data>
@@ -304,7 +268,7 @@
     <value>리드타임 단축으로 {0} 스케쥴 조정  </value>
   </data>
   <data name="Legend" xml:space="preserve">
-    <value>Legend:</value>
+    <value>전설:</value>
   </data>
   <data name="LocationFilter" xml:space="preserve">
     <value>Location 필터</value>

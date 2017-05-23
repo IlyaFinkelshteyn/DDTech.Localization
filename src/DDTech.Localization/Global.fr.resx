@@ -249,8 +249,14 @@
   <data name="Nav_DataMgmt_Export_Title" xml:space="preserve">
     <value>Exportation de données</value>
   </data>
+  <data name="Nav_DataMgmt_FullTitle" xml:space="preserve">
+    <value>Gestion des données</value>
+  </data>
   <data name="Nav_DataMgmt_Import_Title" xml:space="preserve">
     <value>Importation de données</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Title" xml:space="preserve">
+    <value>Gestion des importations</value>
   </data>
   <data name="Nav_DataMgmt_Title" xml:space="preserve">
     <value>Données</value>

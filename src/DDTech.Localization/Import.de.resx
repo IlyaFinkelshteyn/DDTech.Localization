@@ -153,6 +153,51 @@
   <data name="FilesDeletedSuccessfully" xml:space="preserve">
     <value>Dateien erfolgreich gelöscht</value>
   </data>
+  <data name="Import_Button_Save" xml:space="preserve">
+    <value>Speichern</value>
+  </data>
+  <data name="Import_Button_Validate" xml:space="preserve">
+    <value>Validieren</value>
+  </data>
+  <data name="Import_Nav_BulkEdit" xml:space="preserve">
+    <value>Massenbearbeitung</value>
+  </data>
+  <data name="Import_Nav_Completed" xml:space="preserve">
+    <value>Abgeschlossen</value>
+  </data>
+  <data name="Import_Nav_Errors" xml:space="preserve">
+    <value>Fehler</value>
+  </data>
+  <data name="Import_Nav_Failed" xml:space="preserve">
+    <value>Fehler beim</value>
+  </data>
+  <data name="Import_Nav_NewUpload" xml:space="preserve">
+    <value>Neue Upload</value>
+  </data>
+  <data name="Import_Nav_Succeeded" xml:space="preserve">
+    <value>Ist es gelungen</value>
+  </data>
+  <data name="Import_Nav_Summary" xml:space="preserve">
+    <value>Zusammenfassung</value>
+  </data>
+  <data name="Import_Tabs_Files" xml:space="preserve">
+    <value>Dateien</value>
+  </data>
+  <data name="Import_Tabs_Validation" xml:space="preserve">
+    <value>Validierung</value>
+  </data>
+  <data name="Import_Validation_Info" xml:space="preserve">
+    <value>Zusatzinformationen</value>
+  </data>
+  <data name="Import_Validation_ParsingErrors" xml:space="preserve">
+    <value>Analysefehler</value>
+  </data>
+  <data name="Import_Validation_ValidationErrors" xml:space="preserve">
+    <value>Validierungsfehler</value>
+  </data>
+  <data name="Import_Validation_Warnings" xml:space="preserve">
+    <value>Validierung-Warnungen</value>
+  </data>
   <data name="ImportQueue" xml:space="preserve">
     <value>Import-Warteschlange:</value>
   </data>

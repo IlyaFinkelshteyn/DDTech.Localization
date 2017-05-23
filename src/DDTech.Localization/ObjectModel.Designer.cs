@@ -196,6 +196,150 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Date Completed.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_Import_DateCompletedUtc {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_Import_DateCompletedUtc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Job Status.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_Import_Status {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_Import_Status", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parsing Errors.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_Import_TotalParsingErrors {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_Import_TotalParsingErrors", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Validation Errors.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_Import_TotalValidationErrors {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_Import_TotalValidationErrors", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Validation Information.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_Import_TotalValidationInfo {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_Import_TotalValidationInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Validation Warnings.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_Import_TotalValidationWarnings {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_Import_TotalValidationWarnings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to User Name.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_Import_UserName {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_Import_UserName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Date Uploaded.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_ImportItem_DateUploadedUtc {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_ImportItem_DateUploadedUtc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Date Validated.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_ImportItem_DateValidatedUtc {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_ImportItem_DateValidatedUtc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to File Name.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_ImportItem_FileName {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_ImportItem_FileName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ignored.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_ImportItem_IgnoreCount {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_ImportItem_IgnoreCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Record Type.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_ImportItem_ObjectType {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_ImportItem_ObjectType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Processed.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_ImportItem_ProcessedCount {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_ImportItem_ProcessedCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Records.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_ImportItem_RecordCount {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_ImportItem_RecordCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Status.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_ImportItem_Status {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_ImportItem_Status", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to R+ Validation Version.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_ImportItem_ValidatedByRPlusVersion {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_ImportItem_ValidatedByRPlusVersion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Customer.
         /// </summary>
         public static string DDTech_RPlus_DTO_Engine_Order_Customer {
