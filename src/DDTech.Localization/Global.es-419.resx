@@ -255,6 +255,24 @@
   <data name="Nav_DataMgmt_Import_Title" xml:space="preserve">
     <value>Importación de datos</value>
   </data>
+  <data name="Nav_DataMgmt_ImportMgmt_All_Title" xml:space="preserve">
+    <value>Todos</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Completed_Title" xml:space="preserve">
+    <value>Completado</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Failed_Title" xml:space="preserve">
+    <value>No se pudo</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_NewUpload_Title" xml:space="preserve">
+    <value>Nuevo Upload</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Processing_Title" xml:space="preserve">
+    <value>Procesamiento de</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Succeeded_Title" xml:space="preserve">
+    <value>Tuvo éxito</value>
+  </data>
   <data name="Nav_DataMgmt_ImportMgmt_Title" xml:space="preserve">
     <value>Gestión de importaciones</value>
   </data>

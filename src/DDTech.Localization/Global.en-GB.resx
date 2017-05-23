@@ -249,6 +249,24 @@
   <data name="Nav_DataMgmt_Import_Title" xml:space="preserve">
     <value>Data Import</value>
   </data>
+  <data name="Nav_DataMgmt_ImportMgmt_All_Title" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Completed_Title" xml:space="preserve">
+    <value>Completed</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Failed_Title" xml:space="preserve">
+    <value>Failed</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_NewUpload_Title" xml:space="preserve">
+    <value>New Upload</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Processing_Title" xml:space="preserve">
+    <value>Processing</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Succeeded_Title" xml:space="preserve">
+    <value>Succeeded</value>
+  </data>
   <data name="Nav_DataMgmt_ImportMgmt_Title" xml:space="preserve">
     <value>Import Management</value>
   </data>

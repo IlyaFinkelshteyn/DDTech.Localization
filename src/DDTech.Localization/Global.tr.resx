@@ -255,6 +255,24 @@
   <data name="Nav_DataMgmt_Import_Title" xml:space="preserve">
     <value>Veri içe aktarma</value>
   </data>
+  <data name="Nav_DataMgmt_ImportMgmt_All_Title" xml:space="preserve">
+    <value>Tüm</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Completed_Title" xml:space="preserve">
+    <value>Tamamlandı</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Failed_Title" xml:space="preserve">
+    <value>Başarısız oldu</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_NewUpload_Title" xml:space="preserve">
+    <value>Yeni Upload</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Processing_Title" xml:space="preserve">
+    <value>İşleme</value>
+  </data>
+  <data name="Nav_DataMgmt_ImportMgmt_Succeeded_Title" xml:space="preserve">
+    <value>Başarılı oldu</value>
+  </data>
   <data name="Nav_DataMgmt_ImportMgmt_Title" xml:space="preserve">
     <value>İthalat yönetimi</value>
   </data>

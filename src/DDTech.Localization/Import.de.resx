@@ -174,6 +174,9 @@
   <data name="Import_Nav_NewUpload" xml:space="preserve">
     <value>Neue Upload</value>
   </data>
+  <data name="Import_Nav_Processing" xml:space="preserve">
+    <value>Verarbeitung</value>
+  </data>
   <data name="Import_Nav_Succeeded" xml:space="preserve">
     <value>Ist es gelungen</value>
   </data>

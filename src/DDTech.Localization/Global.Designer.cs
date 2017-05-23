@@ -457,6 +457,60 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to All.
+        /// </summary>
+        public static string Nav_DataMgmt_ImportMgmt_All_Title {
+            get {
+                return ResourceManager.GetString("Nav_DataMgmt_ImportMgmt_All_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Completed.
+        /// </summary>
+        public static string Nav_DataMgmt_ImportMgmt_Completed_Title {
+            get {
+                return ResourceManager.GetString("Nav_DataMgmt_ImportMgmt_Completed_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Failed.
+        /// </summary>
+        public static string Nav_DataMgmt_ImportMgmt_Failed_Title {
+            get {
+                return ResourceManager.GetString("Nav_DataMgmt_ImportMgmt_Failed_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New Upload.
+        /// </summary>
+        public static string Nav_DataMgmt_ImportMgmt_NewUpload_Title {
+            get {
+                return ResourceManager.GetString("Nav_DataMgmt_ImportMgmt_NewUpload_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Processing.
+        /// </summary>
+        public static string Nav_DataMgmt_ImportMgmt_Processing_Title {
+            get {
+                return ResourceManager.GetString("Nav_DataMgmt_ImportMgmt_Processing_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Succeeded.
+        /// </summary>
+        public static string Nav_DataMgmt_ImportMgmt_Succeeded_Title {
+            get {
+                return ResourceManager.GetString("Nav_DataMgmt_ImportMgmt_Succeeded_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Import Management.
         /// </summary>
         public static string Nav_DataMgmt_ImportMgmt_Title {
