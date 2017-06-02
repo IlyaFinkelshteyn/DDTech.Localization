@@ -186,6 +186,9 @@
   <data name="LanguageDropDown_CurrentLanguage" xml:space="preserve">
     <value>현재 언어</value>
   </data>
+  <data name="Nav_About_HistoricalChangeLog" xml:space="preserve">
+    <value>역사 변경 로그</value>
+  </data>
   <data name="Nav_About_Title" xml:space="preserve">
     <value>About</value>
   </data>

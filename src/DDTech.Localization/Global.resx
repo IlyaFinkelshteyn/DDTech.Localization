@@ -459,4 +459,7 @@
   <data name="Nav_DataMgmt_ImportMgmt_Succeeded_Title" xml:space="preserve">
     <value>Succeeded</value>
   </data>
+  <data name="Nav_About_HistoricalChangeLog" xml:space="preserve">
+    <value>Historical Change Log</value>
+  </data>
 </root>

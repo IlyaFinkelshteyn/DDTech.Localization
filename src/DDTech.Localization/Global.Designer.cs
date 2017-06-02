@@ -268,6 +268,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Historical Change Log.
+        /// </summary>
+        public static string Nav_About_HistoricalChangeLog {
+            get {
+                return ResourceManager.GetString("Nav_About_HistoricalChangeLog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to About.
         /// </summary>
         public static string Nav_About_Title {
