@@ -61,11 +61,47 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Change History from R+ 4.3.x.
+        /// </summary>
+        public static string ChangeHistoryRPlus43x {
+            get {
+                return ResourceManager.GetString("ChangeHistoryRPlus43x", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Historical Change Log.
+        /// </summary>
+        public static string HistoricalChangeLog {
+            get {
+                return ResourceManager.GetString("HistoricalChangeLog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 4.3.x ChangeLog.
+        /// </summary>
+        public static string RPlus43xChangeLog {
+            get {
+                return ResourceManager.GetString("RPlus43xChangeLog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to R+ Summary.
         /// </summary>
         public static string RPlusSummary {
             get {
                 return ResourceManager.GetString("RPlusSummary", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to See all historical changes.
+        /// </summary>
+        public static string SeeAllHistoricalChanges {
+            get {
+                return ResourceManager.GetString("SeeAllHistoricalChanges", resourceCulture);
             }
         }
     }

@@ -117,7 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ChangeHistoryRPlus43x" xml:space="preserve">
+    <value>Histórico de alterações do R + 4.3. x</value>
+  </data>
+  <data name="HistoricalChangeLog" xml:space="preserve">
+    <value>Registro da mudança histórica</value>
+  </data>
+  <data name="RPlus43xChangeLog" xml:space="preserve">
+    <value>4.3. x ChangeLog</value>
+  </data>
   <data name="RPlusSummary" xml:space="preserve">
     <value>R + Resumo</value>
+  </data>
+  <data name="SeeAllHistoricalChanges" xml:space="preserve">
+    <value>Ver todas as mudanças históricas</value>
   </data>
 </root>
