@@ -184,7 +184,7 @@
     <value>Horizon de demande (jours)</value>
   </data>
   <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
-    <value>Ce paramètre limitera l'horizon de prise en compte de la demande pour les articles avec buffer. Ex: paramètre mis à 5 (jours), c'est la demande des 5 prochains jours qui sera prise en compte dans l'équation de flux disponible. Si la valeur est '0', R + ne prend en compte que la demande passée et celle du jour. Si la valeur est '-1' (désactivé), aucune demande ne sera prise en compte.</value>
+    <value>Ce paramètre limitera l'horizon de prise en compte de la demande pour les articles avec buffer. Ex: paramètre mis à 5 (jours), c'est la demande des 5 prochains jours qui sera prise en compte dans l'équation de flux disponible (en plus du passé et de celle du jour). Si la valeur est '0', R + ne prend en compte que la demande passée et celle du jour. Si la valeur est '-1' (désactivé), aucune demande ne sera prise en compte.</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Format numérique attendu</value>
@@ -196,7 +196,7 @@
     <value>Semaines de prévision de la demande</value>
   </data>
   <data name="Settings_Global_AllowedImportFields" xml:space="preserve">
-    <value>Permis d’importation champs</value>
+    <value>Champs autorisés à l'import</value>
   </data>
   <data name="Settings_Global_BuffersAndOrderProcessing" xml:space="preserve">
     <value>Buffer et traitement des commandes</value>

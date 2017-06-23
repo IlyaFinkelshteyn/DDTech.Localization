@@ -160,7 +160,7 @@
     <value>Valider</value>
   </data>
   <data name="Import_Nav_BulkEdit" xml:space="preserve">
-    <value>Bulk Edit</value>
+    <value>Modification en masse</value>
   </data>
   <data name="Import_Nav_Completed" xml:space="preserve">
     <value>Terminé</value>

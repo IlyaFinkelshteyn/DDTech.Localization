@@ -184,7 +184,7 @@
     <value>Nom d’utilisateur</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_ImportItem_DateUploadedUtc" xml:space="preserve">
-    <value>Posté</value>
+    <value>Date de téléchargement</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_ImportItem_DateValidatedUtc" xml:space="preserve">
     <value>Date validée</value>
@@ -193,22 +193,22 @@
     <value>Nom de fichier</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_ImportItem_IgnoreCount" xml:space="preserve">
-    <value>Ignorés</value>
+    <value>Ignoré</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_ImportItem_ObjectType" xml:space="preserve">
     <value>Type d’enregistrement</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_ImportItem_ProcessedCount" xml:space="preserve">
-    <value>Traitées</value>
+    <value>Traité</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_ImportItem_RecordCount" xml:space="preserve">
-    <value>Comptes rendus</value>
+    <value>Enregistrements  </value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_ImportItem_Status" xml:space="preserve">
     <value>Statut</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_ImportItem_ValidatedByRPlusVersion" xml:space="preserve">
-    <value>R + Validation Version</value>
+    <value>Validation de la version R+</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Order_Customer" xml:space="preserve">
     <value>Client</value>
@@ -229,7 +229,7 @@
     <value>Numéro de commande</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_AlertHorizon" xml:space="preserve">
-    <value>Alerte Horizon</value>
+    <value>Horizon de l'alerte</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_AverageDailyUsage" xml:space="preserve">
     <value>CMJ</value>

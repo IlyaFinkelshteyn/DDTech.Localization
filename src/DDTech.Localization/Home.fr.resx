@@ -121,15 +121,15 @@
     <value>Historique des modifications de R + 4.3.x</value>
   </data>
   <data name="HistoricalChangeLog" xml:space="preserve">
-    <value>Journal des modifications historiques</value>
+    <value>Journal des modifications de l'historique</value>
   </data>
   <data name="RPlus43xChangeLog" xml:space="preserve">
-    <value>ChangeLog 4.3.x</value>
+    <value>Journal des modifications 4.3.x</value>
   </data>
   <data name="RPlusSummary" xml:space="preserve">
     <value>Résumé R+</value>
   </data>
   <data name="SeeAllHistoricalChanges" xml:space="preserve">
-    <value>Voir tous les changements historiques</value>
+    <value>Voir tous les changements de l'historique</value>
   </data>
 </root>
