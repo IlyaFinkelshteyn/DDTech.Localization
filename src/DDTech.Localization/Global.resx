@@ -462,4 +462,7 @@
   <data name="Nav_About_HistoricalChangeLog" xml:space="preserve">
     <value>Historical Change Log</value>
   </data>
+  <data name="Nav_Data" xml:space="preserve">
+    <value>Data</value>
+  </data>
 </root>

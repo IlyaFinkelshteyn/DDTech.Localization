@@ -439,6 +439,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Data.
+        /// </summary>
+        public static string Nav_Data {
+            get {
+                return ResourceManager.GetString("Nav_Data", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Data Export.
         /// </summary>
         public static string Nav_DataMgmt_Export_Title {
