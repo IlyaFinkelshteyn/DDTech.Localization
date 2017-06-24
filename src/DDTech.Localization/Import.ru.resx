@@ -120,17 +120,41 @@
   <data name="AddFiles" xml:space="preserve">
     <value>Добавить файлы</value>
   </data>
+  <data name="AllFieldsAreAccepted" xml:space="preserve">
+    <value>Принимаются все поля</value>
+  </data>
   <data name="AllfilesOK" xml:space="preserve">
     <value>Все файлы OK</value>
+  </data>
+  <data name="allowedfields" xml:space="preserve">
+    <value>допустимые поля</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Отмена</value>
   </data>
+  <data name="Complete" xml:space="preserve">
+    <value>Завершить</value>
+  </data>
+  <data name="ConfigurationImport" xml:space="preserve">
+    <value>Импорт конфигурации</value>
+  </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Подтверждение удаления</value>
   </data>
+  <data name="Continue" xml:space="preserve">
+    <value>Продолжить</value>
+  </data>
   <data name="DataImport" xml:space="preserve">
     <value>Импорт данных</value>
+  </data>
+  <data name="DataNotValidated" xml:space="preserve">
+    <value>Данные еще не протестирована</value>
+  </data>
+  <data name="DataValidationFailed" xml:space="preserve">
+    <value>Проверка данных не удалась</value>
+  </data>
+  <data name="DataValidationPassed" xml:space="preserve">
+    <value>Проверка данных прошло</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Удалить</value>
@@ -208,16 +232,28 @@
     <value>Импорт</value>
   </data>
   <data name="InstructionsForUnIdentified" xml:space="preserve">
-    <value>Пожалуйста</value>
+    <value>Пожалуйста, убедитесь, что настройки системного обмена данными указаны правильно.</value>
   </data>
   <data name="KeyDeletedSuccessfully" xml:space="preserve">
     <value>Удалено</value>
+  </data>
+  <data name="NewRecordsIncludeAllFields" xml:space="preserve">
+    <value>Новые записи включают все поля</value>
   </data>
   <data name="NoDataToDisplay" xml:space="preserve">
     <value>Нет данных для отображения</value>
   </data>
   <data name="OK" xml:space="preserve">
     <value>Хорошо</value>
+  </data>
+  <data name="ParsingErrors" xml:space="preserve">
+    <value>Ошибки синтаксического анализа</value>
+  </data>
+  <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
+    <value>Ознакомьтесь перед</value>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>Предыдущий</value>
   </data>
   <data name="Processing" xml:space="preserve">
     <value>Обработка</value>
@@ -232,16 +268,34 @@
     <value>{0} записи были проигнорированы из-за конфигурации политики</value>
   </data>
   <data name="RegionSettingsDescribed" xml:space="preserve">
-    <value>Региональные параметры применяются к файлам загрузки и не импорта.</value>
+    <value>Региональные настройки применяются к файлам при загрузке, а не к импорту.</value>
+  </data>
+  <data name="ReplacesOrUpdatesRPlusConfiguration" xml:space="preserve">
+    <value>Заменяет или обновления конфигурации R +</value>
   </data>
   <data name="Reset" xml:space="preserve">
     <value>Сброс</value>
+  </data>
+  <data name="SaveAndContinue" xml:space="preserve">
+    <value>Сохранить и продолжить</value>
+  </data>
+  <data name="SelectMode" xml:space="preserve">
+    <value>Выберите режим</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Параметры</value>
   </data>
   <data name="Size" xml:space="preserve">
     <value>Размер</value>
+  </data>
+  <data name="StartAndIgnoreErrors" xml:space="preserve">
+    <value>Начало &amp; игнорировать ошибки</value>
+  </data>
+  <data name="StartAnotherUpload" xml:space="preserve">
+    <value>Начать загрузку другой</value>
+  </data>
+  <data name="SystemImport" xml:space="preserve">
+    <value>SystemImport</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Тест</value>
@@ -252,10 +306,31 @@
   <data name="Type" xml:space="preserve">
     <value>Тип</value>
   </data>
+  <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
+    <value>Обновленные записи включают только</value>
+  </data>
+  <data name="UploadData" xml:space="preserve">
+    <value>Передача данных</value>
+  </data>
   <data name="Uploaded" xml:space="preserve">
     <value>Загрузка завершена</value>
   </data>
   <data name="Uploading" xml:space="preserve">
     <value>Загрузка</value>
+  </data>
+  <data name="UploadMoreData" xml:space="preserve">
+    <value>Загрузить дополнительные данные</value>
+  </data>
+  <data name="ValidateData" xml:space="preserve">
+    <value>Проверка данных</value>
+  </data>
+  <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
+    <value>Проверка ваших данных до их импорта рекомендуется</value>
+  </data>
+  <data name="ValidationResults" xml:space="preserve">
+    <value>Результаты проверки</value>
+  </data>
+  <data name="YourImportIsComplete" xml:space="preserve">
+    <value>Импорт завершен</value>
   </data>
 </root>

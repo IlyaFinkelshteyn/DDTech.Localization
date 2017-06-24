@@ -133,10 +133,10 @@
     <value>Лицензированных объектов</value>
   </data>
   <data name="LicenseExpired" xml:space="preserve">
-    <value>R+ лицензии истек.</value>
+    <value>Срок действия лицензии R + истек</value>
   </data>
   <data name="LicenseInvalid" xml:space="preserve">
-    <value>R+ лицензия недействительным.</value>
+    <value>R+ лицензия недействительна.</value>
   </data>
   <data name="LicenseValidForever" xml:space="preserve">
     <value>R+ подписка действительна навсегда</value>
@@ -145,7 +145,7 @@
     <value>R+ подписка действительна до</value>
   </data>
   <data name="NewLicenseUploaded" xml:space="preserve">
-    <value>Новый R+ лицензия успешно загружены</value>
+    <value>Новая R+ лицензия успешно загружена</value>
   </data>
   <data name="NoModulesPurchased" xml:space="preserve">
     <value>Без дополнительных модулей, которые приобрели</value>

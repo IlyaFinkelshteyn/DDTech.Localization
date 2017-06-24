@@ -151,7 +151,7 @@
     <value>{CDAFDaysCoverage} дней</value>
   </data>
   <data name="CycleDayAdjustmentFactorToolTip" xml:space="preserve">
-    <value>Помните, что только дату начала ЦДВС будет потянул вперед R + время для того, чтобы проверить эффективность.</value>
+    <value>Помните, что только начальная дата CDAF будет вытягиваться вперед с помощью R + Lead Time, чтобы проверить эффективность.</value>
   </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Дни</value>
@@ -220,7 +220,7 @@
     <value>Примечания</value>
   </data>
   <data name="OrderCycleOverride" xml:space="preserve">
-    <value>Измен. цыкла заказа</value>
+    <value>Измен. цикла заказа</value>
   </data>
   <data name="OrderMultiple" xml:space="preserve">
     <value>Кратность заказа</value>

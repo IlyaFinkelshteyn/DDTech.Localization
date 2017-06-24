@@ -2636,7 +2636,9 @@
     <None Include="..\DDTech.Localization.snk">
       <Link>DDTech.Localization.snk</Link>
     </None>
-    <None Include="DDTech.Localization.nuspec" />
+    <None Include="DDTech.Localization.nuspec">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

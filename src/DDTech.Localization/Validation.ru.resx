@@ -130,7 +130,7 @@
     <value>«{PropertyName}» должен быть больше или равен «{PropertyValue}»</value>
   </data>
   <data name="InvalidBufferProfile" xml:space="preserve">
-    <value>Значение должно быть допустимым буфера профиль</value>
+    <value>Значение должно быть действительным  профилем буфера</value>
   </data>
   <data name="InvalidCdaf" xml:space="preserve">
     <value>Значение должно содержать допустимый цикла день корректировки факторов (ЦДВС)</value>
@@ -142,21 +142,21 @@
     <value>Значение должно быть допустимым InventoryMethod</value>
   </data>
   <data name="InvalidPaf" xml:space="preserve">
-    <value>Значение должно быть допустимым планируется регулировка фактор (суп)</value>
+    <value>Значение должно быть действительным плановым коэффициентом корректировки (PAF)</value>
   </data>
   <data name="LessThanOrEqualToFormat" xml:space="preserve">
     <value>«{PropertyName}» должен быть меньше или равным «{PropertyValue}»</value>
   </data>
   <data name="LessThanOrEqualToWithDefaultValueFormat" xml:space="preserve">
-    <value>«{PropertyName}» должен быть меньше или равным «{BadValue}» и был сброшен к «{DefaultValue}»</value>
+    <value>«{PropertyName}» должен быть меньше или равным «{BadValue}» и сбрасываться до «{DefaultValue}»</value>
   </data>
   <data name="MustBeEvenlyDivisbleWithDefaultValueFormat" xml:space="preserve">
-    <value>«{PropertyName}» должны быть равномерно делится на «{BadValue}» и был сброшен к «{DefaultValue}»</value>
+    <value>«{PropertyName}» должен быть равномерно делимым на «{BadValue}» и сбрасываться до «{DefaultValue}»</value>
   </data>
   <data name="notnullorwhitespace_error" xml:space="preserve">
     <value>«{PropertyName}» не должен быть null или содержать пробелы.</value>
   </data>
   <data name="OutOfRangeWithDefaultValueFormat" xml:space="preserve">
-    <value>«{PropertyName}» вне диапазона и был сбросить в «{DefaultValue}»</value>
+    <value>«{PropertyName}» вне диапазона и сбрасывается до «{DefaultValue}»</value>
   </data>
 </root>

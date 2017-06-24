@@ -120,17 +120,41 @@
   <data name="AddFiles" xml:space="preserve">
     <value>Ajouter des fichiers</value>
   </data>
+  <data name="AllFieldsAreAccepted" xml:space="preserve">
+    <value>Tous les champs sont acceptés</value>
+  </data>
   <data name="AllfilesOK" xml:space="preserve">
     <value>Tous les fichiers sont OK</value>
+  </data>
+  <data name="allowedfields" xml:space="preserve">
+    <value>champs autorisés</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Annuler</value>
   </data>
+  <data name="Complete" xml:space="preserve">
+    <value>Toutes les</value>
+  </data>
+  <data name="ConfigurationImport" xml:space="preserve">
+    <value>Importation de la configuration</value>
+  </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Confirmer la suppression</value>
   </data>
+  <data name="Continue" xml:space="preserve">
+    <value>Continuer</value>
+  </data>
   <data name="DataImport" xml:space="preserve">
     <value>Import des données</value>
+  </data>
+  <data name="DataNotValidated" xml:space="preserve">
+    <value>Données n’ont pas été validées</value>
+  </data>
+  <data name="DataValidationFailed" xml:space="preserve">
+    <value>Validation des données a échoué</value>
+  </data>
+  <data name="DataValidationPassed" xml:space="preserve">
+    <value>Validation des données transmise</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Supprimer</value>
@@ -160,7 +184,7 @@
     <value>Valider</value>
   </data>
   <data name="Import_Nav_BulkEdit" xml:space="preserve">
-    <value>Bulk Edit</value>
+    <value>Modification en masse</value>
   </data>
   <data name="Import_Nav_Completed" xml:space="preserve">
     <value>Terminé</value>
@@ -213,11 +237,23 @@
   <data name="KeyDeletedSuccessfully" xml:space="preserve">
     <value>Supprimé avec succès</value>
   </data>
+  <data name="NewRecordsIncludeAllFields" xml:space="preserve">
+    <value>Nouveaux enregistrements comprennent tous les champs</value>
+  </data>
   <data name="NoDataToDisplay" xml:space="preserve">
     <value>Aucune donnée</value>
   </data>
   <data name="OK" xml:space="preserve">
     <value>Ok</value>
+  </data>
+  <data name="ParsingErrors" xml:space="preserve">
+    <value>Erreurs d’analyse</value>
+  </data>
+  <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
+    <value>Veuillez consulter le bulletin avant de procéder</value>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>Précédent</value>
   </data>
   <data name="Processing" xml:space="preserve">
     <value>Traitement</value>
@@ -234,14 +270,32 @@
   <data name="RegionSettingsDescribed" xml:space="preserve">
     <value>Les paramètres régionaux sont appliqués aux fichiers lors du téléchargement et non à l’importation.</value>
   </data>
+  <data name="ReplacesOrUpdatesRPlusConfiguration" xml:space="preserve">
+    <value>Remplace ou met à jour la configuration R +</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Remise à zéro</value>
+  </data>
+  <data name="SaveAndContinue" xml:space="preserve">
+    <value>Enregistrer et continuer</value>
+  </data>
+  <data name="SelectMode" xml:space="preserve">
+    <value>Sélectionnez le mode</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Paramètres</value>
   </data>
   <data name="Size" xml:space="preserve">
     <value>Taille</value>
+  </data>
+  <data name="StartAndIgnoreErrors" xml:space="preserve">
+    <value>Commencer &amp; ignorer les erreurs</value>
+  </data>
+  <data name="StartAnotherUpload" xml:space="preserve">
+    <value>Démarrer un autre Upload</value>
+  </data>
+  <data name="SystemImport" xml:space="preserve">
+    <value>SystemImport</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Tester</value>
@@ -252,10 +306,31 @@
   <data name="Type" xml:space="preserve">
     <value>Type</value>
   </data>
+  <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
+    <value>Mise à jour des enregistrements comprennent seulement</value>
+  </data>
+  <data name="UploadData" xml:space="preserve">
+    <value>Télécharger les données</value>
+  </data>
   <data name="Uploaded" xml:space="preserve">
     <value>Chargé</value>
   </data>
   <data name="Uploading" xml:space="preserve">
     <value>Téléchargement</value>
+  </data>
+  <data name="UploadMoreData" xml:space="preserve">
+    <value>Télécharger les données plus</value>
+  </data>
+  <data name="ValidateData" xml:space="preserve">
+    <value>Valider les données</value>
+  </data>
+  <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
+    <value>Valider votre avant de données à importer est recommandé</value>
+  </data>
+  <data name="ValidationResults" xml:space="preserve">
+    <value>Résultats de la validation</value>
+  </data>
+  <data name="YourImportIsComplete" xml:space="preserve">
+    <value>Votre importation est terminée</value>
   </data>
 </root>

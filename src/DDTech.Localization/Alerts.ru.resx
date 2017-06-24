@@ -127,19 +127,19 @@
     <value>Коэфф. сезон. (PAF)</value>
   </data>
   <data name="Alerts_Menu_ViewInLegacyAlerts" xml:space="preserve">
-    <value>Просмотр в наследие оповещения</value>
+    <value>Просмотреть в предупреждениях</value>
   </data>
   <data name="AlertSeverity_Critical" xml:space="preserve">
     <value>Критический</value>
   </data>
   <data name="AlertSeverity_High" xml:space="preserve">
-    <value>Высокая</value>
+    <value>Высокий</value>
   </data>
   <data name="AlertSeverity_Low" xml:space="preserve">
-    <value>Низкая</value>
+    <value>Низкий</value>
   </data>
   <data name="AlertSeverity_Lowest" xml:space="preserve">
-    <value>Самая низкая</value>
+    <value>Самый низкий</value>
   </data>
   <data name="AlertSeverity_Medium" xml:space="preserve">
     <value>Средний</value>
@@ -274,7 +274,7 @@
     <value>Синхронизация - Высокий</value>
   </data>
   <data name="NoAlertSelected" xml:space="preserve">
-    <value>Пожалуйста</value>
+    <value>Пожалуйста, выберите оповещение</value>
   </data>
   <data name="NoExecutionAlerts" xml:space="preserve">
     <value>Нет оповещений</value>
@@ -397,13 +397,13 @@
     <value>Есть ожидаемые поставки и спрос в течение Lead Time</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
-    <value>QOH (тек. запас) = 0 и если доступный запас = 0 в любое время в рамках одного Lead Time</value>
+    <value />
   </data>
   <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
     <value>Есть спрос в рамках одного Lead Time</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
-    <value>QOH (тек. запас) = 0 и если доступный запас = % красной зоны в любое время в рамках одного Lead Time</value>
+    <value />
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
     <value>Текущий отрицательный баланс</value>

@@ -297,7 +297,13 @@
             "ID": "ID",
             "ToG": "ToG",
             "ToY": "ToY",
-            "ToR": "ToR"
+            "ToR": "ToR",
+            "R+ Lead Time": "R+ Lead Time",
+            "R+ Lead Time:": "R+ Lead Time:",
+            "Lead Time": "Lead Time",
+            "Lead Time:": "Lead Time:",
+            "Rev": "Rev",
+            "rev": "rev"
         },
         "tr": {
             "ToG": "ToG",

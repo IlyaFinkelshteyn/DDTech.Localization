@@ -262,7 +262,7 @@
     <value>Запаздывание </value>
   </data>
   <data name="LeadTime" xml:space="preserve">
-    <value>Время упреждения</value>
+    <value>Lead Time</value>
   </data>
   <data name="LeadTimeCompression" xml:space="preserve">
     <value>Изменение графика на {0} дней в связи с cжатием Lead Time</value>
@@ -292,7 +292,7 @@
     <value>Мин/Макс</value>
   </data>
   <data name="NBAndLTMPartsNoSizingValues" xml:space="preserve">
-    <value>Ккомплектующие под заказ(LTM) и не буферезируемые(NB) не имеют размера буфера</value>
+    <value>Комплектующие под заказ(LTM) и не буферезируемые(NB) не имеют размера буфера</value>
   </data>
   <data name="NonBuffered" xml:space="preserve">
     <value>Без буфера (NB)</value>
@@ -316,7 +316,7 @@
     <value>Заказ в производство</value>
   </data>
   <data name="OrderCycleOverride" xml:space="preserve">
-    <value>Измен. цыкла заказа</value>
+    <value>Измен. цикла заказа</value>
   </data>
   <data name="OrderDueDate" xml:space="preserve">
     <value>Дата выполнения заказа</value>
@@ -394,7 +394,7 @@
     <value>Требуемая дата</value>
   </data>
   <data name="RPlusLeadTime" xml:space="preserve">
-    <value>R + время</value>
+    <value>R+ Lead Time</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Текущий остаток</value>
@@ -469,13 +469,13 @@
     <value>Количество может быть скорректирована с соотношение политики настроен порядок</value>
   </data>
   <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
-    <value>Вы уверены</value>
+    <value>Вы уверены, что хотите продолжить?</value>
   </data>
   <data name="Workbench_CustomOrder_InvalidSelection" xml:space="preserve">
     <value>Недопустимый выбор</value>
   </data>
   <data name="Workbench_CustomOrder_PleaseEnterOrderQuantity" xml:space="preserve">
-    <value>«Пожалуйста</value>
+    <value>"Пожалуйста, укажите количество заказа"</value>
   </data>
   <data name="Workbench_CustomOrder_QuantityLargerThanRecommended" xml:space="preserve">
     <value>Количество превышает рекомендуемое значение</value>
@@ -493,7 +493,7 @@
     <value>Справка</value>
   </data>
   <data name="Workbench_Menu_ViewInLegacyWorkbench" xml:space="preserve">
-    <value>Просмотр в наследие верстак</value>
+    <value>Просмотр в Legacy Workbench</value>
   </data>
   <data name="Workbench_NoBillOfMaterial" xml:space="preserve">
     <value>У номенклатуры нет спецификации</value>
@@ -544,7 +544,7 @@
     <value>Дополнительные поля</value>
   </data>
   <data name="Workbench_PleaseSelectPart" xml:space="preserve">
-    <value>Пожалуйста</value>
+    <value>Пожалуйст, выберите номенклатуру</value>
   </data>
   <data name="Workbench_RecommendationsMarkedForApproval" xml:space="preserve">
     <value>заказ (-ов)  для подтверждения</value>

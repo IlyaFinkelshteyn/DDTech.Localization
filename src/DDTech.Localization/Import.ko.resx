@@ -120,17 +120,41 @@
   <data name="AddFiles" xml:space="preserve">
     <value>파일 추가</value>
   </data>
+  <data name="AllFieldsAreAccepted" xml:space="preserve">
+    <value>모든 필드는 허용</value>
+  </data>
   <data name="AllfilesOK" xml:space="preserve">
     <value>모든 파일 OK</value>
+  </data>
+  <data name="allowedfields" xml:space="preserve">
+    <value>허용 된 필드</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>취소</value>
   </data>
+  <data name="Complete" xml:space="preserve">
+    <value>완료</value>
+  </data>
+  <data name="ConfigurationImport" xml:space="preserve">
+    <value>구성 가져오기</value>
+  </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>삭제 확인</value>
   </data>
+  <data name="Continue" xml:space="preserve">
+    <value>계속</value>
+  </data>
   <data name="DataImport" xml:space="preserve">
     <value>데이터 가져오기</value>
+  </data>
+  <data name="DataNotValidated" xml:space="preserve">
+    <value>데이터 검증 되지 않은</value>
+  </data>
+  <data name="DataValidationFailed" xml:space="preserve">
+    <value>데이터 유효성 검사 실패</value>
+  </data>
+  <data name="DataValidationPassed" xml:space="preserve">
+    <value>데이터 유효성 검사 통과</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>삭제</value>
@@ -213,11 +237,23 @@
   <data name="KeyDeletedSuccessfully" xml:space="preserve">
     <value>삭제 완료</value>
   </data>
+  <data name="NewRecordsIncludeAllFields" xml:space="preserve">
+    <value>새 레코드 모든 필드를 포함</value>
+  </data>
   <data name="NoDataToDisplay" xml:space="preserve">
     <value>데이터 없음</value>
   </data>
   <data name="OK" xml:space="preserve">
     <value>괜찮았던 것</value>
+  </data>
+  <data name="ParsingErrors" xml:space="preserve">
+    <value>구문 분석 오류</value>
+  </data>
+  <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
+    <value>계속 하기 전에 검토 하십시오</value>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>이전</value>
   </data>
   <data name="Processing" xml:space="preserve">
     <value>Processing</value>
@@ -234,14 +270,32 @@
   <data name="RegionSettingsDescribed" xml:space="preserve">
     <value>국가별 설정이 파일 upload(not import)에 적용되었습니다.</value>
   </data>
+  <data name="ReplacesOrUpdatesRPlusConfiguration" xml:space="preserve">
+    <value>대체 또는 R + 구성 업데이트</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>재설정</value>
+  </data>
+  <data name="SaveAndContinue" xml:space="preserve">
+    <value>저장 및 계속</value>
+  </data>
+  <data name="SelectMode" xml:space="preserve">
+    <value>모드 선택</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>설정</value>
   </data>
   <data name="Size" xml:space="preserve">
     <value>Size</value>
+  </data>
+  <data name="StartAndIgnoreErrors" xml:space="preserve">
+    <value>시작 및 오류 무시</value>
+  </data>
+  <data name="StartAnotherUpload" xml:space="preserve">
+    <value>다른 업로드 시작</value>
+  </data>
+  <data name="SystemImport" xml:space="preserve">
+    <value>SystemImport</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>테스트</value>
@@ -252,10 +306,31 @@
   <data name="Type" xml:space="preserve">
     <value>TYPE</value>
   </data>
+  <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
+    <value>업데이트 된 레코드 포함</value>
+  </data>
+  <data name="UploadData" xml:space="preserve">
+    <value>데이터 업로드</value>
+  </data>
   <data name="Uploaded" xml:space="preserve">
     <value>업로드</value>
   </data>
   <data name="Uploading" xml:space="preserve">
     <value>업로드</value>
+  </data>
+  <data name="UploadMoreData" xml:space="preserve">
+    <value>더 많은 데이터를 업로드</value>
+  </data>
+  <data name="ValidateData" xml:space="preserve">
+    <value>데이터 유효성 검사</value>
+  </data>
+  <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
+    <value>가져오려는 데이터 사전 확인 것이 좋습니다.</value>
+  </data>
+  <data name="ValidationResults" xml:space="preserve">
+    <value>유효성 검사 결과</value>
+  </data>
+  <data name="YourImportIsComplete" xml:space="preserve">
+    <value>당신의 가져오기가 완료 되</value>
   </data>
 </root>

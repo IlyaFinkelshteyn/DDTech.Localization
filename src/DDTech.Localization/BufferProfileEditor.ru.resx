@@ -148,7 +148,7 @@
     <value>Нет данных для отображения</value>
   </data>
   <data name="OrderCycleDays" xml:space="preserve">
-    <value>Дней цыкла заказа</value>
+    <value>Дней цикла заказа</value>
   </data>
   <data name="OrderSpikeHorizon" xml:space="preserve">
     <value>Горизонт пикового заказа</value>

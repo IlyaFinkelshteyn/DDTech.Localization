@@ -433,7 +433,7 @@
     <value>Enregistrer</value>
   </data>
   <data name="SelectAlertType" xml:space="preserve">
-    <value>-Sélectionner Type alerte-</value>
+    <value>-Sélectionner le type d'alerte-</value>
   </data>
   <data name="SODemand" xml:space="preserve">
     <value>Besoin sur Vente</value>

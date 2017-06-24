@@ -120,17 +120,41 @@
   <data name="AddFiles" xml:space="preserve">
     <value>Agregar archivos</value>
   </data>
+  <data name="AllFieldsAreAccepted" xml:space="preserve">
+    <value>Se aceptan todos los campos</value>
+  </data>
   <data name="AllfilesOK" xml:space="preserve">
     <value>Todos los archivos OK</value>
+  </data>
+  <data name="allowedfields" xml:space="preserve">
+    <value>campos permitidos</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Cancelar</value>
   </data>
+  <data name="Complete" xml:space="preserve">
+    <value>Completa</value>
+  </data>
+  <data name="ConfigurationImport" xml:space="preserve">
+    <value>Importación de configuración</value>
+  </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Confirme borrar</value>
   </data>
+  <data name="Continue" xml:space="preserve">
+    <value>Continuar</value>
+  </data>
   <data name="DataImport" xml:space="preserve">
     <value>Importación de datos</value>
+  </data>
+  <data name="DataNotValidated" xml:space="preserve">
+    <value>Datos no ha sido validados</value>
+  </data>
+  <data name="DataValidationFailed" xml:space="preserve">
+    <value>Error de validación de datos</value>
+  </data>
+  <data name="DataValidationPassed" xml:space="preserve">
+    <value>Validación de datos pasa</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Borrar</value>
@@ -213,11 +237,23 @@
   <data name="KeyDeletedSuccessfully" xml:space="preserve">
     <value>Eliminado con éxito</value>
   </data>
+  <data name="NewRecordsIncludeAllFields" xml:space="preserve">
+    <value>Nuevos registros incluyen todos los campos</value>
+  </data>
   <data name="NoDataToDisplay" xml:space="preserve">
     <value>No hay datos para mostrar</value>
   </data>
   <data name="OK" xml:space="preserve">
     <value>Vale</value>
+  </data>
+  <data name="ParsingErrors" xml:space="preserve">
+    <value>Análisis de errores</value>
+  </data>
+  <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
+    <value>Por favor, revise antes de proceder</value>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>Anterior</value>
   </data>
   <data name="Processing" xml:space="preserve">
     <value>Procesamiento de</value>
@@ -234,14 +270,32 @@
   <data name="RegionSettingsDescribed" xml:space="preserve">
     <value>Configuración regional se aplica a los archivos a subir y no de importación.</value>
   </data>
+  <data name="ReplacesOrUpdatesRPlusConfiguration" xml:space="preserve">
+    <value>Sustituye o actualiza R + configuración</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>RESET</value>
+  </data>
+  <data name="SaveAndContinue" xml:space="preserve">
+    <value>Guardar y continuar</value>
+  </data>
+  <data name="SelectMode" xml:space="preserve">
+    <value>Seleccione el modo</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Configuración</value>
   </data>
   <data name="Size" xml:space="preserve">
     <value>Tamaño</value>
+  </data>
+  <data name="StartAndIgnoreErrors" xml:space="preserve">
+    <value>Iniciar y omitir errores</value>
+  </data>
+  <data name="StartAnotherUpload" xml:space="preserve">
+    <value>Empezar a subir otro</value>
+  </data>
+  <data name="SystemImport" xml:space="preserve">
+    <value>SystemImport</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Prueba</value>
@@ -252,10 +306,31 @@
   <data name="Type" xml:space="preserve">
     <value>Tipo</value>
   </data>
+  <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
+    <value>Registros actualizados incluyen sólo</value>
+  </data>
+  <data name="UploadData" xml:space="preserve">
+    <value>Carga de datos</value>
+  </data>
   <data name="Uploaded" xml:space="preserve">
     <value>Cargado</value>
   </data>
   <data name="Uploading" xml:space="preserve">
     <value>Subir</value>
+  </data>
+  <data name="UploadMoreData" xml:space="preserve">
+    <value>Añadir más datos</value>
+  </data>
+  <data name="ValidateData" xml:space="preserve">
+    <value>Validar los datos</value>
+  </data>
+  <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
+    <value>Validar su previo de datos a importar se recomienda</value>
+  </data>
+  <data name="ValidationResults" xml:space="preserve">
+    <value>Resultados de la validación</value>
+  </data>
+  <data name="YourImportIsComplete" xml:space="preserve">
+    <value>Su importación es completa</value>
   </data>
 </root>
