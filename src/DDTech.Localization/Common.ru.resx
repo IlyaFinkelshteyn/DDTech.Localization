@@ -196,10 +196,10 @@
     <value>Критическая</value>
   </data>
   <data name="Priority_High" xml:space="preserve">
-    <value>Высокая</value>
+    <value>Высокий</value>
   </data>
   <data name="Priority_HighNonBuffered" xml:space="preserve">
-    <value>Высокая (NB)</value>
+    <value>Высокий (NB)</value>
   </data>
   <data name="Priority_Inactive" xml:space="preserve">
     <value>Неактивная</value>

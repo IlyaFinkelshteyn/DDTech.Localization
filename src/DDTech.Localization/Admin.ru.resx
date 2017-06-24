@@ -157,7 +157,7 @@
     <value>Игнорировать потребность в NB за пределами окна обработки</value>
   </data>
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
-    <value>Импортированные спрос на NB частей, которые должны за пределами (часть времени + спрос окна) не будут импортированы в R +. Этот параметр не будет влиять Если планирование материальных требований.</value>
+    <value>Импортированный спрос на номенклатуры без буферизации (NB), которые выходят за рамки (лид тайм номенклатуры + окно заказа), не будет импортироваться в R +. Этот параметр не будет иметь эффекта, если включено планирование потребности в материалах (MRP).</value>
   </data>
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Разделитель</value>
@@ -178,13 +178,13 @@
     <value>Non-Buffered (NB), обработки окна (WO)</value>
   </data>
   <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
-    <value>Эти параметры будут ограничивать, насколько далеко вперед R + будет включать спрос на части без буферизации. Настроенные значения добавляются к R + свинца время для соответствующих частей. Если значение '5' и часть имеет время R + 5 дней, R + не будут учтены потребности до текущей даты в течение 10 рабочих дней спроса Дата.</value>
+    <value>Эти параметры будут ограничивать видимость спроса в R +  на СКЮ без буфера. Настроенные значения добавляются к R + лид тайму для соответствующих номенклатур.  Если значение '5' и номенклатура имеет время R + 5 дней, R + не будет учитывать спрос до тех пор, пока не истечет 10 рабочих дней с даты наступления требования.</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Окно заказов на отгрузку (дни)</value>
   </data>
   <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
-    <value>Эти параметры будут ограничивать, насколько далеко вперед R + будет включать спрос на запчасти. Настроенные значения добавляются к R + свинца время для соответствующих частей. Если значение '5' и часть имеет время R + 5 дней, R + не будут учтены потребности до текущей даты в течение 10 рабочих дней спроса Дата. Если значение '0', R + будет включать только текущие и прошлые должного спроса. Если задано значение «-1' (отключено), R + не будет включать любой спрос.</value>
+    <value>Эти параметры будут ограничивать видимость спроса в R +  на СКЮ. Настроенные значения добавляются к R + лид тайму для соответствующих номенклатур. Если значение '5' и номенклатура имеет время R + 5 дней, R + не будет учитывать спрос до тех пор, пока не истечет 10 рабочих дней с даты наступления требования. Если значение '0', R + будет включать только текущий и прошлый спрос. Если задано значение «-1' (отключено), R + не будет включать любой спрос.</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Ожидаемый числовой формат</value>
@@ -241,7 +241,7 @@
     <value>Период хранения истории (дни)</value>
   </data>
   <data name="Settings_ImportedDemand" xml:space="preserve">
-    <value>Импортного спроса</value>
+    <value>Импортированный спрос</value>
   </data>
   <data name="Settings_IncludeSpikesAsDemandAllocation" xml:space="preserve">
     <value>Включать пиковые заказы в доступный запас</value>
@@ -274,16 +274,16 @@
     <value>Эта настройка позволяет R+ автоматически создавать заказы на поставку на основании спецификаций для номенклатуры</value>
   </data>
   <data name="Settings_Mrp_mrpFeatures2" xml:space="preserve">
-    <value> these settings will limit how far forward R+ will try to create orders. These values are added to the part's R+ Lead Time. e.g. If set to '5'</value>
+    <value>Во время неттинга MRP эти настройки ограничивают, насколько далеко вперед R + будет пытаться создавать заказы. Эти значения добавляются к R + Lead Time номенклатур. Например, если установлено значение «5», а лид тайм номенклатуры R + 5 дней, R + не создаст заказ, пока не истечет 10 рабочих дней с даты  требования.</value>
   </data>
   <data name="Settings_Mrp_mrpNettingFull" xml:space="preserve">
     <value>R + будет автоматически выполнять MRP неттинг для всех импортированных заказов на отгрузку  (заказы покупателей и от производства). Импортированные заказы не должны содержать заказы на дочерние номенклатуры.</value>
   </data>
   <data name="Settings_Mrp_mrpNettingNetChange" xml:space="preserve">
-    <value>R + будет выполнять MRP неттинг только при создании заказов вручную или подтверждении рекомендуемых заказов. Будет предполагаться</value>
+    <value>R + будет выполнять MRP неттинг только при создании заказов вручную или подтверждении рекомендуемых заказов. Будет предполагаться, что все  заказы на поставку уже были собраны системой MRP до импорта.</value>
   </data>
   <data name="Settings_Mrp_mrpNettingSuggestion1" xml:space="preserve">
-    <value> we suggest also enabling 'MRP Netting when creating new orders'. This will ensure consistent behavior.</value>
+    <value>Если выбрана опция «MRP неттинг после импорта», мы также предлагаем включить «MRP неттинг при создании новых заказов». Это обеспечит согласованное поведение.</value>
   </data>
   <data name="Settings_Mrp_SalesOrderDemandProcessingWindow" xml:space="preserve">
     <value>Окно обработки потребности для заказов покупателя</value>
@@ -328,7 +328,7 @@
     <value>Требования сложности паролей</value>
   </data>
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
-    <value>Пожалуйста</value>
+    <value>Пожалуйста, выберите формат</value>
   </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Горизонт времени выполнения для прогнозируемого аут-оф-стока</value>
@@ -340,7 +340,7 @@
     <value>Сброс</value>
   </data>
   <data name="Settings_RoundBufferValuesToOne" xml:space="preserve">
-    <value>Круглая буфера значения для одного</value>
+    <value>Округлять значения буфера до единицы</value>
   </data>
   <data name="Settings_SalesOrder" xml:space="preserve">
     <value>Заказ покупателя</value>
@@ -352,7 +352,7 @@
     <value>Вы хотите сохранить изменения?</value>
   </data>
   <data name="Settings_SaveChangesDetail" xml:space="preserve">
-    <value> your changes will be lost.</value>
+    <value>Изменения будут потеряны если их не сохранить.</value>
   </data>
   <data name="Settings_SecuritySettings" xml:space="preserve">
     <value>Параметры безопасности</value>
@@ -418,7 +418,7 @@
     <value>Требуется  символ?</value>
   </data>
   <data name="Settings_User_RequireNonDigitLetter_Title" xml:space="preserve">
-    <value> a-z</value>
+    <value>Любой знак, но не из диапазона 0-9, a-z, or A-Z. Пример: !, %, *, $</value>
   </data>
   <data name="Settings_User_RequireUpperCase" xml:space="preserve">
     <value>Требуется не менее 1 заглавной буквы? (A-Z)</value>

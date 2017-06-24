@@ -124,10 +124,10 @@
     <value>Профиль буфера</value>
   </data>
   <data name="CreateChildAllocationsOnPendingOrderCreation" xml:space="preserve">
-    <value>Создание ребенка ассигнований на ожидании создание заказа</value>
+    <value>Создание дочерних распределений при создании отложенного заказа</value>
   </data>
   <data name="CreateChildAllocationsOnSupplyOrderImport" xml:space="preserve">
-    <value>Создание ребенка ассигнований на поставку порядок импорта</value>
+    <value>Создание дочерних распределений при импорте заказа на поставку</value>
   </data>
   <data name="CurrentLocalTime" xml:space="preserve">
     <value>Текущее местное время</value>
@@ -190,7 +190,7 @@
     <value>Горизонт времени Lead Time  для прогнозирование Аутофстока</value>
   </data>
   <data name="RoundBufferValuesToOne" xml:space="preserve">
-    <value>Круглая буфера значения для одного</value>
+    <value>Округлять значения буфера до единицы</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Настройки</value>
@@ -226,6 +226,6 @@
     <value>Пользовательское поле 8:</value>
   </data>
   <data name="ViewAdditionalStatusDetails" xml:space="preserve">
-    <value>Просмотр сведений о дополнительных статуса</value>
+    <value>Просмотр сведений о дополнительных деталях статуса</value>
   </data>
 </root>

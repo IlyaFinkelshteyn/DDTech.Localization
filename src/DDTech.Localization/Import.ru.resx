@@ -208,7 +208,7 @@
     <value>Импорт</value>
   </data>
   <data name="InstructionsForUnIdentified" xml:space="preserve">
-    <value>Пожалуйста</value>
+    <value>Пожалуйста, убедитесь, что настройки системного обмена данными указаны правильно.</value>
   </data>
   <data name="KeyDeletedSuccessfully" xml:space="preserve">
     <value>Удалено</value>
@@ -232,7 +232,7 @@
     <value>{0} записи были проигнорированы из-за конфигурации политики</value>
   </data>
   <data name="RegionSettingsDescribed" xml:space="preserve">
-    <value>Региональные параметры применяются к файлам загрузки и не импорта.</value>
+    <value>Региональные настройки применяются к файлам при загрузке, а не к импорту.</value>
   </data>
   <data name="Reset" xml:space="preserve">
     <value>Сброс</value>
