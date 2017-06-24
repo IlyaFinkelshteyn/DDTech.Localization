@@ -120,17 +120,41 @@
   <data name="AddFiles" xml:space="preserve">
     <value>Fájlok hozzáadása</value>
   </data>
+  <data name="AllFieldsAreAccepted" xml:space="preserve">
+    <value>Minden területen fogadnak</value>
+  </data>
   <data name="AllfilesOK" xml:space="preserve">
     <value>Az OK gombra az összes fájl</value>
+  </data>
+  <data name="allowedfields" xml:space="preserve">
+    <value>engedélyezett mezőket</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Mégse</value>
   </data>
+  <data name="Complete" xml:space="preserve">
+    <value>Teljes</value>
+  </data>
+  <data name="ConfigurationImport" xml:space="preserve">
+    <value>Konfiguráció importálása</value>
+  </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Törlés megerősítése</value>
   </data>
+  <data name="Continue" xml:space="preserve">
+    <value>Továbbra is</value>
+  </data>
   <data name="DataImport" xml:space="preserve">
     <value>Adatok importálása</value>
+  </data>
+  <data name="DataNotValidated" xml:space="preserve">
+    <value>Adatok érvényesítése nem volt</value>
+  </data>
+  <data name="DataValidationFailed" xml:space="preserve">
+    <value>Adatok érvényesítése nem sikerült</value>
+  </data>
+  <data name="DataValidationPassed" xml:space="preserve">
+    <value>Átadott adatok érvényesítése</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Törlése</value>
@@ -213,11 +237,23 @@
   <data name="KeyDeletedSuccessfully" xml:space="preserve">
     <value>Sikeresen törölve</value>
   </data>
+  <data name="NewRecordsIncludeAllFields" xml:space="preserve">
+    <value>Új rekordokat tartalmaz minden mezőt</value>
+  </data>
   <data name="NoDataToDisplay" xml:space="preserve">
     <value>Nincsenek adatok megjelenítéséhez</value>
   </data>
   <data name="OK" xml:space="preserve">
     <value>oké</value>
+  </data>
+  <data name="ParsingErrors" xml:space="preserve">
+    <value>Elemzési hiba</value>
+  </data>
+  <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
+    <value>Kérjük, olvassa el a folytatás előtt</value>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>Korábbi</value>
   </data>
   <data name="Processing" xml:space="preserve">
     <value>Feldolgozás</value>
@@ -234,14 +270,32 @@
   <data name="RegionSettingsDescribed" xml:space="preserve">
     <value>Területi beállítások érvényesek, fájlokat, a feltöltés és import nem.</value>
   </data>
+  <data name="ReplacesOrUpdatesRPlusConfiguration" xml:space="preserve">
+    <value>Kicserél vagy konfigurációjának R +</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Reset</value>
+  </data>
+  <data name="SaveAndContinue" xml:space="preserve">
+    <value>Mentés és folytatás</value>
+  </data>
+  <data name="SelectMode" xml:space="preserve">
+    <value>Mód kiválasztása</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Beállítások</value>
   </data>
   <data name="Size" xml:space="preserve">
     <value>Méret</value>
+  </data>
+  <data name="StartAndIgnoreErrors" xml:space="preserve">
+    <value>Start &amp; figyelmen kívül hagyja a hibákat</value>
+  </data>
+  <data name="StartAnotherUpload" xml:space="preserve">
+    <value>Elkezd egy másik feltölteni</value>
+  </data>
+  <data name="SystemImport" xml:space="preserve">
+    <value>SystemImport</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Teszt</value>
@@ -252,10 +306,31 @@
   <data name="Type" xml:space="preserve">
     <value>Típus</value>
   </data>
+  <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
+    <value>Frissített rekordok tartalmazzák csak</value>
+  </data>
+  <data name="UploadData" xml:space="preserve">
+    <value>Feltölteni az adatokat</value>
+  </data>
   <data name="Uploaded" xml:space="preserve">
     <value>Feltöltött</value>
   </data>
   <data name="Uploading" xml:space="preserve">
     <value>Feltöltése</value>
+  </data>
+  <data name="UploadMoreData" xml:space="preserve">
+    <value>További adatok feltöltése</value>
+  </data>
+  <data name="ValidateData" xml:space="preserve">
+    <value>Adatok érvényesítése</value>
+  </data>
+  <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
+    <value>Importálandó adatok előzetes ellenőrzése ajánlott</value>
+  </data>
+  <data name="ValidationResults" xml:space="preserve">
+    <value>Érvényesítés eredmények</value>
+  </data>
+  <data name="YourImportIsComplete" xml:space="preserve">
+    <value>Az importálás befejeződött</value>
   </data>
 </root>

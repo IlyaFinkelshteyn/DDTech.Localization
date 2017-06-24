@@ -70,11 +70,29 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to All fields are accepted.
+        /// </summary>
+        public static string AllFieldsAreAccepted {
+            get {
+                return ResourceManager.GetString("AllFieldsAreAccepted", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to All files OK.
         /// </summary>
         public static string AllfilesOK {
             get {
                 return ResourceManager.GetString("AllfilesOK", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to allowed fields.
+        /// </summary>
+        public static string allowedfields {
+            get {
+                return ResourceManager.GetString("allowedfields", resourceCulture);
             }
         }
         
@@ -88,6 +106,24 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Complete.
+        /// </summary>
+        public static string Complete {
+            get {
+                return ResourceManager.GetString("Complete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Configuration Import.
+        /// </summary>
+        public static string ConfigurationImport {
+            get {
+                return ResourceManager.GetString("ConfigurationImport", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Confirm Delete.
         /// </summary>
         public static string ConfirmDelete {
@@ -97,11 +133,47 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Continue.
+        /// </summary>
+        public static string Continue {
+            get {
+                return ResourceManager.GetString("Continue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Data Import.
         /// </summary>
         public static string DataImport {
             get {
                 return ResourceManager.GetString("DataImport", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Data has not been validated.
+        /// </summary>
+        public static string DataNotValidated {
+            get {
+                return ResourceManager.GetString("DataNotValidated", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Data validation failed.
+        /// </summary>
+        public static string DataValidationFailed {
+            get {
+                return ResourceManager.GetString("DataValidationFailed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Data validation passed.
+        /// </summary>
+        public static string DataValidationPassed {
+            get {
+                return ResourceManager.GetString("DataValidationPassed", resourceCulture);
             }
         }
         
@@ -349,6 +421,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to New records include all fields.
+        /// </summary>
+        public static string NewRecordsIncludeAllFields {
+            get {
+                return ResourceManager.GetString("NewRecordsIncludeAllFields", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to No data to display.
         /// </summary>
         public static string NoDataToDisplay {
@@ -363,6 +444,33 @@ namespace DDTech.Localization {
         public static string OK {
             get {
                 return ResourceManager.GetString("OK", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parsing Errors.
+        /// </summary>
+        public static string ParsingErrors {
+            get {
+                return ResourceManager.GetString("ParsingErrors", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please review before proceeding.
+        /// </summary>
+        public static string PleaseReviewBeforeProceeding {
+            get {
+                return ResourceManager.GetString("PleaseReviewBeforeProceeding", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Previous.
+        /// </summary>
+        public static string Previous {
+            get {
+                return ResourceManager.GetString("Previous", resourceCulture);
             }
         }
         
@@ -412,11 +520,38 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Replaces or updates R+ configuration.
+        /// </summary>
+        public static string ReplacesOrUpdatesRPlusConfiguration {
+            get {
+                return ResourceManager.GetString("ReplacesOrUpdatesRPlusConfiguration", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Reset.
         /// </summary>
         public static string Reset {
             get {
                 return ResourceManager.GetString("Reset", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Save and continue.
+        /// </summary>
+        public static string SaveAndContinue {
+            get {
+                return ResourceManager.GetString("SaveAndContinue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select mode.
+        /// </summary>
+        public static string SelectMode {
+            get {
+                return ResourceManager.GetString("SelectMode", resourceCulture);
             }
         }
         
@@ -435,6 +570,33 @@ namespace DDTech.Localization {
         public static string Size {
             get {
                 return ResourceManager.GetString("Size", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Start &amp; Ignore Errors.
+        /// </summary>
+        public static string StartAndIgnoreErrors {
+            get {
+                return ResourceManager.GetString("StartAndIgnoreErrors", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Start Another Upload.
+        /// </summary>
+        public static string StartAnotherUpload {
+            get {
+                return ResourceManager.GetString("StartAnotherUpload", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SystemImport.
+        /// </summary>
+        public static string SystemImport {
+            get {
+                return ResourceManager.GetString("SystemImport", resourceCulture);
             }
         }
         
@@ -466,6 +628,24 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Updated records include only.
+        /// </summary>
+        public static string UpdatedRecordsIncludeOnly {
+            get {
+                return ResourceManager.GetString("UpdatedRecordsIncludeOnly", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Upload data.
+        /// </summary>
+        public static string UploadData {
+            get {
+                return ResourceManager.GetString("UploadData", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Uploaded.
         /// </summary>
         public static string Uploaded {
@@ -480,6 +660,51 @@ namespace DDTech.Localization {
         public static string Uploading {
             get {
                 return ResourceManager.GetString("Uploading", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Upload More Data.
+        /// </summary>
+        public static string UploadMoreData {
+            get {
+                return ResourceManager.GetString("UploadMoreData", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Validate data.
+        /// </summary>
+        public static string ValidateData {
+            get {
+                return ResourceManager.GetString("ValidateData", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Validating your data prior to import is recommended.
+        /// </summary>
+        public static string ValidatingYourDataIsRecommended {
+            get {
+                return ResourceManager.GetString("ValidatingYourDataIsRecommended", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Validation Results.
+        /// </summary>
+        public static string ValidationResults {
+            get {
+                return ResourceManager.GetString("ValidationResults", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your import is complete.
+        /// </summary>
+        public static string YourImportIsComplete {
+            get {
+                return ResourceManager.GetString("YourImportIsComplete", resourceCulture);
             }
         }
     }

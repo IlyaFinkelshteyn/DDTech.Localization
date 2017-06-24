@@ -120,17 +120,41 @@
   <data name="AddFiles" xml:space="preserve">
     <value>Dosya ekleme</value>
   </data>
+  <data name="AllFieldsAreAccepted" xml:space="preserve">
+    <value>Tüm alanları kabul edilir</value>
+  </data>
   <data name="AllfilesOK" xml:space="preserve">
     <value>Tüm dosyaları Tamam</value>
+  </data>
+  <data name="allowedfields" xml:space="preserve">
+    <value>izin verilen alanlar</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>İptal</value>
   </data>
+  <data name="Complete" xml:space="preserve">
+    <value>Tamamlamak</value>
+  </data>
+  <data name="ConfigurationImport" xml:space="preserve">
+    <value>Yapılandırma al</value>
+  </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Silmeyi Onayla</value>
   </data>
+  <data name="Continue" xml:space="preserve">
+    <value>Devam</value>
+  </data>
   <data name="DataImport" xml:space="preserve">
     <value>Veri içe aktarma</value>
+  </data>
+  <data name="DataNotValidated" xml:space="preserve">
+    <value>Veri doğrulanmadı</value>
+  </data>
+  <data name="DataValidationFailed" xml:space="preserve">
+    <value>Veri doğrulama başarısız oldu</value>
+  </data>
+  <data name="DataValidationPassed" xml:space="preserve">
+    <value>Veri doğrulama geçti</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Sil</value>
@@ -213,11 +237,23 @@
   <data name="KeyDeletedSuccessfully" xml:space="preserve">
     <value>Başarıyla silindi</value>
   </data>
+  <data name="NewRecordsIncludeAllFields" xml:space="preserve">
+    <value>Tüm alanları, yeni kayıtları içerecek</value>
+  </data>
   <data name="NoDataToDisplay" xml:space="preserve">
     <value>Görüntülenecek hiçbir veri</value>
   </data>
   <data name="OK" xml:space="preserve">
     <value>Tamam</value>
+  </data>
+  <data name="ParsingErrors" xml:space="preserve">
+    <value>Ayrıştırma hataları</value>
+  </data>
+  <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
+    <value>Lütfen devam etmeden önce gözden geçirin</value>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>Önceki</value>
   </data>
   <data name="Processing" xml:space="preserve">
     <value>İşleme</value>
@@ -234,14 +270,32 @@
   <data name="RegionSettingsDescribed" xml:space="preserve">
     <value>Bölgesel ayarlar upload ve alma adlı dosyalara uygulanır.</value>
   </data>
+  <data name="ReplacesOrUpdatesRPlusConfiguration" xml:space="preserve">
+    <value>Değiştirir veya R + yapılandırmasını güncelleştirir</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Sıfırlama</value>
+  </data>
+  <data name="SaveAndContinue" xml:space="preserve">
+    <value>Kaydet ve devam et</value>
+  </data>
+  <data name="SelectMode" xml:space="preserve">
+    <value>Modu seçin</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Ayarlar</value>
   </data>
   <data name="Size" xml:space="preserve">
     <value>Boyutu</value>
+  </data>
+  <data name="StartAndIgnoreErrors" xml:space="preserve">
+    <value>Başlatmak ve hataları yoksay</value>
+  </data>
+  <data name="StartAnotherUpload" xml:space="preserve">
+    <value>Başka bir Upload başlamak</value>
+  </data>
+  <data name="SystemImport" xml:space="preserve">
+    <value>SystemImport</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Test</value>
@@ -252,10 +306,31 @@
   <data name="Type" xml:space="preserve">
     <value>Türü</value>
   </data>
+  <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
+    <value>Güncelleştirilmiş kayıtları yalnızca dahil</value>
+  </data>
+  <data name="UploadData" xml:space="preserve">
+    <value>Veri karşı yüklemesi:</value>
+  </data>
   <data name="Uploaded" xml:space="preserve">
     <value>Yükledi</value>
   </data>
   <data name="Uploading" xml:space="preserve">
     <value>Yükleme</value>
+  </data>
+  <data name="UploadMoreData" xml:space="preserve">
+    <value>Daha fazla veri yükleme</value>
+  </data>
+  <data name="ValidateData" xml:space="preserve">
+    <value>Verileri doğrulama</value>
+  </data>
+  <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
+    <value>Almak için verileri önceden doğrulama önerilir</value>
+  </data>
+  <data name="ValidationResults" xml:space="preserve">
+    <value>Doğrulama sonuçları</value>
+  </data>
+  <data name="YourImportIsComplete" xml:space="preserve">
+    <value>Alma işlemi tamamlandıktan</value>
   </data>
 </root>

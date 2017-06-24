@@ -120,17 +120,41 @@
   <data name="AddFiles" xml:space="preserve">
     <value>Lisää tiedostoja</value>
   </data>
+  <data name="AllFieldsAreAccepted" xml:space="preserve">
+    <value>Kaikki kentät hyväksytään</value>
+  </data>
   <data name="AllfilesOK" xml:space="preserve">
     <value>Kaikki tiedostot OK</value>
+  </data>
+  <data name="allowedfields" xml:space="preserve">
+    <value>sallitut kentät</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Peruuta</value>
   </data>
+  <data name="Complete" xml:space="preserve">
+    <value>Täydellinen</value>
+  </data>
+  <data name="ConfigurationImport" xml:space="preserve">
+    <value>Kokoonpanon tuonti</value>
+  </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Vahvista poisto</value>
   </data>
+  <data name="Continue" xml:space="preserve">
+    <value>Jatka</value>
+  </data>
   <data name="DataImport" xml:space="preserve">
     <value>Tietojen tuonti</value>
+  </data>
+  <data name="DataNotValidated" xml:space="preserve">
+    <value>Tietoja ei ole vahvistettu</value>
+  </data>
+  <data name="DataValidationFailed" xml:space="preserve">
+    <value>Kelpoisuustarkistus epäonnistui</value>
+  </data>
+  <data name="DataValidationPassed" xml:space="preserve">
+    <value>Tietojen oikeellisuustarkistus hyväksytty</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Poista</value>
@@ -213,11 +237,23 @@
   <data name="KeyDeletedSuccessfully" xml:space="preserve">
     <value>Poistettu</value>
   </data>
+  <data name="NewRecordsIncludeAllFields" xml:space="preserve">
+    <value>Uusia tietueita sisällyttää kaikki kentät</value>
+  </data>
   <data name="NoDataToDisplay" xml:space="preserve">
     <value>Ei tietoa näytettäväksi</value>
   </data>
   <data name="OK" xml:space="preserve">
     <value>Ok</value>
+  </data>
+  <data name="ParsingErrors" xml:space="preserve">
+    <value>Jäsennysvirheitä</value>
+  </data>
+  <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
+    <value>Tarkista ennen jatkamista</value>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>Edellinen</value>
   </data>
   <data name="Processing" xml:space="preserve">
     <value>Prosessoi</value>
@@ -234,14 +270,32 @@
   <data name="RegionSettingsDescribed" xml:space="preserve">
     <value>Aluekohtaisia asetuksia sovelletaan tiedostojen ulos viennissä (upload)</value>
   </data>
+  <data name="ReplacesOrUpdatesRPlusConfiguration" xml:space="preserve">
+    <value>Korvaa tai päivittää R + kokoonpanon</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Resetoi</value>
+  </data>
+  <data name="SaveAndContinue" xml:space="preserve">
+    <value>Tallenna ja jatka</value>
+  </data>
+  <data name="SelectMode" xml:space="preserve">
+    <value>Valitse tila</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Asetukset</value>
   </data>
   <data name="Size" xml:space="preserve">
     <value>Koko</value>
+  </data>
+  <data name="StartAndIgnoreErrors" xml:space="preserve">
+    <value>Aloita &amp; ohittaa virheet</value>
+  </data>
+  <data name="StartAnotherUpload" xml:space="preserve">
+    <value>Aloita toinen lataus</value>
+  </data>
+  <data name="SystemImport" xml:space="preserve">
+    <value>SystemImport</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Testi</value>
@@ -252,10 +306,31 @@
   <data name="Type" xml:space="preserve">
     <value>Tyyppi</value>
   </data>
+  <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
+    <value>Päivitetyt tietueet sisältyvät vain</value>
+  </data>
+  <data name="UploadData" xml:space="preserve">
+    <value>Lataa tiedot</value>
+  </data>
   <data name="Uploaded" xml:space="preserve">
     <value>Ladattu</value>
   </data>
   <data name="Uploading" xml:space="preserve">
     <value>Lataa</value>
+  </data>
+  <data name="UploadMoreData" xml:space="preserve">
+    <value>Lataa lisätietoja</value>
+  </data>
+  <data name="ValidateData" xml:space="preserve">
+    <value>Vahvista tiedot</value>
+  </data>
+  <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
+    <value>Validoida tiedot ennen importointia suositellaan</value>
+  </data>
+  <data name="ValidationResults" xml:space="preserve">
+    <value>Oikeellisuustarkistustulokset</value>
+  </data>
+  <data name="YourImportIsComplete" xml:space="preserve">
+    <value>Tuonti on valmis</value>
   </data>
 </root>
