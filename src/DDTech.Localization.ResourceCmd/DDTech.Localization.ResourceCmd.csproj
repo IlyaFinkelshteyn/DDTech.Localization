@@ -123,7 +123,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AzureAuthToken.cs" />
-    <Compile Include="BingModels.cs" />
     <Compile Include="Config.cs" />
     <Compile Include="JsonHelper.cs" />
     <Compile Include="LocalizedString.cs" />
