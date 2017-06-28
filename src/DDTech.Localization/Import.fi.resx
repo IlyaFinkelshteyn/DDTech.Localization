@@ -324,6 +324,9 @@
   <data name="ValidateData" xml:space="preserve">
     <value>Vahvista tiedot</value>
   </data>
+  <data name="Validating" xml:space="preserve">
+    <value>Validointi</value>
+  </data>
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
     <value>Validoida tiedot ennen importointia suositellaan</value>
   </data>
@@ -332,5 +335,8 @@
   </data>
   <data name="YourImportIsComplete" xml:space="preserve">
     <value>Tuonti on valmis</value>
+  </data>
+  <data name="YourImportWillBeginProcessingMomentarily" xml:space="preserve">
+    <value>Tuonnin aloittaa käsittelyn hetkellisesti</value>
   </data>
 </root>

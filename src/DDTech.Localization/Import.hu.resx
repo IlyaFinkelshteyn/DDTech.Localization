@@ -324,6 +324,9 @@
   <data name="ValidateData" xml:space="preserve">
     <value>Adatok érvényesítése</value>
   </data>
+  <data name="Validating" xml:space="preserve">
+    <value>Érvényesítése</value>
+  </data>
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
     <value>Importálandó adatok előzetes ellenőrzése ajánlott</value>
   </data>
@@ -332,5 +335,8 @@
   </data>
   <data name="YourImportIsComplete" xml:space="preserve">
     <value>Az importálás befejeződött</value>
+  </data>
+  <data name="YourImportWillBeginProcessingMomentarily" xml:space="preserve">
+    <value>Az importálás kezdődik, egy pillanatra feldolgozása</value>
   </data>
 </root>

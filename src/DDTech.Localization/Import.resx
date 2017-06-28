@@ -333,4 +333,10 @@
   <data name="YourImportIsComplete" xml:space="preserve">
     <value>Your import is complete</value>
   </data>
+  <data name="Validating" xml:space="preserve">
+    <value>Validating</value>
+  </data>
+  <data name="YourImportWillBeginProcessingMomentarily" xml:space="preserve">
+    <value>Your import will begin processing momentarily</value>
+  </data>
 </root>

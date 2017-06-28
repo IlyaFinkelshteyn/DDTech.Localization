@@ -682,6 +682,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Validating.
+        /// </summary>
+        public static string Validating {
+            get {
+                return ResourceManager.GetString("Validating", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Validating your data prior to import is recommended.
         /// </summary>
         public static string ValidatingYourDataIsRecommended {
@@ -705,6 +714,15 @@ namespace DDTech.Localization {
         public static string YourImportIsComplete {
             get {
                 return ResourceManager.GetString("YourImportIsComplete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your import will begin processing momentarily.
+        /// </summary>
+        public static string YourImportWillBeginProcessingMomentarily {
+            get {
+                return ResourceManager.GetString("YourImportWillBeginProcessingMomentarily", resourceCulture);
             }
         }
     }

@@ -324,6 +324,9 @@
   <data name="ValidateData" xml:space="preserve">
     <value>데이터 유효성 검사</value>
   </data>
+  <data name="Validating" xml:space="preserve">
+    <value>유효성 검사</value>
+  </data>
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
     <value>가져오려는 데이터 사전 확인 것이 좋습니다.</value>
   </data>
@@ -332,5 +335,8 @@
   </data>
   <data name="YourImportIsComplete" xml:space="preserve">
     <value>당신의 가져오기가 완료 되</value>
+  </data>
+  <data name="YourImportWillBeginProcessingMomentarily" xml:space="preserve">
+    <value>귀하 가져오기 순간적으로 처리 예정</value>
   </data>
 </root>

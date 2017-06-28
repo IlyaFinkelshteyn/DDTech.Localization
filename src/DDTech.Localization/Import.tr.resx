@@ -324,6 +324,9 @@
   <data name="ValidateData" xml:space="preserve">
     <value>Verileri doğrulama</value>
   </data>
+  <data name="Validating" xml:space="preserve">
+    <value>Doğrulanıyor</value>
+  </data>
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
     <value>Almak için verileri önceden doğrulama önerilir</value>
   </data>
@@ -332,5 +335,8 @@
   </data>
   <data name="YourImportIsComplete" xml:space="preserve">
     <value>Alma işlemi tamamlandıktan</value>
+  </data>
+  <data name="YourImportWillBeginProcessingMomentarily" xml:space="preserve">
+    <value>Alma geçici olarak işleme başlayacak</value>
   </data>
 </root>

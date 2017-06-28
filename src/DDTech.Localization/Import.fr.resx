@@ -324,6 +324,9 @@
   <data name="ValidateData" xml:space="preserve">
     <value>Valider les données</value>
   </data>
+  <data name="Validating" xml:space="preserve">
+    <value>Validation de</value>
+  </data>
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
     <value>Valider votre avant de données à importer est recommandé</value>
   </data>
@@ -332,5 +335,8 @@
   </data>
   <data name="YourImportIsComplete" xml:space="preserve">
     <value>Votre importation est terminée</value>
+  </data>
+  <data name="YourImportWillBeginProcessingMomentarily" xml:space="preserve">
+    <value>Votre importation commencera le traitement momentanément</value>
   </data>
 </root>
