@@ -249,6 +249,9 @@
   <data name="ParsingErrors" xml:space="preserve">
     <value>Elemzési hiba</value>
   </data>
+  <data name="PleaseEnsureHeadersAreCorrect" xml:space="preserve">
+    <value>Győződjön meg arról, a fájl-fejlécek helyesek</value>
+  </data>
   <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
     <value>Kérjük, olvassa el a folytatás előtt</value>
   </data>
@@ -295,7 +298,7 @@
     <value>Elkezd egy másik feltölteni</value>
   </data>
   <data name="SystemImport" xml:space="preserve">
-    <value>SystemImport</value>
+    <value>Behozatali rendszer</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Teszt</value>
@@ -305,6 +308,9 @@
   </data>
   <data name="Type" xml:space="preserve">
     <value>Típus</value>
+  </data>
+  <data name="UnableToIdentify" xml:space="preserve">
+    <value>Képtelen-hoz azonosságot megállapít egy vagy több feltöltött fájlokat</value>
   </data>
   <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
     <value>Frissített rekordok tartalmazzák csak</value>

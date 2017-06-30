@@ -1485,6 +1485,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Account.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Account.en-GB.resx" />
     <EmbeddedResource Include="Account.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Account.es-419.Designer.cs</LastGenOutput>
@@ -1529,6 +1530,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Admin.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Admin.en-GB.resx" />
     <EmbeddedResource Include="Admin.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Admin.es-419.Designer.cs</LastGenOutput>
@@ -1573,6 +1575,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Alerts.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Alerts.en-GB.resx" />
     <EmbeddedResource Include="Alerts.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Alerts.es-419.Designer.cs</LastGenOutput>
@@ -1617,6 +1620,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>BoMViewer.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="BoMViewer.en-GB.resx" />
     <EmbeddedResource Include="BoMViewer.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>BoMViewer.es-419.Designer.cs</LastGenOutput>
@@ -1661,6 +1665,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>BufferProfileEditor.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="BufferProfileEditor.en-GB.resx" />
     <EmbeddedResource Include="BufferProfileEditor.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>BufferProfileEditor.es-419.Designer.cs</LastGenOutput>
@@ -1705,6 +1710,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Calendar.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Calendar.en-GB.resx" />
     <EmbeddedResource Include="Calendar.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Calendar.es-419.Designer.cs</LastGenOutput>
@@ -1749,6 +1755,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Common.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Common.en-GB.resx" />
     <EmbeddedResource Include="Common.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Common.es-419.Designer.cs</LastGenOutput>
@@ -1793,6 +1800,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Dashboard.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.en-GB.resx" />
     <EmbeddedResource Include="Dashboard.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Dashboard.es-419.Designer.cs</LastGenOutput>
@@ -1837,6 +1845,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Export.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Export.en-GB.resx" />
     <EmbeddedResource Include="Export.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Export.es-419.Designer.cs</LastGenOutput>
@@ -1881,6 +1890,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Global.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Global.en-GB.resx" />
     <EmbeddedResource Include="Global.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Global.es-419.Designer.cs</LastGenOutput>
@@ -1925,6 +1935,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Home.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Home.en-GB.resx" />
     <EmbeddedResource Include="Home.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Home.es-419.Designer.cs</LastGenOutput>
@@ -1969,6 +1980,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Import.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Import.en-GB.resx" />
     <EmbeddedResource Include="Import.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Import.es-419.Designer.cs</LastGenOutput>
@@ -2013,6 +2025,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Licensing.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Licensing.en-GB.resx" />
     <EmbeddedResource Include="Licensing.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Licensing.es-419.Designer.cs</LastGenOutput>
@@ -2057,6 +2070,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Menu.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Menu.en-GB.resx" />
     <EmbeddedResource Include="Menu.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Menu.es-419.Designer.cs</LastGenOutput>
@@ -2101,6 +2115,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ObjectModel.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="ObjectModel.en-GB.resx" />
     <EmbeddedResource Include="ObjectModel.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ObjectModel.es-419.Designer.cs</LastGenOutput>
@@ -2145,6 +2160,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>PAFEditor.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="PAFEditor.en-GB.resx" />
     <EmbeddedResource Include="PAFEditor.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>PAFEditor.es-419.Designer.cs</LastGenOutput>
@@ -2189,6 +2205,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>PartEditor.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="PartEditor.en-GB.resx" />
     <EmbeddedResource Include="PartEditor.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>PartEditor.es-419.Designer.cs</LastGenOutput>
@@ -2233,6 +2250,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>PendingOrders.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="PendingOrders.en-GB.resx" />
     <EmbeddedResource Include="PendingOrders.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>PendingOrders.es-419.Designer.cs</LastGenOutput>
@@ -2277,6 +2295,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Reports.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Reports.en-GB.resx" />
     <EmbeddedResource Include="Reports.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Reports.es-419.Designer.cs</LastGenOutput>
@@ -2321,6 +2340,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Search.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Search.en-GB.resx" />
     <EmbeddedResource Include="Search.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Search.es-419.Designer.cs</LastGenOutput>
@@ -2365,6 +2385,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Services.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Services.en-GB.resx" />
     <EmbeddedResource Include="Services.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Services.es-419.Designer.cs</LastGenOutput>
@@ -2409,6 +2430,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Setup.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Setup.en-GB.resx" />
     <EmbeddedResource Include="Setup.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Setup.es-419.Designer.cs</LastGenOutput>
@@ -2453,6 +2475,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Status.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Status.en-GB.resx" />
     <EmbeddedResource Include="Status.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Status.es-419.Designer.cs</LastGenOutput>
@@ -2497,6 +2520,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>StockDeployment.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="StockDeployment.en-GB.resx" />
     <EmbeddedResource Include="StockDeployment.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>StockDeployment.es-419.Designer.cs</LastGenOutput>
@@ -2541,6 +2565,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Validation.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Validation.en-GB.resx" />
     <EmbeddedResource Include="Validation.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Validation.es-419.Designer.cs</LastGenOutput>
@@ -2585,6 +2610,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Workbench.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Workbench.en-GB.resx" />
     <EmbeddedResource Include="Workbench.es-419.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Workbench.es-419.Designer.cs</LastGenOutput>

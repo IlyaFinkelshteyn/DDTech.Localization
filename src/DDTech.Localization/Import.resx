@@ -310,7 +310,7 @@
     <value>Start Another Upload</value>
   </data>
   <data name="SystemImport" xml:space="preserve">
-    <value>SystemImport</value>
+    <value>System Import</value>
   </data>
   <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
     <value>Updated records include only</value>
@@ -338,5 +338,11 @@
   </data>
   <data name="YourImportWillBeginProcessingMomentarily" xml:space="preserve">
     <value>Your import will begin processing momentarily</value>
+  </data>
+  <data name="PleaseEnsureHeadersAreCorrect" xml:space="preserve">
+    <value>Please ensure the file headers are correct</value>
+  </data>
+  <data name="UnableToIdentify" xml:space="preserve">
+    <value>Unable to identify one or more uploaded files</value>
   </data>
 </root>

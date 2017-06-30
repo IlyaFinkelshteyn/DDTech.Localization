@@ -457,6 +457,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Please ensure the file headers are correct.
+        /// </summary>
+        public static string PleaseEnsureHeadersAreCorrect {
+            get {
+                return ResourceManager.GetString("PleaseEnsureHeadersAreCorrect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Please review before proceeding.
         /// </summary>
         public static string PleaseReviewBeforeProceeding {
@@ -592,7 +601,7 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to SystemImport.
+        ///   Looks up a localized string similar to System Import.
         /// </summary>
         public static string SystemImport {
             get {
@@ -624,6 +633,15 @@ namespace DDTech.Localization {
         public static string Type {
             get {
                 return ResourceManager.GetString("Type", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unable to identify one or more uploaded files.
+        /// </summary>
+        public static string UnableToIdentify {
+            get {
+                return ResourceManager.GetString("UnableToIdentify", resourceCulture);
             }
         }
         

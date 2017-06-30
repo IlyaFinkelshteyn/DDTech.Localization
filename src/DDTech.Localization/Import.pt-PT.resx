@@ -249,6 +249,9 @@
   <data name="ParsingErrors" xml:space="preserve">
     <value>Erros de análise</value>
   </data>
+  <data name="PleaseEnsureHeadersAreCorrect" xml:space="preserve">
+    <value>Por favor verifique os cabeçalhos do arquivo estão corretos</value>
+  </data>
   <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
     <value>Por favor reveja antes de continuar</value>
   </data>
@@ -295,7 +298,7 @@
     <value>Começar outro Upload</value>
   </data>
   <data name="SystemImport" xml:space="preserve">
-    <value>SystemImport</value>
+    <value>Sistema de importação</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Teste</value>
@@ -305,6 +308,9 @@
   </data>
   <data name="Type" xml:space="preserve">
     <value>Tipo</value>
+  </data>
+  <data name="UnableToIdentify" xml:space="preserve">
+    <value>Não é possível identificar um ou mais arquivos carregados</value>
   </data>
   <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
     <value>Registros atualizados incluem apenas</value>

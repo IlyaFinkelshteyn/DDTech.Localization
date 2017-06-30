@@ -249,6 +249,9 @@
   <data name="ParsingErrors" xml:space="preserve">
     <value>Ошибки синтаксического анализа</value>
   </data>
+  <data name="PleaseEnsureHeadersAreCorrect" xml:space="preserve">
+    <value>Пожалуйста, убедитесь, что правильные заголовки файлов</value>
+  </data>
   <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
     <value>Ознакомьтесь перед</value>
   </data>
@@ -295,7 +298,7 @@
     <value>Начать загрузку другой</value>
   </data>
   <data name="SystemImport" xml:space="preserve">
-    <value>SystemImport</value>
+    <value>Импорт системы</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Тест</value>
@@ -305,6 +308,9 @@
   </data>
   <data name="Type" xml:space="preserve">
     <value>Тип</value>
+  </data>
+  <data name="UnableToIdentify" xml:space="preserve">
+    <value>Не удается определить один или несколько загруженных файлов</value>
   </data>
   <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
     <value>Обновленные записи включают только</value>

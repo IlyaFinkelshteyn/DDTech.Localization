@@ -249,6 +249,9 @@
   <data name="ParsingErrors" xml:space="preserve">
     <value>Ayrıştırma hataları</value>
   </data>
+  <data name="PleaseEnsureHeadersAreCorrect" xml:space="preserve">
+    <value>Lütfen dosya başlıkları doğru olduğundan emin olun</value>
+  </data>
   <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
     <value>Lütfen devam etmeden önce gözden geçirin</value>
   </data>
@@ -295,7 +298,7 @@
     <value>Başka bir Upload başlamak</value>
   </data>
   <data name="SystemImport" xml:space="preserve">
-    <value>SystemImport</value>
+    <value>Sistem alma</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Test</value>
@@ -305,6 +308,9 @@
   </data>
   <data name="Type" xml:space="preserve">
     <value>Türü</value>
+  </data>
+  <data name="UnableToIdentify" xml:space="preserve">
+    <value>Bir veya daha fazla yüklenen dosyaları tanımlamak için</value>
   </data>
   <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
     <value>Güncelleştirilmiş kayıtları yalnızca dahil</value>

@@ -249,6 +249,9 @@
   <data name="ParsingErrors" xml:space="preserve">
     <value>Jäsennysvirheitä</value>
   </data>
+  <data name="PleaseEnsureHeadersAreCorrect" xml:space="preserve">
+    <value>Varmista tiedoston otsikot ovat oikeat</value>
+  </data>
   <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
     <value>Tarkista ennen jatkamista</value>
   </data>
@@ -295,7 +298,7 @@
     <value>Aloita toinen lataus</value>
   </data>
   <data name="SystemImport" xml:space="preserve">
-    <value>SystemImport</value>
+    <value>Järjestelmän tuonnin</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Testi</value>
@@ -305,6 +308,9 @@
   </data>
   <data name="Type" xml:space="preserve">
     <value>Tyyppi</value>
+  </data>
+  <data name="UnableToIdentify" xml:space="preserve">
+    <value>Pysty tunnistamaan ladatut tiedostot</value>
   </data>
   <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
     <value>Päivitetyt tietueet sisältyvät vain</value>

@@ -249,6 +249,9 @@
   <data name="ParsingErrors" xml:space="preserve">
     <value>Parsing Errors</value>
   </data>
+  <data name="PleaseEnsureHeadersAreCorrect" xml:space="preserve">
+    <value>Please ensure the file headers are correct</value>
+  </data>
   <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
     <value>Please review before proceeding</value>
   </data>
@@ -295,7 +298,7 @@
     <value>Start Another Upload</value>
   </data>
   <data name="SystemImport" xml:space="preserve">
-    <value>SystemImport</value>
+    <value>System Import</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Test</value>
@@ -305,6 +308,9 @@
   </data>
   <data name="Type" xml:space="preserve">
     <value>Type</value>
+  </data>
+  <data name="UnableToIdentify" xml:space="preserve">
+    <value>Unable to identify one or more uploaded files</value>
   </data>
   <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
     <value>Updated records include only</value>

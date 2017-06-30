@@ -249,6 +249,9 @@
   <data name="ParsingErrors" xml:space="preserve">
     <value>구문 분석 오류</value>
   </data>
+  <data name="PleaseEnsureHeadersAreCorrect" xml:space="preserve">
+    <value>파일 헤더 올바른지 확인 하십시오</value>
+  </data>
   <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
     <value>계속 하기 전에 검토 하십시오</value>
   </data>
@@ -295,7 +298,7 @@
     <value>다른 업로드 시작</value>
   </data>
   <data name="SystemImport" xml:space="preserve">
-    <value>SystemImport</value>
+    <value>시스템 가져오기</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>테스트</value>
@@ -305,6 +308,9 @@
   </data>
   <data name="Type" xml:space="preserve">
     <value>TYPE</value>
+  </data>
+  <data name="UnableToIdentify" xml:space="preserve">
+    <value>하나 이상의 업로드 된 파일을 식별할 수 없는</value>
   </data>
   <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
     <value>업데이트 된 레코드 포함</value>
