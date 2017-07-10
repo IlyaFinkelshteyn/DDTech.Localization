@@ -225,6 +225,9 @@
   <data name="Import_Validation_Warnings" xml:space="preserve">
     <value>Advertencias de validación</value>
   </data>
+  <data name="ImportMode_Replace_Description" xml:space="preserve">
+    <value>Archivos contienen todos los registros de los tipos de carga</value>
+  </data>
   <data name="ImportQueue" xml:space="preserve">
     <value>Cola de Importación:</value>
   </data>
@@ -261,8 +264,8 @@
   <data name="Processing" xml:space="preserve">
     <value>En proceso</value>
   </data>
-  <data name="PurgePendingExportedOrdersOnImport" xml:space="preserve">
-    <value>Borrar órdenes pendientes/exportados al importar</value>
+  <data name="PurgeToolTip" xml:space="preserve">
+    <value>Este modo es destructivo y eliminará los registros que no están en los archivos subidos. Las excepciones a esto son la oferta y la demanda generada por la planeación de requerimientos de Material.</value>
   </data>
   <data name="Records" xml:space="preserve">
     <value>Registros</value>
@@ -284,6 +287,9 @@
   </data>
   <data name="SelectMode" xml:space="preserve">
     <value>Seleccione el modo</value>
+  </data>
+  <data name="SelectType" xml:space="preserve">
+    <value>Seleccione tipo de</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Configuración</value>

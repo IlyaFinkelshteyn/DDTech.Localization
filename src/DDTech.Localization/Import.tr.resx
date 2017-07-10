@@ -225,6 +225,9 @@
   <data name="Import_Validation_Warnings" xml:space="preserve">
     <value>Doğrulama uyarıları</value>
   </data>
+  <data name="ImportMode_Replace_Description" xml:space="preserve">
+    <value>Karşıya yüklenen dosyaların karşıya yükleme türleri için tüm kayıtlar içeriyor</value>
+  </data>
   <data name="ImportQueue" xml:space="preserve">
     <value>Alma sırası:</value>
   </data>
@@ -261,8 +264,8 @@
   <data name="Processing" xml:space="preserve">
     <value>İşleme</value>
   </data>
-  <data name="PurgePendingExportedOrdersOnImport" xml:space="preserve">
-    <value>Bekleyen/verilen emir alma temizle</value>
+  <data name="PurgeToolTip" xml:space="preserve">
+    <value>Bu mod yıkıcıdır ve belgili tanımlık uploaded eğe içinde olmayan kayıtların silinmesine neden olur. Bunun istisnası arz ve malzeme gereksinimleri planlama ile üretilen talep vardır.</value>
   </data>
   <data name="Records" xml:space="preserve">
     <value>Kayıtları</value>
@@ -284,6 +287,9 @@
   </data>
   <data name="SelectMode" xml:space="preserve">
     <value>Modu seçin</value>
+  </data>
+  <data name="SelectType" xml:space="preserve">
+    <value>Türü seçin</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Ayarlar</value>
