@@ -205,6 +205,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Mode.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_Import_Mode {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_Import_Mode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Job Status.
         /// </summary>
         public static string DDTech_RPlus_DTO_Engine_Import_Status {
@@ -246,6 +255,15 @@ namespace DDTech.Localization {
         public static string DDTech_RPlus_DTO_Engine_Import_TotalValidationWarnings {
             get {
                 return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_Import_TotalValidationWarnings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Type.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_Import_Type {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_Import_Type", resourceCulture);
             }
         }
         
