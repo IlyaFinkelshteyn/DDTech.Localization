@@ -483,4 +483,10 @@
   <data name="DDTech_RPlus_DTO_Engine_Import_UserName" xml:space="preserve">
     <value>User Name</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_Mode" xml:space="preserve">
+    <value>Mode</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_Import_Type" xml:space="preserve">
+    <value>Type</value>
+  </data>
 </root>

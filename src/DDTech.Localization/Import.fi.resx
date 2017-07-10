@@ -225,6 +225,9 @@
   <data name="Import_Validation_Warnings" xml:space="preserve">
     <value>Tarkistusvaroitukset</value>
   </data>
+  <data name="ImportMode_Replace_Description" xml:space="preserve">
+    <value>Ladattavien tiedostojen sisältämään kaikki tietueet ladata eri</value>
+  </data>
   <data name="ImportQueue" xml:space="preserve">
     <value>Tuo jono:</value>
   </data>
@@ -261,8 +264,8 @@
   <data name="Processing" xml:space="preserve">
     <value>Prosessoi</value>
   </data>
-  <data name="PurgePendingExportedOrdersOnImport" xml:space="preserve">
-    <value>Älä säilytä odottavia/siirrettyjä tilauksia tietojen tuonnin yhteydessä</value>
+  <data name="PurgeToolTip" xml:space="preserve">
+    <value>Tämä tila on tuhoisa ja poistaa tietueet, joita ei uploaded arkistoida. Tällä hetkellä tarjonta ja kysyntä syntyy tarvelaskennan.</value>
   </data>
   <data name="Records" xml:space="preserve">
     <value>Tietueet</value>
@@ -284,6 +287,9 @@
   </data>
   <data name="SelectMode" xml:space="preserve">
     <value>Valitse tila</value>
+  </data>
+  <data name="SelectType" xml:space="preserve">
+    <value>Valitse tyyppi</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Asetukset</value>

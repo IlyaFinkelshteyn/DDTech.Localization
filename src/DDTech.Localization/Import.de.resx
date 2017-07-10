@@ -225,6 +225,9 @@
   <data name="Import_Validation_Warnings" xml:space="preserve">
     <value>Validierung-Warnungen</value>
   </data>
+  <data name="ImportMode_Replace_Description" xml:space="preserve">
+    <value>Hochgeladene Dateien enthalten alle Datensätze für die Upload-Typen</value>
+  </data>
   <data name="ImportQueue" xml:space="preserve">
     <value>Import-Warteschlange:</value>
   </data>
@@ -261,8 +264,8 @@
   <data name="Processing" xml:space="preserve">
     <value>Verarbeitung</value>
   </data>
-  <data name="PurgePendingExportedOrdersOnImport" xml:space="preserve">
-    <value>Ausstehende/exportierte Bestellungen beim Import löschen</value>
+  <data name="PurgeToolTip" xml:space="preserve">
+    <value>Dieser Modus ist destruktiv und löscht Datensätze, die nicht in die hochgeladenen Dateien sind. Die Ausnahmen sind Angebot und Nachfrage von Materialbedarfsplanung generiert.</value>
   </data>
   <data name="Records" xml:space="preserve">
     <value>Datensätze</value>
@@ -284,6 +287,9 @@
   </data>
   <data name="SelectMode" xml:space="preserve">
     <value>Wählen Sie den Modus</value>
+  </data>
+  <data name="SelectType" xml:space="preserve">
+    <value>Typ auswählen</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Einstellungen</value>

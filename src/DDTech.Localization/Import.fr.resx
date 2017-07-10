@@ -225,6 +225,9 @@
   <data name="Import_Validation_Warnings" xml:space="preserve">
     <value>Avertissements de validation</value>
   </data>
+  <data name="ImportMode_Replace_Description" xml:space="preserve">
+    <value>Fichiers téléchargés contient tous les documents pour les types de téléchargement</value>
+  </data>
   <data name="ImportQueue" xml:space="preserve">
     <value>Importer la liste :</value>
   </data>
@@ -261,8 +264,8 @@
   <data name="Processing" xml:space="preserve">
     <value>Traitement</value>
   </data>
-  <data name="PurgePendingExportedOrdersOnImport" xml:space="preserve">
-    <value>Purger les commandes en attente/exportées lors de l'import</value>
+  <data name="PurgeToolTip" xml:space="preserve">
+    <value>Ce mode est destructeur et va supprimer des enregistrements qui ne sont pas dans les fichiers téléchargés. Les exceptions à cette règle sont offre et la demande générée par la planification des besoins matières.</value>
   </data>
   <data name="Records" xml:space="preserve">
     <value>Enregistrements  </value>
@@ -284,6 +287,9 @@
   </data>
   <data name="SelectMode" xml:space="preserve">
     <value>Sélectionnez le mode</value>
+  </data>
+  <data name="SelectType" xml:space="preserve">
+    <value>Sélectionnez le type</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Paramètres</value>
