@@ -486,6 +486,9 @@
   <data name="Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple" xml:space="preserve">
     <value>수량 주문 배율에 의해 균등 하 게 나눌 수는</value>
   </data>
+  <data name="Workbench_DeselectAll_Title" xml:space="preserve">
+    <value>모두 선택 취소</value>
+  </data>
   <data name="Workbench_Menu_Group_ExportData" xml:space="preserve">
     <value>데이터 내보내기</value>
   </data>

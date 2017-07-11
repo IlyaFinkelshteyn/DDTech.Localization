@@ -574,15 +574,6 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Min/Max.
-        /// </summary>
-        public static string Min_Max {
-            get {
-                return ResourceManager.GetString("Min/Max", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Non-buffered and Lead Time Managed parts have no sizing values..
         /// </summary>
         public static string NBAndLTMPartsNoSizingValues {
@@ -804,15 +795,6 @@ namespace DDTech.Localization {
         public static string PlannersWorkBench {
             get {
                 return ResourceManager.GetString("PlannersWorkBench", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Priority:.
-        /// </summary>
-        public static string Priority_ {
-            get {
-                return ResourceManager.GetString("Priority:", resourceCulture);
             }
         }
         
@@ -1164,6 +1146,15 @@ namespace DDTech.Localization {
         public static string Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple {
             get {
                 return ResourceManager.GetString("Workbench_CustomOrder_QuantityNotEvenlyDivisibleByOrderMultiple", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Deselect all.
+        /// </summary>
+        public static string Workbench_DeselectAll_Title {
+            get {
+                return ResourceManager.GetString("Workbench_DeselectAll_Title", resourceCulture);
             }
         }
         
