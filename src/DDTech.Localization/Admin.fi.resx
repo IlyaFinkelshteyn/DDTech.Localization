@@ -330,6 +330,21 @@
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>Valitse muoto</value>
   </data>
+  <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
+    <value>Esitetyt tiedot koosta riippuen tämä voi kestää jonkin aikaa.</value>
+  </data>
+  <data name="Settings_Processing_DoYouWantToReAnalyze" xml:space="preserve">
+    <value>Haluat analysoida uudelleen käyttäen päivitetty käsittelyasetusten muuttamiseen nyt määrittää?</value>
+  </data>
+  <data name="Settings_Processing_ManauallyAnalyzeOrWaitTillNextDay" xml:space="preserve">
+    <value>Jos sinua ei manuaalisesti analysoi nyt, jotta recommendedations, ilmoitukset ja puskurin tasot eivät tarkasti näy uudet asetukset seuraavaan päivään.</value>
+  </data>
+  <data name="Settings_Processing_Modified" xml:space="preserve">
+    <value>Käsittelyn asetuksia on muutettu</value>
+  </data>
+  <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
+    <value>Nämä asetukset tulevat voimaan heti uuden tuonnin ja käytetään kaikkiin osiin automaattisesti keskiyöllä.</value>
+  </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Ennustetun stock-out Läpimenoajan aikahorisontti</value>
   </data>

@@ -136,7 +136,7 @@
     <value>삭제</value>
   </data>
   <data name="Button_OK" xml:space="preserve">
-    <value>OK</value>
+    <value>그래</value>
   </data>
   <data name="Button_Save" xml:space="preserve">
     <value>저장</value>
@@ -191,6 +191,9 @@
   </data>
   <data name="PartType_Make" xml:space="preserve">
     <value>생산</value>
+  </data>
+  <data name="PleaseNote" xml:space="preserve">
+    <value>Note 하시기 바랍니다</value>
   </data>
   <data name="Priority_Critical" xml:space="preserve">
     <value>Critical</value>

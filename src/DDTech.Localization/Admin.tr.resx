@@ -330,6 +330,21 @@
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>Lütfen bir biçim seçin</value>
   </data>
+  <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
+    <value>Veri kümesi boyutuna bağlı olarak, bunun tamamlanması biraz zaman alabilir.</value>
+  </data>
+  <data name="Settings_Processing_DoYouWantToReAnalyze" xml:space="preserve">
+    <value>Şimdi Güncellenme Zamanı işleme ayarları kullanarak veri kümeniz yeniden analiz etmek istiyor musunuz?</value>
+  </data>
+  <data name="Settings_Processing_ManauallyAnalyzeOrWaitTillNextDay" xml:space="preserve">
+    <value>Sen el ile şimdi analiz etmiyorsun, sipariş recommendedations, uyarılarınızı ve arabellek düzeyleri doğru yeni ayarları ertesi güne kadar yansıtmaz.</value>
+  </data>
+  <data name="Settings_Processing_Modified" xml:space="preserve">
+    <value>İşleme ayarları değiştirildi</value>
+  </data>
+  <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
+    <value>Bu ayarlar herhangi bir yeni ithalat için hemen etkili olur ve tüm bölgelerine gece yarısı otomatik olarak uygulanır.</value>
+  </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Kalan tahmini stok-Out kurşun süre</value>
   </data>

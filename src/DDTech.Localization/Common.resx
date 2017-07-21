@@ -234,4 +234,7 @@
   <data name="Yes" xml:space="preserve">
     <value>Yes</value>
   </data>
+  <data name="PleaseNote" xml:space="preserve">
+    <value>Please Note</value>
+  </data>
 </root>

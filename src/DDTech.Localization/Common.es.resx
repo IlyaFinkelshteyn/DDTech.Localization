@@ -136,7 +136,7 @@
     <value>Borrar</value>
   </data>
   <data name="Button_OK" xml:space="preserve">
-    <value>OK</value>
+    <value>Vale</value>
   </data>
   <data name="Button_Save" xml:space="preserve">
     <value>Guardar</value>
@@ -191,6 +191,9 @@
   </data>
   <data name="PartType_Make" xml:space="preserve">
     <value>Elaborado</value>
+  </data>
+  <data name="PleaseNote" xml:space="preserve">
+    <value>Tenga en cuenta</value>
   </data>
   <data name="Priority_Critical" xml:space="preserve">
     <value>Crítico</value>

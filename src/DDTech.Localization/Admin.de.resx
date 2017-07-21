@@ -330,6 +330,21 @@
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>Bitte wählen Sie ein Format</value>
   </data>
+  <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
+    <value>Abhängig von der Größe des Datensatzes kann dies einige Zeit in Anspruch nehmen.</value>
+  </data>
+  <data name="Settings_Processing_DoYouWantToReAnalyze" xml:space="preserve">
+    <value>Möchten Sie Ihrem Datensatz mithilfe der aktualisierten Verarbeitung Einstellungen jetzt neu zu analysieren?</value>
+  </data>
+  <data name="Settings_Processing_ManauallyAnalyzeOrWaitTillNextDay" xml:space="preserve">
+    <value>Wenn Sie jetzt manuell nicht analysieren, werden Ihre Bestellung Werbepartner, Warnungen und Puffer Ebenen nicht die neuen Einstellungen bis zum nächsten Tag widerspiegeln.</value>
+  </data>
+  <data name="Settings_Processing_Modified" xml:space="preserve">
+    <value>Ihre Verarbeitung-Einstellungen wurden geändert</value>
+  </data>
+  <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
+    <value>Diese Einstellungen werden für jede neue Importe sofort wirksam und werden um Mitternacht automatisch auf alle Teile angewendet werden.</value>
+  </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Horizont für projizierten Nullbestand</value>
   </data>

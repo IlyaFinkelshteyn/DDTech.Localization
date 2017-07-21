@@ -192,6 +192,9 @@
   <data name="PartType_Make" xml:space="preserve">
     <value>Valmistus</value>
   </data>
+  <data name="PleaseNote" xml:space="preserve">
+    <value>Huomaa</value>
+  </data>
   <data name="Priority_Critical" xml:space="preserve">
     <value>Kriittinen</value>
   </data>
@@ -208,7 +211,7 @@
     <value>Matala</value>
   </data>
   <data name="Priority_Medium" xml:space="preserve">
-    <value>Medium</value>
+    <value>Normaali</value>
   </data>
   <data name="Priority_OToG" xml:space="preserve">
     <value>OToG</value>

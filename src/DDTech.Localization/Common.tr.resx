@@ -192,6 +192,9 @@
   <data name="PartType_Make" xml:space="preserve">
     <value>Yapmak</value>
   </data>
+  <data name="PleaseNote" xml:space="preserve">
+    <value>Lütfen unutmayın</value>
+  </data>
   <data name="Priority_Critical" xml:space="preserve">
     <value>Kritik</value>
   </data>
