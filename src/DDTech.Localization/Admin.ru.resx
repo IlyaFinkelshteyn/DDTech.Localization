@@ -330,6 +330,9 @@
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>Пожалуйста, выберите формат</value>
   </data>
+  <data name="Settings_Processing_AnalyzeNow" xml:space="preserve">
+    <value>Анализировать сейчас</value>
+  </data>
   <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
     <value>В зависимости от размера набора данных это может занять некоторое время для завершения.</value>
   </data>
@@ -344,6 +347,9 @@
   </data>
   <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
     <value>Эти настройки вступят в силу немедленно для любого нового импорта и будут применяться ко всем частям автоматически в полночь.</value>
+  </data>
+  <data name="Settings_Processing_Skip" xml:space="preserve">
+    <value>Скип</value>
   </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Горизонт времени выполнения для прогнозируемого аут-оф-стока</value>

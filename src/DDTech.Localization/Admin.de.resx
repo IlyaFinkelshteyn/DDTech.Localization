@@ -330,6 +330,9 @@
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>Bitte wählen Sie ein Format</value>
   </data>
+  <data name="Settings_Processing_AnalyzeNow" xml:space="preserve">
+    <value>Jetzt analysieren</value>
+  </data>
   <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
     <value>Abhängig von der Größe des Datensatzes kann dies einige Zeit in Anspruch nehmen.</value>
   </data>
@@ -344,6 +347,9 @@
   </data>
   <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
     <value>Diese Einstellungen werden für jede neue Importe sofort wirksam und werden um Mitternacht automatisch auf alle Teile angewendet werden.</value>
+  </data>
+  <data name="Settings_Processing_Skip" xml:space="preserve">
+    <value>Skip</value>
   </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Horizont für projizierten Nullbestand</value>

@@ -330,6 +330,9 @@
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>포맷 선택 </value>
   </data>
+  <data name="Settings_Processing_AnalyzeNow" xml:space="preserve">
+    <value>지금 분석</value>
+  </data>
   <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
     <value>데이터 집합의 크기에 따라이 완료 하는 데 시간이 걸릴 수 있습니다.</value>
   </data>
@@ -344,6 +347,9 @@
   </data>
   <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
     <value>이러한 설정은 모든 새로운 수입품을 위한 즉시 적용 되며 자동으로 자정에 모든 부분에 적용 될 것입니다.</value>
+  </data>
+  <data name="Settings_Processing_Skip" xml:space="preserve">
+    <value>건너뛰기</value>
   </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>예상 품절 리드타임 구간 </value>

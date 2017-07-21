@@ -330,6 +330,9 @@
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>Valitse muoto</value>
   </data>
+  <data name="Settings_Processing_AnalyzeNow" xml:space="preserve">
+    <value>Analysoida nyt</value>
+  </data>
   <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
     <value>Esitetyt tiedot koosta riippuen tämä voi kestää jonkin aikaa.</value>
   </data>
@@ -344,6 +347,9 @@
   </data>
   <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
     <value>Nämä asetukset tulevat voimaan heti uuden tuonnin ja käytetään kaikkiin osiin automaattisesti keskiyöllä.</value>
+  </data>
+  <data name="Settings_Processing_Skip" xml:space="preserve">
+    <value>Ohita</value>
   </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Ennustetun stock-out Läpimenoajan aikahorisontti</value>

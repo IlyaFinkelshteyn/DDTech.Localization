@@ -453,6 +453,9 @@
   <data name="Settings_Global_AllowedImportFields" xml:space="preserve">
     <value>Allowed Import Fields</value>
   </data>
+  <data name="Settings_Processing_AnalyzeNow" xml:space="preserve">
+    <value>Analyze Now</value>
+  </data>
   <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
     <value>Depending on the size of the data set, this may take a while to complete.</value>
   </data>
@@ -467,5 +470,8 @@
   </data>
   <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
     <value>These settings will take effect immediately for any new imports, and will be applied to all parts automatically at midnight.</value>
+  </data>
+  <data name="Settings_Processing_Skip" xml:space="preserve">
+    <value>Skip</value>
   </data>
 </root>

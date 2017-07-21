@@ -700,6 +700,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Analyze Now.
+        /// </summary>
+        public static string Settings_Processing_AnalyzeNow {
+            get {
+                return ResourceManager.GetString("Settings_Processing_AnalyzeNow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Depending on the size of the data set, this may take a while to complete..
         /// </summary>
         public static string Settings_Processing_DependingOnDataSizeMayTakeLongTime {
@@ -741,6 +750,15 @@ namespace DDTech.Localization {
         public static string Settings_Processing_SettingsTakeAfterMidnight {
             get {
                 return ResourceManager.GetString("Settings_Processing_SettingsTakeAfterMidnight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Skip.
+        /// </summary>
+        public static string Settings_Processing_Skip {
+            get {
+                return ResourceManager.GetString("Settings_Processing_Skip", resourceCulture);
             }
         }
         
