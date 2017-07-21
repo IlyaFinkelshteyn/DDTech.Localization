@@ -330,6 +330,21 @@
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>Por favor, selecione um formato</value>
   </data>
+  <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
+    <value>Dependendo do tamanho do conjunto de dados, isso pode demorar um pouco para completar.</value>
+  </data>
+  <data name="Settings_Processing_DoYouWantToReAnalyze" xml:space="preserve">
+    <value>Você quer re-analisar o conjunto de dados usando as configurações de processamento atualizado agora?</value>
+  </data>
+  <data name="Settings_Processing_ManauallyAnalyzeOrWaitTillNextDay" xml:space="preserve">
+    <value>Se você não manualmente analisar agora, sua recommendedations ordem, alertas e os níveis de reserva não precisão refletirá as novas configurações até o dia seguinte.</value>
+  </data>
+  <data name="Settings_Processing_Modified" xml:space="preserve">
+    <value>Suas configurações de processamento foram modificadas</value>
+  </data>
+  <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
+    <value>Essas configurações entrarão em vigor imediatamente para quaisquer novas importações e serão aplicadas a todas as partes automaticamente à meia-noite.</value>
+  </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Horizonte temporal de chumbo projetadas Stock-Out</value>
   </data>

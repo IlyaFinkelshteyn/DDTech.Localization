@@ -330,6 +330,21 @@
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>Kérjük, válassza ki a formátum</value>
   </data>
+  <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
+    <value>Méretétől függően az adathalmaz ez eltarthat egy ideig, hogy teljes.</value>
+  </data>
+  <data name="Settings_Processing_DoYouWantToReAnalyze" xml:space="preserve">
+    <value>Szeretné, hogy újra elemezni az adathalmaz, most frissített feldolgozási beállítások segítségével?</value>
+  </data>
+  <data name="Settings_Processing_ManauallyAnalyzeOrWaitTillNextDay" xml:space="preserve">
+    <value>Ha nem kézzel elemezzük most, a rend recommendedations, az értesítéseket és a kiegyenlítő szintje nem pontosan tükrözi az új beállítások amíg a következő nap.</value>
+  </data>
+  <data name="Settings_Processing_Modified" xml:space="preserve">
+    <value>A feldolgozás beállításai módosultak.</value>
+  </data>
+  <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
+    <value>Ezek a beállítások akkor lépnek életbe azonnal minden új behozatal, és vonatkozni fog minden része automatikusan éjfélkor.</value>
+  </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Horizon tervezett állomány átfutási idő</value>
   </data>

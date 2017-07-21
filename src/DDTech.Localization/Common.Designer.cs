@@ -286,6 +286,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Please Note.
+        /// </summary>
+        public static string PleaseNote {
+            get {
+                return ResourceManager.GetString("PleaseNote", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Critical.
         /// </summary>
         public static string Priority_Critical {

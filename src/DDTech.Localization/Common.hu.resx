@@ -192,6 +192,9 @@
   <data name="PartType_Make" xml:space="preserve">
     <value>Hogy</value>
   </data>
+  <data name="PleaseNote" xml:space="preserve">
+    <value>Kérjük, vegye figyelembe</value>
+  </data>
   <data name="Priority_Critical" xml:space="preserve">
     <value>Kritikus</value>
   </data>

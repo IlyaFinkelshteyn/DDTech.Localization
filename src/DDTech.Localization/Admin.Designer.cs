@@ -700,6 +700,51 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Depending on the size of the data set, this may take a while to complete..
+        /// </summary>
+        public static string Settings_Processing_DependingOnDataSizeMayTakeLongTime {
+            get {
+                return ResourceManager.GetString("Settings_Processing_DependingOnDataSizeMayTakeLongTime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to re-analyze your data set using the updated processing settings now?.
+        /// </summary>
+        public static string Settings_Processing_DoYouWantToReAnalyze {
+            get {
+                return ResourceManager.GetString("Settings_Processing_DoYouWantToReAnalyze", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you do not manually analyze now, your order recommendedations, alerts, and buffer levels will not accurately reflect the new settings until the next day..
+        /// </summary>
+        public static string Settings_Processing_ManauallyAnalyzeOrWaitTillNextDay {
+            get {
+                return ResourceManager.GetString("Settings_Processing_ManauallyAnalyzeOrWaitTillNextDay", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your processing settings have been modified.
+        /// </summary>
+        public static string Settings_Processing_Modified {
+            get {
+                return ResourceManager.GetString("Settings_Processing_Modified", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to These settings will take effect immediately for any new imports, and will be applied to all parts automatically at midnight..
+        /// </summary>
+        public static string Settings_Processing_SettingsTakeAfterMidnight {
+            get {
+                return ResourceManager.GetString("Settings_Processing_SettingsTakeAfterMidnight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Projected Stock-Out Lead Time Horizon.
         /// </summary>
         public static string Settings_ProjectedStockOutLeadTimeHorizon {

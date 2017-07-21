@@ -192,6 +192,9 @@
   <data name="PartType_Make" xml:space="preserve">
     <value>Fazer</value>
   </data>
+  <data name="PleaseNote" xml:space="preserve">
+    <value>Por favor, Note</value>
+  </data>
   <data name="Priority_Critical" xml:space="preserve">
     <value>Crítica</value>
   </data>

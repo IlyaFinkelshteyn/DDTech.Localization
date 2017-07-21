@@ -330,6 +330,21 @@
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>Por favor, seleccione un formato de</value>
   </data>
+  <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
+    <value>Dependiendo del tamaño del conjunto de datos, esto puede tomar un tiempo para completar.</value>
+  </data>
+  <data name="Settings_Processing_DoYouWantToReAnalyze" xml:space="preserve">
+    <value>¿Desea volver a analizar el conjunto de datos utilizando la configuración de procesamiento actualizada ahora?</value>
+  </data>
+  <data name="Settings_Processing_ManauallyAnalyzeOrWaitTillNextDay" xml:space="preserve">
+    <value>Si usted no manualmente analizar ahora, su recommendedations orden, alertas y niveles de buffer se reflejan correctamente la nueva configuración hasta el día siguiente.</value>
+  </data>
+  <data name="Settings_Processing_Modified" xml:space="preserve">
+    <value>Se han modificado los ajustes de procesamiento</value>
+  </data>
+  <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
+    <value>Estos ajustes entrarán en vigor inmediatamente para cualquier nuevas importaciones y se aplicará a todas las partes automáticamente a medianoche.</value>
+  </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Horizonte de cálculo para Alerta de Proyección de Rotura</value>
   </data>

@@ -330,6 +330,21 @@
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>Пожалуйста, выберите формат</value>
   </data>
+  <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
+    <value>В зависимости от размера набора данных это может занять некоторое время для завершения.</value>
+  </data>
+  <data name="Settings_Processing_DoYouWantToReAnalyze" xml:space="preserve">
+    <value>Вы хотите повторить анализ набора данных, используя параметры обновленный обработки сейчас?</value>
+  </data>
+  <data name="Settings_Processing_ManauallyAnalyzeOrWaitTillNextDay" xml:space="preserve">
+    <value>Если вы не анализировать вручную теперь, ваш заказ recommendedations, оповещения и уровня буфера будет не отражает новые параметры до следующего дня.</value>
+  </data>
+  <data name="Settings_Processing_Modified" xml:space="preserve">
+    <value>Были изменены настройки обработки</value>
+  </data>
+  <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
+    <value>Эти настройки вступят в силу немедленно для любого нового импорта и будут применяться ко всем частям автоматически в полночь.</value>
+  </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Горизонт времени выполнения для прогнозируемого аут-оф-стока</value>
   </data>

@@ -330,6 +330,21 @@
   <data name="Settings_PleaseSelectAFormat" xml:space="preserve">
     <value>포맷 선택 </value>
   </data>
+  <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
+    <value>데이터 집합의 크기에 따라이 완료 하는 데 시간이 걸릴 수 있습니다.</value>
+  </data>
+  <data name="Settings_Processing_DoYouWantToReAnalyze" xml:space="preserve">
+    <value>지금 업데이트 처리 설정을 사용 하 여 데이터 집합을 다시 분석 하 시겠습니까?</value>
+  </data>
+  <data name="Settings_Processing_ManauallyAnalyzeOrWaitTillNextDay" xml:space="preserve">
+    <value>할 하지 수동으로 분석 하면 지금, 당신의 순서 recommendedations, 경고 및 버퍼 레벨 것입니다 정확 하 게 반영 하지 새로운 설정을 다음 날까지.</value>
+  </data>
+  <data name="Settings_Processing_Modified" xml:space="preserve">
+    <value>처리 설정 수정</value>
+  </data>
+  <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
+    <value>이러한 설정은 모든 새로운 수입품을 위한 즉시 적용 되며 자동으로 자정에 모든 부분에 적용 될 것입니다.</value>
+  </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>예상 품절 리드타임 구간 </value>
   </data>
