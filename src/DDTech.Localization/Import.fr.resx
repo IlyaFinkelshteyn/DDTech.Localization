@@ -133,7 +133,7 @@
     <value>Annuler</value>
   </data>
   <data name="Complete" xml:space="preserve">
-    <value>Toutes les</value>
+    <value>Terminer</value>
   </data>
   <data name="ConfigurationImport" xml:space="preserve">
     <value>Importation de la configuration</value>
@@ -148,13 +148,13 @@
     <value>Import des données</value>
   </data>
   <data name="DataNotValidated" xml:space="preserve">
-    <value>Données n’ont pas été validées</value>
+    <value>Les données n’ont pas été validées</value>
   </data>
   <data name="DataValidationFailed" xml:space="preserve">
-    <value>Validation des données a échoué</value>
+    <value>La validation des données a échoué</value>
   </data>
   <data name="DataValidationPassed" xml:space="preserve">
-    <value>Validation des données transmise</value>
+    <value>Les données sont validées</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Supprimer</value>
@@ -226,7 +226,7 @@
     <value>Avertissements de validation</value>
   </data>
   <data name="ImportMode_Replace_Description" xml:space="preserve">
-    <value>Fichiers téléchargés contient tous les documents pour les types de téléchargement</value>
+    <value>Les fichiers téléchargés contiennent tous les enregistrements pour les types de téléchargement</value>
   </data>
   <data name="ImportQueue" xml:space="preserve">
     <value>Importer la liste :</value>
@@ -241,7 +241,7 @@
     <value>Supprimé avec succès</value>
   </data>
   <data name="NewRecordsIncludeAllFields" xml:space="preserve">
-    <value>Nouveaux enregistrements comprennent tous les champs</value>
+    <value>Les nouveaux enregistrements comprennent tous les champs</value>
   </data>
   <data name="NoDataToDisplay" xml:space="preserve">
     <value>Aucune donnée</value>
@@ -253,10 +253,10 @@
     <value>Erreurs d’analyse</value>
   </data>
   <data name="PleaseEnsureHeadersAreCorrect" xml:space="preserve">
-    <value>Veuillez vous assurer que les en-têtes de fichier sont corrects</value>
+    <value>Veuillez vous assurer que les entêtes de fichier sont corrects</value>
   </data>
   <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
-    <value>Veuillez consulter le bulletin avant de procéder</value>
+    <value>Veuillez vérifier avant de continuer</value>
   </data>
   <data name="Previous" xml:space="preserve">
     <value>Précédent</value>
@@ -265,7 +265,7 @@
     <value>Traitement</value>
   </data>
   <data name="PurgeToolTip" xml:space="preserve">
-    <value>Ce mode est destructeur et va supprimer des enregistrements qui ne sont pas dans les fichiers téléchargés. Les exceptions à cette règle sont offre et la demande générée par la planification des besoins matières.</value>
+    <value>Ce mode est destructeur et va supprimer des enregistrements qui ne sont pas dans les fichiers téléchargés. Les exceptions à cette règle sont les ordres et besoins générés le calcul des besoins.</value>
   </data>
   <data name="Records" xml:space="preserve">
     <value>Enregistrements  </value>
@@ -298,13 +298,13 @@
     <value>Taille</value>
   </data>
   <data name="StartAndIgnoreErrors" xml:space="preserve">
-    <value>Commencer &amp; ignorer les erreurs</value>
+    <value>Démarrer &amp; ignorer les erreurs</value>
   </data>
   <data name="StartAnotherUpload" xml:space="preserve">
-    <value>Démarrer un autre Upload</value>
+    <value>Démarrer un autre import</value>
   </data>
   <data name="SystemImport" xml:space="preserve">
-    <value>Importation de système</value>
+    <value>Système d'importation</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Tester</value>
@@ -316,10 +316,10 @@
     <value>Type</value>
   </data>
   <data name="UnableToIdentify" xml:space="preserve">
-    <value>Incapable d’identifier un ou plusieurs fichiers téléchargés</value>
+    <value>Identification impossible d'un ou plusieurs fichiers téléchargés</value>
   </data>
   <data name="UpdatedRecordsIncludeOnly" xml:space="preserve">
-    <value>Mise à jour des enregistrements comprennent seulement</value>
+    <value>La mise à jour des enregistrements comprend seulement les</value>
   </data>
   <data name="UploadData" xml:space="preserve">
     <value>Télécharger les données</value>
@@ -331,7 +331,7 @@
     <value>Téléchargement</value>
   </data>
   <data name="UploadMoreData" xml:space="preserve">
-    <value>Télécharger les données plus</value>
+    <value>Télécharger des données supplémentaires</value>
   </data>
   <data name="ValidateData" xml:space="preserve">
     <value>Valider les données</value>
@@ -340,7 +340,7 @@
     <value>Validation de</value>
   </data>
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
-    <value>Valider votre avant de données à importer est recommandé</value>
+    <value>La validation de vos données avant l'importation est recommandée</value>
   </data>
   <data name="ValidationResults" xml:space="preserve">
     <value>Résultats de la validation</value>
@@ -349,6 +349,6 @@
     <value>Votre importation est terminée</value>
   </data>
   <data name="YourImportWillBeginProcessingMomentarily" xml:space="preserve">
-    <value>Votre importation commencera le traitement momentanément</value>
+    <value>Votre importation commencera dans un instant</value>
   </data>
 </root>
