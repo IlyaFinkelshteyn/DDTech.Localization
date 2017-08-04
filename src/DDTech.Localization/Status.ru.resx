@@ -145,7 +145,7 @@
     <value>Оповещение при уровне пикового заказа по умолчанию</value>
   </data>
   <data name="DefaultOrderSpikeHorizonLevel" xml:space="preserve">
-    <value>Глубина горизонта пикового заказа по умолчанию</value>
+    <value>Уровень горизонта пикового заказа по умолчанию</value>
   </data>
   <data name="DemandOrder" xml:space="preserve">
     <value>Заказ на отгрузку</value>

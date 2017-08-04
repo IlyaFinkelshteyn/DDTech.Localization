@@ -249,6 +249,9 @@
   <data name="DDTech_RPlus_DTO_Engine_Part_ForecastedDailyUsage" xml:space="preserve">
     <value>Prévision Moy. Jour</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Committed" xml:space="preserve">
+    <value>Commis</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Date" xml:space="preserve">
     <value>Date</value>
   </data>
@@ -261,6 +264,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_IsInventory" xml:space="preserve">
     <value>En Stock</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_IssuedInventory" xml:space="preserve">
+    <value>Inventaire émise</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Late" xml:space="preserve">
     <value>Retard</value>
   </data>
@@ -269,6 +275,9 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Notes" xml:space="preserve">
     <value>Commentaires</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_OnHandInventory" xml:space="preserve">
+    <value>Sur la main</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderCreationDate" xml:space="preserve">
     <value>Date de la commande</value>
@@ -348,8 +357,20 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStockPercentage" xml:space="preserve">
     <value>% du Buffer</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_BufferAlertLevel" xml:space="preserve">
+    <value>Niveau d’alerte tampon</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_BufferProfile" xml:space="preserve">
+    <value>Profil de tampon</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_CurrentInventoryStatus" xml:space="preserve">
     <value>Statut Stock Actuel</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_DailyUsageType" xml:space="preserve">
+    <value>Type d’utilisation quotidienne</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_DaysCoverageCDAF" xml:space="preserve">
+    <value>Jours couverture CDAF</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_DemandAllocations" xml:space="preserve">
     <value>Demande qualifiée</value>
@@ -362,6 +383,9 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryMethod" xml:space="preserve">
     <value>Paramètre de stock</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryPlanning" xml:space="preserve">
+    <value>Planification des stocks</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryQty" xml:space="preserve">
     <value>Qté en stock</value>
@@ -384,6 +408,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OnHandQty" xml:space="preserve">
     <value>Stock Physique</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderCycle" xml:space="preserve">
+    <value>Cycle de commande</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMaximumQty" xml:space="preserve">
     <value>Maxi de Commande</value>
   </data>
@@ -395,6 +422,9 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderSpikeAlert" xml:space="preserve">
     <value>Pic</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OutSourceCost" xml:space="preserve">
+    <value>Externaliser les coûts</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_PercentageOfTopOfRed" xml:space="preserve">
     <value>% Top du Rouge</value>
@@ -417,6 +447,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_Quantity" xml:space="preserve">
     <value>A commander</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_RawMaterialsCost" xml:space="preserve">
+    <value>Coût des matières premières</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_RedZoneBase" xml:space="preserve">
     <value>Taille du buffer de Zone rouge</value>
   </data>
@@ -437,6 +470,12 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TargetedInventory" xml:space="preserve">
     <value>Stock projeté</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TodaysCDAF" xml:space="preserve">
+    <value>Aujourd'hui les de CDAF</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TodaysPAF" xml:space="preserve">
+    <value>Du jour PAF</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfGreen" xml:space="preserve">
     <value>ToV</value>

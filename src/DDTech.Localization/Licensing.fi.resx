@@ -129,6 +129,9 @@
   <data name="LicenseDetails" xml:space="preserve">
     <value>Lisenssin tiedot</value>
   </data>
+  <data name="LicenseDoesntIncludeFormat" xml:space="preserve">
+    <value>Nykyinen käyttöoikeus ei sisällä {0}</value>
+  </data>
   <data name="LicensedSites" xml:space="preserve">
     <value>Lisensoitu sivusto</value>
   </data>
@@ -155,6 +158,9 @@
   </data>
   <data name="PurchasedModules" xml:space="preserve">
     <value>Ostetut moduulit</value>
+  </data>
+  <data name="ToRequestPleaseContact" xml:space="preserve">
+    <value>Oikeus pyytää tietoja tämän toiminnon käyttöön, ota yhteyttä</value>
   </data>
   <data name="UploadNewLicense" xml:space="preserve">
     <value>Lataa uusi R+ lisenssi</value>

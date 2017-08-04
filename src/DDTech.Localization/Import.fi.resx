@@ -342,6 +342,9 @@
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
     <value>Validoida tiedot ennen importointia suositellaan</value>
   </data>
+  <data name="ValidationMessages_UnrecognizedFile" xml:space="preserve">
+    <value>Tiedostotyyppi on tuntematon. Varmista sinun otsikot ovat oikeat ja alueellisten erottimia on määritetty oikein.</value>
+  </data>
   <data name="ValidationResults" xml:space="preserve">
     <value>Oikeellisuustarkistustulokset</value>
   </data>

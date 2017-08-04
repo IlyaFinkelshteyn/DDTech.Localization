@@ -342,6 +342,9 @@
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
     <value>Validar su previo de datos a importar se recomienda</value>
   </data>
+  <data name="ValidationMessages_UnrecognizedFile" xml:space="preserve">
+    <value>Tipo de archivo es desconocido. Asegúrese de que sus jefes estén correctas, y sus regionales delimitadores están configurados correctamente.</value>
+  </data>
   <data name="ValidationResults" xml:space="preserve">
     <value>Resultados de la validación</value>
   </data>

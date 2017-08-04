@@ -120,6 +120,12 @@
   <data name="all" xml:space="preserve">
     <value>todo</value>
   </data>
+  <data name="AuthModeDesc_RPlusApiToken1" xml:space="preserve">
+    <value>R + API Token (es decir, añadir</value>
+  </data>
+  <data name="AuthModeDesc_RPlusApiToken2" xml:space="preserve">
+    <value>a la dirección de punto final)</value>
+  </data>
   <data name="BufferTrend" xml:space="preserve">
     <value>Evolución de Buffer</value>
   </data>
@@ -131,6 +137,9 @@
   </data>
   <data name="CriticalAndHighTrendByPlanner" xml:space="preserve">
     <value>Evol. de Críticos y Altos por Planner</value>
+  </data>
+  <data name="CustomReports" xml:space="preserve">
+    <value>Informes personalizados</value>
   </data>
   <data name="DateRange" xml:space="preserve">
     <value>Periodo:</value>
@@ -156,6 +165,9 @@
   <data name="MaterialType" xml:space="preserve">
     <value>Tipo Material:</value>
   </data>
+  <data name="MicrosoftsPowerBI" xml:space="preserve">
+    <value>Poder de BI de Microsoft</value>
+  </data>
   <data name="none" xml:space="preserve">
     <value>ninguno</value>
   </data>
@@ -180,8 +192,20 @@
   <data name="PlannerCode" xml:space="preserve">
     <value>Cód. Planner:</value>
   </data>
+  <data name="PreDefinedReports" xml:space="preserve">
+    <value>Informes predefinidos</value>
+  </data>
+  <data name="RecommendedForUseWith" xml:space="preserve">
+    <value>Recomendado para uso con</value>
+  </data>
   <data name="Red" xml:space="preserve">
     <value>Rojo</value>
+  </data>
+  <data name="RPlusODataApi" xml:space="preserve">
+    <value>R + OData API</value>
+  </data>
+  <data name="RPlusODataEndpointSupportsTheFollowingAuth" xml:space="preserve">
+    <value>El punto final de R + OData admite los siguientes métodos de autenticación</value>
   </data>
   <data name="StockOutWithDemand" xml:space="preserve">
     <value>Rotura con Demanda</value>

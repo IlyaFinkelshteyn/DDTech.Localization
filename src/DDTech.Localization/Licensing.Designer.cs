@@ -97,6 +97,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your current license does not include the {0}.
+        /// </summary>
+        public static string LicenseDoesntIncludeFormat {
+            get {
+                return ResourceManager.GetString("LicenseDoesntIncludeFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Licensed Sites.
         /// </summary>
         public static string LicensedSites {
@@ -174,6 +183,15 @@ namespace DDTech.Localization {
         public static string PurchasedModules {
             get {
                 return ResourceManager.GetString("PurchasedModules", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To request information on enabling this functionality, please contact.
+        /// </summary>
+        public static string ToRequestPleaseContact {
+            get {
+                return ResourceManager.GetString("ToRequestPleaseContact", resourceCulture);
             }
         }
         

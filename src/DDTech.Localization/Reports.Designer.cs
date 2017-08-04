@@ -70,6 +70,24 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to R+ API Token (i.e. add.
+        /// </summary>
+        public static string AuthModeDesc_RPlusApiToken1 {
+            get {
+                return ResourceManager.GetString("AuthModeDesc_RPlusApiToken1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to to the endpoint address).
+        /// </summary>
+        public static string AuthModeDesc_RPlusApiToken2 {
+            get {
+                return ResourceManager.GetString("AuthModeDesc_RPlusApiToken2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Buffer Trend.
         /// </summary>
         public static string BufferTrend {
@@ -102,6 +120,15 @@ namespace DDTech.Localization {
         public static string CriticalAndHighTrendByPlanner {
             get {
                 return ResourceManager.GetString("CriticalAndHighTrendByPlanner", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Custom Reports.
+        /// </summary>
+        public static string CustomReports {
+            get {
+                return ResourceManager.GetString("CustomReports", resourceCulture);
             }
         }
         
@@ -178,6 +205,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Microsoft&apos;s Power BI.
+        /// </summary>
+        public static string MicrosoftsPowerBI {
+            get {
+                return ResourceManager.GetString("MicrosoftsPowerBI", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to none.
         /// </summary>
         public static string none {
@@ -250,11 +286,47 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Pre-Defined Reports.
+        /// </summary>
+        public static string PreDefinedReports {
+            get {
+                return ResourceManager.GetString("PreDefinedReports", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Recommended for use with.
+        /// </summary>
+        public static string RecommendedForUseWith {
+            get {
+                return ResourceManager.GetString("RecommendedForUseWith", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Red.
         /// </summary>
         public static string Red {
             get {
                 return ResourceManager.GetString("Red", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to R+ OData API.
+        /// </summary>
+        public static string RPlusODataApi {
+            get {
+                return ResourceManager.GetString("RPlusODataApi", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The R+ OData endpoint supports the following authentication methods.
+        /// </summary>
+        public static string RPlusODataEndpointSupportsTheFollowingAuth {
+            get {
+                return ResourceManager.GetString("RPlusODataEndpointSupportsTheFollowingAuth", resourceCulture);
             }
         }
         

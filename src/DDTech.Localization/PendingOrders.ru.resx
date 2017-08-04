@@ -130,25 +130,25 @@
     <value>Отмена</value>
   </data>
   <data name="Commit" xml:space="preserve">
-    <value>Фиксации</value>
+    <value>Утвердить</value>
   </data>
   <data name="CommitAllPendingOrders" xml:space="preserve">
-    <value>Совершать все отложенные ордера</value>
+    <value>Утвердить заказы в ожидании</value>
   </data>
   <data name="CommitSelectedPendingOrders" xml:space="preserve">
-    <value>Фиксация выбранных отложенных ордеров</value>
+    <value>Утвердить выбранные заказы</value>
   </data>
   <data name="Committed" xml:space="preserve">
     <value>Размещенный  </value>
   </data>
   <data name="ConfirmCommitOrders" xml:space="preserve">
-    <value>Вы уверены, что вы хотите совершить эти заказы?</value>
+    <value>Вы уверены, что хотите утвердить эти заказы?</value>
   </data>
   <data name="ConfirmDelete" xml:space="preserve">
     <value>Подтверждение удаления</value>
   </data>
   <data name="ConfirmDeleteOrders" xml:space="preserve">
-    <value>Вы уверены</value>
+    <value>Вы уверены, что хотите удалить эти заказы?</value>
   </data>
   <data name="Critical" xml:space="preserve">
     <value>Критический</value>
@@ -169,7 +169,7 @@
     <value>Описание</value>
   </data>
   <data name="DownloadAllPendingOrders" xml:space="preserve">
-    <value>Скачать все отложенные ордера (без фиксации)</value>
+    <value>Скачать все заказы в ожидании (без утверждения)</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Экспорт</value>

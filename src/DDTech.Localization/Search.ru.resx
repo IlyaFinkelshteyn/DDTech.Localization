@@ -160,7 +160,7 @@
     <value>Тип заказа</value>
   </data>
   <data name="PartNumber" xml:space="preserve">
-    <value>Номер номенклатуры</value>
+    <value>Код номенклатуры</value>
   </data>
   <data name="Parts" xml:space="preserve">
     <value>Номенклатура</value>

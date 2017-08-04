@@ -129,6 +129,9 @@
   <data name="LicenseDetails" xml:space="preserve">
     <value>Engedély részlet</value>
   </data>
+  <data name="LicenseDoesntIncludeFormat" xml:space="preserve">
+    <value>A jelenlegi licenc nem tartalmazza a(z) {0}</value>
+  </data>
   <data name="LicensedSites" xml:space="preserve">
     <value>Engedélyezett webhelyek</value>
   </data>
@@ -155,6 +158,9 @@
   </data>
   <data name="PurchasedModules" xml:space="preserve">
     <value>Beszerzett modulok</value>
+  </data>
+  <data name="ToRequestPleaseContact" xml:space="preserve">
+    <value>Információkérés a lehetővé teszi ezt a funkciót, kérjük, lépjen kapcsolatba</value>
   </data>
   <data name="UploadNewLicense" xml:space="preserve">
     <value>Feltölt a új R+ engedély</value>

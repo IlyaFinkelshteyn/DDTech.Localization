@@ -120,6 +120,9 @@
   <data name="All" xml:space="preserve">
     <value>Все</value>
   </data>
+  <data name="BasicAuthentication" xml:space="preserve">
+    <value>Обычная проверка подлинности</value>
+  </data>
   <data name="BufferedPart" xml:space="preserve">
     <value>Буферизированная комплектующая</value>
   </data>
@@ -142,10 +145,13 @@
     <value>Сохранить</value>
   </data>
   <data name="Current" xml:space="preserve">
-    <value>Ток</value>
+    <value>Текущий</value>
   </data>
   <data name="days" xml:space="preserve">
     <value>дней</value>
+  </data>
+  <data name="DDTechSupport" xml:space="preserve">
+    <value>DDTech поддержка</value>
   </data>
   <data name="Empty" xml:space="preserve">
     <value>Пусто</value>
@@ -215,6 +221,9 @@
   </data>
   <data name="Priority_OToG" xml:space="preserve">
     <value>Излишки</value>
+  </data>
+  <data name="RPlusApiToken" xml:space="preserve">
+    <value>R + API маркер</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
     <value>Выбрать все</value>

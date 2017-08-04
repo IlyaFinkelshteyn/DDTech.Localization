@@ -120,6 +120,12 @@
   <data name="all" xml:space="preserve">
     <value>tüm</value>
   </data>
+  <data name="AuthModeDesc_RPlusApiToken1" xml:space="preserve">
+    <value>R + API Token (yani eklemek</value>
+  </data>
+  <data name="AuthModeDesc_RPlusApiToken2" xml:space="preserve">
+    <value>bitiş noktası adresi için)</value>
+  </data>
   <data name="BufferTrend" xml:space="preserve">
     <value>Arabellek Trend</value>
   </data>
@@ -131,6 +137,9 @@
   </data>
   <data name="CriticalAndHighTrendByPlanner" xml:space="preserve">
     <value>Kritik ve yüksek Trend planlayıcısı</value>
+  </data>
+  <data name="CustomReports" xml:space="preserve">
+    <value>Özel raporlar</value>
   </data>
   <data name="DateRange" xml:space="preserve">
     <value>Tarih aralığı:</value>
@@ -156,6 +165,9 @@
   <data name="MaterialType" xml:space="preserve">
     <value>Malzeme türü:</value>
   </data>
+  <data name="MicrosoftsPowerBI" xml:space="preserve">
+    <value>Microsoft'un güç BI</value>
+  </data>
   <data name="none" xml:space="preserve">
     <value>hiçbiri</value>
   </data>
@@ -180,8 +192,20 @@
   <data name="PlannerCode" xml:space="preserve">
     <value>Planlayıcısı kodu:</value>
   </data>
+  <data name="PreDefinedReports" xml:space="preserve">
+    <value>Önceden tanımlanmış raporlar</value>
+  </data>
+  <data name="RecommendedForUseWith" xml:space="preserve">
+    <value>İle kullanmak için önerilen</value>
+  </data>
   <data name="Red" xml:space="preserve">
     <value>Kırmızı</value>
+  </data>
+  <data name="RPlusODataApi" xml:space="preserve">
+    <value>R + OData API</value>
+  </data>
+  <data name="RPlusODataEndpointSupportsTheFollowingAuth" xml:space="preserve">
+    <value>R + OData bitiş noktası aşağıdaki kimlik doğrulama yöntemlerini destekler</value>
   </data>
   <data name="StockOutWithDemand" xml:space="preserve">
     <value>Talebi ile hisse senedi Out</value>

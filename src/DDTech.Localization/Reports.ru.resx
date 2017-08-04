@@ -120,6 +120,12 @@
   <data name="all" xml:space="preserve">
     <value>все</value>
   </data>
+  <data name="AuthModeDesc_RPlusApiToken1" xml:space="preserve">
+    <value>R + маркер API (т.е. Добавить</value>
+  </data>
+  <data name="AuthModeDesc_RPlusApiToken2" xml:space="preserve">
+    <value>в адресе конечной точки)</value>
+  </data>
   <data name="BufferTrend" xml:space="preserve">
     <value>График буфера</value>
   </data>
@@ -131,6 +137,9 @@
   </data>
   <data name="CriticalAndHighTrendByPlanner" xml:space="preserve">
     <value>Критический и Высокий по менеджерам</value>
+  </data>
+  <data name="CustomReports" xml:space="preserve">
+    <value>Пользовательские отчеты</value>
   </data>
   <data name="DateRange" xml:space="preserve">
     <value>Диапазон времени:</value>
@@ -156,6 +165,9 @@
   <data name="MaterialType" xml:space="preserve">
     <value>Тип материала:</value>
   </data>
+  <data name="MicrosoftsPowerBI" xml:space="preserve">
+    <value>Microsoft BI питания</value>
+  </data>
   <data name="none" xml:space="preserve">
     <value>нет</value>
   </data>
@@ -180,8 +192,20 @@
   <data name="PlannerCode" xml:space="preserve">
     <value>Код менеджера:</value>
   </data>
+  <data name="PreDefinedReports" xml:space="preserve">
+    <value>Предварительно определенные отчеты</value>
+  </data>
+  <data name="RecommendedForUseWith" xml:space="preserve">
+    <value>Рекомендуется для использования с</value>
+  </data>
   <data name="Red" xml:space="preserve">
     <value>Красная</value>
+  </data>
+  <data name="RPlusODataApi" xml:space="preserve">
+    <value>R + OData API</value>
+  </data>
+  <data name="RPlusODataEndpointSupportsTheFollowingAuth" xml:space="preserve">
+    <value>Конечная точка R + OData поддерживает следующие методы проверки подлинности</value>
   </data>
   <data name="StockOutWithDemand" xml:space="preserve">
     <value>Аут-оф-сток с заказами</value>

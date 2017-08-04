@@ -342,6 +342,9 @@
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
     <value>가져오려는 데이터 사전 확인 것이 좋습니다.</value>
   </data>
+  <data name="ValidationMessages_UnrecognizedFile" xml:space="preserve">
+    <value>파일 형식은 인식 되지 않습니다. 당신의 헤더 올바른지, 그리고 당신의 지역 구분 기호 올바르게 구성 되어 확인 하십시오.</value>
+  </data>
   <data name="ValidationResults" xml:space="preserve">
     <value>유효성 검사 결과</value>
   </data>

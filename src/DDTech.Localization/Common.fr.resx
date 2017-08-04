@@ -120,6 +120,9 @@
   <data name="All" xml:space="preserve">
     <value>Tous</value>
   </data>
+  <data name="BasicAuthentication" xml:space="preserve">
+    <value>Authentification de base</value>
+  </data>
   <data name="BufferedPart" xml:space="preserve">
     <value>Article stocké</value>
   </data>
@@ -146,6 +149,9 @@
   </data>
   <data name="days" xml:space="preserve">
     <value>jours</value>
+  </data>
+  <data name="DDTechSupport" xml:space="preserve">
+    <value>DDTech Support</value>
   </data>
   <data name="Empty" xml:space="preserve">
     <value>Vide</value>
@@ -193,7 +199,7 @@
     <value>Fabriqué</value>
   </data>
   <data name="PleaseNote" xml:space="preserve">
-    <value>Notez s’il vous plaît</value>
+    <value>Veuillez noter</value>
   </data>
   <data name="Priority_Critical" xml:space="preserve">
     <value>Critique</value>
@@ -215,6 +221,9 @@
   </data>
   <data name="Priority_OToG" xml:space="preserve">
     <value>EToV</value>
+  </data>
+  <data name="RPlusApiToken" xml:space="preserve">
+    <value>R + API Token</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
     <value>Sélectionner tout</value>

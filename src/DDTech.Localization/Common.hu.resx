@@ -120,6 +120,9 @@
   <data name="All" xml:space="preserve">
     <value>Minden</value>
   </data>
+  <data name="BasicAuthentication" xml:space="preserve">
+    <value>Az alapfokú hitelesítés</value>
+  </data>
   <data name="BufferedPart" xml:space="preserve">
     <value>Pufferelt rész</value>
   </data>
@@ -146,6 +149,9 @@
   </data>
   <data name="days" xml:space="preserve">
     <value>nap</value>
+  </data>
+  <data name="DDTechSupport" xml:space="preserve">
+    <value>DDTech támogatás</value>
   </data>
   <data name="Empty" xml:space="preserve">
     <value>Üres</value>
@@ -215,6 +221,9 @@
   </data>
   <data name="Priority_OToG" xml:space="preserve">
     <value>OToG</value>
+  </data>
+  <data name="RPlusApiToken" xml:space="preserve">
+    <value>R + API Token-je</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
     <value>Jelölje ki az összes</value>

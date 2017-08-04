@@ -223,7 +223,7 @@
     <value>Текущий пароль</value>
   </data>
   <data name="Password_Expired" xml:space="preserve">
-    <value>Ваш пароль просрочен. Пожалуйста проверте пошту и следуйте указаным инструкциям для входа в систему</value>
+    <value>Ваш пароль просрочен. Пожалуйста проверьте почту и следуйте указаным инструкциям для входа в систему</value>
   </data>
   <data name="Password_New" xml:space="preserve">
     <value>Новый пароль</value>

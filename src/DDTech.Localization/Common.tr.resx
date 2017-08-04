@@ -120,6 +120,9 @@
   <data name="All" xml:space="preserve">
     <value>Tüm</value>
   </data>
+  <data name="BasicAuthentication" xml:space="preserve">
+    <value>Temel kimlik doğrulaması</value>
+  </data>
   <data name="BufferedPart" xml:space="preserve">
     <value>Arabelleğe alınan bölümü</value>
   </data>
@@ -146,6 +149,9 @@
   </data>
   <data name="days" xml:space="preserve">
     <value>gün</value>
+  </data>
+  <data name="DDTechSupport" xml:space="preserve">
+    <value>DDTech destek</value>
   </data>
   <data name="Empty" xml:space="preserve">
     <value>Boş</value>
@@ -215,6 +221,9 @@
   </data>
   <data name="Priority_OToG" xml:space="preserve">
     <value>OToG</value>
+  </data>
+  <data name="RPlusApiToken" xml:space="preserve">
+    <value>R + API belirteci</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
     <value>Tümünü Seç</value>

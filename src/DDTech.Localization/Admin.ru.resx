@@ -157,7 +157,7 @@
     <value>Игнорировать потребность в NB за пределами окна обработки</value>
   </data>
   <data name="Settings_DeleteImportedNBDemandOutsideProcessingWindow_Description" xml:space="preserve">
-    <value>Импортированный спрос на номенклатуры без буферизации (NB), которые выходят за рамки (лид тайм номенклатуры + окно заказа), не будет импортироваться в R +. Этот параметр не будет иметь эффекта, если включено планирование потребности в материалах (MRP).</value>
+    <value>Импортированный спрос на СКЮ без буфера (NB), которые выходят за рамки (LT + окно заказа), не будет импортироваться в R +. Этот параметр не будет иметь эффекта, если включено планирование потребности в материалах (MRP).</value>
   </data>
   <data name="Settings_Delimiter" xml:space="preserve">
     <value>Разделитель</value>
@@ -178,13 +178,13 @@
     <value>Non-Buffered (NB), обработки окна (WO)</value>
   </data>
   <data name="Settings_DemandOrderNBWindow_Description" xml:space="preserve">
-    <value>Эти параметры будут ограничивать видимость спроса в R +  на СКЮ без буфера. Настроенные значения добавляются к R + лид тайму для соответствующих номенклатур.  Если значение '5' и номенклатура имеет время R + 5 дней, R + не будет учитывать спрос до тех пор, пока не истечет 10 рабочих дней с даты наступления требования.</value>
+    <value>Эти параметры будут ограничивать видимость спроса в R +  на СКЮ без буфера. Настроенные значения добавляются к LT R +  для соответствующих СКЮ.  Если значение '5' и СКЮ имеет LT R +  5 дней, R + не будет учитывать спрос до тех пор, пока не истечет 10 рабочих дней с даты наступления требования.</value>
   </data>
   <data name="Settings_DemandOrderWindow" xml:space="preserve">
     <value>Окно заказов на отгрузку (дни)</value>
   </data>
   <data name="Settings_DemandOrderWindow_Description" xml:space="preserve">
-    <value>Эти параметры будут ограничивать видимость спроса в R +  на СКЮ. Настроенные значения добавляются к R + лид тайму для соответствующих номенклатур. Если значение '5' и номенклатура имеет время R + 5 дней, R + не будет учитывать спрос до тех пор, пока не истечет 10 рабочих дней с даты наступления требования. Если значение '0', R + будет включать только текущий и прошлый спрос. Если задано значение «-1' (отключено), R + не будет включать любой спрос.</value>
+    <value>Эти параметры будут ограничивать видимость спроса в R +  на СКЮ. Настроенные значения добавляются к LT R +  для соответствующих СКЮ. Если значение '5' и СКЮ имеет LT R +  5 дней,  R + не будет учитывать спрос до тех пор, пока не истечет 10 рабочих дней с даты наступления требования. Если значение '0', R + будет включать только текущий и прошлый спрос. Если задано значение «-1' (отключено), R + не будет включать любой спрос.</value>
   </data>
   <data name="Settings_ExpectedNumericFormat" xml:space="preserve">
     <value>Ожидаемый числовой формат</value>
@@ -214,7 +214,7 @@
     <value>Прогнозируемый спрос и прогнозируемое дневное потребление (FDU)</value>
   </data>
   <data name="Settings_Global_ImportExportDataExchange" xml:space="preserve">
-    <value>Системный обмен данными (импорт &amp; экспорт)</value>
+    <value>Системный обмен данными (импорт и экспорт)</value>
   </data>
   <data name="Settings_Global_RecommendationsAndAlerts" xml:space="preserve">
     <value>Рекомендации и оповещения</value>
@@ -247,7 +247,7 @@
     <value>Включать пиковые заказы в доступный запас</value>
   </data>
   <data name="Settings_IsHighAccuracyPSO" xml:space="preserve">
-    <value>Включить открытые предложения в прогнозируемых запасов из оповещения</value>
+    <value>Включить товар в пути в расчет прогнозируемых дефицитов</value>
   </data>
   <data name="Settings_LocalTimeZone" xml:space="preserve">
     <value>Местный часовой пояс</value>
@@ -274,7 +274,7 @@
     <value>Эта настройка позволяет R+ автоматически создавать заказы на поставку на основании спецификаций для номенклатуры</value>
   </data>
   <data name="Settings_Mrp_mrpFeatures2" xml:space="preserve">
-    <value>Во время неттинга MRP эти настройки ограничивают, насколько далеко вперед R + будет пытаться создавать заказы. Эти значения добавляются к R + Lead Time номенклатур. Например, если установлено значение «5», а лид тайм номенклатуры R + 5 дней, R + не создаст заказ, пока не истечет 10 рабочих дней с даты  требования.</value>
+    <value>Во время MRP неттинга эти настройки показывают насколько далеко вперед R + будет пытаться создавать заказы. Эти значения добавляются к R + Lead Time номенклатур. Например, если установлено значение «5», а LT номенклатуры R + 5 дней, R + не создаст заказ пока не истечет 10 рабочих дней с даты  требования.</value>
   </data>
   <data name="Settings_Mrp_mrpNettingFull" xml:space="preserve">
     <value>R + будет автоматически выполнять MRP неттинг для всех импортированных заказов на отгрузку  (заказы покупателей и от производства). Импортированные заказы не должны содержать заказы на дочерние номенклатуры.</value>
@@ -337,19 +337,19 @@
     <value>В зависимости от размера набора данных это может занять некоторое время для завершения.</value>
   </data>
   <data name="Settings_Processing_DoYouWantToReAnalyze" xml:space="preserve">
-    <value>Вы хотите повторить анализ набора данных, используя параметры обновленный обработки сейчас?</value>
+    <value>Вы хотите повторить анализ набора данных, используя параметры обновленной обработки сейчас?</value>
   </data>
   <data name="Settings_Processing_ManauallyAnalyzeOrWaitTillNextDay" xml:space="preserve">
-    <value>Если вы не анализировать вручную теперь, ваш заказ recommendedations, оповещения и уровня буфера будет не отражает новые параметры до следующего дня.</value>
+    <value>Если вы сейчас не анализировали вручную, ваши рекомендации к заказу и оповещения об уровнях буфера не будут отражать новые параметры до следующего дня.</value>
   </data>
   <data name="Settings_Processing_Modified" xml:space="preserve">
     <value>Были изменены настройки обработки</value>
   </data>
   <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
-    <value>Эти настройки вступят в силу немедленно для любого нового импорта и будут применяться ко всем частям автоматически в полночь.</value>
+    <value>Эти настройки вступят в силу немедленно для любого нового импорта и будут применяться ко всем СКЮ автоматически в полночь.</value>
   </data>
   <data name="Settings_Processing_Skip" xml:space="preserve">
-    <value>Скип</value>
+    <value>Пропустить</value>
   </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Горизонт времени выполнения для прогнозируемого аут-оф-стока</value>
@@ -385,7 +385,7 @@
     <value>Формат даты</value>
   </data>
   <data name="Settings_User_DateFormat_NoneFound" xml:space="preserve">
-    <value>Столбцы даты, не найдено</value>
+    <value>Столбцы с датами не найдены</value>
   </data>
   <data name="Settings_User_DateFormat_Title" xml:space="preserve">
     <value>Выберите формат даты и времени</value>
@@ -400,7 +400,7 @@
     <value>Разрешить пользователям использовать «Запомнить меня»?</value>
   </data>
   <data name="Settings_User_LoginRemember_Username" xml:space="preserve">
-    <value>имя пользователя только</value>
+    <value>только имя пользователя</value>
   </data>
   <data name="Settings_User_LogoutAfter" xml:space="preserve">
     <value>Выход пользователей автоматически после определенного периода бездействия? (часов)</value>
@@ -415,7 +415,7 @@
     <value>Выход из системы всех пользователей</value>
   </data>
   <data name="Settings_User_LogoutAll_Confirm" xml:space="preserve">
-    <value>Это также вызовет всех пользователей, включая текущего пользователя, чтобы требовать входа в систему снова. Продолжить?</value>
+    <value>Это также потребует повторной аутентификации всех пользователей, включая текущего. Продолжить?</value>
   </data>
   <data name="Settings_User_MinimumLength" xml:space="preserve">
     <value>Минимальная длина?</value>
@@ -436,10 +436,10 @@
     <value>Требуется не менее 1 строчной буквы? (a-z)</value>
   </data>
   <data name="Settings_User_RequireNonDigitLetter" xml:space="preserve">
-    <value>Требуется  символ?</value>
+    <value>Требовать использования хотя бы одного специального символа?</value>
   </data>
   <data name="Settings_User_RequireNonDigitLetter_Title" xml:space="preserve">
-    <value>Любой знак, но не из диапазона 0-9, a-z, or A-Z. Пример: !, %, *, $</value>
+    <value>Любой специальный символ, но не из диапазона 0-9, a-z, or A-Z. Пример: !, %, *, $</value>
   </data>
   <data name="Settings_User_RequireUpperCase" xml:space="preserve">
     <value>Требуется не менее 1 заглавной буквы? (A-Z)</value>

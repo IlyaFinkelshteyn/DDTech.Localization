@@ -159,4 +159,10 @@
   <data name="UploadNewLicense" xml:space="preserve">
     <value>Upload New R+ License</value>
   </data>
+  <data name="LicenseDoesntIncludeFormat" xml:space="preserve">
+    <value>Your current license does not include the {0}</value>
+  </data>
+  <data name="ToRequestPleaseContact" xml:space="preserve">
+    <value>To request information on enabling this functionality, please contact</value>
+  </data>
 </root>

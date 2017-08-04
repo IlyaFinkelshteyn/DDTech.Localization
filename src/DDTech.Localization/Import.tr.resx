@@ -342,6 +342,9 @@
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
     <value>Almak için verileri önceden doğrulama önerilir</value>
   </data>
+  <data name="ValidationMessages_UnrecognizedFile" xml:space="preserve">
+    <value>Dosya türü tanınmıyor. Lütfen doğru üstbilgileridir ve bölgesel sınırlayıcıları doğru yapılandırıldığından emin olun.</value>
+  </data>
   <data name="ValidationResults" xml:space="preserve">
     <value>Doğrulama sonuçları</value>
   </data>

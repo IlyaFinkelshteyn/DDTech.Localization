@@ -334,22 +334,22 @@
     <value>Analyser maintenant</value>
   </data>
   <data name="Settings_Processing_DependingOnDataSizeMayTakeLongTime" xml:space="preserve">
-    <value>Selon la taille de l’ensemble des données, cela peut prendre un certain temps pour terminer.</value>
+    <value>Selon la taille de l’ensemble des données, l'opération peut prendre un certain temps.</value>
   </data>
   <data name="Settings_Processing_DoYouWantToReAnalyze" xml:space="preserve">
-    <value>Vous voulez ré-analyser votre jeu de données en utilisant les paramètres de traitement mise à jour maintenant ?</value>
+    <value>Voulez-vous ré-analyser maintenant votre jeu de données en utilisant les paramètres de traitement mis à jour?</value>
   </data>
   <data name="Settings_Processing_ManauallyAnalyzeOrWaitTillNextDay" xml:space="preserve">
-    <value>Si vous ne pas manuellement analysez maintenant, votre recommendedations de l’ordre, des alertes et des niveaux de tampon ne seront pas refléter les nouveaux paramètres jusqu’au lendemain.</value>
+    <value>Si vous ne cliquez pas sur Analysez maintenant, vos recommandations de commande, alertes et niveaux de buffer ne reflèteront ces nouveaux paramètres qu'à partir de demain</value>
   </data>
   <data name="Settings_Processing_Modified" xml:space="preserve">
     <value>Vos paramètres de traitement ont été modifiés</value>
   </data>
   <data name="Settings_Processing_SettingsTakeAfterMidnight" xml:space="preserve">
-    <value>Ces paramètres prendront effet immédiatement pour les nouvelles importations et s’appliquera à toutes les parties automatiquement à minuit.</value>
+    <value>Ces paramètres prendront effet immédiatement pour les nouvelles importations et s’appliqueront à tous les articles automatiquement à minuit.</value>
   </data>
   <data name="Settings_Processing_Skip" xml:space="preserve">
-    <value>Skip</value>
+    <value>Ignorez</value>
   </data>
   <data name="Settings_ProjectedStockOutLeadTimeHorizon" xml:space="preserve">
     <value>Horizon projeté de rupture de Stock</value>

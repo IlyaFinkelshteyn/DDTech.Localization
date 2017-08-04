@@ -727,6 +727,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to File type is unrecognized. Please ensure your headers are correct, and your regional delimiters are correctly configured..
+        /// </summary>
+        public static string ValidationMessages_UnrecognizedFile {
+            get {
+                return ResourceManager.GetString("ValidationMessages_UnrecognizedFile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Validation Results.
         /// </summary>
         public static string ValidationResults {

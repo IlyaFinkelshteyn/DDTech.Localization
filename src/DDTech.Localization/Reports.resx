@@ -204,4 +204,28 @@
   <data name="Yellow" xml:space="preserve">
     <value>Yellow</value>
   </data>
+  <data name="AuthModeDesc_RPlusApiToken1" xml:space="preserve">
+    <value>R+ API Token (i.e. add</value>
+  </data>
+  <data name="AuthModeDesc_RPlusApiToken2" xml:space="preserve">
+    <value>to the endpoint address)</value>
+  </data>
+  <data name="CustomReports" xml:space="preserve">
+    <value>Custom Reports</value>
+  </data>
+  <data name="MicrosoftsPowerBI" xml:space="preserve">
+    <value>Microsoft's Power BI</value>
+  </data>
+  <data name="PreDefinedReports" xml:space="preserve">
+    <value>Pre-Defined Reports</value>
+  </data>
+  <data name="RecommendedForUseWith" xml:space="preserve">
+    <value>Recommended for use with</value>
+  </data>
+  <data name="RPlusODataApi" xml:space="preserve">
+    <value>R+ OData API</value>
+  </data>
+  <data name="RPlusODataEndpointSupportsTheFollowingAuth" xml:space="preserve">
+    <value>The R+ OData endpoint supports the following authentication methods</value>
+  </data>
 </root>

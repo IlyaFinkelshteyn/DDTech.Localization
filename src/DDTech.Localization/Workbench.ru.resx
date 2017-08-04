@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AcceptSelectedOrders" xml:space="preserve">
-    <value>Принять отмеченные заказы</value>
+    <value>Утвердить отмеченные заказы</value>
   </data>
   <data name="ADU" xml:space="preserve">
     <value>АДУ</value>
@@ -283,7 +283,7 @@
     <value>Фильтр по материалу</value>
   </data>
   <data name="Max" xml:space="preserve">
-    <value>Макс.</value>
+    <value>Макс</value>
   </data>
   <data name="Min" xml:space="preserve">
     <value>Мин</value>
@@ -445,7 +445,7 @@
     <value>UDF</value>
   </data>
   <data name="UnfilteredExport" xml:space="preserve">
-    <value>Эекспорт без фильтров</value>
+    <value>Экспорт без фильтров</value>
   </data>
   <data name="Units" xml:space="preserve">
     <value>Единицы</value>
@@ -466,7 +466,7 @@
     <value>Подтвердить заказ (-ы)</value>
   </data>
   <data name="Workbench_CustomOrder_AdditionalOrdersToSatisfyPolicy" xml:space="preserve">
-    <value>Количество может быть скорректирована с соотношение политики настроен порядок</value>
+    <value>Количество может быть скорректировано для соответствия настроенной политике заказа</value>
   </data>
   <data name="Workbench_CustomOrder_ConfirmContinue" xml:space="preserve">
     <value>Вы уверены, что хотите продолжить?</value>
@@ -496,7 +496,7 @@
     <value>Справка</value>
   </data>
   <data name="Workbench_Menu_ViewInLegacyWorkbench" xml:space="preserve">
-    <value>Просмотр в Legacy Workbench</value>
+    <value>Посмотреть в старой версии рабочего стола </value>
   </data>
   <data name="Workbench_NoBillOfMaterial" xml:space="preserve">
     <value>У номенклатуры нет спецификации</value>
