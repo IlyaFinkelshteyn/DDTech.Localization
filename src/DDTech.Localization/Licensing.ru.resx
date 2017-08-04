@@ -129,6 +129,9 @@
   <data name="LicenseDetails" xml:space="preserve">
     <value>Подробности о лицензии</value>
   </data>
+  <data name="LicenseDoesntIncludeFormat" xml:space="preserve">
+    <value>Ваш текущий лицензия не включает {0}</value>
+  </data>
   <data name="LicensedSites" xml:space="preserve">
     <value>Лицензированных объектов</value>
   </data>
@@ -155,6 +158,9 @@
   </data>
   <data name="PurchasedModules" xml:space="preserve">
     <value>Приобретенных модулей</value>
+  </data>
+  <data name="ToRequestPleaseContact" xml:space="preserve">
+    <value>Чтобы запросить сведения о включении этой функции, пожалуйста, свяжитесь с</value>
   </data>
   <data name="UploadNewLicense" xml:space="preserve">
     <value>Загрузить новую R+ лицензию</value>

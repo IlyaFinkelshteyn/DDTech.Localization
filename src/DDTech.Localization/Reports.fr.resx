@@ -120,6 +120,12 @@
   <data name="all" xml:space="preserve">
     <value>tout</value>
   </data>
+  <data name="AuthModeDesc_RPlusApiToken1" xml:space="preserve">
+    <value>R + API Token (c'est-à-dire ajouter</value>
+  </data>
+  <data name="AuthModeDesc_RPlusApiToken2" xml:space="preserve">
+    <value>à l’adresse de point de terminaison)</value>
+  </data>
   <data name="BufferTrend" xml:space="preserve">
     <value>Historique du Buffer</value>
   </data>
@@ -131,6 +137,9 @@
   </data>
   <data name="CriticalAndHighTrendByPlanner" xml:space="preserve">
     <value>Tendance Critique et Haut par planificateur</value>
+  </data>
+  <data name="CustomReports" xml:space="preserve">
+    <value>Rapports personnalisés</value>
   </data>
   <data name="DateRange" xml:space="preserve">
     <value>Plage de données :</value>
@@ -156,6 +165,9 @@
   <data name="MaterialType" xml:space="preserve">
     <value>Type de matière :</value>
   </data>
+  <data name="MicrosoftsPowerBI" xml:space="preserve">
+    <value>Microsoft Power BI</value>
+  </data>
   <data name="none" xml:space="preserve">
     <value>aucun</value>
   </data>
@@ -180,8 +192,20 @@
   <data name="PlannerCode" xml:space="preserve">
     <value>Code Gestionnaire : </value>
   </data>
+  <data name="PreDefinedReports" xml:space="preserve">
+    <value>Rapports prédéfinis</value>
+  </data>
+  <data name="RecommendedForUseWith" xml:space="preserve">
+    <value>Utilisation recommandée avec</value>
+  </data>
   <data name="Red" xml:space="preserve">
     <value>Rouge</value>
+  </data>
+  <data name="RPlusODataApi" xml:space="preserve">
+    <value>R + OData API</value>
+  </data>
+  <data name="RPlusODataEndpointSupportsTheFollowingAuth" xml:space="preserve">
+    <value>Le point de terminaison OData R + prend en charge les méthodes d’authentification suivantes</value>
   </data>
   <data name="StockOutWithDemand" xml:space="preserve">
     <value>Rupture avec Besoin</value>

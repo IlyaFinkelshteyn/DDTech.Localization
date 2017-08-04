@@ -120,6 +120,12 @@
   <data name="all" xml:space="preserve">
     <value>Alle</value>
   </data>
+  <data name="AuthModeDesc_RPlusApiToken1" xml:space="preserve">
+    <value>R + API Token (d. h. hinzufügen</value>
+  </data>
+  <data name="AuthModeDesc_RPlusApiToken2" xml:space="preserve">
+    <value>um die Endpunktadresse)</value>
+  </data>
   <data name="BufferTrend" xml:space="preserve">
     <value>Puffertrend</value>
   </data>
@@ -131,6 +137,9 @@
   </data>
   <data name="CriticalAndHighTrendByPlanner" xml:space="preserve">
     <value>Kritischer und hoher Trend je Planer</value>
+  </data>
+  <data name="CustomReports" xml:space="preserve">
+    <value>Benutzerdefinierte Berichte</value>
   </data>
   <data name="DateRange" xml:space="preserve">
     <value>Datumsbereich:</value>
@@ -156,6 +165,9 @@
   <data name="MaterialType" xml:space="preserve">
     <value>Materialart:</value>
   </data>
+  <data name="MicrosoftsPowerBI" xml:space="preserve">
+    <value>Microsofts Power BI</value>
+  </data>
   <data name="none" xml:space="preserve">
     <value>keine</value>
   </data>
@@ -169,7 +181,7 @@
     <value>OToG Trend je Planer</value>
   </data>
   <data name="OverTopOfGreen" xml:space="preserve">
-    <value>Over Top of Green</value>
+    <value>Über Top grün</value>
   </data>
   <data name="PartDistribution" xml:space="preserve">
     <value>Artikelverteilung</value>
@@ -180,8 +192,20 @@
   <data name="PlannerCode" xml:space="preserve">
     <value>Planer-Code:</value>
   </data>
+  <data name="PreDefinedReports" xml:space="preserve">
+    <value>Vordefinierte Berichte</value>
+  </data>
+  <data name="RecommendedForUseWith" xml:space="preserve">
+    <value>Empfohlen für den Einsatz mit</value>
+  </data>
   <data name="Red" xml:space="preserve">
     <value>Rot</value>
+  </data>
+  <data name="RPlusODataApi" xml:space="preserve">
+    <value>R + OData API</value>
+  </data>
+  <data name="RPlusODataEndpointSupportsTheFollowingAuth" xml:space="preserve">
+    <value>Die R + OData-Endpunkt unterstützt die folgenden Authentifizierungsmethoden</value>
   </data>
   <data name="StockOutWithDemand" xml:space="preserve">
     <value>Nullbestand mit Bedarf</value>

@@ -129,6 +129,9 @@
   <data name="LicenseDetails" xml:space="preserve">
     <value>Lisans ayrıntıları</value>
   </data>
+  <data name="LicenseDoesntIncludeFormat" xml:space="preserve">
+    <value>Geçerli lisansınız {0} içermez</value>
+  </data>
   <data name="LicensedSites" xml:space="preserve">
     <value>Lisanslı siteleri</value>
   </data>
@@ -155,6 +158,9 @@
   </data>
   <data name="PurchasedModules" xml:space="preserve">
     <value>Satın alınan modüller</value>
+  </data>
+  <data name="ToRequestPleaseContact" xml:space="preserve">
+    <value>Bu işlevselliği etkinleştirmek hakkında bilgi istemek için lütfen başvurun</value>
   </data>
   <data name="UploadNewLicense" xml:space="preserve">
     <value>Yeni R+ Lisans yükle</value>

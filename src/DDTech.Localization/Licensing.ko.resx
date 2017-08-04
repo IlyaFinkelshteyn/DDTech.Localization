@@ -121,13 +121,16 @@
     <value>고객 이름</value>
   </data>
   <data name="Email" xml:space="preserve">
-    <value>E-Mail</value>
+    <value>전자 메일</value>
   </data>
   <data name="Expires" xml:space="preserve">
     <value>만료</value>
   </data>
   <data name="LicenseDetails" xml:space="preserve">
     <value>라이센스 세부 사항</value>
+  </data>
+  <data name="LicenseDoesntIncludeFormat" xml:space="preserve">
+    <value>현재 라이센스는 {0}를 포함 하지 않는다</value>
   </data>
   <data name="LicensedSites" xml:space="preserve">
     <value>라이센스 사이트</value>
@@ -155,6 +158,9 @@
   </data>
   <data name="PurchasedModules" xml:space="preserve">
     <value>구입한 모듈</value>
+  </data>
+  <data name="ToRequestPleaseContact" xml:space="preserve">
+    <value>이 기능 설정에 대 한 정보를 요청, 문의 하시기 바랍니다</value>
   </data>
   <data name="UploadNewLicense" xml:space="preserve">
     <value>새로운 R+ 라이센스 업로드</value>

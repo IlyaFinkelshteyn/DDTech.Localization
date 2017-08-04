@@ -70,6 +70,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Basic Authentication.
+        /// </summary>
+        public static string BasicAuthentication {
+            get {
+                return ResourceManager.GetString("BasicAuthentication", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Buffered Part.
         /// </summary>
         public static string BufferedPart {
@@ -147,6 +156,15 @@ namespace DDTech.Localization {
         public static string days {
             get {
                 return ResourceManager.GetString("days", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DDTech Support.
+        /// </summary>
+        public static string DDTechSupport {
+            get {
+                return ResourceManager.GetString("DDTechSupport", resourceCulture);
             }
         }
         
@@ -354,6 +372,15 @@ namespace DDTech.Localization {
         public static string Priority_OToG {
             get {
                 return ResourceManager.GetString("Priority_OToG", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to R+ API Token.
+        /// </summary>
+        public static string RPlusApiToken {
+            get {
+                return ResourceManager.GetString("RPlusApiToken", resourceCulture);
             }
         }
         

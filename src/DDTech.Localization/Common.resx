@@ -237,4 +237,13 @@
   <data name="PleaseNote" xml:space="preserve">
     <value>Please Note</value>
   </data>
+  <data name="BasicAuthentication" xml:space="preserve">
+    <value>Basic Authentication</value>
+  </data>
+  <data name="DDTechSupport" xml:space="preserve">
+    <value>DDTech Support</value>
+  </data>
+  <data name="RPlusApiToken" xml:space="preserve">
+    <value>R+ API Token</value>
+  </data>
 </root>

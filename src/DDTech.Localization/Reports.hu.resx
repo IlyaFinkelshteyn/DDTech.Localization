@@ -120,6 +120,12 @@
   <data name="all" xml:space="preserve">
     <value>minden</value>
   </data>
+  <data name="AuthModeDesc_RPlusApiToken1" xml:space="preserve">
+    <value>R + API Token (azaz hozzáadása</value>
+  </data>
+  <data name="AuthModeDesc_RPlusApiToken2" xml:space="preserve">
+    <value>a végpont címét)</value>
+  </data>
   <data name="BufferTrend" xml:space="preserve">
     <value>Puffer Trend</value>
   </data>
@@ -131,6 +137,9 @@
   </data>
   <data name="CriticalAndHighTrendByPlanner" xml:space="preserve">
     <value>Kritikus és magas Trend a tervező</value>
+  </data>
+  <data name="CustomReports" xml:space="preserve">
+    <value>Az egyéni jelentések</value>
   </data>
   <data name="DateRange" xml:space="preserve">
     <value>Dátumtartomány:</value>
@@ -156,6 +165,9 @@
   <data name="MaterialType" xml:space="preserve">
     <value>Anyag típusa:</value>
   </data>
+  <data name="MicrosoftsPowerBI" xml:space="preserve">
+    <value>A Microsoft Power BI</value>
+  </data>
   <data name="none" xml:space="preserve">
     <value>egyik sem</value>
   </data>
@@ -180,8 +192,20 @@
   <data name="PlannerCode" xml:space="preserve">
     <value>Tervező kód:</value>
   </data>
+  <data name="PreDefinedReports" xml:space="preserve">
+    <value>Előre definiált riportok</value>
+  </data>
+  <data name="RecommendedForUseWith" xml:space="preserve">
+    <value>A ajánlott</value>
+  </data>
   <data name="Red" xml:space="preserve">
     <value>Piros</value>
+  </data>
+  <data name="RPlusODataApi" xml:space="preserve">
+    <value>R + OData API</value>
+  </data>
+  <data name="RPlusODataEndpointSupportsTheFollowingAuth" xml:space="preserve">
+    <value>A R + OData végpont támogatja a következő hitelesítési módszerek</value>
   </data>
   <data name="StockOutWithDemand" xml:space="preserve">
     <value>Stock ki igény szerint</value>

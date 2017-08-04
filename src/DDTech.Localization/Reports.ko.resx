@@ -120,6 +120,12 @@
   <data name="all" xml:space="preserve">
     <value>전체</value>
   </data>
+  <data name="AuthModeDesc_RPlusApiToken1" xml:space="preserve">
+    <value>R + API 토큰 (예: 추가</value>
+  </data>
+  <data name="AuthModeDesc_RPlusApiToken2" xml:space="preserve">
+    <value>끝점 주소)를</value>
+  </data>
   <data name="BufferTrend" xml:space="preserve">
     <value>버퍼 트렌드</value>
   </data>
@@ -131,6 +137,9 @@
   </data>
   <data name="CriticalAndHighTrendByPlanner" xml:space="preserve">
     <value>플래너별 Critical &amp; High</value>
+  </data>
+  <data name="CustomReports" xml:space="preserve">
+    <value>사용자 지정 보고서</value>
   </data>
   <data name="DateRange" xml:space="preserve">
     <value>일자구간:</value>
@@ -156,6 +165,9 @@
   <data name="MaterialType" xml:space="preserve">
     <value>자재Type:</value>
   </data>
+  <data name="MicrosoftsPowerBI" xml:space="preserve">
+    <value>마이크로소프트의 전원 BI</value>
+  </data>
   <data name="none" xml:space="preserve">
     <value>없음</value>
   </data>
@@ -180,8 +192,20 @@
   <data name="PlannerCode" xml:space="preserve">
     <value>플래너 코드:</value>
   </data>
+  <data name="PreDefinedReports" xml:space="preserve">
+    <value>미리 정의 된 보고서</value>
+  </data>
+  <data name="RecommendedForUseWith" xml:space="preserve">
+    <value>와 함께 사용 하기 위해 권장</value>
+  </data>
   <data name="Red" xml:space="preserve">
     <value>Red</value>
+  </data>
+  <data name="RPlusODataApi" xml:space="preserve">
+    <value>R + OData API</value>
+  </data>
+  <data name="RPlusODataEndpointSupportsTheFollowingAuth" xml:space="preserve">
+    <value>R + OData 끝점에서는 다음과 같은 인증 방법을 지원합니다.</value>
   </data>
   <data name="StockOutWithDemand" xml:space="preserve">
     <value>수요에 의한 결품</value>
