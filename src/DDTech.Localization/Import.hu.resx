@@ -342,6 +342,9 @@
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
     <value>Importálandó adatok előzetes ellenőrzése ajánlott</value>
   </data>
+  <data name="ValidationMessages_UnrecognizedFile" xml:space="preserve">
+    <value>Fájl típus nem ismerhető fel. Győződjön meg arról, a fejlécek helyesek, és a regionális határolójelek helyesen van konfigurálva.</value>
+  </data>
   <data name="ValidationResults" xml:space="preserve">
     <value>Érvényesítés eredmények</value>
   </data>

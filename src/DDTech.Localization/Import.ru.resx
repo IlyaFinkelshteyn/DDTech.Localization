@@ -342,6 +342,9 @@
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
     <value>Рекомендуется проверить ваши данные до импорта </value>
   </data>
+  <data name="ValidationMessages_UnrecognizedFile" xml:space="preserve">
+    <value>Тип файла неизвестен. Пожалуйста, убедитесь, ваши заголовки корректны и региональный разделители настроены правильно.</value>
+  </data>
   <data name="ValidationResults" xml:space="preserve">
     <value>Результаты проверки</value>
   </data>
