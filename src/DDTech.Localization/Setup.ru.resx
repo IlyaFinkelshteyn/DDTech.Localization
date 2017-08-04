@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Admin_Confirm" xml:space="preserve">
-    <value>Ваш администратор был зарегистрирован. Были направлены инструкции, чтобы установить пароль на указанный адрес электронной почты.</value>
+    <value>Ваш администратор был зарегистрирован. Для входа и установки пароля воспользуйтесь инструкциями, которые были отправлены вам на указанный адресс электронной почты.</value>
   </data>
   <data name="Admin_Message" xml:space="preserve">
-    <value>Необходимо сначала создать ваш первый администратор. Этот пользователь будет иметь возможность управлять другими пользователями.</value>
+    <value>Сначало необходимо создать вашего первого администратора. Этот пользователь будет иметь возможность управлять другими пользователями.</value>
   </data>
   <data name="Admin_Title" xml:space="preserve">
     <value>Администратор</value>
@@ -139,7 +139,7 @@
     <value>Настройка завершена</value>
   </data>
   <data name="Index_Message" xml:space="preserve">
-    <value>Экземпляр RPlus почти готова для вас использовать. Нам только нужно собрать несколько бит информации, прежде чем продолжить.</value>
+    <value>База RPlus почти готова для использования. Нам только нужно собрать несколько бит информации прежде чем продолжить.</value>
   </data>
   <data name="Index_Title" xml:space="preserve">
     <value>Первоначальная настройка</value>

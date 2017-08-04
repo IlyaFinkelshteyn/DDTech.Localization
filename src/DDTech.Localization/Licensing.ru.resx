@@ -121,7 +121,7 @@
     <value>Имя клиента</value>
   </data>
   <data name="Email" xml:space="preserve">
-    <value>Электронной почты</value>
+    <value>Электронная почта</value>
   </data>
   <data name="Expires" xml:space="preserve">
     <value>Срок действия</value>
@@ -148,7 +148,7 @@
     <value>Новая R+ лицензия успешно загружена</value>
   </data>
   <data name="NoModulesPurchased" xml:space="preserve">
-    <value>Без дополнительных модулей, которые приобрели</value>
+    <value>Дополнительные модули не приобретены</value>
   </data>
   <data name="OnlyLICFiles" xml:space="preserve">
     <value>Только .lic файлы могут быть загружены</value>
@@ -157,6 +157,6 @@
     <value>Приобретенных модулей</value>
   </data>
   <data name="UploadNewLicense" xml:space="preserve">
-    <value>Загрузить новый R+ лицензия</value>
+    <value>Загрузить новую R+ лицензию</value>
   </data>
 </root>

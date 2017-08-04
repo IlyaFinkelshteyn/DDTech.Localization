@@ -235,7 +235,7 @@
     <value>Номер заказа</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_AlertHorizon" xml:space="preserve">
-    <value>Оповещения горизонт</value>
+    <value>Горизонт оповещения</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_Part_AverageDailyUsage" xml:space="preserve">
     <value>Ср. дн. потребление</value>
@@ -283,7 +283,7 @@
     <value>Обещанная дата</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_QualifiedDemandOrder" xml:space="preserve">
-    <value>Qualified заказ на отгрузку</value>
+    <value>Определенный заказ на отгрузку</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Quantity" xml:space="preserve">
     <value>Кол-во</value>
@@ -298,7 +298,7 @@
     <value>Текущий остаток</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_RunningTotalAdjustment" xml:space="preserve">
-    <value>Запуск полной перестройки</value>
+    <value>Текущая полная корректировка</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Source" xml:space="preserve">
     <value>Источник</value>
@@ -490,7 +490,7 @@
     <value>Примечания к разнице</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_RecommendedOrder_SuppressOrderQtyRules" xml:space="preserve">
-    <value>Остановить правила о количестве к заказу</value>
+    <value>Пресекать правила объема заказа</value>
   </data>
   <data name="Demand" xml:space="preserve">
     <value>Спрос</value>

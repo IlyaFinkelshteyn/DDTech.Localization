@@ -148,10 +148,10 @@
     <value>Окно заказов на отгрузку (дни)</value>
   </data>
   <data name="DeployedTo" xml:space="preserve">
-    <value>Развернуты</value>
+    <value>Установлено на</value>
   </data>
   <data name="DeploymentMode" xml:space="preserve">
-    <value>Режим развертывания</value>
+    <value>Режим установки</value>
   </data>
   <data name="DeploymentMode_Direct" xml:space="preserve">
     <value>Нет места для хранения</value>
@@ -160,7 +160,7 @@
     <value>Есть место для хранения</value>
   </data>
   <data name="DeploymentRequirement" xml:space="preserve">
-    <value>Требования развертывания</value>
+    <value>Требования установки</value>
   </data>
   <data name="Destination" xml:space="preserve">
     <value>Назначение</value>
@@ -205,7 +205,7 @@
     <value>Выпущенная продукция</value>
   </data>
   <data name="LookAheadDays" xml:space="preserve">
-    <value>Взгляд вперед в календарных днях</value>
+    <value>Сдвиг календаря в днях  </value>
   </data>
   <data name="MinimumHoldbackPercentOfRed" xml:space="preserve">
     <value>Мин. кол-во в резерве</value>

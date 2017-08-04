@@ -145,13 +145,13 @@
     <value>Текущий PAF:</value>
   </data>
   <data name="CycleDayAdjustmentFactor" xml:space="preserve">
-    <value>Коэффициент корректировки день цикла</value>
+    <value>Коэффициент корректировки дней цикла</value>
   </data>
   <data name="CycleDayAdjustmentFactorDaysCoverage" xml:space="preserve">
     <value>{CDAFDaysCoverage} дней</value>
   </data>
   <data name="CycleDayAdjustmentFactorToolTip" xml:space="preserve">
-    <value>Помните, что только начальная дата CDAF будет вытягиваться вперед с помощью R + Lead Time, чтобы проверить эффективность.</value>
+    <value>Помните, что только начальная дата CDAF будет использоваться R + Lead Time для проверки эффективности в будущем.</value>
   </data>
   <data name="DaysConsumption" xml:space="preserve">
     <value>Дни</value>
@@ -211,7 +211,7 @@
     <value>Моделировать номенклатуру</value>
   </data>
   <data name="NBAndLTMPartsNoSizingValues" xml:space="preserve">
-    <value>Ккомплектующие под заказ(LTM) и не буферезируемые(NB) не имеют размера буфера</value>
+    <value>Комплектующие под заказ(LTM) и не буферезируемые(NB) не имеют размера буфера</value>
   </data>
   <data name="NoDataToDisplay" xml:space="preserve">
     <value>Нет данных для отображения</value>
@@ -244,7 +244,7 @@
     <value>Номенклатура удалена</value>
   </data>
   <data name="PartNumber" xml:space="preserve">
-    <value>Номер номенклатуры:</value>
+    <value>Код номенклатуры</value>
   </data>
   <data name="PartSavedSuccessfully" xml:space="preserve">
     <value>Номенклатура сохранена</value>
@@ -274,7 +274,7 @@
     <value>Rev</value>
   </data>
   <data name="Revision" xml:space="preserve">
-    <value>Редакция</value>
+    <value>Revision</value>
   </data>
   <data name="RPlusLeadTime" xml:space="preserve">
     <value>R+ Lead Time</value>

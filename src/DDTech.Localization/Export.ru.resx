@@ -124,7 +124,7 @@
     <value>Профиль буфера</value>
   </data>
   <data name="CycleDayAdjustmentFactor" xml:space="preserve">
-    <value>Коэффициент корректировки день цикла</value>
+    <value>Коэффициент корректировки дней цикла</value>
   </data>
   <data name="DataExport" xml:space="preserve">
     <value>Экспорт данных</value>

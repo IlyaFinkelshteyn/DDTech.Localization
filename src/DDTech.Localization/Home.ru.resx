@@ -121,10 +121,10 @@
     <value>Изменить историю с R + 4.3.x</value>
   </data>
   <data name="HistoricalChangeLog" xml:space="preserve">
-    <value>Исторические изменения журнала</value>
+    <value>Журнал изменений</value>
   </data>
   <data name="RPlus43xChangeLog" xml:space="preserve">
-    <value>4.3.x ChangeLog</value>
+    <value>Изменения в версии 4.3.x</value>
   </data>
   <data name="RPlusSummary" xml:space="preserve">
     <value>R+ резюме</value>

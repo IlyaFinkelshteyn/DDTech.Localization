@@ -397,13 +397,13 @@
     <value>Есть ожидаемые поставки и спрос в течение Lead Time</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_B_Critical2" xml:space="preserve">
-    <value />
+    <value>QOH (тек.запас);=0 и если доступный запас ;=0 в любое время в рамках одного LT</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High1" xml:space="preserve">
     <value>Есть спрос в рамках одного Lead Time</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_High2" xml:space="preserve">
-    <value />
+    <value>QOH (тек.запас);=0 и если доступный запас ;=% красной зоны в любое время в рамках одного LT</value>
   </data>
   <data name="rule_MaterialSynchronizationAlert_NB_Critical1" xml:space="preserve">
     <value>Текущий отрицательный баланс</value>
@@ -415,19 +415,19 @@
     <value>Не включены в</value>
   </data>
   <data name="rule_ProjectedStockOut_Critical2" xml:space="preserve">
-    <value>EDU на основе текущего остатка на один R + время меньше нуля</value>
+    <value>EDU на основе текущего остатка относительно LT системы R+ меньше нуля</value>
   </data>
   <data name="rule_ProjectedStockOut_High1" xml:space="preserve">
     <value>Текущий запас ниже  % красной зоны. % определяется в настройках профилей буферов</value>
   </data>
   <data name="rule_ProjectedStockOut_High2" xml:space="preserve">
-    <value>EDU на основе выполнения баланса вне один R + время меньше или равно % красной зоны как определено оповещения уровень запаса в профиле буфера (или по умолчанию для уровня оповещения)</value>
+    <value>EDU на основе текущего остатка относительно LT системы R+ меньше либо равен проценту красной зоны</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium1" xml:space="preserve">
     <value>Текущий запас ниже или равен верху красной зоны(TOR)</value>
   </data>
   <data name="rule_ProjectedStockOut_Medium2" xml:space="preserve">
-    <value>EDU на основе текущего остатка на один R + время меньше или равно Top красного (ToR)</value>
+    <value>EDU на основе текущего остатка относительно LT системы R+ меньше либо равен вершине красной зоны</value>
   </data>
   <data name="RunningBalance" xml:space="preserve">
     <value>Текущий остаток</value>

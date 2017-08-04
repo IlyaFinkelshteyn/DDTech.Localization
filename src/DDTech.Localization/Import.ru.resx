@@ -148,13 +148,13 @@
     <value>Импорт данных</value>
   </data>
   <data name="DataNotValidated" xml:space="preserve">
-    <value>Данные еще не протестирована</value>
+    <value>Данные еще не проверены</value>
   </data>
   <data name="DataValidationFailed" xml:space="preserve">
     <value>Проверка данных не удалась</value>
   </data>
   <data name="DataValidationPassed" xml:space="preserve">
-    <value>Проверка данных прошло</value>
+    <value>Проверка данных выполнена</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Удалить</value>
@@ -253,7 +253,7 @@
     <value>Ошибки синтаксического анализа</value>
   </data>
   <data name="PleaseEnsureHeadersAreCorrect" xml:space="preserve">
-    <value>Пожалуйста, убедитесь, что правильные заголовки файлов</value>
+    <value>Пожалуйста, убедитесь, что заголовки файлов правильные</value>
   </data>
   <data name="PleaseReviewBeforeProceeding" xml:space="preserve">
     <value>Ознакомьтесь перед</value>
@@ -265,7 +265,7 @@
     <value>Обработка</value>
   </data>
   <data name="PurgeToolTip" xml:space="preserve">
-    <value>Этот режим является разрушительной и будет удалять записи, которые не находятся в загруженных файлах. Исключения из этого правила являются предложения и спроса, порожденных материал требования планирования.</value>
+    <value>Этот режим является разрушительным и будет удалять записи, которые не находятся в загруженных файлах. Исключениями из этого правила являются записи Предложения и Спроса, сегенерированные системой MRP.</value>
   </data>
   <data name="Records" xml:space="preserve">
     <value>Записи</value>
@@ -277,7 +277,7 @@
     <value>Региональные настройки применяются к файлам при загрузке, а не к импорту.</value>
   </data>
   <data name="ReplacesOrUpdatesRPlusConfiguration" xml:space="preserve">
-    <value>Заменяет или обновления конфигурации R +</value>
+    <value>Заменяет или обновляет конфигурациию R +</value>
   </data>
   <data name="Reset" xml:space="preserve">
     <value>Сброс</value>
@@ -298,10 +298,10 @@
     <value>Размер</value>
   </data>
   <data name="StartAndIgnoreErrors" xml:space="preserve">
-    <value>Начало &amp; игнорировать ошибки</value>
+    <value>Начать и игнорировать ошибки</value>
   </data>
   <data name="StartAnotherUpload" xml:space="preserve">
-    <value>Начать загрузку другой</value>
+    <value>Начать другую загрузку</value>
   </data>
   <data name="SystemImport" xml:space="preserve">
     <value>Импорт системы</value>
@@ -340,7 +340,7 @@
     <value>Проверка</value>
   </data>
   <data name="ValidatingYourDataIsRecommended" xml:space="preserve">
-    <value>Проверка ваших данных до их импорта рекомендуется</value>
+    <value>Рекомендуется проверить ваши данные до импорта </value>
   </data>
   <data name="ValidationResults" xml:space="preserve">
     <value>Результаты проверки</value>
@@ -349,6 +349,6 @@
     <value>Импорт завершен</value>
   </data>
   <data name="YourImportWillBeginProcessingMomentarily" xml:space="preserve">
-    <value>Импорт будет начать обработку однократно</value>
+    <value>Обработка вашего импорта будет начата незамедлительно</value>
   </data>
 </root>

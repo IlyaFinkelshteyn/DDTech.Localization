@@ -118,45 +118,45 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DuplicateLinkCode" xml:space="preserve">
-    <value>Дублировать LinkCode столкнулись</value>
+    <value>Произошло дублирование LinkCode</value>
   </data>
   <data name="DuplicateRecord" xml:space="preserve">
     <value>Повторяющиеся записи</value>
   </data>
   <data name="ForecastInvalidDayOfWeek" xml:space="preserve">
-    <value>Значение должно падать на тот же день недели других записей</value>
+    <value>Значения должны совпадать с тем же днем недели что и в других записях</value>
   </data>
   <data name="GreaterThanOrEqualToFormat" xml:space="preserve">
     <value>«{PropertyName}» должен быть больше или равен «{PropertyValue}»</value>
   </data>
   <data name="InvalidBufferProfile" xml:space="preserve">
-    <value>Значение должно быть действительным  профилем буфера</value>
+    <value>Значение должно должно совпадать с существующим  профилем буфера</value>
   </data>
   <data name="InvalidCdaf" xml:space="preserve">
-    <value>Значение должно содержать допустимый цикла день корректировки факторов (ЦДВС)</value>
+    <value>Значение должно содержать существующий фактор корректировка цикла(CDAF)</value>
   </data>
   <data name="InvalidCdafDateRange" xml:space="preserve">
-    <value>Диапазон день цикла Фактор перестройки (CDAF) дата должна быть меньше, чем '{PropertyValue}' дней</value>
+    <value>Период настройки (CDAF) должен быть меньше, чем '{PropertyValue}' дней</value>
   </data>
   <data name="InvalidInventoryMethod" xml:space="preserve">
-    <value>Значение должно быть допустимым InventoryMethod</value>
+    <value>Значение должно быть допустимым типом управления запасами</value>
   </data>
   <data name="InvalidPaf" xml:space="preserve">
-    <value>Значение должно быть действительным плановым коэффициентом корректировки (PAF)</value>
+    <value>Значение должно быть существующим плановым коэффициентом корректировки (PAF)</value>
   </data>
   <data name="LessThanOrEqualToFormat" xml:space="preserve">
     <value>«{PropertyName}» должен быть меньше или равным «{PropertyValue}»</value>
   </data>
   <data name="LessThanOrEqualToWithDefaultValueFormat" xml:space="preserve">
-    <value>«{PropertyName}» должен быть меньше или равным «{BadValue}» и сбрасываться до «{DefaultValue}»</value>
+    <value>«{PropertyName}» должен быть меньше или равным «{BadValue}» и был сброшен до значения по умолчанию «{DefaultValue}»</value>
   </data>
   <data name="MustBeEvenlyDivisbleWithDefaultValueFormat" xml:space="preserve">
-    <value>«{PropertyName}» должен быть равномерно делимым на «{BadValue}» и сбрасываться до «{DefaultValue}»</value>
+    <value>«{PropertyName}» должен быть равноделиным. «{BadValue}» был сброшен до «{DefaultValue}»</value>
   </data>
   <data name="notnullorwhitespace_error" xml:space="preserve">
-    <value>«{PropertyName}» не должен быть null или содержать пробелы.</value>
+    <value>«{PropertyName}» не должен быть пустым или содержать пробелы.</value>
   </data>
   <data name="OutOfRangeWithDefaultValueFormat" xml:space="preserve">
-    <value>«{PropertyName}» вне диапазона и сбрасывается до «{DefaultValue}»</value>
+    <value>«{PropertyName}» вне диапазона и был сброшен до «{DefaultValue}»</value>
   </data>
 </root>

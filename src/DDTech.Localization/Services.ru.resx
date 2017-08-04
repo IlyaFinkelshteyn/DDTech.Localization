@@ -130,6 +130,6 @@
     <value>Значение находится вне допустимого диапазона</value>
   </data>
   <data name="ValueWhitespaceNotAllowed" xml:space="preserve">
-    <value>Значение не может быть пробел</value>
+    <value>Значение не может быть символом пробела</value>
   </data>
 </root>
