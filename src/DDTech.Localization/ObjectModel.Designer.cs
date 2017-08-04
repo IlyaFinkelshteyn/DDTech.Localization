@@ -457,6 +457,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Committed.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartActivity_Committed {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartActivity_Committed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Date.
         /// </summary>
         public static string DDTech_RPlus_DTO_Engine_PartActivity_Date {
@@ -493,11 +502,29 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Issued Inventory.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartActivity_IssuedInventory {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartActivity_IssuedInventory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Line.
         /// </summary>
         public static string DDTech_RPlus_DTO_Engine_PartActivity_Line {
             get {
                 return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartActivity_Line", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to On Hand.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartActivity_OnHandInventory {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartActivity_OnHandInventory", resourceCulture);
             }
         }
         
@@ -709,11 +736,47 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Buffer Alert Level.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_BufferAlertLevel {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_BufferAlertLevel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Buffer Profile.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_BufferProfile {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_BufferProfile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CI Status.
         /// </summary>
         public static string DDTech_RPlus_DTO_Engine_PartDetail_CurrentInventoryStatus {
             get {
                 return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_CurrentInventoryStatus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Daily Usage Type.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_DailyUsageType {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_DailyUsageType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Days Coverage CDAF.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_DaysCoverageCDAF {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_DaysCoverageCDAF", resourceCulture);
             }
         }
         
@@ -750,6 +813,15 @@ namespace DDTech.Localization {
         public static string DDTech_RPlus_DTO_Engine_PartDetail_InventoryMethod {
             get {
                 return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_InventoryMethod", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Inventory Planning.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_InventoryPlanning {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_InventoryPlanning", resourceCulture);
             }
         }
         
@@ -817,6 +889,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Order Cycle.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_OrderCycle {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_OrderCycle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Maximum Order.
         /// </summary>
         public static string DDTech_RPlus_DTO_Engine_PartDetail_OrderMaximumQty {
@@ -849,6 +930,15 @@ namespace DDTech.Localization {
         public static string DDTech_RPlus_DTO_Engine_PartDetail_OrderSpikeAlert {
             get {
                 return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_OrderSpikeAlert", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Outsource Cost.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_OutSourceCost {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_OutSourceCost", resourceCulture);
             }
         }
         
@@ -916,6 +1006,15 @@ namespace DDTech.Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Raw Materials Cost.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_RawMaterialsCost {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_RawMaterialsCost", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Red Zone Buffer Size.
         /// </summary>
         public static string DDTech_RPlus_DTO_Engine_PartDetail_RedZoneBase {
@@ -975,6 +1074,24 @@ namespace DDTech.Localization {
         public static string DDTech_RPlus_DTO_Engine_PartDetail_TargetedInventory {
             get {
                 return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_TargetedInventory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Today&apos;s CDAF.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_TodaysCDAF {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_TodaysCDAF", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Today&apos;s PAF.
+        /// </summary>
+        public static string DDTech_RPlus_DTO_Engine_PartDetail_TodaysPAF {
+            get {
+                return ResourceManager.GetString("DDTech_RPlus_DTO_Engine_PartDetail_TodaysPAF", resourceCulture);
             }
         }
         

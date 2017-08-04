@@ -249,6 +249,9 @@
   <data name="DDTech_RPlus_DTO_Engine_Part_ForecastedDailyUsage" xml:space="preserve">
     <value>Прогноз. дн. потреб.</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Committed" xml:space="preserve">
+    <value>Совершенные</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Date" xml:space="preserve">
     <value>Дата</value>
   </data>
@@ -261,6 +264,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_IsInventory" xml:space="preserve">
     <value>-Инвентаризация</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_IssuedInventory" xml:space="preserve">
+    <value>Инвентаризация выданных</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Late" xml:space="preserve">
     <value>Поздно</value>
   </data>
@@ -269,6 +275,9 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Notes" xml:space="preserve">
     <value>Комментарии</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_OnHandInventory" xml:space="preserve">
+    <value>На руке</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderCreationDate" xml:space="preserve">
     <value>Дата заказа</value>
@@ -348,8 +357,20 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStockPercentage" xml:space="preserve">
     <value>% от буфера </value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_BufferAlertLevel" xml:space="preserve">
+    <value>Уровень оповещения буфера</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_BufferProfile" xml:space="preserve">
+    <value>Буфера профиль</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_CurrentInventoryStatus" xml:space="preserve">
     <value>Статус текущего запаса</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_DailyUsageType" xml:space="preserve">
+    <value>Ежедневные тип использования</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_DaysCoverageCDAF" xml:space="preserve">
+    <value>Дни освещение ЦДВС</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_DemandAllocations" xml:space="preserve">
     <value>Заказы на отгрузку</value>
@@ -362,6 +383,9 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryMethod" xml:space="preserve">
     <value>Метод учета</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryPlanning" xml:space="preserve">
+    <value>Планирование инвентаризации</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryQty" xml:space="preserve">
     <value>Кол-во запаса</value>
@@ -384,6 +408,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OnHandQty" xml:space="preserve">
     <value>В наличии</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderCycle" xml:space="preserve">
+    <value>Цикл заказа</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMaximumQty" xml:space="preserve">
     <value>Максимальный заказ</value>
   </data>
@@ -395,6 +422,9 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderSpikeAlert" xml:space="preserve">
     <value>Пик</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OutSourceCost" xml:space="preserve">
+    <value>Аутсорсинг стоимость</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_PercentageOfTopOfRed" xml:space="preserve">
     <value>% верха красной зоны</value>
@@ -417,6 +447,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_Quantity" xml:space="preserve">
     <value>Заказать</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_RawMaterialsCost" xml:space="preserve">
+    <value>Стоимость сырья</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_RedZoneBase" xml:space="preserve">
     <value>Размер красной зоны буфера</value>
   </data>
@@ -437,6 +470,12 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TargetedInventory" xml:space="preserve">
     <value>Целевой запас</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TodaysCDAF" xml:space="preserve">
+    <value>Сегодняшние ЦДВС</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TodaysPAF" xml:space="preserve">
+    <value>Сегодня в суп</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfGreen" xml:space="preserve">
     <value>ТоG</value>

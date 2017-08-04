@@ -249,6 +249,9 @@
   <data name="DDTech_RPlus_DTO_Engine_Part_ForecastedDailyUsage" xml:space="preserve">
     <value>Ennustetut päivittäinen käyttö (FDU)</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Committed" xml:space="preserve">
+    <value>Sitoutunut</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Date" xml:space="preserve">
     <value>Päivämäärä</value>
   </data>
@@ -261,8 +264,14 @@
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_IsInventory" xml:space="preserve">
     <value>On varastoa</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_IssuedInventory" xml:space="preserve">
+    <value>Myönnetty varaston</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Line" xml:space="preserve">
     <value>Rivi</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_OnHandInventory" xml:space="preserve">
+    <value>Käsillä</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderCreationDate" xml:space="preserve">
     <value>Tilauksen päivämäärä</value>
@@ -333,8 +342,20 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStockPercentage" xml:space="preserve">
     <value>%-ia puskurista</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_BufferAlertLevel" xml:space="preserve">
+    <value>Puskurin ilmoitustaso</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_BufferProfile" xml:space="preserve">
+    <value>Puskurin profiili</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_CurrentInventoryStatus" xml:space="preserve">
     <value>Nykyvaraston tila</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_DailyUsageType" xml:space="preserve">
+    <value>Päivittäinen käyttö tyyppi</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_DaysCoverageCDAF" xml:space="preserve">
+    <value>Päivää kattavuus CDAF</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_DemandAllocations" xml:space="preserve">
     <value>Kysynnän kohdistukset</value>
@@ -347,6 +368,9 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryMethod" xml:space="preserve">
     <value>Varasto-ohjaustapa</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryPlanning" xml:space="preserve">
+    <value>Inventory suunnittelu</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryQty" xml:space="preserve">
     <value>Varaston määrä</value>
@@ -369,6 +393,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OnHandQty" xml:space="preserve">
     <value>Vapaasti toimitettavissa</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderCycle" xml:space="preserve">
+    <value>Myyntitilaussykliä</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMaximumQty" xml:space="preserve">
     <value>Tilauksen enimmäismäärä</value>
   </data>
@@ -380,6 +407,9 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderSpikeAlert" xml:space="preserve">
     <value>Piikki</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OutSourceCost" xml:space="preserve">
+    <value>Ulkoistaa kustannuksia</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_PercentageOfTopOfRed" xml:space="preserve">
     <value>% Top punainen</value>
@@ -402,6 +432,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_Quantity" xml:space="preserve">
     <value>Täydennystilauksen määrä</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_RawMaterialsCost" xml:space="preserve">
+    <value>Raaka-aineiden kustannukset</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_RedZoneBase" xml:space="preserve">
     <value>Punaisen vyöhykkeen puskurikoko</value>
   </data>
@@ -422,6 +455,12 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TargetedInventory" xml:space="preserve">
     <value>Tavoitevarasto</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TodaysCDAF" xml:space="preserve">
+    <value>Nykypäivän CDAF</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TodaysPAF" xml:space="preserve">
+    <value>Nykypäivän PAF</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfGreen" xml:space="preserve">
     <value>ToG</value>

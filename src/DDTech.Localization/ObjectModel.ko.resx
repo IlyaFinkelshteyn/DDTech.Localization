@@ -249,6 +249,9 @@
   <data name="DDTech_RPlus_DTO_Engine_Part_ForecastedDailyUsage" xml:space="preserve">
     <value>예측 일사용량</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_Committed" xml:space="preserve">
+    <value>최선을 다하고</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Date" xml:space="preserve">
     <value>일자</value>
   </data>
@@ -261,6 +264,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_IsInventory" xml:space="preserve">
     <value>재고</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_IssuedInventory" xml:space="preserve">
+    <value>발급 된 재고</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Late" xml:space="preserve">
     <value>늦게</value>
   </data>
@@ -269,6 +275,9 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_Notes" xml:space="preserve">
     <value>코멘트</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartActivity_OnHandInventory" xml:space="preserve">
+    <value>반면에</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartActivity_OrderCreationDate" xml:space="preserve">
     <value>오더일자</value>
@@ -348,8 +357,20 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_AvailableStockPercentage" xml:space="preserve">
     <value>버퍼 %</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_BufferAlertLevel" xml:space="preserve">
+    <value>버퍼 경고 수준</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_BufferProfile" xml:space="preserve">
+    <value>버퍼 프로필</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_CurrentInventoryStatus" xml:space="preserve">
     <value>현재고 상태</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_DailyUsageType" xml:space="preserve">
+    <value>매일 사용 유형</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_DaysCoverageCDAF" xml:space="preserve">
+    <value>일 범위 CDAF</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_DemandAllocations" xml:space="preserve">
     <value>할당수요</value>
@@ -362,6 +383,9 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryMethod" xml:space="preserve">
     <value>재고관리 방법</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryPlanning" xml:space="preserve">
+    <value>재고 계획</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_InventoryQty" xml:space="preserve">
     <value>재고 수량</value>
@@ -384,6 +408,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OnHandQty" xml:space="preserve">
     <value>현 재고</value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderCycle" xml:space="preserve">
+    <value>주문 주기</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderMaximumQty" xml:space="preserve">
     <value>최대오더량</value>
   </data>
@@ -395,6 +422,9 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_OrderSpikeAlert" xml:space="preserve">
     <value>스파이크</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_OutSourceCost" xml:space="preserve">
+    <value>아웃소싱 비용</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_PercentageOfTopOfRed" xml:space="preserve">
     <value>% TOR</value>
@@ -417,6 +447,9 @@
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_Quantity" xml:space="preserve">
     <value>재발주량 </value>
   </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_RawMaterialsCost" xml:space="preserve">
+    <value>원 재료 비용</value>
+  </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_RedZoneBase" xml:space="preserve">
     <value>Red Zone 버퍼크기</value>
   </data>
@@ -437,6 +470,12 @@
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TargetedInventory" xml:space="preserve">
     <value>목표 재고</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TodaysCDAF" xml:space="preserve">
+    <value>오늘의 CDAF</value>
+  </data>
+  <data name="DDTech_RPlus_DTO_Engine_PartDetail_TodaysPAF" xml:space="preserve">
+    <value>오늘날의 PAF</value>
   </data>
   <data name="DDTech_RPlus_DTO_Engine_PartDetail_TopOfGreen" xml:space="preserve">
     <value>Top of Green</value>
